@@ -17,7 +17,7 @@
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "https://github.com/Sohone-Guo/papers.git",
+  "basePath": "http://guoxh@gitlab.nttdocomo.local:8081/guoxh/papers.git",
   "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
