@@ -1,0 +1,10 @@
+# Information
+---
+
+
+# Mainly Idea
+---
+
+
+# Reference
+---
