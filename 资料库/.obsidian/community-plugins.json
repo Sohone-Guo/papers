@@ -1,5 +1,9 @@
 [
   "obsidian-git",
   "obsidian-mind-map",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-timelines",
+  "tag-wrangler",
+  "obsidian-image-toolkit",
+  "editing-toolbar"
 ]

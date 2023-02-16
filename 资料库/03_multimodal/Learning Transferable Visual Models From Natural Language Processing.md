@@ -1,7 +1,8 @@
 # Information
 ---
 - 2021
-- Openai
+- [[Openai]]
+- [[预训练模型]]
 
 # Mainly Idea
 ---
@@ -14,7 +15,7 @@
 
 # Reference
 ---
-- Crowd-Labeled Datasets
+- Crowd-Labeled Datasets：这里指得是，人工标注了很多标签得数据集
 
 # Attachment
 ---
