@@ -11,8 +11,12 @@
             "id": "312fb5f54a73a044",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md"
+              }
             }
           }
         ]
@@ -139,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "312fb5f54a73a044",
   "lastOpenFiles": [
     "未命名.canvas",
     "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
