@@ -9,7 +9,11 @@
 	- 使用Encoder将图片压缩到一个隐层空间后，再进行Fusion
 	- 使用Decoder将Fusion的隐层空间转化为图片
 - 整体架构图如下![[Pasted image 20230216130423.png]]
--<font color="#c00000"> 如何结合文本和图片信息的？</font>
+-  如何结合文本和<span style="background:#ff4d4f">图片</span>信息的？
+	- 结合的方式就是通过，Cross Attn, sample作为query, CLIP等作为hiddens.
+- 具体算法的内容
+	- CLIP: 用于当前的文本信息, 具体论文参考 [[Learning Transferable Visual Models From Natural Language Processing]]
+	- BLIP: 用于将历史的文本和历史生成的图片结合起来
 
 # Reference
 ---
