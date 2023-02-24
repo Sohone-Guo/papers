@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55356cb03a339efd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_computer_vision/StartGAN v2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_multimodal/待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
+                "file": "02_computer_vision/StartGAN v2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_multimodal/待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
+                "file": "02_computer_vision/StartGAN v2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_multimodal/待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md"
+                "file": "02_computer_vision/StartGAN v2.md"
               }
             }
           }
@@ -146,7 +159,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a87897e5fcc0c452",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
     "03_multimodal/待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
     "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
