@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "02_computer_vision/StartGAN v2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -159,7 +159,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "55356cb03a339efd",
   "lastOpenFiles": [
     "03_multimodal/待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
     "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
