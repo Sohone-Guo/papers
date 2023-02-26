@@ -1,0 +1,5 @@
+### GPU指定
+
+```
+$ CUDA_VISIBLE_DEVICES=0
+```

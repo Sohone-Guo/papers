@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_tools/docker.md",
+                "file": "90_tools/ubuntu.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "545b67f794d10348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90_tools/GPU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_tools/docker.md",
+                "file": "90_tools/GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_tools/docker.md",
+                "file": "90_tools/GPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_tools/docker.md"
+                "file": "90_tools/GPU.md"
               }
             }
           }
@@ -146,12 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b5988fac3ea24290",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "90_tools/ubuntu.md",
+    "90_tools/GPU.md",
     "90_tools/docker.md",
     "03_multimodal/待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
     "02_computer_vision/StartGAN v2.md",
-    "90_tools/ubuntu.md",
     "90_tools",
     "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
     "01_natural_language_processing/Sparse Transformer.md",
