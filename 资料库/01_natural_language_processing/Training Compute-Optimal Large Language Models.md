@@ -11,7 +11,7 @@ Current large language models are significantly under-trained. The model size an
 
 # Reference
 ---
-
+- [Chinchilla Explained: Compute-Optimal Massive Language Models - YouTube](https://www.youtube.com/watch?v=PZXN7jm9IC0)
 
 # Attachment
 ---
