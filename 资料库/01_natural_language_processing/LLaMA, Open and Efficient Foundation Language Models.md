@@ -5,7 +5,7 @@
 
 # Mainly Idea
 ---
-
+Resent work from [[Training Compute-Optimal Large Language Models]]
 
 # Reference
 ---
