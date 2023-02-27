@@ -7,6 +7,7 @@
 Current large language models are significantly under-trained. The model size and the number of tokens should be scaled equally.
 - Chinchilla (70B), 4x datasets (better)
 - Gopher (280B), 1x datasets
+计算，模型大小和数据大小的关系，资源有限的前提下，参数量和数据量的关系
 
 # Reference
 ---
