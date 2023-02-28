@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_natural_language_processing/Training Compute-Optimal Large Language Models.md",
+                "file": "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "814ffe1ffe7d0b45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/Training Compute-Optimal Large Language Models.md",
+                "file": "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/Training Compute-Optimal Large Language Models.md",
+                "file": "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/Training Compute-Optimal Large Language Models.md"
+                "file": "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md"
               }
             }
           }
@@ -146,11 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e61b6008a040642d",
+  "active": "814ffe1ffe7d0b45",
   "lastOpenFiles": [
     "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
-    "96_tags/DeepMind.md",
+    "01_natural_language_processing/Scaling Laws for Neural Language Models.md",
     "01_natural_language_processing/Training Compute-Optimal Large Language Models.md",
+    "99_attachment/2001.08361v1.pdf",
+    "96_tags/DeepMind.md",
     "99_attachment/Training Compute-Optimal Large Language Models.pdf",
     "01_natural_language_processing/Sparse Transformer.md",
     "96_tags/Meta AI.md",
