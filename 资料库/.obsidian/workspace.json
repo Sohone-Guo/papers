@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "166bd6df81aee649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,8 +171,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "814ffe1ffe7d0b45",
+  "active": "166bd6df81aee649",
   "lastOpenFiles": [
+    "01_natural_language_processing/Proximal Policy Optimization Algorithms.md",
+    "99_attachment/1707.06347.pdf",
+    "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
     "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
     "01_natural_language_processing/Scaling Laws for Neural Language Models.md",
     "01_natural_language_processing/Training Compute-Optimal Large Language Models.md",
@@ -175,7 +190,6 @@
     "90_tools/GPU.md",
     "90_tools/docker.md",
     "90_tools/ubuntu.md",
-    "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
     "02_computer_vision/StartGAN v2.md",
     "03_multimodal/待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
     "90_tools",

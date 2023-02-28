@@ -1,7 +1,7 @@
 # Information
 ---
 - OpenAI
-
+- [[Proximal Policy Optimization Algorithms]]
 # Mainly Idea
 ---
 
