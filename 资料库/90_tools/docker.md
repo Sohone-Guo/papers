@@ -8,3 +8,8 @@ $ docker run --shm-size=256m
 ```
 $ docker --gpus '"device=6,7"'
 ```
+
+### Docker清理
+```
+$ docker system prune
+```
