@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ae0d2e6c437d146",
+        "id": "b7a665e1874b0c76",
         "type": "tabs",
         "children": [
           {
-            "id": "e61b6008a040642d",
+            "id": "4e6977ba59401b98",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "814ffe1ffe7d0b45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "166bd6df81aee649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_natural_language_processing/Training Compute-Optimal Large Language Models.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4985a0b73c9b4265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_natural_language_processing/Training Compute-Optimal Large Language Models.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6026e38ce4093dec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_tools/传参数的方法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_tools/传参数的方法.md",
+                "file": "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_tools/传参数的方法.md",
+                "file": "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_tools/传参数的方法.md"
+                "file": "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md"
               }
             }
           }
@@ -196,10 +147,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6026e38ce4093dec",
+  "active": "4e6977ba59401b98",
   "lastOpenFiles": [
-    "90_tools/vscode.md",
+    "02_computer_vision/StartGAN v2.md",
+    "00_to_be_read/2211.11208v1.pdf",
+    "00_to_be_read/SMPL.pdf",
+    "00_to_be_read/2205.08535.pdf",
+    "00_to_be_read/2112.07471.pdf",
+    "未命名.md",
+    "00_to_be_read/A Comprehensive Survey on Pretrained Foundation Models A History from BERT to ChatGPT.pdf",
+    "00_to_be_read",
     "90_tools/传参数的方法.md",
+    "90_tools/vscode.md",
     "01_natural_language_processing/Training Compute-Optimal Large Language Models.md",
     "01_natural_language_processing/Scaling Laws for Neural Language Models.md",
     "01_natural_language_processing/Proximal Policy Optimization Algorithms.md",
@@ -217,9 +176,7 @@
     "96_tags/预训练模型.md",
     "99_attachment/333078981_693988129081760_4712707815225756708_n.pdf",
     "90_tools/ubuntu.md",
-    "02_computer_vision/StartGAN v2.md",
     "03_multimodal/待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
-    "90_tools",
     "96_tags/Nanyang Technological University.md",
     "96_tags/SenseTime.md",
     "96_tags/Openai.md",
