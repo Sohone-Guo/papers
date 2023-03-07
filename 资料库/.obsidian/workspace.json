@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
+                "file": "90_tools/GPU.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
+                "file": "90_tools/GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
+                "file": "90_tools/GPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md"
+                "file": "90_tools/GPU.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "4e6977ba59401b98",
   "lastOpenFiles": [
+    "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
     "02_computer_vision/StartGAN v2.md",
     "00_to_be_read/2211.11208v1.pdf",
     "00_to_be_read/SMPL.pdf",
@@ -162,7 +163,6 @@
     "01_natural_language_processing/Training Compute-Optimal Large Language Models.md",
     "01_natural_language_processing/Scaling Laws for Neural Language Models.md",
     "01_natural_language_processing/Proximal Policy Optimization Algorithms.md",
-    "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
     "90_tools/docker.md",
     "90_tools/GPU.md",
     "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
