@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
-                "mode": "source",
+                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
+                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
+                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md"
+                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md"
               }
             }
           }
@@ -160,11 +160,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "38c7740235854b99",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20230307103039.png",
+    "99_attachment/Pasted image 20230307102836.png",
     "99_attachment/2301.11305.pdf",
     "90_tools/GPU.md",
-    "DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
+    "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
     "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
     "02_computer_vision/StartGAN v2.md",
     "00_to_be_read/2211.11208v1.pdf",
@@ -188,7 +190,6 @@
     "96_tags/Meta AI.md",
     "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
     "96_tags/预训练模型.md",
-    "99_attachment/333078981_693988129081760_4712707815225756708_n.pdf",
     "90_tools/ubuntu.md",
     "03_multimodal/待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
     "96_tags/Nanyang Technological University.md",
