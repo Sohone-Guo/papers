@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38c7740235854b99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_tools/GPU.md",
+                "file": "DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_tools/GPU.md",
+                "file": "DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_tools/GPU.md"
+                "file": "DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md"
               }
             }
           }
@@ -147,15 +160,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4e6977ba59401b98",
+  "active": "38c7740235854b99",
   "lastOpenFiles": [
+    "99_attachment/2301.11305.pdf",
+    "90_tools/GPU.md",
+    "DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
     "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
     "02_computer_vision/StartGAN v2.md",
     "00_to_be_read/2211.11208v1.pdf",
     "00_to_be_read/SMPL.pdf",
     "00_to_be_read/2205.08535.pdf",
     "00_to_be_read/2112.07471.pdf",
-    "未命名.md",
     "00_to_be_read/A Comprehensive Survey on Pretrained Foundation Models A History from BERT to ChatGPT.pdf",
     "00_to_be_read",
     "90_tools/传参数的方法.md",
@@ -164,7 +179,6 @@
     "01_natural_language_processing/Scaling Laws for Neural Language Models.md",
     "01_natural_language_processing/Proximal Policy Optimization Algorithms.md",
     "90_tools/docker.md",
-    "90_tools/GPU.md",
     "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
     "99_attachment/1707.06347.pdf",
     "99_attachment/2001.08361v1.pdf",
