@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
+                "file": "90_tools/GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
+                "file": "90_tools/GPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md"
+                "file": "90_tools/GPU.md"
               }
             }
           }
