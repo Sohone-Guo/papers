@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7c6b2a7062149e1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to represent part-whole hierarchies in a neural network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "38c7740235854b99",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
+                "file": "How to represent part-whole hierarchies in a neural network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
+                "file": "How to represent part-whole hierarchies in a neural network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md"
+                "file": "How to represent part-whole hierarchies in a neural network.md"
               }
             }
           }
@@ -172,12 +184,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "34b84f0e7c4b7177",
+  "active": "7c6b2a7062149e1c",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20230313000143.png",
+    "99_attachment/How to represent part-whole hierarchies in a neural network.pdf",
+    "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
+    "How to represent part-whole hierarchies in a neural network.md",
     "99_attachment/Pasted image 20230312224249.png",
     "99_attachment/The Forward-Forward Algorithm, Some Preliminary.pdf",
     "90_tools/GPU.md",
-    "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
     "99_attachment/Pasted image 20230307103039.png",
     "99_attachment/Pasted image 20230307102836.png",
     "99_attachment/2301.11305.pdf",
@@ -198,7 +213,6 @@
     "90_tools/docker.md",
     "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
     "99_attachment/1707.06347.pdf",
-    "99_attachment/2001.08361v1.pdf",
     "96_tags/DeepMind.md",
     "01_natural_language_processing/Sparse Transformer.md",
     "96_tags/Meta AI.md",
@@ -210,7 +224,6 @@
     "96_tags/SenseTime.md",
     "96_tags/Openai.md",
     "96_tags/NTT.md",
-    "96_tags/Alibaba Group.md",
-    "96_tags/视频生成任务.md"
+    "96_tags/Alibaba Group.md"
   ]
 }
