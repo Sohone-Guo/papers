@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to represent part-whole hierarchies in a neural network.md",
+                "file": "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to represent part-whole hierarchies in a neural network.md",
+                "file": "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to represent part-whole hierarchies in a neural network.md",
+                "file": "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to represent part-whole hierarchies in a neural network.md"
+                "file": "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md"
               }
             }
           }
@@ -186,10 +186,10 @@
   },
   "active": "7c6b2a7062149e1c",
   "lastOpenFiles": [
+    "01_natural_language_processing/How to represent part-whole hierarchies in a neural network.md",
+    "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
     "99_attachment/Pasted image 20230313000143.png",
     "99_attachment/How to represent part-whole hierarchies in a neural network.pdf",
-    "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
-    "How to represent part-whole hierarchies in a neural network.md",
     "99_attachment/Pasted image 20230312224249.png",
     "99_attachment/The Forward-Forward Algorithm, Some Preliminary.pdf",
     "90_tools/GPU.md",
