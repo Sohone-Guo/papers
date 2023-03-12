@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "34b84f0e7c4b7177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "38c7740235854b99",
             "type": "leaf",
             "state": {
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_tools/GPU.md",
+                "file": "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_tools/GPU.md",
+                "file": "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_tools/GPU.md"
+                "file": "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md"
               }
             }
           }
@@ -160,12 +172,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "34b84f0e7c4b7177",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20230312224249.png",
+    "99_attachment/The Forward-Forward Algorithm, Some Preliminary.pdf",
+    "90_tools/GPU.md",
+    "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
     "99_attachment/Pasted image 20230307103039.png",
     "99_attachment/Pasted image 20230307102836.png",
     "99_attachment/2301.11305.pdf",
-    "90_tools/GPU.md",
     "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
     "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
     "02_computer_vision/StartGAN v2.md",
@@ -185,7 +200,6 @@
     "99_attachment/1707.06347.pdf",
     "99_attachment/2001.08361v1.pdf",
     "96_tags/DeepMind.md",
-    "99_attachment/Training Compute-Optimal Large Language Models.pdf",
     "01_natural_language_processing/Sparse Transformer.md",
     "96_tags/Meta AI.md",
     "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
