@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b7a665e1874b0c76",
+        "id": "49547222ef156047",
         "type": "tabs",
         "children": [
           {
-            "id": "4e6977ba59401b98",
+            "id": "fdae0a659d086a59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_tools/GPU.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34b84f0e7c4b7177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c6b2a7062149e1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3d87879fb197866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unsupervised Dense Information Retrieval with Contrastive Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38c7740235854b99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unsupervised Dense Information Retrieval with Contrastive Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unsupervised Dense Information Retrieval with Contrastive Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Unsupervised Dense Information Retrieval with Contrastive Learning.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -196,23 +139,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c3d87879fb197866",
+  "active": "fdae0a659d086a59",
   "lastOpenFiles": [
-    "99_attachment/Unsupervised Dense Information Retrieval with Contrastive Learning.pdf",
+    "90_tools/GPU.md",
     "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
-    "Unsupervised Dense Information Retrieval with Contrastive Learning.md",
+    "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
+    "OpenChatKit.md",
+    "99_attachment/Pasted image 20230313132954.png",
+    "01_natural_language_processing/Unsupervised Dense Information Retrieval with Contrastive Learning.md",
+    "99_attachment/Unsupervised Dense Information Retrieval with Contrastive Learning.pdf",
     "99_attachment/Pasted image 20230313005528.png",
     "01_natural_language_processing/How to represent part-whole hierarchies in a neural network.md",
     "99_attachment/Pasted image 20230313000143.png",
     "99_attachment/How to represent part-whole hierarchies in a neural network.pdf",
     "99_attachment/Pasted image 20230312224249.png",
     "99_attachment/The Forward-Forward Algorithm, Some Preliminary.pdf",
-    "90_tools/GPU.md",
     "99_attachment/Pasted image 20230307103039.png",
     "99_attachment/Pasted image 20230307102836.png",
     "99_attachment/2301.11305.pdf",
     "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
-    "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
     "02_computer_vision/StartGAN v2.md",
     "00_to_be_read/2211.11208v1.pdf",
     "00_to_be_read/SMPL.pdf",
@@ -227,7 +172,6 @@
     "01_natural_language_processing/Proximal Policy Optimization Algorithms.md",
     "90_tools/docker.md",
     "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
-    "99_attachment/1707.06347.pdf",
     "96_tags/DeepMind.md",
     "01_natural_language_processing/Sparse Transformer.md",
     "96_tags/Meta AI.md",
@@ -237,7 +181,6 @@
     "03_multimodal/待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
     "96_tags/Nanyang Technological University.md",
     "96_tags/SenseTime.md",
-    "96_tags/Openai.md",
-    "96_tags/NTT.md"
+    "96_tags/Openai.md"
   ]
 }
