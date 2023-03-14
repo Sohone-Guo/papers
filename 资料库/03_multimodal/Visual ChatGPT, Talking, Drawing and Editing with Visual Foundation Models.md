@@ -17,6 +17,9 @@
 - Chain-of-Thought (CoT) 
 	- Few-Shot CoT: 给一些样例
 	- Zero-Shot CoT: 不需要给样例
+- 有没有训练ChatGPT?
+- 如何使用其他VFM的模型？
+- 
 
 # Attachment
 ---
