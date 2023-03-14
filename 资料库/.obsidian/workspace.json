@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49547222ef156047",
+        "id": "f2328fd032fec71b",
         "type": "tabs",
         "children": [
           {
-            "id": "fdae0a659d086a59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_natural_language_processing/OpenChatKit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d8032df9209c4ab",
+            "id": "163b433c490f5915",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,11 +147,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "163b433c490f5915",
   "lastOpenFiles": [
+    "90_tools/ubuntu.md",
+    "90_tools/vscode.md",
+    "03_multimodal/待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
+    "03_multimodal/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "99_attachment/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.pdf",
     "01_natural_language_processing/OpenChatKit.md",
-    "03_multimodal/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "01_natural_language_processing/How to represent part-whole hierarchies in a neural network.md",
     "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
     "90_tools/GPU.md",
@@ -187,9 +177,7 @@
     "00_to_be_read/2205.08535.pdf",
     "00_to_be_read/2112.07471.pdf",
     "00_to_be_read/A Comprehensive Survey on Pretrained Foundation Models A History from BERT to ChatGPT.pdf",
-    "00_to_be_read",
     "90_tools/传参数的方法.md",
-    "90_tools/vscode.md",
     "01_natural_language_processing/Training Compute-Optimal Large Language Models.md",
     "01_natural_language_processing/Scaling Laws for Neural Language Models.md",
     "01_natural_language_processing/Proximal Policy Optimization Algorithms.md",
@@ -200,8 +188,6 @@
     "96_tags/Meta AI.md",
     "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
     "96_tags/预训练模型.md",
-    "90_tools/ubuntu.md",
-    "03_multimodal/待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
     "96_tags/Nanyang Technological University.md",
     "96_tags/SenseTime.md"
   ]
