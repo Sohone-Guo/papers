@@ -11,8 +11,12 @@
             "id": "fdae0a659d086a59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01_natural_language_processing/How to represent part-whole hierarchies in a neural network.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_natural_language_processing/How to represent part-whole hierarchies in a neural network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_natural_language_processing/How to represent part-whole hierarchies in a neural network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01_natural_language_processing/How to represent part-whole hierarchies in a neural network.md"
+              }
             }
           }
         ],
@@ -141,9 +149,9 @@
   },
   "active": "fdae0a659d086a59",
   "lastOpenFiles": [
+    "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
     "90_tools/GPU.md",
     "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
-    "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
     "OpenChatKit.md",
     "99_attachment/Pasted image 20230313132954.png",
     "01_natural_language_processing/Unsupervised Dense Information Retrieval with Contrastive Learning.md",
