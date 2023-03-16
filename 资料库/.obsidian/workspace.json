@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_multimodal/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
+                "file": "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_multimodal/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
+                "file": "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_multimodal/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
+                "file": "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_multimodal/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md"
+                "file": "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "163b433c490f5915",
   "lastOpenFiles": [
+    "03_multimodal/Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
+    "03_multimodal/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "90_tools/ubuntu.md",
     "90_tools/vscode.md",
     "03_multimodal/待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
-    "03_multimodal/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "99_attachment/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.pdf",
     "01_natural_language_processing/OpenChatKit.md",
     "01_natural_language_processing/How to represent part-whole hierarchies in a neural network.md",
