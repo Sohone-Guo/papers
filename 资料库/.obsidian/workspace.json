@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
+                "file": "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4911bf7f858eba00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
+                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
+                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md"
+                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md"
               }
             }
           }
@@ -147,21 +160,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "163b433c490f5915",
+  "active": "4911bf7f858eba00",
   "lastOpenFiles": [
+    "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
+    "01_natural_language_processing/How to represent part-whole hierarchies in a neural network.md",
+    "01_natural_language_processing/Instruct GPT.md",
+    "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
+    "01_natural_language_processing/OpenChatKit.md",
+    "01_natural_language_processing/Proximal Policy Optimization Algorithms.md",
+    "01_natural_language_processing/Scaling Laws for Neural Language Models.md",
+    "01_natural_language_processing/Sparse Transformer.md",
+    "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
+    "01_natural_language_processing/Training Compute-Optimal Large Language Models.md",
+    "01_natural_language_processing/Unsupervised Dense Information Retrieval with Contrastive Learning.md",
+    "99_attachment/instructGPT.pdf",
+    "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
     "03_multimodal/Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
     "03_multimodal/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "90_tools/ubuntu.md",
     "90_tools/vscode.md",
     "03_multimodal/待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
     "99_attachment/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.pdf",
-    "01_natural_language_processing/OpenChatKit.md",
-    "01_natural_language_processing/How to represent part-whole hierarchies in a neural network.md",
-    "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
     "90_tools/GPU.md",
-    "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
     "99_attachment/Pasted image 20230313132954.png",
-    "01_natural_language_processing/Unsupervised Dense Information Retrieval with Contrastive Learning.md",
     "99_attachment/Unsupervised Dense Information Retrieval with Contrastive Learning.pdf",
     "99_attachment/Pasted image 20230313005528.png",
     "99_attachment/Pasted image 20230313000143.png",
@@ -177,19 +198,10 @@
     "00_to_be_read/SMPL.pdf",
     "00_to_be_read/2205.08535.pdf",
     "00_to_be_read/2112.07471.pdf",
-    "00_to_be_read/A Comprehensive Survey on Pretrained Foundation Models A History from BERT to ChatGPT.pdf",
     "90_tools/传参数的方法.md",
-    "01_natural_language_processing/Training Compute-Optimal Large Language Models.md",
-    "01_natural_language_processing/Scaling Laws for Neural Language Models.md",
-    "01_natural_language_processing/Proximal Policy Optimization Algorithms.md",
     "90_tools/docker.md",
-    "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
     "96_tags/DeepMind.md",
-    "01_natural_language_processing/Sparse Transformer.md",
     "96_tags/Meta AI.md",
-    "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
-    "96_tags/预训练模型.md",
-    "96_tags/Nanyang Technological University.md",
-    "96_tags/SenseTime.md"
+    "96_tags/预训练模型.md"
   ]
 }
