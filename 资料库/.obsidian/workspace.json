@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
+                "file": "03_multimodal/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
+                "file": "03_multimodal/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
+                "file": "03_multimodal/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md"
+                "file": "03_multimodal/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md"
               }
             }
           }
@@ -162,19 +162,20 @@
   },
   "active": "4911bf7f858eba00",
   "lastOpenFiles": [
-    "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
-    "01_natural_language_processing/How to represent part-whole hierarchies in a neural network.md",
-    "01_natural_language_processing/Instruct GPT.md",
-    "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
-    "01_natural_language_processing/OpenChatKit.md",
-    "01_natural_language_processing/Proximal Policy Optimization Algorithms.md",
+    "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
     "01_natural_language_processing/Scaling Laws for Neural Language Models.md",
+    "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
+    "01_natural_language_processing/Training Compute-Optimal Large Language Models.md",
+    "01_natural_language_processing/Proximal Policy Optimization Algorithms.md",
+    "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
+    "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
+    "01_natural_language_processing/How to represent part-whole hierarchies in a neural network.md",
+    "01_natural_language_processing/OpenChatKit.md",
+    "01_natural_language_processing/Instruct GPT.md",
+    "01_natural_language_processing/Unsupervised Dense Information Retrieval with Contrastive Learning.md",
     "01_natural_language_processing/Sparse Transformer.md",
     "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
-    "01_natural_language_processing/Training Compute-Optimal Large Language Models.md",
-    "01_natural_language_processing/Unsupervised Dense Information Retrieval with Contrastive Learning.md",
     "99_attachment/instructGPT.pdf",
-    "03_multimodal/Learning Transferable Visual Models From Natural Language Processing.md",
     "03_multimodal/Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
     "03_multimodal/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "90_tools/ubuntu.md",
@@ -192,7 +193,6 @@
     "99_attachment/Pasted image 20230307103039.png",
     "99_attachment/Pasted image 20230307102836.png",
     "99_attachment/2301.11305.pdf",
-    "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
     "02_computer_vision/StartGAN v2.md",
     "00_to_be_read/2211.11208v1.pdf",
     "00_to_be_read/SMPL.pdf",
