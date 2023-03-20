@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_computer_vision/GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
+                "file": "01_natural_language_processing/Sparse Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_computer_vision/GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
+                "file": "01_natural_language_processing/Sparse Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_computer_vision/GLIGEN, Open-Set Grounded Text-to-Image Generation.md"
+                "file": "01_natural_language_processing/Sparse Transformer.md"
               }
             }
           }
