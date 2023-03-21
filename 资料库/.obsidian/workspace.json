@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_natural_language_processing/Sparse Transformer.md",
+                "file": "90_tools/vscode.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/Sparse Transformer.md",
+                "file": "90_tools/vscode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/Sparse Transformer.md",
+                "file": "90_tools/vscode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/Sparse Transformer.md"
+                "file": "90_tools/vscode.md"
               }
             }
           }
@@ -160,10 +159,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "f243d4dcffef8ed1",
   "lastOpenFiles": [
-    "99_attachment/GLIGEN, Open-Set Grounded Text-to-Image Generation.pdf",
+    "90_tools/传参数的方法.md",
+    "90_tools/vscode.md",
+    "90_tools/docker.md",
+    "90_tools/GPU.md",
+    "90_tools/ubuntu.md",
     "01_natural_language_processing/Sparse Transformer.md",
+    "99_attachment/GLIGEN, Open-Set Grounded Text-to-Image Generation.pdf",
     "02_computer_vision/GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
     "01_natural_language_processing/LLaMA, Open and Efficient Foundation Language Models.md",
     "03_multimodal/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
@@ -180,11 +184,8 @@
     "01_natural_language_processing/The Forward-Foward Algorithm Some Preliminary.md",
     "99_attachment/instructGPT.pdf",
     "03_multimodal/Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
-    "90_tools/ubuntu.md",
-    "90_tools/vscode.md",
     "03_multimodal/待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
     "99_attachment/Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.pdf",
-    "90_tools/GPU.md",
     "99_attachment/Pasted image 20230313132954.png",
     "99_attachment/Unsupervised Dense Information Retrieval with Contrastive Learning.pdf",
     "99_attachment/Pasted image 20230313005528.png",
@@ -199,9 +200,6 @@
     "00_to_be_read/2211.11208v1.pdf",
     "00_to_be_read/SMPL.pdf",
     "00_to_be_read/2205.08535.pdf",
-    "00_to_be_read/2112.07471.pdf",
-    "90_tools/传参数的方法.md",
-    "90_tools/docker.md",
     "96_tags/DeepMind.md",
     "96_tags/Meta AI.md"
   ]
