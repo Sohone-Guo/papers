@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_tools/vscode.md",
+                "file": "90_tools/docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_tools/vscode.md",
+                "file": "90_tools/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_tools/vscode.md",
+                "file": "90_tools/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_tools/vscode.md"
+                "file": "90_tools/docker.md"
               }
             }
           }
@@ -161,11 +161,11 @@
   },
   "active": "f243d4dcffef8ed1",
   "lastOpenFiles": [
-    "90_tools/传参数的方法.md",
-    "90_tools/vscode.md",
-    "90_tools/docker.md",
     "90_tools/GPU.md",
     "90_tools/ubuntu.md",
+    "90_tools/docker.md",
+    "90_tools/vscode.md",
+    "90_tools/传参数的方法.md",
     "01_natural_language_processing/Sparse Transformer.md",
     "99_attachment/GLIGEN, Open-Set Grounded Text-to-Image Generation.pdf",
     "02_computer_vision/GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
