@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "5d075bc20de7bf50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "69260ed9b8e79ae9",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_tools/docker.md",
+                "file": "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_tools/docker.md",
+                "file": "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_tools/docker.md"
+                "file": "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md"
               }
             }
           }
@@ -159,11 +172,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f243d4dcffef8ed1",
+  "active": "5d075bc20de7bf50",
   "lastOpenFiles": [
+    "01_natural_language_processing/Sequence Parallelism, Long Sequence Training from System Perspective.md",
+    "99_attachment/Pasted image 20230323143850.png",
+    "99_attachment/Pasted image 20230323143849.png",
+    "99_attachment/Sequence Parallelism, Long Sequence Training from System Perspective.pdf",
+    "90_tools/docker.md",
     "90_tools/GPU.md",
     "90_tools/ubuntu.md",
-    "90_tools/docker.md",
     "90_tools/vscode.md",
     "90_tools/传参数的方法.md",
     "01_natural_language_processing/Sparse Transformer.md",
@@ -199,8 +216,6 @@
     "02_computer_vision/StartGAN v2.md",
     "00_to_be_read/2211.11208v1.pdf",
     "00_to_be_read/SMPL.pdf",
-    "00_to_be_read/2205.08535.pdf",
-    "96_tags/DeepMind.md",
-    "96_tags/Meta AI.md"
+    "96_tags/DeepMind.md"
   ]
 }
