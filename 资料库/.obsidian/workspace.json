@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
+                "file": "90_tools/docker.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
+                "file": "90_tools/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
+                "file": "90_tools/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md"
+                "file": "90_tools/docker.md"
               }
             }
           }
@@ -174,15 +174,16 @@
   },
   "active": "5d075bc20de7bf50",
   "lastOpenFiles": [
+    "90_tools/传参数的方法.md",
+    "90_tools/ubuntu.md",
+    "90_tools/GPU.md",
+    "90_tools/docker.md",
+    "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
     "01_natural_language_processing/Sequence Parallelism, Long Sequence Training from System Perspective.md",
     "99_attachment/Pasted image 20230323143850.png",
     "99_attachment/Pasted image 20230323143849.png",
     "99_attachment/Sequence Parallelism, Long Sequence Training from System Perspective.pdf",
-    "90_tools/docker.md",
-    "90_tools/GPU.md",
-    "90_tools/ubuntu.md",
     "90_tools/vscode.md",
-    "90_tools/传参数的方法.md",
     "01_natural_language_processing/Sparse Transformer.md",
     "99_attachment/GLIGEN, Open-Set Grounded Text-to-Image Generation.pdf",
     "02_computer_vision/GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
@@ -192,7 +193,6 @@
     "01_natural_language_processing/Scaling Laws for Neural Language Models.md",
     "01_natural_language_processing/Training Compute-Optimal Large Language Models.md",
     "01_natural_language_processing/Proximal Policy Optimization Algorithms.md",
-    "01_natural_language_processing/GPT3, Language Models are Few-Shot Learners.md",
     "01_natural_language_processing/DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
     "01_natural_language_processing/How to represent part-whole hierarchies in a neural network.md",
     "01_natural_language_processing/OpenChatKit.md",
