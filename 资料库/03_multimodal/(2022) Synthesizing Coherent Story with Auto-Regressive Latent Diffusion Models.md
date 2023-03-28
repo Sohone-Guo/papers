@@ -12,7 +12,7 @@
 -  如何结合文本和<span style="background:#ff4d4f">图片</span>信息的？
 	- 结合的方式就是通过，Cross Attn, sample作为query, CLIP等作为hiddens.
 - 具体算法的内容
-	- CLIP: 用于当前的文本信息, 具体论文参考 [[(2021) Learning Transferable Visual Models From Natural Language Processing]]
+	- CLIP: 用于当前的文本信息, 具体论文参考 [[03_multimodal/(2021) Learning Transferable Visual Models From Natural Language Processing]]
 	- BLIP: 用于将历史的文本和历史生成的图片结合起来
 
 # Reference
