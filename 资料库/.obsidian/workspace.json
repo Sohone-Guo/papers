@@ -11,8 +11,12 @@
             "id": "c0f32718f7597184",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01_natural_language_processing/(2023) Eearly Exaperiments with GPT4.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/(2022) FastCorrect2, Fast Error Correction on Multiple Candidates for Automatic Speech Recognition.md",
+                "file": "01_natural_language_processing/(2023) Eearly Exaperiments with GPT4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/(2022) FastCorrect2, Fast Error Correction on Multiple Candidates for Automatic Speech Recognition.md",
+                "file": "01_natural_language_processing/(2023) Eearly Exaperiments with GPT4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/(2022) FastCorrect2, Fast Error Correction on Multiple Candidates for Automatic Speech Recognition.md"
+                "file": "01_natural_language_processing/(2023) Eearly Exaperiments with GPT4.md"
               }
             }
           }
@@ -143,12 +147,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "c0f32718f7597184",
   "lastOpenFiles": [
+    "(2023).md",
+    "99_attachment/Early experiments with GPT-4 1.pdf",
+    "01_natural_language_processing/(2022) FastCorrect2, Fast Error Correction on Multiple Candidates for Automatic Speech Recognition.md",
     "99_attachment/Pasted image 20230328134959.png",
     "99_attachment/fastcorrect2.pdf",
     "01_natural_language_processing/(2021) FastCorrect, Fast Error Correction with Edit Alignment for Automatic Speech Recognition.md",
-    "01_natural_language_processing/(2022) FastCorrect2, Fast Error Correction on Multiple Candidates for Automatic Speech Recognition.md",
     "99_attachment/Pasted image 20230328134837.png",
     "99_attachment/Pasted image 20230328134819.png",
     "99_attachment/fastcorrect.pdf",
@@ -168,7 +174,6 @@
     "99_attachment/2022.acl-long.471.pdf",
     "01_natural_language_processing/(2022) Quality Controlled Paraphrase Generation.md",
     "99_attachment/Pasted image 20230328133834.png",
-    "99_attachment/Pasted image 20230328133819.png",
     "99_attachment/2022.acl-long.45.pdf",
     "05_speech_recognition/(2022) SpeechNet, Weekly Supervised, End-to-End Speech Recognition at Industrial Scale.md",
     "99_attachment/2211.11740.pdf",
@@ -180,7 +185,6 @@
     "01_natural_language_processing/(2020) Fine-Tuning Language Models from Human Preferences.md",
     "99_attachment/1909.08593.pdf",
     "02_computer_vision/(2019) Everybody Dance Now.md",
-    "99_attachment/1808.07371.pdf",
     "02_computer_vision/(2018) high-resolution image synthesis and semantic manipulation with conditional GANs.md",
     "01_natural_language_processing/(2021) W2V-BERT, COMBINING CONTRASTIVE LEARNING AND MASKED LANGUAGE MODELING FOR SELF-SUPERVISED SPEECH PRE-TRAINING.md",
     "01_natural_language_processing/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
@@ -189,7 +193,6 @@
     "11_tutorial/Concept Learning with Energy-Based Models (Paper Explained).md",
     "11_tutorial/Score-Based Generative Modeling.md",
     "10_books/(2018) Tutorial on Deep Generative Models.md",
-    "11_tutorial/PPO.md",
-    "10_books/(2019) The Book of Why.md"
+    "11_tutorial/PPO.md"
   ]
 }
