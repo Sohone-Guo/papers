@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80dbe396af136eaa",
+            "id": "6e25ff79c0793cb0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01_natural_language_processing/(2022) GPT-NeoX-20B, An Open-Source Autoregressive Language Model.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_natural_language_processing/(2022) GPT-NeoX-20B, An Open-Source Autoregressive Language Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_natural_language_processing/(2022) GPT-NeoX-20B, An Open-Source Autoregressive Language Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01_natural_language_processing/(2022) GPT-NeoX-20B, An Open-Source Autoregressive Language Model.md"
+              }
             }
           }
         ],
@@ -139,14 +147,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "80dbe396af136eaa",
+  "active": "6e25ff79c0793cb0",
   "lastOpenFiles": [
-    "01_natural_language_processing/(2022) Instruct GPT.md",
+    "(2022) GPT-NeoX-20B, An Open-Source Autoregressive Language Model.md",
+    "01_natural_language_processing/(2022) GPT-NeoX-20B, An Open-Source Autoregressive Language Model.md",
+    "99_attachment/GPT-NeoX-20B 1.pdf",
+    "01_natural_language_processing/(2020) GPT3, Language Models are Few-Shot Learners.md",
     "01_natural_language_processing/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
     "01_natural_language_processing/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
+    "01_natural_language_processing/(2022) Instruct GPT.md",
     "02_computer_vision/(2020) StartGAN v2.md",
     "01_natural_language_processing/(2023) Eearly Exaperiments with GPT4.md",
-    "(2023) GPT-NeoX-20B.md",
     "96_tags/eleuther.ai.md",
     "01_natural_language_processing/(2020) The Pile, An 800GB Dataset of Diverse Text for Language Modeling.md",
     "99_attachment/Datasheet for the pile.pdf",
@@ -174,7 +185,6 @@
     "99_attachment/Pasted image 20230328134044.png",
     "99_attachment/Pasted image 20230328134020.png",
     "99_attachment/Pasted image 20230328134008.png",
-    "99_attachment/2022.acl-long.471.pdf",
     "01_natural_language_processing/(2022) Quality Controlled Paraphrase Generation.md",
     "99_attachment/Pasted image 20230328133834.png",
     "05_speech_recognition/(2022) SpeechNet, Weekly Supervised, End-to-End Speech Recognition at Industrial Scale.md",
@@ -183,9 +193,6 @@
     "03_multimodal/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "02_computer_vision/(2021) Learning Transferable Visual Models From Natural Language Processing.md",
     "02_computer_vision/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
-    "01_natural_language_processing/(2020) Fine-Tuning Language Models from Human Preferences.md",
-    "02_computer_vision/(2019) Everybody Dance Now.md",
-    "02_computer_vision/(2018) high-resolution image synthesis and semantic manipulation with conditional GANs.md",
-    "01_natural_language_processing/(2021) W2V-BERT, COMBINING CONTRASTIVE LEARNING AND MASKED LANGUAGE MODELING FOR SELF-SUPERVISED SPEECH PRE-TRAINING.md"
+    "01_natural_language_processing/(2020) Fine-Tuning Language Models from Human Preferences.md"
   ]
 }

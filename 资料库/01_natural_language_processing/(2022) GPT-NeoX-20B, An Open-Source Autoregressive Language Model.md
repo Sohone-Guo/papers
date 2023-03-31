@@ -4,7 +4,8 @@
 
 # Mainly Idea
 ---
-
+- 3.15M tokens or 1538 contexts of 2048 toens each
+- tensor parallel size of 2, and a pipline parallel size of 4
 
 # Reference
 ---
