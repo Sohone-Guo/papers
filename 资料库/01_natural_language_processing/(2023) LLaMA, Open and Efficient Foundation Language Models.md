@@ -6,7 +6,8 @@
 # Mainly Idea
 ---
 Resent work from [[(2022) Training Compute-Optimal Large Language Models]]
-
+![[Pasted image 20230331180238.png]]
+![[Pasted image 20230331180253.png]]
 # Reference
 ---
 
