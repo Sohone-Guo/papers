@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3f180fead81dac8",
+        "id": "3cbd37f9e93e2c81",
         "type": "tabs",
         "children": [
           {
-            "id": "e6e718f163c1fe59",
+            "id": "80dbe396af136eaa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 405.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -139,11 +139,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e6e718f163c1fe59",
+  "active": "80dbe396af136eaa",
   "lastOpenFiles": [
+    "01_natural_language_processing/(2022) Instruct GPT.md",
+    "01_natural_language_processing/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
+    "01_natural_language_processing/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
+    "02_computer_vision/(2020) StartGAN v2.md",
     "01_natural_language_processing/(2023) Eearly Exaperiments with GPT4.md",
     "(2023) GPT-NeoX-20B.md",
-    "02_computer_vision/(2020) StartGAN v2.md",
     "96_tags/eleuther.ai.md",
     "01_natural_language_processing/(2020) The Pile, An 800GB Dataset of Diverse Text for Language Modeling.md",
     "99_attachment/Datasheet for the pile.pdf",
@@ -183,9 +186,6 @@
     "01_natural_language_processing/(2020) Fine-Tuning Language Models from Human Preferences.md",
     "02_computer_vision/(2019) Everybody Dance Now.md",
     "02_computer_vision/(2018) high-resolution image synthesis and semantic manipulation with conditional GANs.md",
-    "01_natural_language_processing/(2021) W2V-BERT, COMBINING CONTRASTIVE LEARNING AND MASKED LANGUAGE MODELING FOR SELF-SUPERVISED SPEECH PRE-TRAINING.md",
-    "01_natural_language_processing/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
-    "01_natural_language_processing/(2023) Self-consistency improves chain-of-thought reasoning in language models.md",
-    "11_tutorial/MLE vs MAP.md"
+    "01_natural_language_processing/(2021) W2V-BERT, COMBINING CONTRASTIVE LEARNING AND MASKED LANGUAGE MODELING FOR SELF-SUPERVISED SPEECH PRE-TRAINING.md"
   ]
 }
