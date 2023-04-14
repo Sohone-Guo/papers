@@ -9,12 +9,14 @@ Mainly Idea
 - Trains the model to disccretize input continuous speech signals into a finite set of discriminative speech tokens.
 - Trains the model to learn contexturalized speech representations via solving a masked prediction task consuming the discretized tokens.
 
+![[Pasted image 20230414134518.png]]
 
-
+- Contrastive: 参考Reference Contrastive Loss
 
 # Reference
 ---
-
+- Contrastive Loss: ![[Pasted image 20230414134459.png]]
+	- Q: 参考wav2vec 2.0, P2页中Quantization module部分，由Codebook获取。使用Codebook的方式，论文中使用了Gumber Softmax, ![[Pasted image 20230414134916.png]]
 
 # Attachment
 ---
