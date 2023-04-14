@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "46ca3c55bf81319e",
+        "id": "8f9089b36f7704f4",
         "type": "tabs",
         "children": [
           {
-            "id": "8ebf47b689d6a922",
+            "id": "7881a7545066c040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9782c5ebcde6b4d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
-                "mode": "source",
+                "file": "02_computer_vision/(2018) Nerual Discrete Representation Learning.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
+                "file": "02_computer_vision/(2018) Nerual Discrete Representation Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
+                "file": "02_computer_vision/(2018) Nerual Discrete Representation Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md"
+                "file": "02_computer_vision/(2018) Nerual Discrete Representation Learning.md"
               }
             }
           }
@@ -160,14 +147,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9782c5ebcde6b4d5",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20230414141202.png",
+    "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
     "99_attachment/Pasted image 20230414134916.png",
     "99_attachment/Pasted image 20230414134518.png",
     "99_attachment/Pasted image 20230414134459.png",
     "99_attachment/2006.11477.pdf",
-    "(2018) Nerual Discrete Representation Learning.md",
-    "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
+    "02_computer_vision/(2018) Nerual Discrete Representation Learning.md",
     "01_natural_language_processing/(2022) Unsupervised Dense Information Retrieval with Contrastive Learning.md",
     "01_natural_language_processing/(2022) Sequence Parallelism, Long Sequence Training from System Perspective.md",
     "99_attachment/1711.00937v2.pdf",
@@ -206,7 +194,6 @@
     "99_attachment/Pasted image 20230328134837.png",
     "99_attachment/Pasted image 20230328134819.png",
     "99_attachment/Pasted image 20230328134508.png",
-    "99_attachment/Pasted image 20230328134451.png",
-    "99_attachment/Pasted image 20230328134244.png"
+    "99_attachment/Pasted image 20230328134451.png"
   ]
 }
