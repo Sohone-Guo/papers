@@ -160,8 +160,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "9782c5ebcde6b4d5",
   "lastOpenFiles": [
+    "99_attachment/2006.11477.pdf",
     "(2018) Nerual Discrete Representation Learning.md",
     "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
     "01_natural_language_processing/(2022) Unsupervised Dense Information Retrieval with Contrastive Learning.md",
@@ -195,7 +196,6 @@
     "99_attachment/GPT-NeoX-20B 1.pdf",
     "01_natural_language_processing/(2020) GPT3, Language Models are Few-Shot Learners.md",
     "01_natural_language_processing/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
-    "01_natural_language_processing/(2022) Instruct GPT.md",
     "99_attachment/Datasheet for the pile.pdf",
     "99_attachment/The Pile, An 800GB Dataset of Diverse Text for Lange Modeling.pdf",
     "99_attachment/GPT-NeoX-20B.pdf",
