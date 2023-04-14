@@ -1,6 +1,7 @@
 # Information
 ---
-
+- Google Brain
+- MIT
 
 # Mainly Idea
 ---
