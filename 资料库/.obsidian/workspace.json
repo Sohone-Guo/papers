@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
+                "file": "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
+                "file": "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
+                "file": "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
+                "file": "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md"
+                "file": "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md"
               }
             }
           }
@@ -160,10 +160,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9782c5ebcde6b4d5",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
     "(2018) Nerual Discrete Representation Learning.md",
-    "(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
+    "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
     "01_natural_language_processing/(2022) Unsupervised Dense Information Retrieval with Contrastive Learning.md",
     "01_natural_language_processing/(2022) Sequence Parallelism, Long Sequence Training from System Perspective.md",
     "99_attachment/1711.00937v2.pdf",
