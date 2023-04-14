@@ -1,6 +1,6 @@
 # Information
 ---
-#information-retrieval
+information-retrieval
 
 # Mainly Idea
 ---

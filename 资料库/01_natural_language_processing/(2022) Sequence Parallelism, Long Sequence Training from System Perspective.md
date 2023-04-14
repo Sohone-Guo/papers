@@ -1,6 +1,6 @@
 # Information
 ---
-#long_input
+long_input
 
 # Mainly Idea
 ---
