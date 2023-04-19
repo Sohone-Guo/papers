@@ -2,7 +2,8 @@
 ---
 - VQ-VAE #VAE 
 - Sequence Models
-
+- [[Discrete Variable]]
+- Neural Machine Translation
 # Mainly Idea
 ---
 
