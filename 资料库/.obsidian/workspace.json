@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
+                "file": "01_natural_language_processing/(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
+                "file": "01_natural_language_processing/(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
+                "file": "01_natural_language_processing/(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md"
+                "file": "01_natural_language_processing/(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "37d058620d610591",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
-    "(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
+    "01_natural_language_processing/(2018) ⭐Theory and Experiments on Vector Quantized Antoencoders.md",
+    "01_natural_language_processing/(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
+    "99_attachment/Pasted image 20230419174552.png",
     "Discrete Variable.md",
     "99_attachment/Fast Decoding in Sequence Ｍodels Using Discrete Latent Variables (2018).pdf",
-    "01_natural_language_processing/(2018) ⭐Theory and Experiments on Vector Quantized Antoencoders.md",
     "02_computer_vision/(2018) ⭐Nerual Discrete Representation Learning.md",
     "99_attachment/Pasted image 20230419164243.png",
     "99_attachment/1805.11063v2.pdf",
@@ -189,10 +190,8 @@
     "01_natural_language_processing/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
     "99_attachment/Pasted image 20230331180253.png",
     "99_attachment/Pasted image 20230331180238.png",
-    "01_natural_language_processing/(2022) GPT-NeoX-20B, An Open-Source Autoregressive Language Model.md",
     "99_attachment/GPT-NeoX-20B 1.pdf",
     "99_attachment/Pasted image 20230328134959.png",
-    "99_attachment/Pasted image 20230328134837.png",
-    "99_attachment/Pasted image 20230328134819.png"
+    "99_attachment/Pasted image 20230328134837.png"
   ]
 }

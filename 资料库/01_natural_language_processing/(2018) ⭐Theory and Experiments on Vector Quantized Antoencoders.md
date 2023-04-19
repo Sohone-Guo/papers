@@ -10,7 +10,7 @@
 ---
 Deep neural network with discrete latent variables offer the promise of better symbolic reasoning, and learning abstractions that are more useful to new tasks.
 
-
+Machine Translation: [[(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables]]
 
 # Reference
 ---

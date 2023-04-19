@@ -6,7 +6,9 @@
 - Neural Machine Translation
 # Mainly Idea
 ---
-
+![[Pasted image 20230419174552.png]]
+- $X$ → Encoder(Self-attention-layer)
+- $Y$ → Encoder(CNN) (减少长度hidden)
 
 # Reference
 ---
