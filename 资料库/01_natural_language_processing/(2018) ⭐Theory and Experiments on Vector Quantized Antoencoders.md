@@ -14,7 +14,7 @@ Deep neural network with discrete latent variables offer the promise of better s
 
 # Reference
 ---
-VQ-VAE: The method uses a learned code-book combined with nearest neighbor search to train the discrete latent variable model.[[(2018) Nerual Discrete Representation Learning]]
+VQ-VAE: The method uses a learned code-book combined with nearest neighbor search to train the discrete latent variable model.[[(2018) ⭐Nerual Discrete Representation Learning]]
 
 # Attachment
 ---
