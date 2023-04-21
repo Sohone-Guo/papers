@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37d058620d610591",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "96_tags/Discrete Variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "01a395128240d04e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2021) SentenceMIM A Latent Variable Language Model.md",
+                "file": "01_natural_language_processing/(2021) SentenceMIM A Latent Variable Language Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2021) SentenceMIM A Latent Variable Language Model.md",
+                "file": "01_natural_language_processing/(2021) SentenceMIM A Latent Variable Language Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2021) SentenceMIM A Latent Variable Language Model.md",
+                "file": "01_natural_language_processing/(2021) SentenceMIM A Latent Variable Language Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2021) SentenceMIM A Latent Variable Language Model.md"
+                "file": "01_natural_language_processing/(2021) SentenceMIM A Latent Variable Language Model.md"
               }
             }
           }
@@ -159,11 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "01a395128240d04e",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20230421132005.png",
+    "99_attachment/Pasted image 20230421131951.png",
+    "99_attachment/Pasted image 20230421131935.png",
+    "99_attachment/Pasted image 20230421131929.png",
     "99_attachment/2003.02645v5.pdf",
     "96_tags/Discrete Variable.md",
-    "(2021) SentenceMIM A Latent Variable Language Model.md",
+    "01_natural_language_processing/(2021) SentenceMIM A Latent Variable Language Model.md",
     "01_natural_language_processing/(2022) Instruct GPT.md",
     "01_natural_language_processing/(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
     "01_natural_language_processing/(2018) ⭐Theory and Experiments on Vector Quantized Antoencoders.md",
@@ -202,10 +193,6 @@
     "10_books/(2018) Tutorial on Deep Generative Models.md",
     "10_books/(2018) Clean Code in Python Refactor your legacy code base.md",
     "90_tools/docker.md",
-    "99_attachment/Pasted image 20230331180253.png",
-    "99_attachment/Pasted image 20230331180238.png",
-    "99_attachment/GPT-NeoX-20B 1.pdf",
-    "99_attachment/Pasted image 20230328134959.png",
-    "99_attachment/Pasted image 20230328134837.png"
+    "99_attachment/Pasted image 20230331180253.png"
   ]
 }
