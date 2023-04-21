@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_natural_language_processing/(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
+                "file": "01_natural_language_processing/(2022) Instruct GPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
+                "file": "01_natural_language_processing/(2022) Instruct GPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
+                "file": "01_natural_language_processing/(2022) Instruct GPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md"
+                "file": "01_natural_language_processing/(2022) Instruct GPT.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "37d058620d610591",
   "lastOpenFiles": [
-    "01_natural_language_processing/(2018) ⭐Theory and Experiments on Vector Quantized Antoencoders.md",
     "01_natural_language_processing/(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
+    "01_natural_language_processing/(2018) ⭐Theory and Experiments on Vector Quantized Antoencoders.md",
     "99_attachment/Pasted image 20230419174552.png",
     "Discrete Variable.md",
     "99_attachment/Fast Decoding in Sequence Ｍodels Using Discrete Latent Variables (2018).pdf",
