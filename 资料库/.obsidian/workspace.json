@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b30b7ae21d0456e4",
+        "id": "39eaf0206ff9702a",
         "type": "tabs",
         "children": [
           {
-            "id": "01a395128240d04e",
+            "id": "c693e46b140e8da0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "01_natural_language_processing/(2021) SentenceMIM A Latent Variable Language Model.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -146,21 +146,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "c693e46b140e8da0",
   "lastOpenFiles": [
+    "01_natural_language_processing/(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
+    "01_natural_language_processing/(2021) How to represent part-whole hierarchies in a neural network.md",
+    "01_natural_language_processing/(2021) SentenceMIM A Latent Variable Language Model.md",
+    "01_natural_language_processing/(2018) ⭐Theory and Experiments on Vector Quantized Antoencoders.md",
+    "02_computer_vision/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
+    "02_computer_vision/(2018) high-resolution image synthesis and semantic manipulation with conditional GANs.md",
+    "02_computer_vision/(2019) Everybody Dance Now.md",
+    "02_computer_vision/(2020) StartGAN v2.md",
+    "02_computer_vision/(2021) Learning Transferable Visual Models From Natural Language Processing.md",
+    "02_computer_vision/(2018) ⭐Nerual Discrete Representation Learning.md",
+    "01_natural_language_processing/(2017) Proximal Policy Optimization Algorithms.md",
     "99_attachment/Pasted image 20230421132005.png",
     "99_attachment/Pasted image 20230421131951.png",
     "99_attachment/Pasted image 20230421131935.png",
     "99_attachment/Pasted image 20230421131929.png",
     "99_attachment/2003.02645v5.pdf",
     "96_tags/Discrete Variable.md",
-    "01_natural_language_processing/(2021) SentenceMIM A Latent Variable Language Model.md",
     "01_natural_language_processing/(2022) Instruct GPT.md",
-    "01_natural_language_processing/(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
-    "01_natural_language_processing/(2018) ⭐Theory and Experiments on Vector Quantized Antoencoders.md",
     "99_attachment/Pasted image 20230419174552.png",
     "99_attachment/Fast Decoding in Sequence Ｍodels Using Discrete Latent Variables (2018).pdf",
-    "02_computer_vision/(2018) ⭐Nerual Discrete Representation Learning.md",
     "99_attachment/Pasted image 20230419164243.png",
     "99_attachment/1805.11063v2.pdf",
     "01_natural_language_processing/(2023) Generative Agents Interactive Simulacra of Human Behavior.md",
@@ -183,16 +190,9 @@
     "03_multimodal/(2021) Learning Transferable Visual Models From Natural Language Processing.md",
     "03_multimodal/(2022) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
     "03_multimodal/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
-    "02_computer_vision/(2018) high-resolution image synthesis and semantic manipulation with conditional GANs.md",
-    "02_computer_vision/(2019) Everybody Dance Now.md",
-    "02_computer_vision/(2020) StartGAN v2.md",
-    "02_computer_vision/(2021) Learning Transferable Visual Models From Natural Language Processing.md",
-    "02_computer_vision/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
     "10_books/(2019) The Book of Why.md",
     "99_attachment/元宇宙时代超高清视音频技术白皮书-1.pdf",
     "10_books/(2018) Tutorial on Deep Generative Models.md",
-    "10_books/(2018) Clean Code in Python Refactor your legacy code base.md",
-    "90_tools/docker.md",
-    "99_attachment/Pasted image 20230331180253.png"
+    "10_books/(2018) Clean Code in Python Refactor your legacy code base.md"
   ]
 }
