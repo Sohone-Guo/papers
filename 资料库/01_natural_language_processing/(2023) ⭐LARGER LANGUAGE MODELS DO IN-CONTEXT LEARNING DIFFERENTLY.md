@@ -10,6 +10,8 @@ a) mostly use semantic prior knowledge to predict labels while following the for
 结论如下：
 - <font color="#00b050">The ability to override semantic priors with input-label mapping emerges with model scale, which should not be taken for granted because larger models presumably have stronger priors that are more challenging to override.</font>
 
+![[Pasted image 20230424133342.png]]
+
 # Reference
 ---
 - ICL with Flipped label: Means semantic prior knowledge and input-label mappings disagree.
