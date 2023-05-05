@@ -13,3 +13,8 @@ $ docker --gpus '"device=6,7"'
 ```
 $ docker system prune
 ```
+
+### 启动和关闭
+```
+$ systemctl start docker
+```
