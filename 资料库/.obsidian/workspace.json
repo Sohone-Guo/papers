@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "616abd8b85d18f93",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ee3d3f6fc95ba1db",
+            "id": "ddb992507af0f9c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
+                "file": "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -47,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
+                "file": "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
+                "file": "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/(2021) Continuous Language Generative Flow.md"
+                "file": "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md"
               }
             }
           }
@@ -163,8 +154,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "ddb992507af0f9c7",
   "lastOpenFiles": [
+    "99_attachment/normalizing-flows-master.zip",
+    "99_attachment/Pasted image 20230506163130.png",
+    "99_attachment/Pasted image 20230506162948.png",
+    "99_attachment/1410.8516.pdf",
+    "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "99_attachment/2021.acl-long.355.pdf",
     "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
     "90_tools/docker.md",
@@ -204,12 +200,7 @@
     "99_attachment/1805.11063v2.pdf",
     "01_natural_language_processing/(2023) Generative Agents Interactive Simulacra of Human Behavior.md",
     "99_attachment/2304.03442.pdf",
-    "99_attachment/Pasted image 20230414141202.png",
     "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
-    "99_attachment/Pasted image 20230414134916.png",
-    "99_attachment/2006.11477.pdf",
-    "01_natural_language_processing/(2022) Unsupervised Dense Information Retrieval with Contrastive Learning.md",
-    "99_attachment/1711.00937v2.pdf",
-    "99_attachment/kmeans_vector_quantizer 1.py"
+    "99_attachment/2006.11477.pdf"
   ]
 }
