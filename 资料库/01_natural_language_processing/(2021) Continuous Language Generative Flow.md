@@ -7,6 +7,10 @@
 
 # Mainly Idea
 ---
+##### Non-Autoregressive Language Flow
+
+
+##### Autoregressive Language Flow
 
 
 # Reference
