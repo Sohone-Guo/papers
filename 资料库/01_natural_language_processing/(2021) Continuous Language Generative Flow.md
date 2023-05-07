@@ -8,7 +8,8 @@
 # Mainly Idea
 ---
 ##### Non-Autoregressive Language Flow
-
+- Sentence 转化为embedding后，作为一个整体，映射到隐层，再通过可逆函数，映射回embedding, Embedding转化成字词，通过相似度匹配
+- 为了减少Sentence长度的影响，框架有多个Block，每个block都会对长度减半。
 
 ##### Autoregressive Language Flow
 
