@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
+                "file": "01_natural_language_processing/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
+                "file": "01_natural_language_processing/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
+                "file": "01_natural_language_processing/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md"
+                "file": "01_natural_language_processing/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md"
               }
             }
           }
@@ -156,13 +156,18 @@
   },
   "active": "ddb992507af0f9c7",
   "lastOpenFiles": [
+    "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
+    "99_attachment/Pasted image 20230507213126.png",
+    "01_natural_language_processing/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md",
+    "99_attachment/Pasted image 20230507212905.png",
+    "99_attachment/1807.03039.pdf",
+    "99_attachment/Pasted image 20230507212429.png",
+    "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "99_attachment/normalizing-flows-master.zip",
     "99_attachment/Pasted image 20230506163130.png",
     "99_attachment/Pasted image 20230506162948.png",
     "99_attachment/1410.8516.pdf",
-    "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "99_attachment/2021.acl-long.355.pdf",
-    "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
     "90_tools/docker.md",
     "01_natural_language_processing/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
     "99_attachment/Pasted image 20230504163048.png",
@@ -191,16 +196,10 @@
     "99_attachment/Pasted image 20230421132005.png",
     "99_attachment/Pasted image 20230421131951.png",
     "99_attachment/Pasted image 20230421131935.png",
-    "99_attachment/Pasted image 20230421131929.png",
     "99_attachment/2003.02645v5.pdf",
     "96_tags/Discrete Variable.md",
-    "99_attachment/Pasted image 20230419174552.png",
     "99_attachment/Fast Decoding in Sequence Ｍodels Using Discrete Latent Variables (2018).pdf",
-    "99_attachment/Pasted image 20230419164243.png",
     "99_attachment/1805.11063v2.pdf",
-    "01_natural_language_processing/(2023) Generative Agents Interactive Simulacra of Human Behavior.md",
-    "99_attachment/2304.03442.pdf",
-    "05_speech_recognition/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
-    "99_attachment/2006.11477.pdf"
+    "01_natural_language_processing/(2023) Generative Agents Interactive Simulacra of Human Behavior.md"
   ]
 }
