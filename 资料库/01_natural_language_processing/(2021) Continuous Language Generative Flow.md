@@ -12,6 +12,10 @@
 - 为了减少Sentence长度的影响，框架有多个Block，每个block都会对长度减半。
 
 ##### Autoregressive Language Flow
+![[Pasted image 20230507225454.png]]
+
+QA Data Augmentation Results
+![[Pasted image 20230507225715.png]]
 
 
 # Reference
