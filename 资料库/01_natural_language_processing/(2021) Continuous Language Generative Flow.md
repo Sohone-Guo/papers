@@ -14,9 +14,14 @@
 ##### Autoregressive Language Flow
 ![[Pasted image 20230507225454.png]]
 
-QA Data Augmentation Results
-![[Pasted image 20230507225715.png]]
+Seq-to-Seq Generation with Flow
+- 将输入的句子，通过Flow到隐层空间，将隐层空间的信息，作为Decoder输入的一部分。
+- 论文觉得Flow-based提取的Context vector可能比Encoder提取的更准确或者有额外信息。
 
+QA Data Augmentation Results
+- 直接使用：QA任务，增广question， 类似paraphrase
+	- ![[Pasted image 20230507231109.png]]
+	- ![[Pasted image 20230507225715.png]]
 
 # Reference
 ---
