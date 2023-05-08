@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
+                "file": "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
+                "file": "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,11 +147,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md"
+                "file": "01_natural_language_processing/(2021) Continuous Language Generative Flow.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,7 +169,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "88e44a922c0882da",
   "lastOpenFiles": [
     "99_attachment/2304.13712.pdf",
     "99_attachment/Pasted image 20230508111856.png",
