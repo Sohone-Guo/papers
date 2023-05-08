@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "396bb4f8e9aabf47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_natural_language_processing/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
+                "file": "01_natural_language_processing/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
+                "file": "01_natural_language_processing/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/(2021) Continuous Language Generative Flow.md"
+                "file": "01_natural_language_processing/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md"
               }
             }
           }
@@ -154,13 +167,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b08c1dc71238e071",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/2304.13712.pdf",
+    "99_attachment/Pasted image 20230508111856.png",
+    "99_attachment/Pasted image 20230508111624.png",
+    "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
+    "01_natural_language_processing/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
     "99_attachment/Pasted image 20230507231109.png",
     "99_attachment/Pasted image 20230507225715.png",
     "99_attachment/Pasted image 20230507225454.png",
     "01_natural_language_processing/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md",
-    "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
     "99_attachment/Pasted image 20230507213126.png",
     "99_attachment/Pasted image 20230507212905.png",
     "99_attachment/1807.03039.pdf",
@@ -173,10 +190,8 @@
     "99_attachment/2021.acl-long.355.pdf",
     "90_tools/docker.md",
     "01_natural_language_processing/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
-    "99_attachment/Pasted image 20230504163048.png",
     "99_attachment/2304.15004.pdf",
     "01_natural_language_processing/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
-    "99_attachment/Pasted image 20230424133342.png",
     "99_attachment/2303.03846.pdf",
     "01_natural_language_processing/(2020) GPT3, Language Models are Few-Shot Learners.md",
     "01_natural_language_processing/(2022) Instruct GPT.md",
@@ -196,11 +211,9 @@
     "02_computer_vision/(2021) Learning Transferable Visual Models From Natural Language Processing.md",
     "02_computer_vision/(2018) ⭐Nerual Discrete Representation Learning.md",
     "01_natural_language_processing/(2017) Proximal Policy Optimization Algorithms.md",
-    "99_attachment/Pasted image 20230421132005.png",
     "99_attachment/2003.02645v5.pdf",
     "96_tags/Discrete Variable.md",
     "99_attachment/Fast Decoding in Sequence Ｍodels Using Discrete Latent Variables (2018).pdf",
-    "99_attachment/1805.11063v2.pdf",
-    "01_natural_language_processing/(2023) Generative Agents Interactive Simulacra of Human Behavior.md"
+    "99_attachment/1805.11063v2.pdf"
   ]
 }
