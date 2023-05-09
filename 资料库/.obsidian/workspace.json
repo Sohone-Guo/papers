@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#VAE",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,12 +167,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "88e44a922c0882da",
+  "active": "b08c1dc71238e071",
   "lastOpenFiles": [
+    "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
+    "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
     "99_attachment/2304.13712.pdf",
     "99_attachment/Pasted image 20230508111856.png",
     "99_attachment/Pasted image 20230508111624.png",
-    "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
     "01_natural_language_processing/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
     "99_attachment/Pasted image 20230507231109.png",
     "99_attachment/Pasted image 20230507225715.png",
@@ -184,7 +183,6 @@
     "99_attachment/Pasted image 20230507212905.png",
     "99_attachment/1807.03039.pdf",
     "99_attachment/Pasted image 20230507212429.png",
-    "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "99_attachment/normalizing-flows-master.zip",
     "99_attachment/Pasted image 20230506163130.png",
     "99_attachment/Pasted image 20230506162948.png",
@@ -215,7 +213,6 @@
     "01_natural_language_processing/(2017) Proximal Policy Optimization Algorithms.md",
     "99_attachment/2003.02645v5.pdf",
     "96_tags/Discrete Variable.md",
-    "99_attachment/Fast Decoding in Sequence Ｍodels Using Discrete Latent Variables (2018).pdf",
-    "99_attachment/1805.11063v2.pdf"
+    "99_attachment/Fast Decoding in Sequence Ｍodels Using Discrete Latent Variables (2018).pdf"
   ]
 }
