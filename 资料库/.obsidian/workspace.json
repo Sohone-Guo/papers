@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "2a22553315c722c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_natural_language_processing/(2015) From Neural PCA to Deep Unsupervised Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/(2015) From Neural PCA to Deep Unsupervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/(2015) From Neural PCA to Deep Unsupervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01_natural_language_processing/(2015) From Neural PCA to Deep Unsupervised Learning.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -164,10 +147,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "b615107700789810",
   "lastOpenFiles": [
-    "99_attachment/1411.7783v2.pdf",
     "01_natural_language_processing/(2015) From Neural PCA to Deep Unsupervised Learning.md",
+    "99_attachment/Pasted image 20230510130637.png",
+    "99_attachment/1411.7783v2.pdf",
     "01_natural_language_processing/(2016) Tutorial on Variational Autoencoders.md",
     "01_natural_language_processing/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
     "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
@@ -186,7 +170,6 @@
     "99_attachment/1807.03039.pdf",
     "99_attachment/Pasted image 20230507212429.png",
     "99_attachment/normalizing-flows-master.zip",
-    "99_attachment/Pasted image 20230506163130.png",
     "99_attachment/1410.8516.pdf",
     "99_attachment/2021.acl-long.355.pdf",
     "90_tools/docker.md",
@@ -210,7 +193,6 @@
     "02_computer_vision/(2019) Everybody Dance Now.md",
     "02_computer_vision/(2020) StartGAN v2.md",
     "02_computer_vision/(2021) Learning Transferable Visual Models From Natural Language Processing.md",
-    "02_computer_vision/(2018) ⭐Nerual Discrete Representation Learning.md",
-    "99_attachment/2003.02645v5.pdf"
+    "02_computer_vision/(2018) ⭐Nerual Discrete Representation Learning.md"
   ]
 }
