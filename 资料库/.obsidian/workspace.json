@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4120a005994b1b0e",
+        "id": "beea972a47641137",
         "type": "tabs",
         "children": [
           {
-            "id": "65f1a4970a153f4a",
+            "id": "4e9a687e14d94afa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01_natural_language_processing/(2016) Ladder Variational Autoencoders.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_natural_language_processing/(2016) Ladder Variational Autoencoders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_natural_language_processing/(2016) Ladder Variational Autoencoders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01_natural_language_processing/(2016) Ladder Variational Autoencoders.md"
+              }
             }
           }
         ],
@@ -147,8 +155,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "4e9a687e14d94afa",
   "lastOpenFiles": [
+    "02_computer_vision/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
+    "99_attachment/2011.10650.pdf",
     "01_natural_language_processing/(2015) From Neural PCA to Deep Unsupervised Learning.md",
     "01_natural_language_processing/(2016) Ladder Variational Autoencoders.md",
     "99_attachment/Ladder-Variational-Autoencoders-master.zip",
@@ -177,7 +187,6 @@
     "99_attachment/2021.acl-long.355.pdf",
     "90_tools/docker.md",
     "01_natural_language_processing/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
-    "99_attachment/2304.15004.pdf",
     "01_natural_language_processing/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
     "01_natural_language_processing/(2020) GPT3, Language Models are Few-Shot Learners.md",
     "01_natural_language_processing/(2022) Instruct GPT.md",
@@ -192,7 +201,6 @@
     "02_computer_vision/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
     "02_computer_vision/(2018) high-resolution image synthesis and semantic manipulation with conditional GANs.md",
     "02_computer_vision/(2019) Everybody Dance Now.md",
-    "02_computer_vision/(2020) StartGAN v2.md",
-    "02_computer_vision/(2021) Learning Transferable Visual Models From Natural Language Processing.md"
+    "02_computer_vision/(2020) StartGAN v2.md"
   ]
 }
