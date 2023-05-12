@@ -11,8 +11,12 @@
             "id": "2a1c3be4fcaef6be",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01_natural_language_processing/(2023) PaLM2 Technical Report.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -151,12 +155,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "2a1c3be4fcaef6be",
   "lastOpenFiles": [
+    "01_natural_language_processing/(2023) Eearly Exaperiments with GPT4.md",
+    "01_natural_language_processing/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
+    "01_natural_language_processing/(2023) Generative Agents Interactive Simulacra of Human Behavior.md",
+    "01_natural_language_processing/(2023) PaLM2 Technical Report.md",
+    "01_natural_language_processing/(2023) UL2, Unifying Language Learning Paradigms.md",
+    "01_natural_language_processing/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
     "99_attachment/palm2techreport.pdf",
     "99_attachment/2204.02311.pdf",
-    "01_natural_language_processing/(2023) UL2, Unifying Language Learning Paradigms.md",
-    "01_natural_language_processing/(2023) PaLM2 Technical Report.md",
     "99_attachment/Pasted image 20230511112429.png",
     "99_attachment/6145_ul2_unifying_language_learning.pdf",
     "01_natural_language_processing/(2016) Ladder Variational Autoencoders.md",
@@ -168,7 +176,6 @@
     "99_attachment/Pasted image 20230510130637.png",
     "99_attachment/1411.7783v2.pdf",
     "01_natural_language_processing/(2016) Tutorial on Variational Autoencoders.md",
-    "01_natural_language_processing/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
     "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
     "99_attachment/Pasted image 20230509152701.png",
     "99_attachment/1606.05908.pdf",
@@ -183,13 +190,11 @@
     "99_attachment/Pasted image 20230507213126.png",
     "99_attachment/Pasted image 20230507212905.png",
     "99_attachment/1807.03039.pdf",
-    "99_attachment/normalizing-flows-master.zip",
     "90_tools/docker.md",
     "01_natural_language_processing/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
     "01_natural_language_processing/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
     "01_natural_language_processing/(2020) GPT3, Language Models are Few-Shot Learners.md",
     "01_natural_language_processing/(2022) Instruct GPT.md",
-    "01_natural_language_processing/(2023) Eearly Exaperiments with GPT4.md",
     "01_natural_language_processing/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
     "API-Bank, A Benchmark for Tool-Augmented LLMs.md",
     "2023-04-24.md",
@@ -197,7 +202,6 @@
     "01_natural_language_processing/(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
     "01_natural_language_processing/(2021) How to represent part-whole hierarchies in a neural network.md",
     "01_natural_language_processing/(2018) ⭐Theory and Experiments on Vector Quantized Antoencoders.md",
-    "02_computer_vision/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
-    "02_computer_vision/(2018) high-resolution image synthesis and semantic manipulation with conditional GANs.md"
+    "02_computer_vision/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md"
   ]
 }
