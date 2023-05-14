@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_computer_vision/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
-                "mode": "preview",
+                "file": "90_tools/vscode.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_computer_vision/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
+                "file": "90_tools/vscode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_computer_vision/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
+                "file": "90_tools/vscode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_computer_vision/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md"
+                "file": "90_tools/vscode.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "2a1c3be4fcaef6be",
   "lastOpenFiles": [
+    "02_computer_vision/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
     "01_natural_language_processing/(2016) Ladder Variational Autoencoders.md",
     "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
     "01_natural_language_processing/(2016) Tutorial on Variational Autoencoders.md",
@@ -170,7 +171,6 @@
     "99_attachment/2204.02311.pdf",
     "99_attachment/Pasted image 20230511112429.png",
     "99_attachment/6145_ul2_unifying_language_learning.pdf",
-    "02_computer_vision/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
     "99_attachment/2011.10650.pdf",
     "01_natural_language_processing/(2015) From Neural PCA to Deep Unsupervised Learning.md",
     "99_attachment/Ladder-Variational-Autoencoders-master.zip",
