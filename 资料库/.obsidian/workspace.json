@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_natural_language_processing/(2023) Normalizing Flows for Probabilistic Modeling and Inference.md",
+                "file": "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 461.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/(2023) Normalizing Flows for Probabilistic Modeling and Inference.md",
+                "file": "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/(2023) Normalizing Flows for Probabilistic Modeling and Inference.md",
+                "file": "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/(2023) Normalizing Flows for Probabilistic Modeling and Inference.md"
+                "file": "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md"
               }
             }
           }
@@ -164,10 +164,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "ee13e7022d3011b0",
   "lastOpenFiles": [
-    "99_attachment/Normalizing Flows for Probabilistic Modeling and Inference.pdf",
     "01_natural_language_processing/(2023) Normalizing Flows for Probabilistic Modeling and Inference.md",
+    "99_attachment/Normalizing Flows for Probabilistic Modeling and Inference.pdf",
     "01_natural_language_processing/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
     "未命名.canvas",
     "99_attachment/Pasted image 20230514231429.png",
@@ -199,7 +199,6 @@
     "99_attachment/Pasted image 20230509152701.png",
     "99_attachment/1606.05908.pdf",
     "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
-    "99_attachment/2304.13712.pdf",
     "99_attachment/Pasted image 20230508111856.png",
     "99_attachment/Pasted image 20230508111624.png",
     "99_attachment/Pasted image 20230507231109.png",
