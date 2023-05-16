@@ -4,7 +4,7 @@
 	1. 定义了Flow-based的理论来源: We take the view that a good representation is one in which the distribution of the data is easy to model.
 	2. A key novelty (Easy determinant of the Jacobian; Easy inverse)
 		1. Split $x$ to $(x_1, x_2)$
-		
+	3. Coupling Layer: additive coupling layer and combining coupling layers.
 # 2016
 ---
 - [[(2016) Variational inference with normalizing flows]]
