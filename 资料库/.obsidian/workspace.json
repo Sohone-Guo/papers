@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_research/Researching on Flow-based.md",
+                "file": "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,21 +169,22 @@
   },
   "active": "8ef81f56453e95c8",
   "lastOpenFiles": [
+    "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
+    "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
     "20_research/Researching on Flow-based.md",
+    "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
     "01_natural_language_processing/(2019) Neural Spline Flows.md",
     "01_natural_language_processing/(2020) Invertible generative modeling using linear rational splines.md",
     "01_natural_language_processing/(2019)  Cubic-Spline Flows.md",
     "02_computer_vision/(2019) Neural Importance Sampling.md",
     "01_natural_language_processing/(2019) Unconstrained Monotonic Neural Networks.md",
     "01_natural_language_processing/(2019) Block neural autoregressive flow.md",
-    "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
     "01_natural_language_processing/(2020 Normalizing Flows, An Introduction and Review of Current Methods).md",
     "01_natural_language_processing/(2019) Neural Density Estimation and Likelihood-free Inference.md",
     "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
     "01_natural_language_processing/(2018) Neural autoregressive flows.md",
     "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
     "02_computer_vision/(2017) Density estimation using Real NVP.md",
-    "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
     "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
     "01_natural_language_processing/(2019) Sum-of-Squares Polynomial Flow.md",
     "02_computer_vision/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
@@ -201,7 +202,6 @@
     "20_research",
     "未命名.md",
     "01_natural_language_processing/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
-    "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
     "96_tags/Discrete Variable.md",
     "99_attachment/Pasted image 20230515143204.png",
