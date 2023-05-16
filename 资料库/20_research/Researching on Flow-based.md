@@ -9,8 +9,6 @@
 	- 优缺点
 		1. 优点：Easy determinant of the Jacobian; Easy inverse
 		2. 缺点：特征提取和Transform太简单，不足以复杂特征。
-	- <font color="#c00000">留下的任务</font>
-		- 测试一下多层transformers的效果
 # 2016
 ---
 - [[(2016) Variational inference with normalizing flows]]
