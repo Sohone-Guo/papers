@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "96a864f6051185fa",
+        "id": "6d8a0f1ad82272f5",
         "type": "tabs",
         "children": [
           {
-            "id": "238517b96f5a73cc",
+            "id": "b2f666546f2509b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_natural_language_processing/(2023) Normalizing Flows for Probabilistic Modeling and Inference.md",
+                "file": "20_research/Researching on Flow-based.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ef81f56453e95c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_research/Researching on Flow-based.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scaling transformer",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/(2023) Normalizing Flows for Probabilistic Modeling and Inference.md",
+                "file": "20_research/Researching on Flow-based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/(2023) Normalizing Flows for Probabilistic Modeling and Inference.md",
+                "file": "20_research/Researching on Flow-based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +146,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/(2023) Normalizing Flows for Probabilistic Modeling and Inference.md"
+                "file": "20_research/Researching on Flow-based.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,8 +167,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "238517b96f5a73cc",
+  "active": "8ef81f56453e95c8",
   "lastOpenFiles": [
+    "20_research/Researching on Flow-based.md",
+    "01_natural_language_processing/(2019) Neural Spline Flows.md",
+    "01_natural_language_processing/(2020) Invertible generative modeling using linear rational splines.md",
+    "01_natural_language_processing/(2019)  Cubic-Spline Flows.md",
+    "02_computer_vision/(2019) Neural Importance Sampling.md",
+    "01_natural_language_processing/(2019) Unconstrained Monotonic Neural Networks.md",
+    "01_natural_language_processing/(2019) Block neural autoregressive flow.md",
+    "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
+    "01_natural_language_processing/(2020 Normalizing Flows, An Introduction and Review of Current Methods).md",
+    "01_natural_language_processing/(2019) Neural Density Estimation and Likelihood-free Inference.md",
+    "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
+    "01_natural_language_processing/(2018) Neural autoregressive flows.md",
+    "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
+    "02_computer_vision/(2017) Density estimation using Real NVP.md",
+    "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
+    "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
+    "01_natural_language_processing/(2019) Sum-of-Squares Polynomial Flow.md",
+    "02_computer_vision/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
+    "02_computer_vision/(2023) Flow Matching for Generative Modeling.md",
+    "99_attachment/Flow Matching for Generative Modeling.pdf",
+    "(2019).md",
+    "99_attachment/Neural Importance Sampling.pdf",
+    "99_attachment/(2019) Unconstrained Monotonic Neural Networks.pdf",
+    "99_attachment/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.pdf",
+    "99_attachment/Block Neural Autoregressive Flow.pdf",
+    "99_attachment/NIPS-2016-improved-variational-inference-with-inverse-autoregressive-flow-Paper.pdf",
+    "99_attachment/Sum-of-Squares Polynomial Flow.pdf",
+    "99_attachment/Normalizing Flows, An Introduction and Review of Current Methods.pdf",
+    "99_attachment/Neural Density Estimation and Likelihood-free Inference.pdf",
+    "20_research",
+    "未命名.md",
+    "01_natural_language_processing/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
+    "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
+    "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
+    "96_tags/Discrete Variable.md",
     "99_attachment/Pasted image 20230515143204.png",
     "99_attachment/Pasted image 20230515142457.png",
     "99_attachment/Pasted image 20230515141329.png",
@@ -165,44 +212,8 @@
     "99_attachment/Pasted image 20230515140114.png",
     "99_attachment/Pasted image 20230515135726.png",
     "99_attachment/Pasted image 20230515135701.png",
-    "01_natural_language_processing/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md",
-    "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
-    "01_natural_language_processing/(2023) Normalizing Flows for Probabilistic Modeling and Inference.md",
-    "99_attachment/Normalizing Flows for Probabilistic Modeling and Inference.pdf",
-    "01_natural_language_processing/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
     "未命名.canvas",
     "99_attachment/Pasted image 20230514231429.png",
-    "99_attachment/Pasted image 20230514231201.png",
-    "99_attachment/Pasted image 20230514224707.png",
-    "99_attachment/Scaling Transformer to 1M tokens and beyond with RMT.pdf",
-    "90_tools/vscode.md",
-    "02_computer_vision/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
-    "01_natural_language_processing/(2016) Ladder Variational Autoencoders.md",
-    "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
-    "01_natural_language_processing/(2016) Tutorial on Variational Autoencoders.md",
-    "01_natural_language_processing/(2023) PaLM2 Technical Report.md",
-    "01_natural_language_processing/(2023) Eearly Exaperiments with GPT4.md",
-    "01_natural_language_processing/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
-    "01_natural_language_processing/(2023) Generative Agents Interactive Simulacra of Human Behavior.md",
-    "01_natural_language_processing/(2023) UL2, Unifying Language Learning Paradigms.md",
-    "01_natural_language_processing/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
-    "99_attachment/palm2techreport.pdf",
-    "99_attachment/2204.02311.pdf",
-    "99_attachment/6145_ul2_unifying_language_learning.pdf",
-    "99_attachment/2011.10650.pdf",
-    "01_natural_language_processing/(2015) From Neural PCA to Deep Unsupervised Learning.md",
-    "99_attachment/Ladder-Variational-Autoencoders-master.zip",
-    "99_attachment/1602.02282.pdf",
-    "99_attachment/1411.7783v2.pdf",
-    "99_attachment/1606.05908.pdf",
-    "90_tools/docker.md",
-    "01_natural_language_processing/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
-    "01_natural_language_processing/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
-    "01_natural_language_processing/(2020) GPT3, Language Models are Few-Shot Learners.md",
-    "01_natural_language_processing/(2022) Instruct GPT.md",
-    "01_natural_language_processing/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
-    "API-Bank, A Benchmark for Tool-Augmented LLMs.md",
-    "2023-04-24.md",
-    "01_natural_language_processing/(2021) SentenceMIM A Latent Variable Language Model.md"
+    "99_attachment/Pasted image 20230514231201.png"
   ]
 }
