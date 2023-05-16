@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9cdf91ad757fa553",
+        "id": "861ad6b7f7fbcee1",
         "type": "tabs",
         "children": [
           {
-            "id": "d92acff148af0d49",
+            "id": "a6560c2066010f47",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,10 +154,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d92acff148af0d49",
+  "active": "a6560c2066010f47",
   "lastOpenFiles": [
-    "01_natural_language_processing/(2018) Neural autoregressive flows.md",
+    "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
     "20_research/Researching on Flow-based.md",
+    "99_attachment/Pasted image 20230516235107.png",
+    "01_natural_language_processing/(2018) Neural autoregressive flows.md",
     "02_computer_vision/(2023) Flow Matching for Generative Modeling.md",
     "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
     "01_natural_language_processing/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md",
@@ -176,7 +178,6 @@
     "99_attachment/Stochastic Backpropagation and Approximate Inference.pdf",
     "99_attachment/Variational inference with normalizing flows 1.pdf",
     "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
-    "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
     "01_natural_language_processing/(2019) Neural Spline Flows.md",
     "01_natural_language_processing/(2020) Invertible generative modeling using linear rational splines.md",
     "01_natural_language_processing/(2019)  Cubic-Spline Flows.md",
@@ -200,8 +201,6 @@
     "99_attachment/Normalizing Flows, An Introduction and Review of Current Methods.pdf",
     "01_natural_language_processing/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
     "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
-    "96_tags/Discrete Variable.md",
-    "99_attachment/Pasted image 20230515143204.png",
     "未命名.canvas"
   ]
 }

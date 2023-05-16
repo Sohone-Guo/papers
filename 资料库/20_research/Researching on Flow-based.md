@@ -16,7 +16,7 @@
 	- 通过Normalization FIow增加Variational inference 的准确性
 	- Flow-based模块参考了[[(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION]]
 - [[(2016) Improved variational inference with inverse autoregressive flow]]
-	- IVF: 最早的Autoregressive Flow
+	- IVF: 最早的Autoregressive Flow,
 
 # 2017
 ---
