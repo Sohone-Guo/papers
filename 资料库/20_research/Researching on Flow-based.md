@@ -1,10 +1,16 @@
 # 2015
 ---
 - [[(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION]].
-	1. 定义了Flow-based的理论来源: We take the view that a good representation is one in which the distribution of the data is easy to model.
-	2. A key novelty (Easy determinant of the Jacobian; Easy inverse)
-		1. Split $x$ to $(x_1, x_2)$
-	3. Coupling Layer: additive coupling layer and combining coupling layers.
+	- 主要原理和信息
+		1. 定义了Flow-based的理论来源: We take the view that a good representation is one in which the distribution of the data is easy to model.
+		2. A key novelty (Easy determinant of the Jacobian; Easy inverse)
+			1. Split $x$ to $(x_1, x_2)$
+		3. Coupling Layer: additive coupling layer and combining coupling layers.
+	- 优缺点
+		1. 优点：Easy determinant of the Jacobian; Easy inverse
+		2. 缺点：特征提取和Transform太简单，不足以复杂特征。
+	- <font color="#c00000">留下的任务</font>
+		- 测试一下多层transformers的效果
 # 2016
 ---
 - [[(2016) Variational inference with normalizing flows]]
