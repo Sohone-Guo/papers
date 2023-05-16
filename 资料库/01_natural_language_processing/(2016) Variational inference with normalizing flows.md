@@ -6,7 +6,8 @@
 ---
 ![[Pasted image 20230516220513.png]]
 - w1和wk哪个是$N(0,I)$?
-- 
+	- w1是
+- Inference network整体为Flow-based
 
 # Reference
 ---
