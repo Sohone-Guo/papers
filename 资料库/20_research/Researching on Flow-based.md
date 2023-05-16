@@ -12,6 +12,8 @@
 # 2016
 ---
 - [[(2016) Variational inference with normalizing flows]]
+	- 基于Hierarchy of L layers of Gaussian latent variables
+	- 
 - [[(2016) Improved variational inference with inverse autoregressive flow]]
 	- IVF
 
