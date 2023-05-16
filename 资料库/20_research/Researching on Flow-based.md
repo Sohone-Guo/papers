@@ -13,19 +13,22 @@
 ---
 - [[(2016) Variational inference with normalizing flows]]
 	- 基于Hierarchy of L layers of Gaussian latent variables
-	- 
+	- 通过Normalization FIow增加Variational inference 的准确性
+	- Flow-based模块参考了[[(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION]]
 - [[(2016) Improved variational inference with inverse autoregressive flow]]
-	- IVF
+	- IVF: 最早的Autoregressive Flow
 
 # 2017
 ---
 -  [[(2017) Density estimation using Real NVP]]
+	- 可以函数的Coupling部分太简单，提出一个X拆分多个部分后，其通过函数组合的可能性。
 - [[(2017) Masked autoregressive flow for density estimation]]
 	- MAF
 
 # 2018
 ---
 - [[(2018) Glow, Generative Flow with Invertible 1x1 Convolutions]]
+	- 可以函数的Coupling部分太简单，提出一个X拆分多个部分后，其通过1x1的Con函数自动学习组合的可能性。
 - [[(2018) Neural autoregressive flows]]
 	- Autoregressive Flow
 - [[(2018) Unsupervised Learning of Syntactic Structure with Invertible Neural Projections]]
