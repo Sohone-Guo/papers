@@ -4,8 +4,11 @@
 
 # Mainly Idea
 ---
+![[Pasted image 20230517154801.png]]
 
+![[Pasted image 20230517154816.png]]
 
+![[Pasted image 20230517154833.png]]
 # Reference
 ---
 - 论文
