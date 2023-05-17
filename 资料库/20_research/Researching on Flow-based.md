@@ -43,6 +43,11 @@
 # 2019
 ---
 - [[(2019) Discrete Flows, Invertible Generative Models of Discrete Data]]
+	- 链接论文：[[(2017) Density estimation using Real NVP]]
+	- 第一篇Normalizing flow applied to discrete distributions.
+	- 其他论文总结
+		- Autoregressive flows: $\mu$ 是从过去生成的结果中获取 [[(2016) Variational inference with normalizing flows]]; [[(2017) Masked autoregressive flow for density estimation]]; [[(2016) Improved variational inference with inverse autoregressive flow]]
+		- Bipartite flows: $\mu$ 是从部分$x$中获取 [[(2017) Density estimation using Real NVP]]
 - [[(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow]]
 	- Split along time dimension First
 - [[(2019) Neural Density Estimation and Likelihood-free Inference]]
