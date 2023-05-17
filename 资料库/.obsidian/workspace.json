@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "20_research/Researching on Flow-based.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -156,8 +156,8 @@
   },
   "active": "a6560c2066010f47",
   "lastOpenFiles": [
-    "20_research/Researching on Flow-based.md",
     "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
+    "20_research/Researching on Flow-based.md",
     "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
     "02_computer_vision/(2017) Density estimation using Real NVP.md",
     "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
