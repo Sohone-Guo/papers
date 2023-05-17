@@ -97,3 +97,13 @@
 ---
 - [[(2023) Flow Matching for Generative Modeling]]
 - [[(2023) Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion]]
+
+
+# 后续方向
+---
+
+|  方向 | 难易度  | 解决的问题  | 可能方案 |
+|---|---|---|---|
+| Encoder→Flow-based→Decoder  | 易  | 输入输出再没有Cross-attention的情况输出不一致情况  |结构化Flow-based|
+| Flow-based as Decoder | 难 | Autoregressive Flow-based on NLP  | - |
+| Autoregression decoder with Flow-based  | 中 | 解决少数据情况，分布不稳定，语法问题  | - |

@@ -137,7 +137,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7266ecc6e8ac6f77",
+  "active": "53fd65d16d68f55e",
   "lastOpenFiles": [
     "01_natural_language_processing/(2018) Neural autoregressive flows.md",
     "99_attachment/Pasted image 20230517154833.png",
