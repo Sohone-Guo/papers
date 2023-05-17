@@ -11,6 +11,10 @@ There are mainly two families of neural density estimators that are both flexibl
 当前问题：Autoregressive models 对顺序很敏感，换一个顺序可能就失败了，所提方法，使得Autoregressive models 换顺序不会失败。
 ![[Pasted image 20230517142230.png]]
 
+普通方法不行，将数据映射到Random number后，不是高斯，将Autoregressive看成Flow就可以了
+我个人感觉是change variable使得数据变简单了，所以有效的
+![[Pasted image 20230517145450.png]]
+
 # Reference
 ---
 - [[(2016) Improved variational inference with inverse autoregressive flow]]
