@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_research/Researching on Flow-based.md",
+                "file": "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_research/Researching on Flow-based.md",
+                "file": "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_research/Researching on Flow-based.md",
+                "file": "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_research/Researching on Flow-based.md"
+                "file": "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md"
               }
             }
           }
@@ -170,8 +170,11 @@
   },
   "active": "6b2636b55236f13e",
   "lastOpenFiles": [
-    "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
+    "99_attachment/Pasted image 20230517231538.png",
+    "99_attachment/Pasted image 20230517231434.png",
+    "99_attachment/Pasted image 20230517231414.png",
     "20_research/Researching on Flow-based.md",
+    "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
     "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
     "01_natural_language_processing/(2018) Neural autoregressive flows.md",
     "01_natural_language_processing/(2020) Invertible generative modeling using linear rational splines.md",
@@ -188,12 +191,10 @@
     "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
     "99_attachment/Pasted image 20230517145450.png",
     "99_attachment/Pasted image 20230517142402.png",
-    "99_attachment/Pasted image 20230517142230.png",
     "02_computer_vision/(2017) Density estimation using Real NVP.md",
     "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
     "02_computer_vision/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
     "01_natural_language_processing/(2019) Sum-of-Squares Polynomial Flow.md",
-    "99_attachment/Pasted image 20230516235107.png",
     "02_computer_vision/(2023) Flow Matching for Generative Modeling.md",
     "01_natural_language_processing/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md",
     "01_natural_language_processing/(2014) Stochastic Backpropagation and Approximate Inference in Deep Generative Models.md",
