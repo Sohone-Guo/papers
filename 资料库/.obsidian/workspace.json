@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "20_research/Researching on Flow-based.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 272.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -156,20 +156,20 @@
   },
   "active": "a6560c2066010f47",
   "lastOpenFiles": [
-    "01_natural_language_processing/(2020) Invertible generative modeling using linear rational splines.md",
     "20_research/Researching on Flow-based.md",
+    "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
+    "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
+    "02_computer_vision/(2017) Density estimation using Real NVP.md",
+    "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
+    "01_natural_language_processing/(2020) Invertible generative modeling using linear rational splines.md",
     "02_computer_vision/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
     "01_natural_language_processing/(2019) Sum-of-Squares Polynomial Flow.md",
     "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
     "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
     "01_natural_language_processing/(2018) Neural autoregressive flows.md",
-    "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
-    "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
-    "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
     "99_attachment/Pasted image 20230516235107.png",
     "02_computer_vision/(2023) Flow Matching for Generative Modeling.md",
     "01_natural_language_processing/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md",
-    "02_computer_vision/(2017) Density estimation using Real NVP.md",
     "99_attachment/Pasted image 20230516225520.png",
     "99_attachment/Pasted image 20230516225332.png",
     "99_attachment/Pasted image 20230516225313.png",
