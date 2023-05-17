@@ -84,7 +84,7 @@
 
 # 2022
 ---
-- [[(2022) FastFlows: Flow-Based Models for Molecular Graph Generation]]
+- [[(2022) FastFlows, Flow-Based Models for Molecular Graph Generation]]
 - 
 # 2023
 ---
