@@ -48,6 +48,7 @@
 	- 其他论文总结
 		- Autoregressive flows: $\mu$ 是从过去生成的结果中获取 [[(2016) Variational inference with normalizing flows]]; [[(2017) Masked autoregressive flow for density estimation]]; [[(2016) Improved variational inference with inverse autoregressive flow]]
 		- Bipartite flows: $\mu$ 是从部分$x$中获取 [[(2017) Density estimation using Real NVP]]
+	- 没有使用det, 直接使用的可逆函数进行。
 - [[(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow]]
 	- Split along time dimension First
 - [[(2019) Neural Density Estimation and Likelihood-free Inference]]

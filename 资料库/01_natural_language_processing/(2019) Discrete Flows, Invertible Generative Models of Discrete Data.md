@@ -9,6 +9,10 @@
 ![[Pasted image 20230517171510.png]]
 疑惑点
 - Each token depends on both left-to-right and right-to-left?
+	- 可逆函数自带
+- 直接使用可逆函数进行
+	- 初始实验：![[Pasted image 20230517224129.png]]
+	- 文字实验：![[Pasted image 20230517224400.png]]
 # Reference
 ---
 - 链接论文
