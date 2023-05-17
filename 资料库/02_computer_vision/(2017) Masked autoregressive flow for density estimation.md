@@ -15,6 +15,9 @@ There are mainly two families of neural density estimators that are both flexibl
 - [[(2016) Improved variational inference with inverse autoregressive flow]]
 - [[(2017) Density estimation using Real NVP]]
 
+Video
+- [Masked Autoregressive Flow for Density Estimation on Vimeo](https://vimeo.com/252105837)
+
 # Attachment
 ---
 ![[1705.07057.pdf]]
