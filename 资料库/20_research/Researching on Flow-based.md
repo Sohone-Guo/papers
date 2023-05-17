@@ -93,6 +93,7 @@
 		- Radial Flow: [[(2016) Variational inference with normalizing flows]]
 	- Application: 
 		- Text: [[(2019) Discrete Flows, Invertible Generative Models of Discrete Data]] take this approach, showing performance in character-level language modeling competitive to RNNs while having superior generation runtime; [[(2020) Targeted free energy estimation via learned mappings]]; [[(2019) Density Matching for Bilingual Word Embedding]]; [[(2018) Unsupervised Learning of Syntactic Structure with Invertible Neural Projections]]
+- [[(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions]]
 
 # 2022
 ---

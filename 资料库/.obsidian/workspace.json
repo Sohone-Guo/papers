@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b2636b55236f13e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_research/Researching on Flow-based.md",
+                "file": "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_research/Researching on Flow-based.md",
+                "file": "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_research/Researching on Flow-based.md"
+                "file": "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md"
               }
             }
           }
@@ -155,10 +168,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7266ecc6e8ac6f77",
+  "active": "6b2636b55236f13e",
   "lastOpenFiles": [
-    "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
+    "99_attachment/PyTorchDiscreteFlows-master.zip",
     "20_research/Researching on Flow-based.md",
+    "01_natural_language_processing/(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.md",
+    "99_attachment/Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.pdf",
+    "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
     "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
     "99_attachment/Pasted image 20230517171510.png",
     "01_natural_language_processing/(2018) Neural autoregressive flows.md",
@@ -199,9 +215,7 @@
     "99_attachment/Block Neural Autoregressive Flow.pdf",
     "99_attachment/NIPS-2016-improved-variational-inference-with-inverse-autoregressive-flow-Paper.pdf",
     "99_attachment/Sum-of-Squares Polynomial Flow.pdf",
-    "99_attachment/Normalizing Flows, An Introduction and Review of Current Methods.pdf",
     "01_natural_language_processing/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
-    "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
     "未命名.canvas"
   ]
 }
