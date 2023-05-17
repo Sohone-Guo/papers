@@ -156,8 +156,9 @@
   },
   "active": "7266ecc6e8ac6f77",
   "lastOpenFiles": [
-    "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
+    "01_natural_language_processing/(2018) Neural autoregressive flows.md",
     "20_research/Researching on Flow-based.md",
+    "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
     "99_attachment/Pasted image 20230517145450.png",
     "99_attachment/Pasted image 20230517142402.png",
     "99_attachment/Pasted image 20230517142230.png",
@@ -169,7 +170,6 @@
     "01_natural_language_processing/(2019) Sum-of-Squares Polynomial Flow.md",
     "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
     "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
-    "01_natural_language_processing/(2018) Neural autoregressive flows.md",
     "99_attachment/Pasted image 20230516235107.png",
     "02_computer_vision/(2023) Flow Matching for Generative Modeling.md",
     "01_natural_language_processing/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md",

@@ -32,6 +32,11 @@
 - [[(2018) Glow, Generative Flow with Invertible 1x1 Convolutions]]
 	- 可以函数的Coupling部分太简单，提出一个X拆分多个部分后，其通过1x1的Con函数自动学习组合的可能性。
 - [[(2018) Neural autoregressive flows]]
+	- 链接的论文：
+		- [[(2017) Masked autoregressive flow for density estimation]]
+		- [[(2016) Improved variational inference with inverse autoregressive flow]]
+	- 主要贡献
+		- 优化了affine transformations
 	- Autoregressive Flow
 - [[(2018) Unsupervised Learning of Syntactic Structure with Invertible Neural Projections]]
 
