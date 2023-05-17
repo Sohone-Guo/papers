@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "861ad6b7f7fbcee1",
+        "id": "3df2d8536a62a100",
         "type": "tabs",
         "children": [
           {
-            "id": "a6560c2066010f47",
+            "id": "7266ecc6e8ac6f77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
+                "file": "20_research/Researching on Flow-based.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
+                "file": "20_research/Researching on Flow-based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
+                "file": "20_research/Researching on Flow-based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md"
+                "file": "20_research/Researching on Flow-based.md"
               }
             }
           }
@@ -154,10 +154,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a6560c2066010f47",
+  "active": "7266ecc6e8ac6f77",
   "lastOpenFiles": [
-    "20_research/Researching on Flow-based.md",
     "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
+    "99_attachment/Pasted image 20230517142402.png",
+    "99_attachment/Pasted image 20230517142230.png",
+    "20_research/Researching on Flow-based.md",
     "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
     "02_computer_vision/(2017) Density estimation using Real NVP.md",
     "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
@@ -178,8 +180,6 @@
     "99_attachment/Pasted image 20230516220513.png",
     "01_natural_language_processing/(2014) Stochastic Backpropagation and Approximate Inference in Deep Generative Models.md",
     "99_attachment/Pasted image 20230516215841.png",
-    "99_attachment/Pasted image 20230516215439.png",
-    "99_attachment/Pasted image 20230516215427.png",
     "99_attachment/Stochastic Backpropagation and Approximate Inference.pdf",
     "99_attachment/Variational inference with normalizing flows 1.pdf",
     "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",

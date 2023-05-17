@@ -24,7 +24,7 @@
 	- 可以函数的Coupling部分太简单，提出一个X拆分多个部分后，其通过函数组合的可能性。
 - [[(2017) Masked autoregressive flow for density estimation]]
 	- 参考了[[(2016) Improved variational inference with inverse autoregressive flow]]， [[(2017) Density estimation using Real NVP]]
-	- 
+	- 将autoregressive看成Flow, 并且很快
 
 # 2018
 ---
