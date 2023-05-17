@@ -8,6 +8,8 @@ There are mainly two families of neural density estimators that are both flexibl
 - Autoregressive models decompose the joint density as a product of conditions, and model each conditional in turn.
 - Normalizing flows transform a base density into the target density by an invertible transformation with tractable Jacobian.
 
+当前问题：Autoregressive models 对顺序很敏感，换一个顺序可能就失败了，所提方法，使得Autoregressive models 换顺序不会失败。
+
 # Reference
 ---
 - [[(2016) Improved variational inference with inverse autoregressive flow]]
