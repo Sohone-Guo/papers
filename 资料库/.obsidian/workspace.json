@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
+                "file": "20_research/Researching on Flow-based.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
+                "file": "20_research/Researching on Flow-based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
+                "file": "20_research/Researching on Flow-based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md"
+                "file": "20_research/Researching on Flow-based.md"
               }
             }
           }
@@ -170,12 +170,12 @@
   },
   "active": "6b2636b55236f13e",
   "lastOpenFiles": [
-    "99_attachment/PyTorchDiscreteFlows-master.zip",
-    "20_research/Researching on Flow-based.md",
     "01_natural_language_processing/(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.md",
+    "20_research/Researching on Flow-based.md",
+    "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
+    "99_attachment/PyTorchDiscreteFlows-master.zip",
     "99_attachment/Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.pdf",
     "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
-    "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
     "99_attachment/Pasted image 20230517171510.png",
     "01_natural_language_processing/(2018) Neural autoregressive flows.md",
     "99_attachment/Pasted image 20230517154833.png",
@@ -214,7 +214,6 @@
     "99_attachment/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.pdf",
     "99_attachment/Block Neural Autoregressive Flow.pdf",
     "99_attachment/NIPS-2016-improved-variational-inference-with-inverse-autoregressive-flow-Paper.pdf",
-    "99_attachment/Sum-of-Squares Polynomial Flow.pdf",
     "01_natural_language_processing/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
     "未命名.canvas"
   ]
