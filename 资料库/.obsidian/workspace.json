@@ -157,12 +157,14 @@
   },
   "active": "7266ecc6e8ac6f77",
   "lastOpenFiles": [
+    "01_natural_language_processing/(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.md",
+    "20_research/Researching on Flow-based.md",
+    "01_natural_language_processing/(2020) Invertible generative modeling using linear rational splines.md",
+    "99_attachment/2001.05168.pdf",
     "02_computer_vision/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
     "99_attachment/Pasted image 20230517235927.png",
     "99_attachment/Pasted image 20230517235712.png",
     "99_attachment/Pasted image 20230517235219.png",
-    "20_research/Researching on Flow-based.md",
-    "01_natural_language_processing/(2020) Invertible generative modeling using linear rational splines.md",
     "01_natural_language_processing/(2019) Sum-of-Squares Polynomial Flow.md",
     "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
     "99_attachment/Pasted image 20230517234414.png",
@@ -172,7 +174,6 @@
     "99_attachment/Pasted image 20230517231414.png",
     "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
     "01_natural_language_processing/(2018) Neural autoregressive flows.md",
-    "01_natural_language_processing/(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.md",
     "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
     "99_attachment/Pasted image 20230517224400.png",
     "99_attachment/Pasted image 20230517224129.png",
@@ -200,7 +201,6 @@
     "99_attachment/(2019) Unconstrained Monotonic Neural Networks.pdf",
     "99_attachment/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.pdf",
     "99_attachment/Block Neural Autoregressive Flow.pdf",
-    "99_attachment/NIPS-2016-improved-variational-inference-with-inverse-autoregressive-flow-Paper.pdf",
     "01_natural_language_processing/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
     "未命名.canvas"
   ]
