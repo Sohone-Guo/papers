@@ -39,6 +39,9 @@
 		- 优化了affine transformations
 	- Autoregressive Flow
 - [[(2018) Unsupervised Learning of Syntactic Structure with Invertible Neural Projections]]
+- [[(2018) Neural Ordinary Differential Equations]]
+	- Continuous Normalization Flow
+	- Continuous Normalizing Flows in particular known to encompass the probability paths modeled by diffusion processing. [[(2021) Maximum Likelihood Training of Score-Based Diffusion Models]]
 
 # 2019
 ---
@@ -113,6 +116,7 @@
 - [[(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions]]
 	- 离散数据的生成(测试了Flow和Diffusion)
 	- 测评结果如下（越小越好）：![[Pasted image 20230518105839.png]]
+ 
 
 # 2022
 ---
@@ -121,6 +125,7 @@
 # 2023
 ---
 - [[(2023) Flow Matching for Generative Modeling]]
+	- Continuous Normalizing Flow, for Defusion model training too slow.
 - [[(2023) Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion]]
 
 

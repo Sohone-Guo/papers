@@ -4,11 +4,11 @@
 
 # Mainly Idea
 ---
-
+Defusion Model 训练时间太长了
 
 # Reference
 ---
-
+- Flow Matching 是什么意思？
 
 # Attachment
 ---
