@@ -51,11 +51,14 @@
 	- 没有使用det, 直接使用的可逆函数进行。
 - [[(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow]]
 	- Split along time dimension First
+	- 利用[[(2018) Glow, Generative Flow with Invertible 1x1 Convolutions]]，优化encoder的hidden, 优化Non-autoregressive的效果。
 - [[(2019) Neural Density Estimation and Likelihood-free Inference]]
 - [[(2019) Sum-of-Squares Polynomial Flow]]
 	- Autoregression Flow
 - [[(2019) Block neural autoregressive flow]]
 - [[(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design]]
+	- 需要将离散数据变成连续数据，所以使用了Flow-based的方法
+	- 优化了Affine transformers
 -  [[(2019) Unconstrained Monotonic Neural Networks]]
 - [[(2019) Neural Importance Sampling]]
 - [[(2019)  Cubic-Spline Flows]],
