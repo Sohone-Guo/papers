@@ -56,21 +56,34 @@
 - [[(2019) Sum-of-Squares Polynomial Flow]]
 	- Autoregression Flow
 - [[(2019) Block neural autoregressive flow]]
+	- NAF升级版本：[[(2018) Neural autoregressive flows]]
 - [[(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design]]
 	- 需要将离散数据变成连续数据，所以使用了Flow-based的方法
 	- 优化了Affine transformers
 -  [[(2019) Unconstrained Monotonic Neural Networks]]
 - [[(2019) Neural Importance Sampling]]
+	- Piecewise polynomial functions
 - [[(2019)  Cubic-Spline Flows]],
 - [[(2019) Neural Spline Flows]].
 - [[(2019) Invertible Residual Networks]]
+	- infinite power series can replace this Jacobian determinant.
 - [[(2019) Residual Flows for Invertible Generative Modeling]]
+	- 延伸[[(2019) Neural Importance Sampling]]
 - [[(2019) Sylvester Normalizing Flows for Variational Inference]]
 - [[(2019) Density Matching for Bilingual Word Embedding]]
+- [[(2019) FFJORD, Free-form Continuous Dynamics for Scalable Reversible Generative Models]]
+	- 无需要Det
 
 # 2020
 ---
 - [[(2020) Invertible generative modeling using linear rational splines]],
+	- Affine transformation is easy to compute inverse but may limit expressiveness of a model.
+	- Piecewise polynomial function have attracted attention recently. 
+	- 相关信息
+		- Coupling layer Transformations: [[(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION]]; [[(2017) Density estimation using Real NVP]];[[(2018) Glow, Generative Flow with Invertible 1x1 Convolutions]]
+		- Autoregressive Transformations: [[(2016) Improved variational inference with inverse autoregressive flow]];[[(2017) Masked autoregressive flow for density estimation]];
+			- NAF认为Affine transformation is limit expressiveness. [[(2018) Neural autoregressive flows]]; [[(2019) Block neural autoregressive flow]]
+	- 更复杂的函数替换Affine transformation
 - [[(2020) Targeted free energy estimation via learned mappings]]
 
 # 2021
@@ -98,6 +111,8 @@
 	- Application: 
 		- Text: [[(2019) Discrete Flows, Invertible Generative Models of Discrete Data]] take this approach, showing performance in character-level language modeling competitive to RNNs while having superior generation runtime; [[(2020) Targeted free energy estimation via learned mappings]]; [[(2019) Density Matching for Bilingual Word Embedding]]; [[(2018) Unsupervised Learning of Syntactic Structure with Invertible Neural Projections]]
 - [[(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions]]
+	- 离散数据的生成(测试了Flow和Diffusion)
+	- 测评结果如下（越小越好）：![[Pasted image 20230518105839.png]]
 
 # 2022
 ---
@@ -115,5 +130,5 @@
 |  方向 | 难易度  | 解决的问题  | 可能方案 |
 |---|---|---|---|
 | Encoder→Flow-based→Decoder  | 易  | 输入输出再没有Cross-attention的情况输出不一致情况  |结构化Flow-based|
-| Flow-based as Decoder | 难 | Autoregressive Flow-based on NLP  | - |
+| Flow-based as Decoder | 难 | Autoregressive Flow-based on NLP  | 离散数据 |
 | Autoregression decoder with Flow-based  | 中 | 解决少数据情况，分布不稳定，语法问题  | - |
