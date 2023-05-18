@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3df2d8536a62a100",
+        "id": "aba32268b68075ce",
         "type": "tabs",
         "children": [
           {
-            "id": "7266ecc6e8ac6f77",
+            "id": "8f01e615dac335fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ef5e2b1be57d518b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
+                "file": "20_research/Researching on Flow-based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
+                "file": "20_research/Researching on Flow-based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md"
+                "file": "20_research/Researching on Flow-based.md"
               }
             }
           }
@@ -168,8 +155,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "8f01e615dac335fc",
   "lastOpenFiles": [
+    "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
+    "01_natural_language_processing/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md",
+    "99_attachment/Pasted image 20230518172129.png",
+    "20_research/Researching on Flow-based.md",
+    "02_computer_vision/(2017) Density estimation using Real NVP.md",
+    "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
+    "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
     "99_attachment/Pasted image 20230518154735.png",
     "99_attachment/Pasted image 20230518154523.png",
     "99_attachment/Pasted image 20230518154232.png",
@@ -179,13 +173,7 @@
     "99_attachment/Pasted image 20230518154008.png",
     "99_attachment/Pasted image 20230518153934.png",
     "99_attachment/Pasted image 20230518153832.png",
-    "99_attachment/Pasted image 20230518153828.png",
-    "99_attachment/Pasted image 20230518153812.png",
     "99_attachment/2006.11239.pdf",
-    "20_research/Researching on Flow-based.md",
-    "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
-    "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
-    "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
     "02_computer_vision/(2023) Flow Matching for Generative Modeling.md",
     "02_computer_vision/(2021) Maximum Likelihood Training of Score-Based Diffusion Models.md",
     "99_attachment/Maximum Likelihood Training of Score-Based Diffusion Models.pdf",
@@ -201,7 +189,6 @@
     "01_natural_language_processing/(2018) Neural autoregressive flows.md",
     "01_natural_language_processing/(2019) FFJORD, Free-form Continuous Dynamics for Scalable Reversible Generative Models.md",
     "99_attachment/1810.01367.pdf",
-    "02_computer_vision/(2017) Density estimation using Real NVP.md",
     "99_attachment/2001.05168.pdf",
     "02_computer_vision/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
     "01_natural_language_processing/(2019) Sum-of-Squares Polynomial Flow.md",
@@ -211,7 +198,6 @@
     "99_attachment/Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.pdf",
     "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
     "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
-    "01_natural_language_processing/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md",
     "01_natural_language_processing/(2014) Stochastic Backpropagation and Approximate Inference in Deep Generative Models.md",
     "99_attachment/Stochastic Backpropagation and Approximate Inference.pdf",
     "99_attachment/Variational inference with normalizing flows 1.pdf",

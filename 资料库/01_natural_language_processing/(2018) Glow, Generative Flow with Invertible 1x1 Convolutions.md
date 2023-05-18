@@ -6,7 +6,7 @@
 # Mainly Idea
 ---
 ![[Pasted image 20230507212905.png]]
-
+![[Pasted image 20230518172129.png]]
 # Reference
 ---
 
