@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "20_research/Researching on Flow-based.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef5e2b1be57d518b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 329.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_research/Researching on Flow-based.md",
+                "file": "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_research/Researching on Flow-based.md",
+                "file": "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_research/Researching on Flow-based.md"
+                "file": "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md"
               }
             }
           }
@@ -155,17 +168,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7266ecc6e8ac6f77",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
-    "02_computer_vision/(2023) Flow Matching for Generative Modeling.md",
+    "99_attachment/Pasted image 20230518154735.png",
+    "99_attachment/Pasted image 20230518154523.png",
+    "99_attachment/Pasted image 20230518154232.png",
+    "99_attachment/Pasted image 20230518154137.png",
+    "99_attachment/Pasted image 20230518154052.png",
+    "99_attachment/Pasted image 20230518154028.png",
+    "99_attachment/Pasted image 20230518154008.png",
+    "99_attachment/Pasted image 20230518153934.png",
+    "99_attachment/Pasted image 20230518153832.png",
+    "99_attachment/Pasted image 20230518153828.png",
+    "99_attachment/Pasted image 20230518153812.png",
+    "99_attachment/2006.11239.pdf",
     "20_research/Researching on Flow-based.md",
+    "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
+    "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
+    "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
+    "02_computer_vision/(2023) Flow Matching for Generative Modeling.md",
     "02_computer_vision/(2021) Maximum Likelihood Training of Score-Based Diffusion Models.md",
     "99_attachment/Maximum Likelihood Training of Score-Based Diffusion Models.pdf",
     "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
     "99_attachment/Neural Ordinary Differential Equations.pdf",
-    "99_attachment/Pasted image 20230518105839.png",
     "01_natural_language_processing/(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.md",
-    "99_attachment/Pasted image 20230518105131.png",
     "01_natural_language_processing/(2020 Normalizing Flows, An Introduction and Review of Current Methods).md",
     "01_natural_language_processing/(2019) Neural Density Estimation and Likelihood-free Inference.md",
     "01_natural_language_processing/(2020) Invertible generative modeling using linear rational splines.md",
@@ -178,17 +204,8 @@
     "02_computer_vision/(2017) Density estimation using Real NVP.md",
     "99_attachment/2001.05168.pdf",
     "02_computer_vision/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
-    "99_attachment/Pasted image 20230517235927.png",
-    "99_attachment/Pasted image 20230517235712.png",
-    "99_attachment/Pasted image 20230517235219.png",
     "01_natural_language_processing/(2019) Sum-of-Squares Polynomial Flow.md",
     "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
-    "99_attachment/Pasted image 20230517234414.png",
-    "99_attachment/Pasted image 20230517234232.png",
-    "99_attachment/Pasted image 20230517231538.png",
-    "99_attachment/Pasted image 20230517231434.png",
-    "99_attachment/Pasted image 20230517231414.png",
-    "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
     "01_natural_language_processing/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
     "99_attachment/PyTorchDiscreteFlows-master.zip",
     "99_attachment/Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.pdf",
@@ -198,10 +215,7 @@
     "01_natural_language_processing/(2014) Stochastic Backpropagation and Approximate Inference in Deep Generative Models.md",
     "99_attachment/Stochastic Backpropagation and Approximate Inference.pdf",
     "99_attachment/Variational inference with normalizing flows 1.pdf",
-    "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "01_natural_language_processing/(2019) Neural Spline Flows.md",
-    "01_natural_language_processing/(2019)  Cubic-Spline Flows.md",
-    "99_attachment/Flow Matching for Generative Modeling.pdf",
     "未命名.canvas"
   ]
 }
