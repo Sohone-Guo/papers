@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2022) Understanding Diffusion Models, A Unified Perspective.md",
+                "file": "01_natural_language_processing/(2022) Understanding Diffusion Models, A Unified Perspective.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2022) Understanding Diffusion Models, A Unified Perspective.md",
+                "file": "01_natural_language_processing/(2022) Understanding Diffusion Models, A Unified Perspective.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2022) Understanding Diffusion Models, A Unified Perspective.md",
+                "file": "01_natural_language_processing/(2022) Understanding Diffusion Models, A Unified Perspective.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2020) Improved Techniques for Training Score-Based Generative Models.md",
+                "file": "02_computer_vision/(2020) Improved Techniques for Training Score-Based Generative Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -278,21 +278,23 @@
   },
   "active": "52b40df08d43f89b",
   "lastOpenFiles": [
-    "01_natural_language_processing/(2004) Use of Exchangeable Pairs in the Analysis of Simulations.md",
+    "99_attachment/Pasted image 20230519140133.png",
+    "02_computer_vision/(2020) Improved Techniques for Training Score-Based Generative Models.md",
     "20_research/Researching on Score Function.md",
+    "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
+    "01_natural_language_processing/(2004) Use of Exchangeable Pairs in the Analysis of Simulations.md",
     "99_attachment/Pasted image 20230519130043.png",
     "01_natural_language_processing/(2016) A Kernelized Stein Discrepancy for Goodness-of-fit Tests.md",
     "99_attachment/Pasted image 20230519130036.png",
     "99_attachment/Use of Exchangeable Pairs in the Analysis of Simulations.pdf",
     "01_natural_language_processing/(2016) A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation.md",
-    "(2020) Improved Techniques for Training Score-Based Generative Models.md",
     "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests.pdf",
     "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation.pdf",
     "99_attachment/Improved Techniques for Training Score-Based Generative Models.pdf",
-    "(2022) Understanding Diffusion Models, A Unified Perspective.md",
-    "(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
+    "01_natural_language_processing/(2022) Understanding Diffusion Models, A Unified Perspective.md",
+    "02_computer_vision/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
     "99_attachment/Score-Based Generative Modeling through Stochastic Differential Equations.pdf",
-    "(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
+    "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
     "99_attachment/Generative modeling by estimating gradients of the data distribution.pdf",
     "99_attachment/Understanding difusion models, a unifed perspective.pdf",
     "20_research/Researching on Flow-based.md",
@@ -302,7 +304,6 @@
     "01_natural_language_processing/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md",
     "99_attachment/Pasted image 20230518172129.png",
     "02_computer_vision/(2017) Density estimation using Real NVP.md",
-    "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
     "99_attachment/Pasted image 20230518154735.png",
     "99_attachment/Pasted image 20230518154523.png",
     "99_attachment/Pasted image 20230518154232.png",
