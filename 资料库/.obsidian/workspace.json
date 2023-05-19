@@ -54,9 +54,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7b7c1171a315009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_research/Researching on Score Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dfd43d0d8b6a4c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_research/Researching on Score Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ee67651af88bfd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_natural_language_processing/(2016) A Kernelized Stein Discrepancy for Goodness-of-fit Tests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08e2bf097eb79d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_natural_language_processing/(2016) A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "587e51d88c23216a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_natural_language_processing/(2016) A Kernelized Stein Discrepancy for Goodness-of-fit Tests.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fccf27ab0b80f85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_research/Researching on Score Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52b40df08d43f89b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_research/Researching on Score Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -130,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2020) Improved Techniques for Training Score-Based Generative Models.md",
+                "file": "20_research/Researching on Score Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2020) Improved Techniques for Training Score-Based Generative Models.md",
+                "file": "20_research/Researching on Score Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2020) Improved Techniques for Training Score-Based Generative Models.md"
+                "file": "20_research/Researching on Score Function.md"
               }
             }
           }
@@ -192,11 +276,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e4450cb1f274d54c",
+  "active": "52b40df08d43f89b",
   "lastOpenFiles": [
+    "01_natural_language_processing/(2004) Use of Exchangeable Pairs in the Analysis of Simulations.md",
+    "20_research/Researching on Score Function.md",
+    "99_attachment/Pasted image 20230519130043.png",
+    "01_natural_language_processing/(2016) A Kernelized Stein Discrepancy for Goodness-of-fit Tests.md",
+    "99_attachment/Pasted image 20230519130036.png",
+    "99_attachment/Use of Exchangeable Pairs in the Analysis of Simulations.pdf",
+    "01_natural_language_processing/(2016) A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation.md",
+    "(2020) Improved Techniques for Training Score-Based Generative Models.md",
+    "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests.pdf",
+    "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation.pdf",
     "99_attachment/Improved Techniques for Training Score-Based Generative Models.pdf",
     "(2022) Understanding Diffusion Models, A Unified Perspective.md",
-    "(2020) Improved Techniques for Training Score-Based Generative Models.md",
     "(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
     "99_attachment/Score-Based Generative Modeling through Stochastic Differential Equations.pdf",
     "(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
@@ -217,8 +310,6 @@
     "99_attachment/Pasted image 20230518154052.png",
     "99_attachment/Pasted image 20230518154028.png",
     "99_attachment/Pasted image 20230518154008.png",
-    "99_attachment/Pasted image 20230518153934.png",
-    "99_attachment/Pasted image 20230518153832.png",
     "99_attachment/2006.11239.pdf",
     "02_computer_vision/(2023) Flow Matching for Generative Modeling.md",
     "02_computer_vision/(2021) Maximum Likelihood Training of Score-Based Diffusion Models.md",
@@ -231,15 +322,7 @@
     "01_natural_language_processing/(2020) Invertible generative modeling using linear rational splines.md",
     "02_computer_vision/(2019) Neural Importance Sampling.md",
     "01_natural_language_processing/(2019) Invertible Residual Networks.md",
-    "99_attachment/1811.00995.pdf",
     "01_natural_language_processing/(2018) Neural autoregressive flows.md",
-    "01_natural_language_processing/(2019) FFJORD, Free-form Continuous Dynamics for Scalable Reversible Generative Models.md",
-    "99_attachment/1810.01367.pdf",
-    "99_attachment/2001.05168.pdf",
-    "02_computer_vision/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
-    "01_natural_language_processing/(2019) Sum-of-Squares Polynomial Flow.md",
-    "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
-    "99_attachment/PyTorchDiscreteFlows-master.zip",
     "未命名.canvas"
   ]
 }
