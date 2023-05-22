@@ -8,139 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f01e615dac335fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_natural_language_processing/(2022) Understanding Diffusion Models, A Unified Perspective.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c21c900b3af495d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_natural_language_processing/(2022) Understanding Diffusion Models, A Unified Perspective.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b508f5bdce744b29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_natural_language_processing/(2022) Understanding Diffusion Models, A Unified Perspective.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4450cb1f274d54c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_computer_vision/(2020) Improved Techniques for Training Score-Based Generative Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7b7c1171a315009",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_research/Researching on Score Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dfd43d0d8b6a4c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_research/Researching on Score Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ee67651af88bfd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_natural_language_processing/(2016) A Kernelized Stein Discrepancy for Goodness-of-fit Tests.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08e2bf097eb79d94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_natural_language_processing/(2016) A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "587e51d88c23216a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_natural_language_processing/(2016) A Kernelized Stein Discrepancy for Goodness-of-fit Tests.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fccf27ab0b80f85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_research/Researching on Score Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "52b40df08d43f89b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_computer_vision/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
-                "mode": "source",
+                "file": "02_computer_vision/(2017) Density estimation using Real NVP.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_computer_vision/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
+                "file": "02_computer_vision/(2017) Density estimation using Real NVP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_computer_vision/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
+                "file": "02_computer_vision/(2017) Density estimation using Real NVP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_computer_vision/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md"
+                "file": "02_computer_vision/(2017) Density estimation using Real NVP.md"
               }
             }
           }
@@ -278,18 +157,25 @@
   },
   "active": "52b40df08d43f89b",
   "lastOpenFiles": [
-    "02_computer_vision/(2021) Learning Transferable Visual Models From Natural Language Processing.md",
-    "02_computer_vision/(2018) high-resolution image synthesis and semantic manipulation with conditional GANs.md",
-    "02_computer_vision/(2018) ⭐Nerual Discrete Representation Learning.md",
-    "02_computer_vision/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
     "02_computer_vision/(2019) Neural Importance Sampling.md",
+    "02_computer_vision/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
+    "02_computer_vision/(2018) ⭐Nerual Discrete Representation Learning.md",
+    "02_computer_vision/(2019) Everybody Dance Now.md",
+    "02_computer_vision/(2018) high-resolution image synthesis and semantic manipulation with conditional GANs.md",
+    "02_computer_vision/(2021) Learning Transferable Visual Models From Natural Language Processing.md",
+    "02_computer_vision/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
+    "20_research/Researching on Flow-based.md",
+    "01_natural_language_processing/(2018) Neural autoregressive flows.md",
     "02_computer_vision/(2017) Density estimation using Real NVP.md",
+    "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
+    "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
+    "20_research/Researching on Score Function.md",
+    "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
+    "02_computer_vision/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
     "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
     "02_computer_vision/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
     "02_computer_vision/(2021) Maximum Likelihood Training of Score-Based Diffusion Models.md",
     "02_computer_vision/(2023) Flow Matching for Generative Modeling.md",
-    "02_computer_vision/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
-    "20_research/Researching on Score Function.md",
     "99_attachment/Pasted image 20230519142010.png",
     "99_attachment/Pasted image 20230519141839.png",
     "99_attachment/Pasted image 20230519140133.png",
@@ -309,10 +195,6 @@
     "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
     "99_attachment/Generative modeling by estimating gradients of the data distribution.pdf",
     "99_attachment/Understanding difusion models, a unifed perspective.pdf",
-    "20_research/Researching on Flow-based.md",
-    "01_natural_language_processing/(2016) Improved variational inference with inverse autoregressive flow.md",
-    "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
-    "01_natural_language_processing/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md",
     "99_attachment/Pasted image 20230518172129.png",
     "99_attachment/Pasted image 20230518154735.png",
     "99_attachment/Pasted image 20230518154523.png",
@@ -320,10 +202,7 @@
     "99_attachment/Pasted image 20230518154137.png",
     "99_attachment/2006.11239.pdf",
     "99_attachment/Maximum Likelihood Training of Score-Based Diffusion Models.pdf",
-    "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
     "99_attachment/Neural Ordinary Differential Equations.pdf",
-    "01_natural_language_processing/(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.md",
-    "01_natural_language_processing/(2020 Normalizing Flows, An Introduction and Review of Current Methods).md",
     "未命名.canvas"
   ]
 }
