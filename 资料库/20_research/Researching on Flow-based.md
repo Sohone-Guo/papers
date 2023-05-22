@@ -39,7 +39,7 @@
 		- 优化了affine transformations
 	- Autoregressive Flow
 - [[(2018) Unsupervised Learning of Syntactic Structure with Invertible Neural Projections]]
-- [[(2018) Neural Ordinary Differential Equations]]
+- [[01_natural_language_processing/(2018) Neural Ordinary Differential Equations]]
 	- Continuous Normalization Flow
 	- Continuous Normalizing Flows in particular known to encompass the probability paths modeled by diffusion processing. [[(2021) Maximum Likelihood Training of Score-Based Diffusion Models]]
 

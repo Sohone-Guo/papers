@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aba32268b68075ce",
+        "id": "5a144eaaf2cb32df",
         "type": "tabs",
         "children": [
           {
-            "id": "52b40df08d43f89b",
+            "id": "ef2b602d8dca85f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_computer_vision/(2017) Density estimation using Real NVP.md",
-                "mode": "preview",
+                "file": "(2018) Neural Ordinary Differential Equations.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_computer_vision/(2017) Density estimation using Real NVP.md",
+                "file": "(2018) Neural Ordinary Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_computer_vision/(2017) Density estimation using Real NVP.md",
+                "file": "(2018) Neural Ordinary Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_computer_vision/(2017) Density estimation using Real NVP.md"
+                "file": "(2018) Neural Ordinary Differential Equations.md"
               }
             }
           }
@@ -155,8 +155,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "52b40df08d43f89b",
+  "active": "ef2b602d8dca85f2",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20230522104324.png",
+    "99_attachment/Pasted image 20230522104313.png",
+    "20_research/Researching on Flow-based.md",
+    "20_research/Researching on Score Function.md",
+    "(2018) Neural Ordinary Differential Equations.md",
+    "99_attachment/Neural Ordinary Differential Equation.pdf",
+    "02_computer_vision/(2020) Improved Techniques for Training Score-Based Generative Models.md",
+    "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
+    "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
+    "02_computer_vision/(2017) Density estimation using Real NVP.md",
     "02_computer_vision/(2019) Neural Importance Sampling.md",
     "02_computer_vision/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
     "02_computer_vision/(2018) ⭐Nerual Discrete Representation Learning.md",
@@ -164,12 +174,9 @@
     "02_computer_vision/(2018) high-resolution image synthesis and semantic manipulation with conditional GANs.md",
     "02_computer_vision/(2021) Learning Transferable Visual Models From Natural Language Processing.md",
     "02_computer_vision/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
-    "20_research/Researching on Flow-based.md",
     "01_natural_language_processing/(2018) Neural autoregressive flows.md",
-    "02_computer_vision/(2017) Density estimation using Real NVP.md",
     "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
     "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
-    "20_research/Researching on Score Function.md",
     "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
     "02_computer_vision/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
     "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
@@ -179,30 +186,23 @@
     "99_attachment/Pasted image 20230519142010.png",
     "99_attachment/Pasted image 20230519141839.png",
     "99_attachment/Pasted image 20230519140133.png",
-    "02_computer_vision/(2020) Improved Techniques for Training Score-Based Generative Models.md",
-    "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
     "01_natural_language_processing/(2004) Use of Exchangeable Pairs in the Analysis of Simulations.md",
     "99_attachment/Pasted image 20230519130043.png",
     "01_natural_language_processing/(2016) A Kernelized Stein Discrepancy for Goodness-of-fit Tests.md",
     "99_attachment/Pasted image 20230519130036.png",
     "99_attachment/Use of Exchangeable Pairs in the Analysis of Simulations.pdf",
-    "01_natural_language_processing/(2016) A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation.md",
     "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests.pdf",
     "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation.pdf",
     "99_attachment/Improved Techniques for Training Score-Based Generative Models.pdf",
-    "01_natural_language_processing/(2022) Understanding Diffusion Models, A Unified Perspective.md",
     "99_attachment/Score-Based Generative Modeling through Stochastic Differential Equations.pdf",
-    "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
     "99_attachment/Generative modeling by estimating gradients of the data distribution.pdf",
     "99_attachment/Understanding difusion models, a unifed perspective.pdf",
     "99_attachment/Pasted image 20230518172129.png",
     "99_attachment/Pasted image 20230518154735.png",
     "99_attachment/Pasted image 20230518154523.png",
     "99_attachment/Pasted image 20230518154232.png",
-    "99_attachment/Pasted image 20230518154137.png",
     "99_attachment/2006.11239.pdf",
     "99_attachment/Maximum Likelihood Training of Score-Based Diffusion Models.pdf",
-    "99_attachment/Neural Ordinary Differential Equations.pdf",
     "未命名.canvas"
   ]
 }
