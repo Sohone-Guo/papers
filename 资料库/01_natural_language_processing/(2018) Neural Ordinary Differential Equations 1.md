@@ -9,7 +9,12 @@ $h_{t+1}=h_{t}+f(h_t,\theta)$  → $\frac{dh(t)}{dt}=f(h(t),t,\theta)$
 
 The model can be trained directly, but incurs a high memory cost.
 
-
+- ODE Solve
+	- ![[Pasted image 20230522145022.png]]
+	- Euler's Method: ![[Pasted image 20230522144921.png]]
+	- Runge-Kutta Method:![[Pasted image 20230522144950.png]]
+- Adjoint Sensitivity Method
+	- ![[Pasted image 20230522145213.png]]
 # Reference
 ---
 - 相关资料
