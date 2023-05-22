@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2018) Neural Ordinary Differential Equations.md",
+                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2018) Neural Ordinary Differential Equations.md",
+                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2018) Neural Ordinary Differential Equations.md",
+                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2018) Neural Ordinary Differential Equations.md"
+                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations 1.md"
               }
             }
           }
@@ -155,13 +155,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ef2b602d8dca85f2",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20230522134317.png",
+    "99_attachment/Pasted image 20230522134243.png",
     "99_attachment/Pasted image 20230522104324.png",
     "99_attachment/Pasted image 20230522104313.png",
     "20_research/Researching on Flow-based.md",
     "20_research/Researching on Score Function.md",
-    "(2018) Neural Ordinary Differential Equations.md",
+    "01_natural_language_processing/(2018) Neural Ordinary Differential Equations 1.md",
     "99_attachment/Neural Ordinary Differential Equation.pdf",
     "02_computer_vision/(2020) Improved Techniques for Training Score-Based Generative Models.md",
     "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
@@ -199,8 +201,6 @@
     "99_attachment/Understanding difusion models, a unifed perspective.pdf",
     "99_attachment/Pasted image 20230518172129.png",
     "99_attachment/Pasted image 20230518154735.png",
-    "99_attachment/Pasted image 20230518154523.png",
-    "99_attachment/Pasted image 20230518154232.png",
     "99_attachment/2006.11239.pdf",
     "99_attachment/Maximum Likelihood Training of Score-Based Diffusion Models.pdf",
     "未命名.canvas"
