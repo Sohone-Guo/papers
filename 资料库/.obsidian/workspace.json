@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2019) Deep Equilibrium Models.md",
+                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2019) Deep Equilibrium Models.md",
+                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2019) Deep Equilibrium Models.md",
+                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2019) Deep Equilibrium Models.md"
+                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md"
               }
             }
           }
@@ -169,12 +169,13 @@
   },
   "active": "ae4f633413e68c62",
   "lastOpenFiles": [
+    "99_attachment/Volokhova_CNF.pdf",
+    "(2019) Deep Equilibrium Models.md",
     "99_attachment/Pasted image 20230523144637.png",
     "99_attachment/Pasted image 20230523144352.png",
     "99_attachment/Pasted image 20230523144323.png",
     "99_attachment/Deep Equilibrium Models.pdf",
     "20_research/Researching on Score Function.md",
-    "(2019) Deep Equilibrium Models.md",
     "20_research/Researching on Flow-based.md",
     "yy.md",
     "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
@@ -187,7 +188,6 @@
     "99_attachment/Pasted image 20230522134317.png",
     "99_attachment/Pasted image 20230522134243.png",
     "99_attachment/Pasted image 20230522104324.png",
-    "99_attachment/Pasted image 20230522104313.png",
     "99_attachment/Neural Ordinary Differential Equation.pdf",
     "02_computer_vision/(2020) Improved Techniques for Training Score-Based Generative Models.md",
     "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",

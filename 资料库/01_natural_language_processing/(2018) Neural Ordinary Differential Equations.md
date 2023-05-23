@@ -28,4 +28,6 @@ The model can be trained directly, but incurs a high memory cost.
 		- ![[Pasted image 20230522134243.png]]
 # Attachment
 ---
-![[Neural Ordinary Differential Equation.pdf]]
+- PPT
+	- ![[Volokhova_CNF.pdf]]
+- paper: ![[Neural Ordinary Differential Equation.pdf]]
