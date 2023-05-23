@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae4f633413e68c62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2019) Deep Equilibrium Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_research/Researching on Score Function.md",
+                "file": "(2019) Deep Equilibrium Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_research/Researching on Score Function.md",
+                "file": "(2019) Deep Equilibrium Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_research/Researching on Score Function.md"
+                "file": "(2019) Deep Equilibrium Models.md"
               }
             }
           }
@@ -154,10 +167,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fd2599c148bf009b",
+  "active": "ae4f633413e68c62",
   "lastOpenFiles": [
-    "20_research/Researching on Flow-based.md",
+    "99_attachment/Pasted image 20230523144637.png",
+    "99_attachment/Pasted image 20230523144352.png",
+    "99_attachment/Pasted image 20230523144323.png",
+    "99_attachment/Deep Equilibrium Models.pdf",
     "20_research/Researching on Score Function.md",
+    "(2019) Deep Equilibrium Models.md",
+    "20_research/Researching on Flow-based.md",
     "yy.md",
     "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
     "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
@@ -189,10 +207,6 @@
     "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
     "02_computer_vision/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
     "02_computer_vision/(2021) Maximum Likelihood Training of Score-Based Diffusion Models.md",
-    "02_computer_vision/(2023) Flow Matching for Generative Modeling.md",
-    "99_attachment/Pasted image 20230519142010.png",
-    "99_attachment/Pasted image 20230519141839.png",
-    "01_natural_language_processing/(2004) Use of Exchangeable Pairs in the Analysis of Simulations.md",
     "99_attachment/Use of Exchangeable Pairs in the Analysis of Simulations.pdf",
     "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests.pdf",
     "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation.pdf",
@@ -201,7 +215,6 @@
     "99_attachment/Generative modeling by estimating gradients of the data distribution.pdf",
     "99_attachment/Understanding difusion models, a unifed perspective.pdf",
     "99_attachment/2006.11239.pdf",
-    "99_attachment/Maximum Likelihood Training of Score-Based Diffusion Models.pdf",
     "未命名.canvas"
   ]
 }
