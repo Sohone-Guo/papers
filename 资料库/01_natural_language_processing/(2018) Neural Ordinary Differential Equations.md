@@ -26,6 +26,9 @@ The model can be trained directly, but incurs a high memory cost.
 		- ?
 	- Reverse-mode differentiation of an ODE solution
 		- ![[Pasted image 20230522134243.png]]
+	- Jacobi's formula
+		- ![[Pasted image 20230524000014.png]]
+		- [Jacobi's formula - Wikipedia](https://en.wikipedia.org/wiki/Jacobi%27s_formula)
 # Attachment
 ---
 - PPT
