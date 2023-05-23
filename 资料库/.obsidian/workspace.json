@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
-                "mode": "source",
+                "file": "20_research/Researching on Score Function.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 621.5
+    "width": 315
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
+                "file": "20_research/Researching on Score Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
+                "file": "20_research/Researching on Score Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +133,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md"
+                "file": "20_research/Researching on Score Function.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +158,9 @@
   "lastOpenFiles": [
     "20_research/Researching on Flow-based.md",
     "20_research/Researching on Score Function.md",
-    "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
+    "yy.md",
+    "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
+    "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
     "99_attachment/Pasted image 20230522145213.png",
     "99_attachment/Pasted image 20230522145022.png",
@@ -184,7 +185,6 @@
     "01_natural_language_processing/(2018) Neural autoregressive flows.md",
     "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
     "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
-    "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
     "02_computer_vision/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
     "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
     "02_computer_vision/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
@@ -193,7 +193,6 @@
     "99_attachment/Pasted image 20230519142010.png",
     "99_attachment/Pasted image 20230519141839.png",
     "01_natural_language_processing/(2004) Use of Exchangeable Pairs in the Analysis of Simulations.md",
-    "01_natural_language_processing/(2016) A Kernelized Stein Discrepancy for Goodness-of-fit Tests.md",
     "99_attachment/Use of Exchangeable Pairs in the Analysis of Simulations.pdf",
     "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests.pdf",
     "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation.pdf",
