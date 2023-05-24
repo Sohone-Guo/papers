@@ -116,7 +116,8 @@
 - [[(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions]]
 	- 离散数据的生成(测试了Flow和Diffusion)
 	- 测评结果如下（越小越好）：![[Pasted image 20230518105839.png]]
- 
+ - [[(2021) OT-FLow, Fast and Accurate Continuous Normlizing Flows via Optimal Transport]]
+	 - [[Research on Neural ODE]]
 
 # 2022
 ---

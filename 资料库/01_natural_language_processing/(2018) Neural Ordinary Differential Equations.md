@@ -20,6 +20,7 @@ The model can be trained directly, but incurs a high memory cost.
 - 相关资料
 	- https://www.youtube.com/watch?v=sIFnARdTVvE
 	- [Chapter 3: Neural Ordinary Differential Equations (implicit-layers-tutorial.org)](http://implicit-layers-tutorial.org/neural_odes/)
+	- [ordinary differential equations - Neural ODEs - Adjoint Sensitivity Method for multiple time points - Mathematics Stack Exchange](https://math.stackexchange.com/questions/4176064/neural-odes-adjoint-sensitivity-method-for-multiple-time-points)
 - 其他资料
 	- 公式离散化
 		- ![[Pasted image 20230522134317.png]]

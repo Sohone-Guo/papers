@@ -18,6 +18,7 @@ It is based on the idea that a good representation is one in which the data has 
 - 为什么需要Det, 不能直接逆函数吗？
 	- 逆函数比较简单，通过change of variables的方法可以减轻逆函数所需要的复杂度。
 - https://github.com/VincentStimper/normalizing-flows/
+- invertible好处![[Pasted image 20230524125744.png]]
 # Attachment
 ---
 ![[1410.8516.pdf]]
