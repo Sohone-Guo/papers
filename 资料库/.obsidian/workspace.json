@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d5ade67e3282c4f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research on Implicit Layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_research/Research on Neural ODE.md",
+                "file": "Research on Implicit Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_research/Research on Neural ODE.md",
+                "file": "Research on Implicit Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_research/Research on Neural ODE.md"
+                "file": "Research on Implicit Layer.md"
               }
             }
           }
@@ -179,13 +191,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "021c5390bf29f6de",
+  "active": "d5ade67e3282c4f0",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20230524153622.png",
+    "20_research/Research on Neural ODE.md",
+    "Research on Implicit Layer.md",
+    "20_research/Researching on Flow-based.md",
+    "02_computer_vision/(2020) Improved Techniques for Training Score-Based Generative Models.md",
+    "20_research/Researching on Score Function.md",
+    "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
+    "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
     "01_natural_language_processing/(2021) Neural Flows, Efficient Alternative to Neural ODEs.md",
     "99_attachment/Neural Flows, Efficient Alternative to Neural ODEs.pdf",
-    "20_research/Research on Neural ODE.md",
     "01_natural_language_processing/(2019) Invertible Residual Networks.md",
-    "20_research/Researching on Flow-based.md",
     "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "99_attachment/Pasted image 20230524125744.png",
     "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
@@ -193,7 +211,6 @@
     "99_attachment/ot-flow.pdf",
     "01_natural_language_processing/(2021) A Memory efficient and Reverse accurate integrator for neural ODEs.md",
     "99_attachment/A Memory efficient and Reverse accurate integrator for neural ODEs.pdf",
-    "20_research/Researching on Score Function.md",
     "11_tutorial/Automatic Differentiation.md",
     "99_attachment/Pasted image 20230524103234.png",
     "99_attachment/Pasted image 20230524102939.png",
@@ -212,9 +229,6 @@
     "yy.md",
     "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
     "99_attachment/Neural Ordinary Differential Equation.pdf",
-    "02_computer_vision/(2020) Improved Techniques for Training Score-Based Generative Models.md",
-    "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
-    "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
     "02_computer_vision/(2017) Density estimation using Real NVP.md",
     "02_computer_vision/(2019) Neural Importance Sampling.md",
     "02_computer_vision/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
@@ -223,7 +237,6 @@
     "02_computer_vision/(2018) high-resolution image synthesis and semantic manipulation with conditional GANs.md",
     "02_computer_vision/(2021) Learning Transferable Visual Models From Natural Language Processing.md",
     "02_computer_vision/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
-    "01_natural_language_processing/(2018) Neural autoregressive flows.md",
     "99_attachment/Use of Exchangeable Pairs in the Analysis of Simulations.pdf",
     "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests.pdf",
     "未命名.canvas"
