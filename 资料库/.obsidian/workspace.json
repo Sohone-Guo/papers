@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5a144eaaf2cb32df",
+        "id": "3679d4c5a64ac5d4",
         "type": "tabs",
         "children": [
           {
-            "id": "fd2599c148bf009b",
+            "id": "fa1b139dae0af8e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_research/Researching on Score Function.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_research/Researching on Score Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_research/Researching on Score Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20_research/Researching on Score Function.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,29 +146,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fd2599c148bf009b",
+  "active": "fa1b139dae0af8e8",
   "lastOpenFiles": [
     "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
+    "11_tutorial/Automatic Differentiation.md",
+    "99_attachment/Pasted image 20230524103234.png",
+    "99_attachment/Pasted image 20230524102939.png",
+    "99_attachment/Pasted image 20230524102809.png",
+    "99_attachment/Pasted image 20230524102726.png",
+    "99_attachment/Pasted image 20230524102623.png",
+    "99_attachment/Pasted image 20230524102408.png",
+    "99_attachment/Pasted image 20230524102254.png",
+    "01_natural_language_processing/(2019) Deep Equilibrium Models.md",
+    "20_research/Researching on Score Function.md",
     "99_attachment/20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti 1.pdf",
     "99_attachment/20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti.pdf",
     "99_attachment/Pasted image 20230524000014.png",
     "99_attachment/Volokhova_CNF.pdf",
-    "(2019) Deep Equilibrium Models.md",
     "99_attachment/Pasted image 20230523144637.png",
     "99_attachment/Pasted image 20230523144352.png",
-    "99_attachment/Pasted image 20230523144323.png",
     "99_attachment/Deep Equilibrium Models.pdf",
-    "20_research/Researching on Score Function.md",
     "20_research/Researching on Flow-based.md",
     "yy.md",
     "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
     "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
-    "99_attachment/Pasted image 20230522145213.png",
-    "99_attachment/Pasted image 20230522145022.png",
-    "99_attachment/Pasted image 20230522144950.png",
-    "99_attachment/Pasted image 20230522144921.png",
-    "99_attachment/Pasted image 20230522134317.png",
-    "99_attachment/Pasted image 20230522134243.png",
     "99_attachment/Neural Ordinary Differential Equation.pdf",
     "02_computer_vision/(2020) Improved Techniques for Training Score-Based Generative Models.md",
     "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
@@ -195,7 +188,6 @@
     "02_computer_vision/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
     "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
     "02_computer_vision/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
-    "02_computer_vision/(2021) Maximum Likelihood Training of Score-Based Diffusion Models.md",
     "99_attachment/Use of Exchangeable Pairs in the Analysis of Simulations.pdf",
     "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests.pdf",
     "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation.pdf",
