@@ -33,4 +33,5 @@ The model can be trained directly, but incurs a high memory cost.
 ---
 - PPT
 	- ![[Volokhova_CNF.pdf]]
+	- ![[20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti 1.pdf]]
 - paper: ![[Neural Ordinary Differential Equation.pdf]]

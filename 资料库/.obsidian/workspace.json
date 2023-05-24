@@ -18,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ae4f633413e68c62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e966edadd8e655cd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.3"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
+                "file": "20_research/Researching on Score Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
+                "file": "20_research/Researching on Score Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md"
+                "file": "20_research/Researching on Score Function.md"
               }
             }
           }
@@ -177,8 +154,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e966edadd8e655cd",
+  "active": "fd2599c148bf009b",
   "lastOpenFiles": [
+    "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
+    "99_attachment/20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti 1.pdf",
+    "99_attachment/20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti.pdf",
     "99_attachment/Pasted image 20230524000014.png",
     "99_attachment/Volokhova_CNF.pdf",
     "(2019) Deep Equilibrium Models.md",
@@ -191,14 +171,12 @@
     "yy.md",
     "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
     "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
-    "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
     "99_attachment/Pasted image 20230522145213.png",
     "99_attachment/Pasted image 20230522145022.png",
     "99_attachment/Pasted image 20230522144950.png",
     "99_attachment/Pasted image 20230522144921.png",
     "99_attachment/Pasted image 20230522134317.png",
     "99_attachment/Pasted image 20230522134243.png",
-    "99_attachment/Pasted image 20230522104324.png",
     "99_attachment/Neural Ordinary Differential Equation.pdf",
     "02_computer_vision/(2020) Improved Techniques for Training Score-Based Generative Models.md",
     "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
@@ -223,8 +201,6 @@
     "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation.pdf",
     "99_attachment/Improved Techniques for Training Score-Based Generative Models.pdf",
     "99_attachment/Score-Based Generative Modeling through Stochastic Differential Equations.pdf",
-    "99_attachment/Generative modeling by estimating gradients of the data distribution.pdf",
-    "99_attachment/Understanding difusion models, a unifed perspective.pdf",
     "未命名.canvas"
   ]
 }
