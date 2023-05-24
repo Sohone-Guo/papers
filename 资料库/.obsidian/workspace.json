@@ -11,11 +11,40 @@
             "id": "fa1b139dae0af8e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "20_research/Researching on Score Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1faa77f8aec3a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_research/Research on Neural ODE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27e41795cffeca9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_research/Research on Neural ODE.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20_research/Research on Neural ODE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20_research/Research on Neural ODE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20_research/Research on Neural ODE.md"
+              }
             }
           }
         ]
@@ -146,8 +179,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fa1b139dae0af8e8",
+  "active": "27e41795cffeca9d",
   "lastOpenFiles": [
+    "01_natural_language_processing/(2021) A Memory efficient and Reverse accurate integrator for neural ODEs.md",
+    "99_attachment/A Memory efficient and Reverse accurate integrator for neural ODEs.pdf",
+    "20_research/Research on Neural ODE.md",
+    "20_research/Researching on Score Function.md",
     "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
     "11_tutorial/Automatic Differentiation.md",
     "99_attachment/Pasted image 20230524103234.png",
@@ -158,7 +195,6 @@
     "99_attachment/Pasted image 20230524102408.png",
     "99_attachment/Pasted image 20230524102254.png",
     "01_natural_language_processing/(2019) Deep Equilibrium Models.md",
-    "20_research/Researching on Score Function.md",
     "99_attachment/20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti 1.pdf",
     "99_attachment/20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti.pdf",
     "99_attachment/Pasted image 20230524000014.png",
@@ -186,13 +222,10 @@
     "01_natural_language_processing/(2021) Continuous Language Generative Flow.md",
     "01_natural_language_processing/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
     "02_computer_vision/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
-    "02_computer_vision/(2017) Masked autoregressive flow for density estimation.md",
-    "02_computer_vision/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
     "99_attachment/Use of Exchangeable Pairs in the Analysis of Simulations.pdf",
     "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests.pdf",
     "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation.pdf",
     "99_attachment/Improved Techniques for Training Score-Based Generative Models.pdf",
-    "99_attachment/Score-Based Generative Modeling through Stochastic Differential Equations.pdf",
     "未命名.canvas"
   ]
 }
