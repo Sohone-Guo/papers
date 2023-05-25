@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
+                "file": "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
+                "file": "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
+                "file": "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md"
+                "file": "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md"
               }
             }
           }
@@ -194,13 +194,13 @@
   "active": "d5ade67e3282c4f0",
   "lastOpenFiles": [
     "20_research/Researching on Score Function.md",
+    "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
     "02_computer_vision/(2020) Improved Techniques for Training Score-Based Generative Models.md",
     "20_research/Research on Implicit Layer.md",
     "99_attachment/Pasted image 20230524153622.png",
     "20_research/Research on Neural ODE.md",
     "20_research/Researching on Flow-based.md",
     "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
-    "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
     "01_natural_language_processing/(2021) Neural Flows, Efficient Alternative to Neural ODEs.md",
     "99_attachment/Neural Flows, Efficient Alternative to Neural ODEs.pdf",
     "01_natural_language_processing/(2019) Invertible Residual Networks.md",
