@@ -6,10 +6,19 @@
 ---
 estimating and sampling from the score of the logarithnmic data density, which is the gradient of the log-density function at the input data point.
 
+主要解决这个公式：
+![[Pasted image 20230525155000.png]]
+有两种方法
+- Denoising score matching
+	- ![[Pasted image 20230525155111.png]]
+- Sliced score matching
+	- ![[Pasted image 20230525155124.png]]
+
 # Reference
 ---
 - Langevin dynamics ?
 	- for sampling. which approximately works by gradually moving a random initial sample to high density regoins along the vector field of scores.
+	- ![[Pasted image 20230525155152.png]]
 - Score function ?
 	- which is the gradient of the log-density function at the input data point.
 	- 怎么获得？
