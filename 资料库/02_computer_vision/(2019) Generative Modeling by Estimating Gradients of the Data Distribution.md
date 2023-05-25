@@ -15,6 +15,7 @@ estimating and sampling from the score of the logarithnmic data density, which i
 	- 怎么获得？
 		- 用NN with score matching 学习这个
 - Score matching ?
+- Score estimation
 
 # Attachment
 ---
