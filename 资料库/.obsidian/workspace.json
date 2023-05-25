@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3679d4c5a64ac5d4",
+        "id": "497269089d7822d0",
         "type": "tabs",
         "children": [
           {
-            "id": "fa1b139dae0af8e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_research/Researching on Score Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1faa77f8aec3a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_research/Research on Neural ODE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "021c5390bf29f6de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_research/Research on Neural ODE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5ade67e3282c4f0",
+            "id": "293683ea064bccad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,11 +154,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d5ade67e3282c4f0",
+  "active": "293683ea064bccad",
   "lastOpenFiles": [
     "20_research/Researching on Score Function.md",
-    "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
     "20_research/Research on Neural ODE.md",
+    "20_research/Research on Implicit Layer.md",
+    "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
     "01_natural_language_processing/(2023) Generative Agents Interactive Simulacra of Human Behavior.md",
     "01_natural_language_processing/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
     "01_natural_language_processing/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
@@ -211,7 +175,6 @@
     "99_attachment/Pasted image 20230525155000.png",
     "20_research/Researching on Flow-based.md",
     "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
-    "20_research/Research on Implicit Layer.md",
     "02_computer_vision/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
     "02_computer_vision/(2020) Improved Techniques for Training Score-Based Generative Models.md",
     "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
