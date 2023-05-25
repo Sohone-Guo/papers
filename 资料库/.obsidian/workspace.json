@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_research/Research on Neural ODE.md",
+                "file": "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
                 "mode": "preview",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_research/Research on Neural ODE.md",
+                "file": "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_research/Research on Neural ODE.md",
+                "file": "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_research/Research on Neural ODE.md"
+                "file": "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md"
               }
             }
           }
@@ -195,11 +195,20 @@
   "lastOpenFiles": [
     "20_research/Researching on Score Function.md",
     "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
+    "20_research/Research on Neural ODE.md",
+    "01_natural_language_processing/(2023) Generative Agents Interactive Simulacra of Human Behavior.md",
+    "01_natural_language_processing/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
+    "01_natural_language_processing/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
+    "01_natural_language_processing/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
+    "01_natural_language_processing/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
+    "01_natural_language_processing/(2023) PaLM2 Technical Report.md",
+    "01_natural_language_processing/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
+    "02_computer_vision/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
+    "02_computer_vision/(2023) Flow Matching for Generative Modeling.md",
     "99_attachment/Pasted image 20230525155152.png",
     "99_attachment/Pasted image 20230525155124.png",
     "99_attachment/Pasted image 20230525155111.png",
     "99_attachment/Pasted image 20230525155000.png",
-    "20_research/Research on Neural ODE.md",
     "20_research/Researching on Flow-based.md",
     "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
     "20_research/Research on Implicit Layer.md",
@@ -227,15 +236,7 @@
     "99_attachment/Volokhova_CNF.pdf",
     "99_attachment/Deep Equilibrium Models.pdf",
     "yy.md",
-    "01_natural_language_processing/(2016) Variational inference with normalizing flows.md",
     "99_attachment/Neural Ordinary Differential Equation.pdf",
-    "02_computer_vision/(2017) Density estimation using Real NVP.md",
-    "02_computer_vision/(2019) Neural Importance Sampling.md",
-    "02_computer_vision/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
-    "02_computer_vision/(2018) ⭐Nerual Discrete Representation Learning.md",
-    "02_computer_vision/(2019) Everybody Dance Now.md",
-    "02_computer_vision/(2018) high-resolution image synthesis and semantic manipulation with conditional GANs.md",
-    "02_computer_vision/(2021) Learning Transferable Visual Models From Natural Language Processing.md",
     "99_attachment/Use of Exchangeable Pairs in the Analysis of Simulations.pdf",
     "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests.pdf",
     "未命名.canvas"

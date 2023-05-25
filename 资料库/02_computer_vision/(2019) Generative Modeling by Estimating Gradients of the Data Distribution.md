@@ -25,6 +25,9 @@ estimating and sampling from the score of the logarithnmic data density, which i
 		- 用NN with score matching 学习这个
 - Score matching ?
 - Score estimation
+- 与neural ODE的关系？[[(2018) Neural Ordinary Differential Equations]]
+	- ODE是考虑时间/层级之间的变化，导致Y的变化
+	- Score Function考虑的是真数据假数据之间的变化，
 
 # Attachment
 ---
