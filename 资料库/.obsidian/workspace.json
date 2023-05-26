@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "497269089d7822d0",
+        "id": "e524c871630412a4",
         "type": "tabs",
         "children": [
           {
-            "id": "293683ea064bccad",
+            "id": "d44a7ceae66713f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
+                "file": "04_semantic_communication/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
+                "file": "04_semantic_communication/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md"
+                "file": "04_semantic_communication/(2023) Knowledge Enhanced Semantic Communication Receiver.md"
               }
             }
           }
@@ -154,12 +150,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "293683ea064bccad",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/2302.07727.pdf",
+    "04_semantic_communication/(2022) Less Data, More Knowledge, Building Next Generation Semantic Communication Networks.md",
+    "04_semantic_communication/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
+    "99_attachment/2211.14343.pdf",
+    "04_semantic_communication/(2022) Extended Context-Based Semantic Communication System for Text Transmission.md",
+    "99_attachment/1-s2.0-S2352864822001985-main.pdf",
+    "01_natural_language_processing/(2005) Estimation of Non-Normalized Statistical Models by Score Matching.md",
+    "99_attachment/Pasted image 20230526125756.png",
+    "99_attachment/Pasted image 20230526125718.png",
+    "99_attachment/Estimation of Non-Normalized Statistical Models by Score Matching.pdf",
+    "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
     "20_research/Researching on Score Function.md",
     "20_research/Research on Neural ODE.md",
     "20_research/Research on Implicit Layer.md",
-    "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
     "01_natural_language_processing/(2023) Generative Agents Interactive Simulacra of Human Behavior.md",
     "01_natural_language_processing/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
     "01_natural_language_processing/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
@@ -184,24 +190,14 @@
     "01_natural_language_processing/(2019) Invertible Residual Networks.md",
     "01_natural_language_processing/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "99_attachment/Pasted image 20230524125744.png",
-    "01_natural_language_processing/(2021) OT-FLow, Fast and Accurate Continuous Normlizing Flows via Optimal Transport.md",
     "99_attachment/ot-flow.pdf",
-    "01_natural_language_processing/(2021) A Memory efficient and Reverse accurate integrator for neural ODEs.md",
     "99_attachment/A Memory efficient and Reverse accurate integrator for neural ODEs.pdf",
-    "11_tutorial/Automatic Differentiation.md",
     "99_attachment/Pasted image 20230524103234.png",
     "99_attachment/Pasted image 20230524102939.png",
-    "99_attachment/Pasted image 20230524102809.png",
-    "99_attachment/Pasted image 20230524102726.png",
-    "01_natural_language_processing/(2019) Deep Equilibrium Models.md",
     "99_attachment/20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti 1.pdf",
     "99_attachment/20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti.pdf",
     "99_attachment/Volokhova_CNF.pdf",
     "99_attachment/Deep Equilibrium Models.pdf",
-    "yy.md",
-    "99_attachment/Neural Ordinary Differential Equation.pdf",
-    "99_attachment/Use of Exchangeable Pairs in the Analysis of Simulations.pdf",
-    "99_attachment/A Kernelized Stein Discrepancy for Goodness-of-fit Tests.pdf",
     "未命名.canvas"
   ]
 }
