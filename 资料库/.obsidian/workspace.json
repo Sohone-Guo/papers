@@ -11,8 +11,12 @@
             "id": "d44a7ceae66713f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "90_tools/docker.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_semantic_communication/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
+                "file": "90_tools/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_semantic_communication/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
+                "file": "90_tools/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_semantic_communication/(2023) Knowledge Enhanced Semantic Communication Receiver.md"
+                "file": "90_tools/docker.md"
               }
             }
           }
@@ -150,11 +154,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "d44a7ceae66713f9",
   "lastOpenFiles": [
+    "04_semantic_communication/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
     "99_attachment/2302.07727.pdf",
     "04_semantic_communication/(2022) Less Data, More Knowledge, Building Next Generation Semantic Communication Networks.md",
-    "04_semantic_communication/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
     "99_attachment/2211.14343.pdf",
     "04_semantic_communication/(2022) Extended Context-Based Semantic Communication System for Text Transmission.md",
     "99_attachment/1-s2.0-S2352864822001985-main.pdf",
@@ -197,7 +201,6 @@
     "99_attachment/20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti 1.pdf",
     "99_attachment/20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti.pdf",
     "99_attachment/Volokhova_CNF.pdf",
-    "99_attachment/Deep Equilibrium Models.pdf",
     "未命名.canvas"
   ]
 }
