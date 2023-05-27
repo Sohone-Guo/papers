@@ -1,7 +1,14 @@
 {
 	"nodes":[
-		{"type":"text","text":"","id":"ac423088cc984690","x":-461,"y":-372,"width":250,"height":60},
-		{"type":"file","file":"00_调研整理/001_合成数据技术/技术整理/可控生成技术.md","id":"a31d21d2ba4d5a74","x":-880,"y":-600,"width":360,"height":120}
+		{"id":"15da891fa5d6d665","x":-1290,"y":-870,"width":470,"height":350,"color":"5","type":"group","label":"后处理模块"},
+		{"id":"ce26fb9b1115a98c","x":-1290,"y":-680,"width":830,"height":160,"color":"4","type":"group","label":"通过微分"},
+		{"id":"dd12014060c13037","x":-1290,"y":-500,"width":830,"height":160,"color":"2","type":"group","label":"训练模型"},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/技术整理/可控生成技术.md","id":"a31d21d2ba4d5a74","x":-770,"y":-820,"width":240,"height":80},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/调研整理/Trainalbe decoding methods.md","id":"eb1d4cdf826b56dd","x":-1270,"y":-650,"width":430,"height":110},
+		{"id":"c9379f1afacdbb75","x":-820,"y":-650,"width":340,"height":110,"type":"file","file":"00_调研整理/001_合成数据技术/调研整理/Prompt design.md"},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/调研整理/Guided decoding methods.md","id":"3efad33417103cd2","x":-1040,"y":-840,"width":200,"height":120},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/调研整理/Controllable Common.md","id":"047539dc37e993e0","x":-1270,"y":-840,"width":210,"height":120},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/调研整理/Conditional training.md","id":"afdd48b3de67f3fa","x":-1270,"y":-480,"width":790,"height":120}
 	],
 	"edges":[]
 }

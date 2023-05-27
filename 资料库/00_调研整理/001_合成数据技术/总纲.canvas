@@ -2,12 +2,14 @@
 	"nodes":[
 		{"type":"group","id":"df2f61f96569b24d","x":-460,"y":-260,"width":840,"height":240,"color":"5","label":"合成/生成"},
 		{"type":"group","id":"4c38c629527124ff","x":-860,"y":-610,"width":300,"height":590,"label":"信息"},
+		{"type":"group","id":"ea7f78635e9f3cc2","x":-460,"y":-640,"width":840,"height":150,"color":"3","label":"评估"},
+		{"type":"group","id":"d73887baf488a951","x":-460,"y":-435,"width":840,"height":120,"color":"4","label":"过滤"},
 		{"type":"file","file":"00_调研整理/001_合成数据技术/技术整理/合成数据简介.md","id":"24263df4cbce6f9d","x":-840,"y":-590,"width":260,"height":250},
 		{"type":"file","file":"00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md","id":"2ce0f434bbec3ee9","x":-840,"y":-280,"width":260,"height":240},
 		{"type":"file","file":"00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas","id":"9a58aa7768322ee9","x":-440,"y":-240,"width":400,"height":200,"color":"5"},
 		{"type":"file","file":"00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas","id":"16f6741db17bb696","x":0,"y":-240,"width":360,"height":200,"color":"5"},
-		{"type":"file","file":"00_调研整理/001_合成数据技术/技术整理/数据过滤技术.md","id":"c2c7a920ad26bf78","x":-440,"y":-440,"width":800,"height":100},
-		{"type":"file","file":"00_调研整理/001_合成数据技术/技术整理/性能测评技术.md","id":"3103417da2af65f3","x":-440,"y":-590,"width":800,"height":100}
+		{"type":"file","file":"00_调研整理/001_合成数据技术/技术整理/数据过滤技术.md","id":"c2c7a920ad26bf78","x":-440,"y":-420,"width":800,"height":80},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/技术整理/性能测评技术.md","id":"3103417da2af65f3","x":-440,"y":-600,"width":800,"height":100}
 	],
 	"edges":[]
 }

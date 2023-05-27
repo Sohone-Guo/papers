@@ -26,16 +26,61 @@
             "id": "fe68564cae642c17",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
+                "viewState": {
+                  "x": -720,
+                  "y": -500,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "1a452e0d6f40b7a0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "00_调研整理/001_合成数据技术/总纲.canvas",
+                "viewState": {
+                  "x": -240,
+                  "y": -330,
+                  "zoom": -0.1351784708036911
+                }
+              }
+            }
+          },
+          {
+            "id": "18b8bd81b65ee82a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
+                "viewState": {
+                  "x": -850,
+                  "y": -800,
+                  "zoom": -0.10445662281555784
+                }
+              }
+            }
+          },
+          {
+            "id": "226246e3dec71b1f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
-                "mode": "preview",
+                "file": "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
+                "file": "00_调研整理/001_合成数据技术/总纲.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
+                "file": "00_调研整理/001_合成数据技术/总纲.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,12 +194,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md"
+                "file": "00_调研整理/001_合成数据技术/总纲.canvas"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,37 +216,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fe68564cae642c17",
+  "active": "1a452e0d6f40b7a0",
   "lastOpenFiles": [
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+    "00_调研整理/001_合成数据技术/调研整理/Explicit Layers.md",
+    "00_调研整理/001_合成数据技术/技术整理/性能测评技术.md",
+    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
+    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
+    "00_调研整理/001_合成数据技术/调研整理/Guided decoding methods.md",
+    "00_调研整理/001_合成数据技术/调研整理/GANs.md",
+    "00_调研整理/001_合成数据技术/调研整理/Controllable Common.md",
+    "00_调研整理/001_合成数据技术/调研整理/Trainalbe decoding methods.md",
+    "00_调研整理/001_合成数据技术/调研整理/Controllable by Conditional model.md",
+    "00_调研整理/001_合成数据技术/调研整理/Controllable by Postprocessing.md",
+    "00_调研整理/001_合成数据技术/调研整理/Prompt design.md",
+    "00_调研整理/001_合成数据技术/调研整理/Conditional training.md",
+    "00_调研整理/001_合成数据技术/调研整理/Common decoding methods.md",
+    "98_temples/research-temple.md",
+    "2023-05-23.md",
+    "2023-05-27.md",
+    "Projects - Demo Project/Untitled note.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project",
+    "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
     "98_temples/paper-temple.md",
     "02_已看论文/(2018) Neural Ordinary Differential Equations.md",
     "00_调研整理/001_合成数据技术/调研整理/Neural ODE.md",
-    "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
-    "02_已看论文/(2004) Use of Exchangeable Pairs in the Analysis of Simulations.md",
-    "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
-    "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
-    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
-    "00_调研整理/001_合成数据技术/技术整理/合成数据简介.md",
-    "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
-    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.md",
-    "00_调研整理/001_合成数据技术/技术整理/数据过滤技术.md",
-    "00_调研整理/001_合成数据技术/调研整理/Implicit Layers.md",
-    "00_调研整理/001_合成数据技术/调研整理/Implicit Layers.md",
-    "00_调研整理/001_合成数据技术/调研整理/VAEs.md",
     "01_natural_language_processing",
-    "02_已看论文/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
-    "02_已看论文/(2016) Variational inference with normalizing flows.md",
-    "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
-    "未命名.md",
-    "00_调研整理/001_合成数据技术/调研整理/Neural Ordinary Differential Equation.md",
-    "00_调研整理/001_合成数据技术/调研整理/GANs.md",
-    "00_调研整理/001_合成数据技术/调研整理/Explicit Layers.md",
-    "00_调研整理/001_合成数据技术/调研整理/Diffusion Models.md",
-    "00_调研整理/001_合成数据技术/调研整理/Autoregressive Models.md",
-    "00_调研整理/001_合成数据技术/技术整理/性能测评技术.md",
-    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
     "调研整理",
     "00_调研整理/001_合成数据技术/调研整理",
     "00_调研整理/001_合成数据技术/技术整理",
@@ -210,7 +256,6 @@
     "01_待看论文/AIGC发展趋势报告2023.pdf",
     "01_待看论文/A Survey on Digital Twins.pdf",
     "99_attachment/2010TweediesFormula.pdf",
-    "99_attachment/Understanding Diffusion Models A Unified Perspective.pdf",
     "未命名.canvas",
     "99_attachment/Pasted image 20230526125756.png",
     "99_attachment/Pasted image 20230526125718.png",
