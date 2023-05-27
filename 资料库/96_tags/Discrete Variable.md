@@ -1,6 +1,0 @@
-- Gumbel-Softmax
-- VQ-VAE
-	- [[(2018) ⭐Nerual Discrete Representation Learning]]
-- semantic hashing
-- decomposed vector quantization
-	- [[(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables]]

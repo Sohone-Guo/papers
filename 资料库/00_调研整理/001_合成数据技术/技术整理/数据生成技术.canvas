@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"type":"group","id":"5bb977131d6cf296","x":-240,"y":-360,"width":1440,"height":314,"color":"2","label":"可逆过程"},
+		{"type":"group","id":"24db6c078c74423d","x":-730,"y":-660,"width":930,"height":260,"color":"6","label":"真实分布映射简单分布"},
+		{"type":"group","id":"1c7cfd7ec5bd53e0","x":-730,"y":-360,"width":455,"height":314,"color":"4","label":"结构化分布"},
+		{"type":"group","id":"de296e5fdbe9d7ac","x":-730,"y":-1000,"width":455,"height":280,"color":"5","label":"分布监督训练"},
+		{"type":"group","id":"00b14cb8b333d461","x":-240,"y":-660,"width":440,"height":260,"color":"1","label":"可逆网络"},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/调研整理/VAEs.md","id":"2e6f160941b9d8e2","x":-710,"y":-640,"width":400,"height":220},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md","id":"d5c4d3b3ee887f33","x":-220,"y":-640,"width":400,"height":220},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/调研整理/GANs.md","id":"a3e954a00ae91c4b","x":-710,"y":-960,"width":400,"height":220},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/技术整理/数据生成技术.md","id":"22ec6de37b913e4d","x":-220,"y":-960,"width":400,"height":140},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/调研整理/Explicit Layers.md","id":"77bd640552177b9f","x":-1160,"y":-740,"width":160,"height":400},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/调研整理/Autoregressive Models.md","id":"c03bff256e4859c6","x":-710,"y":-326,"width":400,"height":240},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/调研整理/Diffusion Models.md","id":"824561cc01336ef4","x":-220,"y":-326,"width":400,"height":240},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md","id":"afd9b02ca0a2073c","x":280,"y":-326,"width":400,"height":240},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/调研整理/Implicit Layers.md","id":"b81b560d2596c51b","x":420,"y":80,"width":680,"height":120},
+		{"type":"file","file":"00_调研整理/001_合成数据技术/调研整理/Neural ODE.md","id":"534559c8c542eec0","x":760,"y":-326,"width":400,"height":240}
+	],
+	"edges":[
+		{"id":"036b69c1c94589bb","fromNode":"2e6f160941b9d8e2","fromSide":"left","toNode":"1c7cfd7ec5bd53e0","toSide":"left","label":"HVAE"},
+		{"id":"c821b8e969a5bf5c","fromNode":"d5c4d3b3ee887f33","fromSide":"top","toNode":"2e6f160941b9d8e2","toSide":"top","label":"估计可逆网络"},
+		{"id":"ca86c26f19070d43","fromNode":"2e6f160941b9d8e2","fromSide":"right","toNode":"824561cc01336ef4","toSide":"left","label":"HVAE"},
+		{"id":"8f39dc34c12d8868","fromNode":"d5c4d3b3ee887f33","fromSide":"right","toNode":"534559c8c542eec0","toSide":"top","label":"连续"},
+		{"id":"40bad5e312aae6f7","fromNode":"afd9b02ca0a2073c","fromSide":"left","toNode":"824561cc01336ef4","toSide":"right","label":"特例"},
+		{"id":"feb002799bbc9a1a","fromNode":"de296e5fdbe9d7ac","fromSide":"left","toNode":"77bd640552177b9f","toSide":"right"},
+		{"id":"6c27b75a150c54c9","fromNode":"24db6c078c74423d","fromSide":"left","toNode":"77bd640552177b9f","toSide":"right"},
+		{"id":"7a9e72bd4eb34609","fromNode":"1c7cfd7ec5bd53e0","fromSide":"left","toNode":"77bd640552177b9f","toSide":"right"},
+		{"id":"bf5a87e9cc386e2a","fromNode":"5bb977131d6cf296","fromSide":"bottom","toNode":"b81b560d2596c51b","toSide":"top"}
+	]
+}

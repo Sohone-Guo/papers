@@ -1,4 +1,4 @@
-Tags: 
+#Tag_书集资料 #Tag_基础理论 
 # Information
 ---
 
@@ -13,3 +13,4 @@ Tags:
 
 # Attachment
 ---
+![[the book of why 中文版.pdf]]

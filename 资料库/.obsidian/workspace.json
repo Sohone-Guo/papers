@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e524c871630412a4",
+        "id": "13e437869794447f",
         "type": "tabs",
         "children": [
           {
-            "id": "d44a7ceae66713f9",
+            "id": "334b90742cf2bcec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_research/Researching on Flow-based.md",
-                "mode": "source",
+                "file": "98_temples/paper-temple.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "(2018) Neural Ordinary Differential Equations",
+                "query": "tag:#Flow-based",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 467.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_research/Researching on Flow-based.md",
+                "file": "98_temples/paper-temple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_research/Researching on Flow-based.md",
+                "file": "98_temples/paper-temple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,11 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_research/Researching on Flow-based.md"
+                "file": "98_temples/paper-temple.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,53 +155,57 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d44a7ceae66713f9",
+  "active": "334b90742cf2bcec",
   "lastOpenFiles": [
-    "20_research/Researching on Score Function.md",
-    "20_research/Researching on Flow-based.md",
-    "20_research/Research on Neural ODE.md",
-    "20_research/Research on Implicit Layer.md",
-    "未命名.canvas",
+    "02_已看论文/(2018) Neural Ordinary Differential Equations.md",
+    "00_调研整理/001_合成数据技术/调研整理/Neural ODE.md",
+    "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
+    "02_已看论文/(2004) Use of Exchangeable Pairs in the Analysis of Simulations.md",
+    "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
+    "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
+    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
+    "00_调研整理/001_合成数据技术/总纲.canvas",
+    "00_调研整理/001_合成数据技术/技术整理/合成数据简介.md",
+    "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
+    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.md",
+    "00_调研整理/001_合成数据技术/技术整理/数据过滤技术.md",
+    "00_调研整理/001_合成数据技术/调研整理/Implicit Layers.md",
+    "00_调研整理/001_合成数据技术/调研整理/Implicit Layers.md",
+    "00_调研整理/001_合成数据技术/调研整理/VAEs.md",
+    "01_natural_language_processing",
+    "02_已看论文/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
+    "02_已看论文/(2016) Variational inference with normalizing flows.md",
+    "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "未命名.md",
-    "04_semantic_communication/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
-    "02_computer_vision/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
-    "01_natural_language_processing/(2005) Estimation of Non-Normalized Statistical Models by Score Matching.md",
-    "99_attachment/2023_可控文本技术调研.pptx",
-    "90_tools/docker.md",
-    "99_attachment/2302.07727.pdf",
-    "04_semantic_communication/(2022) Less Data, More Knowledge, Building Next Generation Semantic Communication Networks.md",
-    "99_attachment/2211.14343.pdf",
-    "04_semantic_communication/(2022) Extended Context-Based Semantic Communication System for Text Transmission.md",
-    "99_attachment/1-s2.0-S2352864822001985-main.pdf",
+    "00_调研整理/001_合成数据技术/调研整理/Neural Ordinary Differential Equation.md",
+    "00_调研整理/001_合成数据技术/调研整理/GANs.md",
+    "00_调研整理/001_合成数据技术/调研整理/Explicit Layers.md",
+    "00_调研整理/001_合成数据技术/调研整理/Diffusion Models.md",
+    "00_调研整理/001_合成数据技术/调研整理/Autoregressive Models.md",
+    "00_调研整理/001_合成数据技术/技术整理/性能测评技术.md",
+    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
+    "调研整理",
+    "00_调研整理/001_合成数据技术/调研整理",
+    "00_调研整理/001_合成数据技术/技术整理",
+    "00_调研整理/001_合成数据技术",
+    "00_调研整理",
+    "01_待看论文/AIGC发展趋势报告2023.pdf",
+    "01_待看论文/A Survey on Digital Twins.pdf",
+    "02_已看论文/(Tutorial) PPO.md",
+    "99_attachment/2010TweediesFormula.pdf",
+    "99_attachment/Understanding Diffusion Models A Unified Perspective.pdf",
+    "02_已看论文/(Tutorial) Score-Based Generative Modeling.md",
+    "未命名.canvas",
     "99_attachment/Pasted image 20230526125756.png",
     "99_attachment/Pasted image 20230526125718.png",
-    "99_attachment/Estimation of Non-Normalized Statistical Models by Score Matching.pdf",
-    "01_natural_language_processing/(2023) Generative Agents Interactive Simulacra of Human Behavior.md",
-    "01_natural_language_processing/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
-    "01_natural_language_processing/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
-    "01_natural_language_processing/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
-    "01_natural_language_processing/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
-    "01_natural_language_processing/(2023) PaLM2 Technical Report.md",
-    "01_natural_language_processing/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
-    "02_computer_vision/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
-    "02_computer_vision/(2023) Flow Matching for Generative Modeling.md",
     "99_attachment/Pasted image 20230525155152.png",
     "99_attachment/Pasted image 20230525155124.png",
     "99_attachment/Pasted image 20230525155111.png",
     "99_attachment/Pasted image 20230525155000.png",
-    "01_natural_language_processing/(2018) Neural Ordinary Differential Equations.md",
-    "02_computer_vision/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
-    "02_computer_vision/(2020) Improved Techniques for Training Score-Based Generative Models.md",
-    "02_computer_vision/(2020) Denoising Diffusion Probabilistic Models.md",
     "99_attachment/Pasted image 20230524153622.png",
-    "01_natural_language_processing/(2021) Neural Flows, Efficient Alternative to Neural ODEs.md",
-    "99_attachment/Neural Flows, Efficient Alternative to Neural ODEs.pdf",
     "99_attachment/Pasted image 20230524125744.png",
-    "99_attachment/ot-flow.pdf",
-    "99_attachment/A Memory efficient and Reverse accurate integrator for neural ODEs.pdf",
     "99_attachment/Pasted image 20230524103234.png",
-    "99_attachment/Pasted image 20230524102939.png",
-    "99_attachment/20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti 1.pdf",
-    "99_attachment/20200710_Mila_Neural_ODEs_tutorial_Vikram_Voleti.pdf"
+    "99_attachment/Pasted image 20230524102939.png"
   ]
 }

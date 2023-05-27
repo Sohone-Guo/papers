@@ -1,4 +1,4 @@
-Tags: 
+#Tag_基础理论 
 # Information
 ---
 
@@ -13,3 +13,4 @@ Tags:
 
 # Attachment
 ---
+![[(2019) Unconstrained Monotonic Neural Networks.pdf]]
