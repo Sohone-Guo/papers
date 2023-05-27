@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_research/Researching on Score Function.md",
-                "mode": "preview",
+                "file": "20_research/Researching on Flow-based.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_research/Researching on Score Function.md",
+                "file": "20_research/Researching on Flow-based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_research/Researching on Score Function.md",
+                "file": "20_research/Researching on Flow-based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_research/Researching on Score Function.md"
+                "file": "20_research/Researching on Flow-based.md"
               }
             }
           }
@@ -154,12 +154,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "d44a7ceae66713f9",
   "lastOpenFiles": [
+    "20_research/Researching on Score Function.md",
     "20_research/Researching on Flow-based.md",
     "20_research/Research on Neural ODE.md",
     "20_research/Research on Implicit Layer.md",
-    "20_research/Researching on Score Function.md",
     "未命名.canvas",
     "未命名.md",
     "04_semantic_communication/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
