@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f29570b02cdd674",
+        "id": "46feb1ca1939250c",
         "type": "tabs",
         "children": [
           {
-            "id": "a4c338cd7feac3ab",
+            "id": "8cd11e857c072f45",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -17,70 +17,12 @@
                 "viewState": {
                   "x": 20,
                   "y": -400,
-                  "zoom": -1.0636252097786572
+                  "zoom": -1.5972408304995929
                 }
-              }
-            }
-          },
-          {
-            "id": "fe68564cae642c17",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
-                "viewState": {
-                  "x": -720,
-                  "y": -500,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "1a452e0d6f40b7a0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "00_调研整理/001_合成数据技术/总纲.canvas",
-                "viewState": {
-                  "x": -240,
-                  "y": -330,
-                  "zoom": -0.1351784708036911
-                }
-              }
-            }
-          },
-          {
-            "id": "18b8bd81b65ee82a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
-                "viewState": {
-                  "x": -850,
-                  "y": -800,
-                  "zoom": -0.10445662281555784
-                }
-              }
-            }
-          },
-          {
-            "id": "226246e3dec71b1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/总纲.canvas",
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/总纲.canvas",
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/总纲.canvas"
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas"
               }
             }
           }
@@ -216,14 +158,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1a452e0d6f40b7a0",
+  "active": "8cd11e857c072f45",
   "lastOpenFiles": [
+    "00_调研整理/001_合成数据技术/总纲.canvas",
+    "90_工具手册/vscode.md",
+    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
+    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
+    "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+    "00_调研整理/001_合成数据技术/技术整理/合成数据简介.md",
     "00_调研整理/001_合成数据技术/调研整理/Explicit Layers.md",
     "00_调研整理/001_合成数据技术/技术整理/性能测评技术.md",
-    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
-    "00_调研整理/001_合成数据技术/总纲.canvas",
-    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
     "00_调研整理/001_合成数据技术/调研整理/Guided decoding methods.md",
     "00_调研整理/001_合成数据技术/调研整理/GANs.md",
     "00_调研整理/001_合成数据技术/调研整理/Controllable Common.md",
@@ -244,9 +189,6 @@
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "Projects - Demo Project",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
-    "98_temples/paper-temple.md",
-    "02_已看论文/(2018) Neural Ordinary Differential Equations.md",
-    "00_调研整理/001_合成数据技术/调研整理/Neural ODE.md",
     "01_natural_language_processing",
     "调研整理",
     "00_调研整理/001_合成数据技术/调研整理",
