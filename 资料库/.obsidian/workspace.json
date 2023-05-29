@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md",
+                "file": "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md",
+                "file": "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md",
+                "file": "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md"
+                "file": "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md"
               }
             }
           }
@@ -218,10 +218,11 @@
   },
   "active": "cdfba0de72e00551",
   "lastOpenFiles": [
+    "02_已看论文/(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md",
+    "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
+    "99_attachment/Pasted image 20230529182304.png",
     "99_attachment/2110.07356.pdf",
     "99_attachment/Pasted image 20230529175956.png",
-    "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
-    "(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md",
     "00_调研整理/001_合成数据技术/技术整理/合成数据简介.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
@@ -257,7 +258,6 @@
     "00_调研整理/001_合成数据技术/技术整理",
     "00_调研整理/001_合成数据技术",
     "00_调研整理",
-    "01_待看论文/AIGC发展趋势报告2023.pdf",
     "未命名.canvas",
     "99_attachment/Pasted image 20230526125756.png",
     "99_attachment/Pasted image 20230526125718.png",
@@ -266,7 +266,6 @@
     "99_attachment/Pasted image 20230525155111.png",
     "99_attachment/Pasted image 20230525155000.png",
     "99_attachment/Pasted image 20230524153622.png",
-    "99_attachment/Pasted image 20230524125744.png",
-    "99_attachment/Pasted image 20230524103234.png"
+    "99_attachment/Pasted image 20230524125744.png"
   ]
 }
