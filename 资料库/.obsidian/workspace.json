@@ -26,28 +26,61 @@
             "id": "88266e00401d07a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
-                "mode": "source",
-                "source": false
+                "file": "00_调研整理/001_合成数据技术/总纲.canvas",
+                "viewState": {
+                  "x": -240,
+                  "y": -330,
+                  "zoom": -0.34888516427391664
+                }
               }
             }
           },
           {
-            "id": "ea12b6196f6dfdcf",
+            "id": "0a59ab2385c14a9d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "00_调研整理/001_合成数据技术/总纲.canvas",
+                "viewState": {
+                  "x": -240,
+                  "y": -330,
+                  "zoom": -0.34216556646754837
+                }
+              }
+            }
+          },
+          {
+            "id": "f7f1222a0808bffe",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "00_调研整理/001_合成数据技术/总纲.canvas",
+                "viewState": {
+                  "x": -240,
+                  "y": -330,
+                  "zoom": -0.34216556646754837
+                }
+              }
+            }
+          },
+          {
+            "id": "cdfba0de72e00551",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/性能测评技术.md",
+                "file": "(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -105,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 401.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -121,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_待看论文/(2023) Does Synthetic Data Generation of LLMs Help Clinical Text Mining.md",
+                "file": "(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_待看论文/(2023) Does Synthetic Data Generation of LLMs Help Clinical Text Mining.md",
+                "file": "(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_待看论文/(2023) Does Synthetic Data Generation of LLMs Help Clinical Text Mining.md"
+                "file": "(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md"
               }
             }
           }
@@ -170,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,18 +216,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "cdfba0de72e00551",
   "lastOpenFiles": [
-    "99_attachment/Does Synthetic Data Generation of LLMs Help Clinical Text Mining.pdf",
+    "99_attachment/2110.07356.pdf",
+    "99_attachment/Pasted image 20230529175956.png",
     "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
-    "01_待看论文/(2023) Does Synthetic Data Generation of LLMs Help Clinical Text Mining.md",
+    "(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md",
+    "00_调研整理/001_合成数据技术/技术整理/合成数据简介.md",
+    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
+    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
+    "01_待看论文/(2023) Does Synthetic Data Generation of LLMs Help Clinical Text Mining.md",
+    "99_attachment/Does Synthetic Data Generation of LLMs Help Clinical Text Mining.pdf",
     "00_调研整理/001_合成数据技术/技术整理/性能测评技术.md",
     "02_已看论文/(2023) A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models.md",
     "99_attachment/(2023) A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models.pdf",
-    "00_调研整理/001_合成数据技术/技术整理/合成数据简介.md",
-    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
-    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "90_工具手册/vscode.md",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
     "00_调研整理/001_合成数据技术/调研整理/Explicit Layers.md",
@@ -214,7 +250,6 @@
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
     "Projects - Demo Project",
     "01_natural_language_processing",
     "调研整理",
@@ -223,7 +258,6 @@
     "00_调研整理/001_合成数据技术",
     "00_调研整理",
     "01_待看论文/AIGC发展趋势报告2023.pdf",
-    "01_待看论文/A Survey on Digital Twins.pdf",
     "未命名.canvas",
     "99_attachment/Pasted image 20230526125756.png",
     "99_attachment/Pasted image 20230526125718.png",
@@ -233,7 +267,6 @@
     "99_attachment/Pasted image 20230525155000.png",
     "99_attachment/Pasted image 20230524153622.png",
     "99_attachment/Pasted image 20230524125744.png",
-    "99_attachment/Pasted image 20230524103234.png",
-    "99_attachment/Pasted image 20230524102939.png"
+    "99_attachment/Pasted image 20230524103234.png"
   ]
 }
