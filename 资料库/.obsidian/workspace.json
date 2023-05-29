@@ -13,16 +13,29 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+                "file": "00_调研整理/001_合成数据技术/总纲.canvas",
                 "viewState": {
-                  "x": 20,
-                  "y": -400,
-                  "zoom": -1.5972408304995929
+                  "x": -240,
+                  "y": -330,
+                  "zoom": 0
                 }
               }
             }
+          },
+          {
+            "id": "ea12b6196f6dfdcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+                "file": "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+                "file": "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas"
+                "file": "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md"
               }
             }
           }
@@ -158,15 +171,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a524ce4a4b2d560a",
+  "active": "ea12b6196f6dfdcf",
   "lastOpenFiles": [
     "00_调研整理/001_合成数据技术/总纲.canvas",
+    "00_调研整理/001_合成数据技术/技术整理/合成数据简介.md",
+    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "90_工具手册/vscode.md",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
-    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
-    "00_调研整理/001_合成数据技术/技术整理/合成数据简介.md",
     "00_调研整理/001_合成数据技术/调研整理/Explicit Layers.md",
     "00_调研整理/001_合成数据技术/技术整理/性能测评技术.md",
     "00_调研整理/001_合成数据技术/调研整理/Guided decoding methods.md",
