@@ -11,8 +11,15 @@
             "id": "f6b3b32c9b173ce1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+                "viewState": {
+                  "x": -9.012051088653976,
+                  "y": -315.8525783343537,
+                  "zoom": -0.7589919004962049
+                }
+              }
             }
           }
         ]
@@ -89,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas"
+              }
             }
           }
         ]
@@ -148,14 +159,14 @@
   },
   "active": "f6b3b32c9b173ce1",
   "lastOpenFiles": [
-    "90_工具手册/英语易错.md",
-    "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
+    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
+    "90_工具手册/英语易错.md",
+    "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
     "00_调研整理/001_合成数据技术/技术整理/合成数据简介.md",
     "02_已看论文/(2022) CLASP, Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing.md",
     "00_调研整理/001_合成数据技术/技术整理/数据过滤技术.md",
-    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.md",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
     "01_待看论文/(2023) Does Synthetic Data Generation of LLMs Help Clinical Text Mining.md",
     "02_已看论文/(2023) Language Models are Realistic tabular Data Generators.md",
@@ -188,7 +199,6 @@
     "00_调研整理/001_合成数据技术/调研整理/Trainalbe decoding methods.md",
     "00_调研整理/001_合成数据技术/调研整理/Controllable by Conditional model.md",
     "00_调研整理/001_合成数据技术/调研整理/Controllable by Postprocessing.md",
-    "00_调研整理/001_合成数据技术/调研整理/Prompt design.md",
     "Projects - Demo Project",
     "01_natural_language_processing",
     "调研整理",
