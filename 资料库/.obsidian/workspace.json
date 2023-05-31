@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1aca044c8d006d29",
+        "id": "414448f793b78326",
         "type": "tabs",
         "children": [
           {
-            "id": "30bcf84dd5324c3d",
+            "id": "b39649f908f7f033",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,11 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "30bcf84dd5324c3d",
+  "active": "b39649f908f7f033",
   "lastOpenFiles": [
+    "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
+    "90_工具手册/英语易错.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
-    "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
     "00_调研整理/001_合成数据技术/技术整理/合成数据简介.md",
     "02_已看论文/(2022) CLASP, Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing.md",
     "00_调研整理/001_合成数据技术/技术整理/数据过滤技术.md",
