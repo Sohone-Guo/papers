@@ -15,14 +15,30 @@
               "state": {
                 "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
                 "viewState": {
-                  "x": -9.012051088653976,
-                  "y": -315.8525783343537,
-                  "zoom": -0.7589919004962049
+                  "x": 20,
+                  "y": -400,
+                  "zoom": -0.758991900496205
+                }
+              }
+            }
+          },
+          {
+            "id": "4d3324557e4ce07a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+                "viewState": {
+                  "x": 20,
+                  "y": -400,
+                  "zoom": -0.758991900496205
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,10 +173,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f6b3b32c9b173ce1",
+  "active": "4d3324557e4ce07a",
   "lastOpenFiles": [
-    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.md",
+    "02_已看论文/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
+    "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
+    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.md",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "90_工具手册/英语易错.md",
     "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
@@ -185,7 +204,6 @@
     "99_attachment/Pasted image 20230529182304.png",
     "99_attachment/2110.07356.pdf",
     "99_attachment/Pasted image 20230529175956.png",
-    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "99_attachment/Does Synthetic Data Generation of LLMs Help Clinical Text Mining.pdf",
     "00_调研整理/001_合成数据技术/技术整理/性能测评技术.md",
     "02_已看论文/(2023) A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models.md",
@@ -198,7 +216,6 @@
     "00_调研整理/001_合成数据技术/调研整理/Controllable Common.md",
     "00_调研整理/001_合成数据技术/调研整理/Trainalbe decoding methods.md",
     "00_调研整理/001_合成数据技术/调研整理/Controllable by Conditional model.md",
-    "00_调研整理/001_合成数据技术/调研整理/Controllable by Postprocessing.md",
     "Projects - Demo Project",
     "01_natural_language_processing",
     "调研整理",
