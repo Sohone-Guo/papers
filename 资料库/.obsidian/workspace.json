@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2023) A Survey of Large Language Model.md",
+                "file": "02_已看论文/(2022) Training Compute-Optimal Large Language Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Flow-based",
+                "query": "dataset",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2023) A Survey of Large Language Model.md",
+                "file": "02_已看论文/(2022) Training Compute-Optimal Large Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2023) A Survey of Large Language Model.md",
+                "file": "02_已看论文/(2022) Training Compute-Optimal Large Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2023) A Survey of Large Language Model.md"
+                "file": "02_已看论文/(2022) Training Compute-Optimal Large Language Models.md"
               }
             }
           }
@@ -165,8 +165,28 @@
   },
   "active": "eab7913bcd019e86",
   "lastOpenFiles": [
-    "99_attachment/a survey  of  large  language  model.pdf",
+    "02_已看论文/(2022) GPT-NeoX-20B, An Open-Source Autoregressive Language Model.md",
+    "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
+    "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
+    "02_已看论文/(2023) A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models.md",
+    "02_已看论文/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
+    "02_已看论文/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
+    "02_已看论文/(2023) DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
+    "02_已看论文/(2023) Eearly Exaperiments with GPT4.md",
+    "02_已看论文/(2023) Flow Matching for Generative Modeling.md",
+    "02_已看论文/(2023) Generative Agents Interactive Simulacra of Human Behavior.md",
+    "02_已看论文/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
+    "02_已看论文/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
+    "02_已看论文/(2023) Language Models are Realistic tabular Data Generators.md",
+    "02_已看论文/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
+    "02_已看论文/(2023) PaLM2 Technical Report.md",
+    "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
+    "02_已看论文/(2023) Self-consistency improves chain-of-thought reasoning in language models.md",
+    "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
+    "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
+    "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "(2023) A Survey of Large Language Model.md",
+    "99_attachment/a survey  of  large  language  model.pdf",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "90_工具手册/GPU.md",
     "90_工具手册/pytorch.md",
@@ -175,23 +195,10 @@
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.md",
     "00_调研整理/001_合成数据技术/总纲.canvas",
-    "90_工具手册/英语易错.md",
-    "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
-    "00_调研整理/001_合成数据技术/技术整理/合成数据简介.md",
-    "02_已看论文/(2022) CLASP, Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing.md",
-    "00_调研整理/001_合成数据技术/技术整理/数据过滤技术.md",
-    "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
-    "01_待看论文/(2023) Does Synthetic Data Generation of LLMs Help Clinical Text Mining.md",
-    "02_已看论文/(2023) Language Models are Realistic tabular Data Generators.md",
-    "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
-    "02_已看论文/(2022) Symbolic Knowledge Distillation, from General Language MOdels to Commonsense Models.md",
-    "02_已看论文/(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md",
     "99_attachment/Pasted image 20230530002014.png",
     "99_attachment/Pasted image 20230530001847.png",
     "99_attachment/2212.10465.pdf",
-    "02_已看论文/(2018) Understanding Back-Translation at Scale.md",
     "99_attachment/1808.09381.pdf",
-    "02_已看论文/(2022) LINGUIST, Language Model Instruction Tuning to Generate Annotated Utterances for Intent CLassification and Slot Tagging.md",
     "99_attachment/2110.07178.pdf",
     "99_attachment/Pasted image 20230529230300.png",
     "99_attachment/Pasted image 20230529230235.png",
@@ -199,17 +206,10 @@
     "99_attachment/2110.07356.pdf",
     "99_attachment/Pasted image 20230529175956.png",
     "99_attachment/Does Synthetic Data Generation of LLMs Help Clinical Text Mining.pdf",
-    "00_调研整理/001_合成数据技术/技术整理/性能测评技术.md",
-    "02_已看论文/(2023) A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models.md",
     "99_attachment/(2023) A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models.pdf",
-    "90_工具手册/vscode.md",
-    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
-    "00_调研整理/001_合成数据技术/调研整理/Explicit Layers.md",
-    "00_调研整理/001_合成数据技术/调研整理/Guided decoding methods.md",
     "Projects - Demo Project",
     "01_natural_language_processing",
     "调研整理",
-    "00_调研整理/001_合成数据技术/调研整理",
     "未命名.canvas",
     "99_attachment/Pasted image 20230526125756.png",
     "99_attachment/Pasted image 20230526125718.png",
