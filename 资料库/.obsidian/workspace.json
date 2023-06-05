@@ -4,53 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7a05a09fb8c5abe9",
+        "id": "4ca6222b965eaed4",
         "type": "tabs",
         "children": [
           {
-            "id": "f6b3b32c9b173ce1",
+            "id": "2f00011b40854fc4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
-                "viewState": {
-                  "x": 20,
-                  "y": -400,
-                  "zoom": -0.758991900496205
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "4d3324557e4ce07a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
-                "viewState": {
-                  "x": 20,
-                  "y": -400,
-                  "zoom": -0.758991900496205
-                }
-              }
-            }
-          },
-          {
-            "id": "3e779bb20eb6a3df",
+            "id": "9a7cbb1c15d19dc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_工具手册/GPU.md",
+                "file": "(2023) A Survey of Large Language Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 508.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -124,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/GPU.md",
+                "file": "(2023) A Survey of Large Language Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_工具手册/GPU.md",
+                "file": "(2023) A Survey of Large Language Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_工具手册/GPU.md"
+                "file": "(2023) A Survey of Large Language Model.md"
               }
             }
           }
@@ -185,10 +163,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3e779bb20eb6a3df",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
-    "90_工具手册/pytorch.md",
+    "99_attachment/a survey  of  large  language  model.pdf",
+    "(2023) A Survey of Large Language Model.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+    "90_工具手册/GPU.md",
+    "90_工具手册/pytorch.md",
     "02_已看论文/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
     "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
@@ -225,8 +206,6 @@
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
     "00_调研整理/001_合成数据技术/调研整理/Explicit Layers.md",
     "00_调研整理/001_合成数据技术/调研整理/Guided decoding methods.md",
-    "00_调研整理/001_合成数据技术/调研整理/GANs.md",
-    "00_调研整理/001_合成数据技术/调研整理/Controllable Common.md",
     "Projects - Demo Project",
     "01_natural_language_processing",
     "调研整理",
