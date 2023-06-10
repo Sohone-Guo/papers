@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4ca6222b965eaed4",
+        "id": "6acd507f57331e26",
         "type": "tabs",
         "children": [
           {
-            "id": "2f00011b40854fc4",
+            "id": "0d1f35e5b99d5ba0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(Tutorial) PPO.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(Tutorial) PPO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(Tutorial) PPO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_已看论文/(Tutorial) PPO.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,8 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2f00011b40854fc4",
+  "active": "0d1f35e5b99d5ba0",
   "lastOpenFiles": [
+    "00_调研整理/001_合成数据技术/调研整理/Neural ODE.md",
+    "疑惑：Score-diffution.md",
+    "02_已看论文/(Tutorial) PPO.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "02_已看论文/(2021) Continuous Language Generative Flow.md",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
@@ -182,8 +177,6 @@
     "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
     "02_已看论文/(2023) Self-consistency improves chain-of-thought reasoning in language models.md",
     "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
-    "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
-    "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "99_attachment/a survey  of  large  language  model.pdf",
     "99_attachment/Pasted image 20230530002014.png",
     "99_attachment/Pasted image 20230530001847.png",
