@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6acd507f57331e26",
+        "id": "57463d2509937078",
         "type": "tabs",
         "children": [
           {
-            "id": "0d1f35e5b99d5ba0",
+            "id": "a704e0ebbe04a680",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
+                "file": "02_已看论文/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataset",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
+                "file": "02_已看论文/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
+                "file": "02_已看论文/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md"
+                "file": "02_已看论文/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md"
               }
             }
           }
@@ -154,13 +154,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0d1f35e5b99d5ba0",
+  "active": "a704e0ebbe04a680",
   "lastOpenFiles": [
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
+    "02_已看论文/(2021) Continuous Language Generative Flow.md",
+    "02_已看论文/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
     "02_已看论文/(2020) Invertible generative modeling using linear rational splines.md",
     "02_已看论文/(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.md",
     "02_已看论文/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
-    "02_已看论文/(2021) Continuous Language Generative Flow.md",
     "疑惑：Score-diffution.md",
     "00_调研整理/001_合成数据技术/调研整理/Neural ODE.md",
     "02_已看论文/(Tutorial) PPO.md",
@@ -184,7 +185,6 @@
     "02_已看论文/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
     "02_已看论文/(2023) Language Models are Realistic tabular Data Generators.md",
     "02_已看论文/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
-    "02_已看论文/(2023) PaLM2 Technical Report.md",
     "99_attachment/a survey  of  large  language  model.pdf",
     "99_attachment/Pasted image 20230530002014.png",
     "99_attachment/Pasted image 20230530001847.png",
