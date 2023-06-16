@@ -11,8 +11,12 @@
             "id": "c5bd49da7f7cb544",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hier",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2022) Effective data augmentation for sentence classification using one VAE per class.md",
+                "file": "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2022) Effective data augmentation for sentence classification using one VAE per class.md",
+                "file": "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2022) Effective data augmentation for sentence classification using one VAE per class.md"
+                "file": "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md"
               }
             }
           }
@@ -150,38 +154,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "c5bd49da7f7cb544",
   "lastOpenFiles": [
+    "02_已看论文/(2016) Ladder Variational Autoencoders.md",
+    "02_已看论文/(2016) Tutorial on Variational Autoencoders.md",
+    "02_已看论文/(2016) Variational inference with normalizing flows.md",
+    "02_已看论文/(2017) Density estimation using Real NVP.md",
+    "02_已看论文/(2017) Masked autoregressive flow for density estimation.md",
+    "02_已看论文/(2017) Proximal Policy Optimization Algorithms.md",
+    "02_已看论文/(2018) ⭐Nerual Discrete Representation Learning.md",
+    "02_已看论文/(2018) ⭐Theory and Experiments on Vector Quantized Antoencoders.md",
+    "02_已看论文/(2018) Clean Code in Python Refactor your legacy code base.md",
+    "02_已看论文/(2018) Fast Decoding in Sequence Models Using Discrete Latent Variables.md",
+    "02_已看论文/(2018) Glow, Generative Flow with Invertible 1x1 Convolutions.md",
+    "02_已看论文/(2018) high-resolution image synthesis and semantic manipulation with conditional GANs.md",
+    "02_已看论文/(2018) Neural autoregressive flows.md",
+    "02_已看论文/(2018) Neural Ordinary Differential Equations.md",
+    "02_已看论文/(2018) Tutorial on Deep Generative Models.md",
+    "02_已看论文/(2018) Understanding Back-Translation at Scale.md",
+    "02_已看论文/(2019) Block neural autoregressive flow.md",
+    "02_已看论文/(2019) Deep Equilibrium Models.md",
+    "02_已看论文/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
+    "02_已看论文/(2019) Everybody Dance Now.md",
+    "02_已看论文/(2019) FFJORD, Free-form Continuous Dynamics for Scalable Reversible Generative Models.md",
+    "02_已看论文/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
+    "02_已看论文/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
+    "02_已看论文/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
+    "02_已看论文/(2019) Invertible Residual Networks.md",
+    "02_已看论文/(2019) Neural Density Estimation and Likelihood-free Inference.md",
     "99_attachment/Pasted image 20230616141307.png",
     "99_attachment/2022.coling-1.305.pdf",
-    "90_工具手册/英语易错.md",
-    "02_已看论文/(2022) Effective data augmentation for sentence classification using one VAE per class.md",
-    "DragGAN.md",
-    "疑惑：Score-diffution.md",
-    "02_已看论文/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
-    "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
-    "02_已看论文/(2021) Continuous Language Generative Flow.md",
-    "02_已看论文/(2019) Discrete Flows, Invertible Generative Models of Discrete Data.md",
-    "02_已看论文/(2020) Invertible generative modeling using linear rational splines.md",
-    "02_已看论文/(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.md",
-    "00_调研整理/001_合成数据技术/调研整理/Neural ODE.md",
-    "02_已看论文/(Tutorial) PPO.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
-    "00_调研整理/001_合成数据技术/调研整理/Diffusion Models.md",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
-    "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
-    "90_工具手册/自动调参工具.md",
-    "02_已看论文/(2022) GPT-NeoX-20B, An Open-Source Autoregressive Language Model.md",
-    "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
-    "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
-    "02_已看论文/(2023) A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models.md",
-    "02_已看论文/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
-    "02_已看论文/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
-    "02_已看论文/(2023) DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
-    "02_已看论文/(2023) Eearly Exaperiments with GPT4.md",
-    "02_已看论文/(2023) Flow Matching for Generative Modeling.md",
-    "02_已看论文/(2023) Generative Agents Interactive Simulacra of Human Behavior.md",
     "99_attachment/a survey  of  large  language  model.pdf",
     "99_attachment/Pasted image 20230530002014.png",
     "99_attachment/Pasted image 20230530001847.png",
@@ -200,7 +205,6 @@
     "未命名.canvas",
     "99_attachment/Pasted image 20230526125756.png",
     "99_attachment/Pasted image 20230526125718.png",
-    "99_attachment/Pasted image 20230525155152.png",
-    "99_attachment/Pasted image 20230525155124.png"
+    "99_attachment/Pasted image 20230525155152.png"
   ]
 }
