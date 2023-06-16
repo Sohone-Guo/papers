@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1dba25e9fd117e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2021) NVAE, A Deep Hierarchical Variational Autoencoder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hier",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
+                "file": "(2021) NVAE, A Deep Hierarchical Variational Autoencoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
+                "file": "(2021) NVAE, A Deep Hierarchical Variational Autoencoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md"
+                "file": "(2021) NVAE, A Deep Hierarchical Variational Autoencoder.md"
               }
             }
           }
@@ -154,8 +167,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "b1dba25e9fd117e5",
   "lastOpenFiles": [
+    "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
+    "(2021) NVAE, A Deep Hierarchical Variational Autoencoder.md",
     "02_已看论文/(2016) Ladder Variational Autoencoders.md",
     "02_已看论文/(2016) Tutorial on Variational Autoencoders.md",
     "02_已看论文/(2016) Variational inference with normalizing flows.md",
@@ -180,8 +195,6 @@
     "02_已看论文/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
     "02_已看论文/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
     "02_已看论文/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
-    "02_已看论文/(2019) Invertible Residual Networks.md",
-    "02_已看论文/(2019) Neural Density Estimation and Likelihood-free Inference.md",
     "99_attachment/Pasted image 20230616141307.png",
     "99_attachment/2022.coling-1.305.pdf",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
