@@ -5,7 +5,7 @@ Tags: #Tag_计算机视觉
 
 # Mainly Idea
 ---
-
+![[Pasted image 20230619125601.png]]
 
 # Question
 ---
@@ -13,7 +13,7 @@ Tags: #Tag_计算机视觉
 
 # Reference
 ---
-
+- styleGAN: [[(2019) A Style-Based Generator Architecture for Generative Adversarial Networks]]
 
 # Attachment
 ---
