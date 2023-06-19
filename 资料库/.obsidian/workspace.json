@@ -11,8 +11,12 @@
             "id": "d3e31e62067496bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_已看论文/(2023) Drag Your GAN, Interactive Point-based Manipulation on the Generative Image Manifold.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_已看论文/(2023) Drag Your GAN, Interactive Point-based Manipulation on the Generative Image Manifold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_已看论文/(2023) Drag Your GAN, Interactive Point-based Manipulation on the Generative Image Manifold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02_已看论文/(2023) Drag Your GAN, Interactive Point-based Manipulation on the Generative Image Manifold.md"
+              }
             }
           }
         ]
@@ -148,6 +156,9 @@
   },
   "active": "d3e31e62067496bf",
   "lastOpenFiles": [
+    "98_temples/paper-temple.md",
+    "02_已看论文/(2023) Drag Your GAN, Interactive Point-based Manipulation on the Generative Image Manifold.md",
+    "99_attachment/2305.10973.pdf",
     "02_已看论文/(2018) Neural autoregressive flows.md",
     "02_已看论文/(2019) FlowSeq, Non-Autoregressive Conditional Sequence Generation with Generative Flow.md",
     "02_已看论文/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
@@ -172,8 +183,6 @@
     "02_已看论文/(2021) A Memory efficient and Reverse accurate integrator for neural ODEs.md",
     "02_已看论文/(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.md",
     "02_已看论文/(2021) Continuous Language Generative Flow.md",
-    "02_已看论文/(2004) Use of Exchangeable Pairs in the Analysis of Simulations.md",
-    "02_已看论文/(2005) Estimation of Non-Normalized Statistical Models by Score Matching.md",
     "99_attachment/Pasted image 20230616230353.png",
     "99_attachment/Pasted image 20230616230334.png",
     "99_attachment/Pasted image 20230616230301.png",
@@ -196,7 +205,6 @@
     "99_attachment/Pasted image 20230529175956.png",
     "99_attachment/Does Synthetic Data Generation of LLMs Help Clinical Text Mining.pdf",
     "99_attachment/(2023) A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models.pdf",
-    "Projects - Demo Project",
     "未命名.canvas"
   ]
 }
