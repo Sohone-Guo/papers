@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2020) Denoising Diffusion Probabilistic Models.md",
-                "mode": "source",
+                "file": "02_已看论文/(2022) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diffu",
+                "query": "diffusion",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2020) Denoising Diffusion Probabilistic Models.md",
+                "file": "02_已看论文/(2022) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2020) Denoising Diffusion Probabilistic Models.md",
+                "file": "02_已看论文/(2022) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2020) Denoising Diffusion Probabilistic Models.md"
+                "file": "02_已看论文/(2022) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md"
               }
             }
           }
@@ -156,6 +157,19 @@
   },
   "active": "d3e31e62067496bf",
   "lastOpenFiles": [
+    "02_已看论文/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
+    "02_已看论文/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
+    "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
+    "02_已看论文/(2020) Denoising Diffusion Probabilistic Models.md",
+    "02_已看论文/(2020) Improved Techniques for Training Score-Based Generative Models.md",
+    "00_调研整理/001_合成数据技术/调研整理/Diffusion Models.md",
+    "02_已看论文/(Tutorial) Score-Based Generative Modeling.md",
+    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+    "00_调研整理/001_合成数据技术/技术整理/性能测评技术.md",
+    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.md",
+    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
+    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
+    "00_调研整理/001_合成数据技术/调研整理/Explicit Layers.md",
     "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
     "02_已看论文/(2022) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
     "02_已看论文/(2022) Understanding Diffusion Models, A Unified Perspective.md",
@@ -176,26 +190,13 @@
     "02_已看论文/(2019) Neural Importance Sampling.md",
     "02_已看论文/(2019) Sparse Transformer.md",
     "02_已看论文/(2019) Sum-of-Squares Polynomial Flow.md",
-    "02_已看论文/(2019) The Book of Why.md",
-    "02_已看论文/(2019) Unconstrained Monotonic Neural Networks.md",
-    "02_已看论文/(2020 Normalizing Flows, An Introduction and Review of Current Methods).md",
-    "02_已看论文/(2020) Causal Learning.md",
-    "02_已看论文/(2020) Denoising Diffusion Probabilistic Models.md",
-    "02_已看论文/(2020) Fine-Tuning Language Models from Human Preferences.md",
-    "02_已看论文/(2020) GPT3, Language Models are Few-Shot Learners.md",
-    "02_已看论文/(2020) Improved Techniques for Training Score-Based Generative Models.md",
-    "02_已看论文/(2020) Invertible generative modeling using linear rational splines.md",
-    "02_已看论文/(2020) Scaling Laws for Neural Language Models.md",
-    "02_已看论文/(2020) StartGAN v2.md",
     "99_attachment/Pasted image 20230616230353.png",
     "99_attachment/Pasted image 20230616230334.png",
     "99_attachment/Pasted image 20230616230301.png",
     "99_attachment/2007.03898.pdf",
     "99_attachment/Pasted image 20230616141307.png",
     "99_attachment/2022.coling-1.305.pdf",
-    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
-    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "99_attachment/a survey  of  large  language  model.pdf",
     "99_attachment/Pasted image 20230530002014.png",
     "99_attachment/Pasted image 20230530001847.png",
