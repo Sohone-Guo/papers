@@ -14,7 +14,8 @@ Tags: #Tag_计算机视觉 #Tag_多模态
 
 # Reference
 ---
-
+- StyleGAN: [[(2019) A Style-Based Generator Architecture for Generative Adversarial Networks]]
+- StyleGAN2: [[(2020) Analyzing and Improving the Image Quality of StyleGAN]]
 
 # Attachment
 ---
