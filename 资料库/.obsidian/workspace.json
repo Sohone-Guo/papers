@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "be837bb66d45ee0e",
+        "id": "8d002cea73f7749a",
         "type": "tabs",
         "children": [
           {
-            "id": "d3e31e62067496bf",
+            "id": "616f9f7c8e3c6c7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2022) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2022) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
+                "file": "02_已看论文/(2021) Diffusion models beat GANs on Image Synthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2022) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
+                "file": "02_已看论文/(2021) Diffusion models beat GANs on Image Synthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2022) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md"
+                "file": "02_已看论文/(2021) Diffusion models beat GANs on Image Synthesis.md"
               }
             }
           }
@@ -155,12 +150,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d3e31e62067496bf",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/diffusion models beat GANs on Image Synthesis.pdf",
+    "02_已看论文/(2021) Improved denoising diffusion probabilistic models.md",
+    "02_已看论文/(2021) Diffusion models beat GANs on Image Synthesis.md",
+    "99_attachment/improved denoising diffusion probabilistic models.pdf",
+    "02_已看论文/(2020) Denoising Diffusion Probabilistic Models.md",
+    "02_已看论文/(2022) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
     "02_已看论文/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
     "02_已看论文/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
     "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
-    "02_已看论文/(2020) Denoising Diffusion Probabilistic Models.md",
     "02_已看论文/(2020) Improved Techniques for Training Score-Based Generative Models.md",
     "00_调研整理/001_合成数据技术/调研整理/Diffusion Models.md",
     "02_已看论文/(Tutorial) Score-Based Generative Modeling.md",
@@ -171,7 +171,6 @@
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
     "00_调研整理/001_合成数据技术/调研整理/Explicit Layers.md",
     "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
-    "02_已看论文/(2022) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
     "02_已看论文/(2022) Understanding Diffusion Models, A Unified Perspective.md",
     "02_已看论文/(2020) Analyzing and Improving the Image Quality of StyleGAN.md",
     "99_attachment/Pasted image 20230619125601.png",
@@ -187,9 +186,6 @@
     "02_已看论文/(2019) Flow++, Improving flow-based generative models with variational dequantization and architecture design.md",
     "02_已看论文/(2019) FFJORD, Free-form Continuous Dynamics for Scalable Reversible Generative Models.md",
     "02_已看论文/(2019) Neural Density Estimation and Likelihood-free Inference.md",
-    "02_已看论文/(2019) Neural Importance Sampling.md",
-    "02_已看论文/(2019) Sparse Transformer.md",
-    "02_已看论文/(2019) Sum-of-Squares Polynomial Flow.md",
     "99_attachment/Pasted image 20230616230353.png",
     "99_attachment/Pasted image 20230616230334.png",
     "99_attachment/Pasted image 20230616230301.png",
@@ -205,7 +201,6 @@
     "99_attachment/2110.07178.pdf",
     "99_attachment/Pasted image 20230529230300.png",
     "99_attachment/Pasted image 20230529230235.png",
-    "99_attachment/2110.07356.pdf",
     "未命名.canvas"
   ]
 }
