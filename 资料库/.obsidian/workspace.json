@@ -11,8 +11,12 @@
             "id": "616f9f7c8e3c6c7f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_已看论文/(2021) Improved denoising diffusion probabilistic models.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2021) Diffusion models beat GANs on Image Synthesis.md",
+                "file": "02_已看论文/(2021) Improved denoising diffusion probabilistic models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2021) Diffusion models beat GANs on Image Synthesis.md",
+                "file": "02_已看论文/(2021) Improved denoising diffusion probabilistic models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2021) Diffusion models beat GANs on Image Synthesis.md"
+                "file": "02_已看论文/(2021) Improved denoising diffusion probabilistic models.md"
               }
             }
           }
@@ -150,13 +154,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "616f9f7c8e3c6c7f",
   "lastOpenFiles": [
+    "02_已看论文/(2021) Diffusion models beat GANs on Image Synthesis.md",
+    "02_已看论文/(2020) Denoising Diffusion Probabilistic Models.md",
+    "(2023) A Survey of Large Language Model.md",
     "99_attachment/diffusion models beat GANs on Image Synthesis.pdf",
     "02_已看论文/(2021) Improved denoising diffusion probabilistic models.md",
-    "02_已看论文/(2021) Diffusion models beat GANs on Image Synthesis.md",
     "99_attachment/improved denoising diffusion probabilistic models.pdf",
-    "02_已看论文/(2020) Denoising Diffusion Probabilistic Models.md",
     "02_已看论文/(2022) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
     "02_已看论文/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
     "02_已看论文/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
@@ -198,7 +203,6 @@
     "99_attachment/Pasted image 20230530001847.png",
     "99_attachment/2212.10465.pdf",
     "99_attachment/1808.09381.pdf",
-    "99_attachment/2110.07178.pdf",
     "99_attachment/Pasted image 20230529230300.png",
     "99_attachment/Pasted image 20230529230235.png",
     "未命名.canvas"
