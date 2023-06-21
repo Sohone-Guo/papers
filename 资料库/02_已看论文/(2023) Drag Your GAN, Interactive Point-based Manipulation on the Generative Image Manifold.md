@@ -10,7 +10,10 @@ Tags: #Tag_计算机视觉 #Tag_多模态
 # Question
 ---
 - <font color="#c00000">What is the a feature-based motion supervision?</font>
+	- motion supervision: A loss that enforces handle points to move towards target points is used to optimize the latent. ?
+		- loss需要训练还是预测的时候使用？
 - <font color="#c00000">A new point tracking approach?</font>
+	- update the positions of the handle points to track the corresponding points on the object.
 
 # Reference
 ---
