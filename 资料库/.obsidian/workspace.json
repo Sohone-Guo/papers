@@ -11,11 +11,14 @@
             "id": "675ae26077782cb5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
-                "mode": "source",
-                "source": false
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+                "viewState": {
+                  "x": 20,
+                  "y": -400,
+                  "zoom": -1.5012967444040841
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md"
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas"
               }
             }
           }
@@ -156,6 +159,8 @@
   },
   "active": "675ae26077782cb5",
   "lastOpenFiles": [
+    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
+    "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
     "90_工具手册/英语易错.md",
     "02_已看论文/(2019) A Style-Based Generator Architecture for Generative Adversarial Networks.md",
@@ -167,7 +172,6 @@
     "02_已看论文/(2019) Plug and play language models, A simple approach to controlled text generation.md",
     "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
     "00_调研整理/001_合成数据技术/调研整理/Trainalbe decoding methods.md",
-    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "99_attachment/Pasted image 20230621111357.png",
     "90_工具手册/docker.md",
     "90_工具手册/GPU.md",
@@ -187,8 +191,6 @@
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/性能测评技术.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.md",
-    "00_调研整理/001_合成数据技术/调研整理/Explicit Layers.md",
-    "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
     "99_attachment/Pasted image 20230619125601.png",
     "99_attachment/Pasted image 20230619124606.png",
     "99_attachment/styleGAN2.pdf",
