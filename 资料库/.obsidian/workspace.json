@@ -11,18 +11,40 @@
             "id": "675ae26077782cb5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
-                "viewState": {
-                  "x": 20,
-                  "y": -400,
-                  "zoom": -1.5012967444040841
-                }
+                "file": "疑惑：Score-diffution.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1c2e60364f3f51f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83dd77a79d72d124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+                "file": "(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+                "file": "(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas"
+                "file": "(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md"
               }
             }
           }
@@ -157,8 +179,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "675ae26077782cb5",
+  "active": "83dd77a79d72d124",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20230711172958.png",
+    "03_机构名称/Microsoft.md",
+    "(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
+    "99_attachment/Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.pdf",
+    "疑惑：Score-diffution.md",
+    "02_已看论文/(2023) A Survey of Large Language Model.md",
+    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
@@ -178,7 +207,6 @@
     "02_已看论文/(2021) Improved denoising diffusion probabilistic models.md",
     "02_已看论文/(2021) Diffusion models beat GANs on Image Synthesis.md",
     "02_已看论文/(2020) Denoising Diffusion Probabilistic Models.md",
-    "(2023) A Survey of Large Language Model.md",
     "99_attachment/diffusion models beat GANs on Image Synthesis.pdf",
     "99_attachment/improved denoising diffusion probabilistic models.pdf",
     "02_已看论文/(2022) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
@@ -187,10 +215,6 @@
     "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
     "02_已看论文/(2020) Improved Techniques for Training Score-Based Generative Models.md",
     "00_调研整理/001_合成数据技术/调研整理/Diffusion Models.md",
-    "02_已看论文/(Tutorial) Score-Based Generative Modeling.md",
-    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
-    "00_调研整理/001_合成数据技术/技术整理/性能测评技术.md",
-    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.md",
     "99_attachment/Pasted image 20230619125601.png",
     "99_attachment/Pasted image 20230619124606.png",
     "99_attachment/styleGAN2.pdf",
@@ -206,7 +230,6 @@
     "99_attachment/a survey  of  large  language  model.pdf",
     "99_attachment/Pasted image 20230530002014.png",
     "99_attachment/Pasted image 20230530001847.png",
-    "99_attachment/2212.10465.pdf",
     "未命名.canvas"
   ]
 }
