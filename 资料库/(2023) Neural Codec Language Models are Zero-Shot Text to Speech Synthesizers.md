@@ -13,10 +13,12 @@ VALL-E emerges in-context learning capabilities and can be used to synthesize hi
 # Question
 ---
 - 音频和文本是如何组合的？
+	- 音频通过类似VQVAE这种，提取中间值作为Speech Quantization, 本身Decoder端也可以还原音频。参考[[(2022) AudioLM, a Language Modeling Approach to Audio Generation]]
+		- ![[Pasted image 20230711174825.png]]
 
 # Reference
 ---
-
+- [[(2022) AudioLM, a Language Modeling Approach to Audio Generation]]
 
 # Attachment
 ---

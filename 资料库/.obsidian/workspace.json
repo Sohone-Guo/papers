@@ -42,9 +42,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "00a00f60689f598c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4e1ea5b1f4170c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,11 +199,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "83dd77a79d72d124",
+  "active": "00a00f60689f598c",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20230711174825.png",
+    "02_已看论文/(2022) AudioLM, a Language Modeling Approach to Audio Generation.md",
+    "99_attachment/AudioLM, a Language Modeling Approach to Audio Generation.pdf",
+    "(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
     "99_attachment/Pasted image 20230711172958.png",
     "03_机构名称/Microsoft.md",
-    "(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
     "99_attachment/Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.pdf",
     "疑惑：Score-diffution.md",
     "02_已看论文/(2023) A Survey of Large Language Model.md",
@@ -214,7 +237,6 @@
     "02_已看论文/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
     "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
     "02_已看论文/(2020) Improved Techniques for Training Score-Based Generative Models.md",
-    "00_调研整理/001_合成数据技术/调研整理/Diffusion Models.md",
     "99_attachment/Pasted image 20230619125601.png",
     "99_attachment/Pasted image 20230619124606.png",
     "99_attachment/styleGAN2.pdf",
@@ -227,9 +249,7 @@
     "99_attachment/Pasted image 20230616141307.png",
     "99_attachment/2022.coling-1.305.pdf",
     "00_调研整理/001_合成数据技术/总纲.canvas",
-    "99_attachment/a survey  of  large  language  model.pdf",
     "99_attachment/Pasted image 20230530002014.png",
-    "99_attachment/Pasted image 20230530001847.png",
     "未命名.canvas"
   ]
 }
