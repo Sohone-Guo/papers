@@ -54,41 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b4e1ea5b1f4170c1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "755f4d7304949e67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9de6c65e02bdcd16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2021) Scaling Vision with Sparse Mixture of Experts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2021) Scaling Vision with Sparse Mixture of Experts.md",
+                "file": "02_已看论文/(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2021) Scaling Vision with Sparse Mixture of Experts.md",
+                "file": "02_已看论文/(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2021) Scaling Vision with Sparse Mixture of Experts.md"
+                "file": "02_已看论文/(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md"
               }
             }
           }
@@ -223,17 +191,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9de6c65e02bdcd16",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "02_已看论文/(2022) Mixture-of-Experts with Expert Choice Routing.md",
+    "99_attachment/Pasted image 20230712153518.png",
+    "02_已看论文/(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
+    "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
     "02_已看论文/(Tutorial) The KL Divergence.md",
     "99_attachment/Pasted image 20230712144711.png",
     "99_attachment/Pasted image 20230712144645.png",
     "99_attachment/Pasted image 20230712144531.png",
-    "(2021) Scaling Vision with Sparse Mixture of Experts.md",
-    "(2022) Mixture-of-Experts with Expert Choice Routing.md",
     "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
     "99_attachment/Pasted image 20230712141318.png",
-    "(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
     "99_attachment/Pasted image 20230712141110.png",
     "99_attachment/Mixture-of-Experts with Expert Choice Routing.pdf",
     "99_attachment/Scaling Vision with Sparse Mixture of Experts.pdf",
@@ -244,7 +213,6 @@
     "99_attachment/Pasted image 20230711181254.png",
     "99_attachment/Pasted image 20230711181154.png",
     "99_attachment/Pasted image 20230711180956.png",
-    "99_attachment/Pasted image 20230711180819.png",
     "02_已看论文/(2022) AudioLM, a Language Modeling Approach to Audio Generation.md",
     "99_attachment/AudioLM, a Language Modeling Approach to Audio Generation.pdf",
     "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
