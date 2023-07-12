@@ -9,7 +9,8 @@ Dramatically increasing model capacity without a proportional increase in compua
 
 # Question
 ---
-- 如何保证模型会在多个Expert中选择一个，而不是每次都只选择一个？
+- 如何保证模型会在多个Expert中选择一个，而不是每次都只选择一个？(called as balancing expert utilization)
+	- Soft constraint approach: 
 
 # Reference
 ---
