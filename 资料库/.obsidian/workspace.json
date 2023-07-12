@@ -86,21 +86,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9aae29a07a4d3798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2017) Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -174,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2017) Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
+                "file": "(2021) Scaling Vision with Sparse Mixture of Experts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2017) Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
+                "file": "(2021) Scaling Vision with Sparse Mixture of Experts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2017) Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md"
+                "file": "(2021) Scaling Vision with Sparse Mixture of Experts.md"
               }
             }
           }
@@ -235,15 +223,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9aae29a07a4d3798",
+  "active": "9de6c65e02bdcd16",
   "lastOpenFiles": [
     "(2022) Mixture-of-Experts with Expert Choice Routing.md",
-    "99_attachment/Mixture-of-Experts with Expert Choice Routing.pdf",
-    "(2017) Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
     "(2021) Scaling Vision with Sparse Mixture of Experts.md",
+    "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
+    "99_attachment/Pasted image 20230712141318.png",
+    "(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
+    "99_attachment/Pasted image 20230712141110.png",
+    "99_attachment/Mixture-of-Experts with Expert Choice Routing.pdf",
     "99_attachment/Scaling Vision with Sparse Mixture of Experts.pdf",
     "99_attachment/Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.pdf",
-    "(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
     "99_attachment/Pasted image 20230712111323.png",
     "99_attachment/Switch Transformers.pdf",
     "疑惑：Score-diffution.md",
@@ -273,7 +263,6 @@
     "02_已看论文/(2019) Plug and play language models, A simple approach to controlled text generation.md",
     "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
     "00_调研整理/001_合成数据技术/调研整理/Trainalbe decoding methods.md",
-    "99_attachment/Pasted image 20230621111357.png",
     "90_工具手册/docker.md",
     "90_工具手册/GPU.md",
     "02_已看论文/(2021) Improved denoising diffusion probabilistic models.md",
@@ -282,7 +271,6 @@
     "99_attachment/diffusion models beat GANs on Image Synthesis.pdf",
     "99_attachment/improved denoising diffusion probabilistic models.pdf",
     "02_已看论文/(2022) Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models.md",
-    "99_attachment/Pasted image 20230619125601.png",
     "99_attachment/styleGAN2.pdf",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "未命名.canvas"
