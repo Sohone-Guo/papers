@@ -13,7 +13,7 @@ Tags: #Tag_MoE #Tag_计算机视觉
 
 # Reference
 ---
-
+- [[(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer]]
 
 # Attachment
 ---
