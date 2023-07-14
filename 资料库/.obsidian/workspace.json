@@ -4,59 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "a392fab5a375a2a7",
+        "id": "fceac117454a2548",
         "type": "tabs",
         "children": [
           {
-            "id": "675ae26077782cb5",
+            "id": "df04be6f449016ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "疑惑：Score-diffution.md",
+                "file": "02_已看论文/(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "e1c2e60364f3f51f",
+            "id": "bfbdbc08ecf0aed3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83dd77a79d72d124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00a00f60689f598c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
-                "mode": "source",
+                "file": "02_已看论文/(Tutorial) The KL Divergence.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Tag_MoE",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 353.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -191,17 +166,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "df04be6f449016ff",
   "lastOpenFiles": [
-    "02_已看论文/(2022) Mixture-of-Experts with Expert Choice Routing.md",
-    "99_attachment/Pasted image 20230712153518.png",
-    "02_已看论文/(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
-    "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
     "02_已看论文/(Tutorial) The KL Divergence.md",
+    "02_已看论文/(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
+    "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
+    "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
+    "02_已看论文/(2022) Mixture-of-Experts with Expert Choice Routing.md",
+    "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
+    "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
+    "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
+    "疑惑：Score-diffution.md",
+    "99_attachment/Pasted image 20230712153518.png",
     "99_attachment/Pasted image 20230712144711.png",
     "99_attachment/Pasted image 20230712144645.png",
     "99_attachment/Pasted image 20230712144531.png",
-    "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
     "99_attachment/Pasted image 20230712141318.png",
     "99_attachment/Pasted image 20230712141110.png",
     "99_attachment/Mixture-of-Experts with Expert Choice Routing.pdf",
@@ -209,7 +188,6 @@
     "99_attachment/Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.pdf",
     "99_attachment/Pasted image 20230712111323.png",
     "99_attachment/Switch Transformers.pdf",
-    "疑惑：Score-diffution.md",
     "99_attachment/Pasted image 20230711181254.png",
     "99_attachment/Pasted image 20230711181154.png",
     "99_attachment/Pasted image 20230711180956.png",
@@ -226,7 +204,6 @@
     "90_工具手册/英语易错.md",
     "02_已看论文/(2019) A Style-Based Generator Architecture for Generative Adversarial Networks.md",
     "02_已看论文/(2023) Drag Your GAN, Interactive Point-based Manipulation on the Generative Image Manifold.md",
-    "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "99_attachment/1912.02164.pdf",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
     "02_已看论文/(2019) Plug and play language models, A simple approach to controlled text generation.md",
@@ -236,7 +213,6 @@
     "90_工具手册/GPU.md",
     "02_已看论文/(2021) Improved denoising diffusion probabilistic models.md",
     "02_已看论文/(2021) Diffusion models beat GANs on Image Synthesis.md",
-    "02_已看论文/(2020) Denoising Diffusion Probabilistic Models.md",
     "99_attachment/diffusion models beat GANs on Image Synthesis.pdf",
     "99_attachment/improved denoising diffusion probabilistic models.pdf",
     "99_attachment/styleGAN2.pdf",
