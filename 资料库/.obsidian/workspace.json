@@ -4,34 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fceac117454a2548",
+        "id": "8b8a1aeb46e554b3",
         "type": "tabs",
         "children": [
           {
-            "id": "df04be6f449016ff",
+            "id": "45b2cb6e14717e55",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
-                "viewState": {
-                  "x": 20,
-                  "y": -400,
-                  "zoom": -1.4655577214341389
-                }
-              }
-            }
-          },
-          {
-            "id": "bfbdbc08ecf0aed3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(Tutorial) The KL Divergence.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -63,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tag_MoE",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 457.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,12 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "df04be6f449016ff",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
-    "00_调研整理/001_合成数据技术/总纲.canvas",
+    "02_已看论文/(2022) DeepSpeed-MoE, Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale.md",
+    "99_attachment/DeepSpeed-MoE, Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale.pdf",
     "02_已看论文/(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
-    "02_已看论文/(Tutorial) The KL Divergence.md",
     "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
+    "02_已看论文/(2018) ⭐Nerual Discrete Representation Learning.md",
+    "02_已看论文/(2018) ⭐Theory and Experiments on Vector Quantized Antoencoders.md",
+    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+    "00_调研整理/001_合成数据技术/总纲.canvas",
+    "02_已看论文/(Tutorial) The KL Divergence.md",
     "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
     "02_已看论文/(2022) Mixture-of-Experts with Expert Choice Routing.md",
     "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
@@ -201,7 +183,6 @@
     "03_机构名称/Microsoft.md",
     "99_attachment/Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.pdf",
     "02_已看论文/(2023) A Survey of Large Language Model.md",
-    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
@@ -213,12 +194,8 @@
     "02_已看论文/(2019) Plug and play language models, A simple approach to controlled text generation.md",
     "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
     "00_调研整理/001_合成数据技术/调研整理/Trainalbe decoding methods.md",
-    "90_工具手册/docker.md",
-    "90_工具手册/GPU.md",
-    "02_已看论文/(2021) Improved denoising diffusion probabilistic models.md",
     "99_attachment/diffusion models beat GANs on Image Synthesis.pdf",
     "99_attachment/improved denoising diffusion probabilistic models.pdf",
-    "99_attachment/styleGAN2.pdf",
     "未命名.canvas"
   ]
 }
