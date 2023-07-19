@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "bcbe3f07ba4615e3",
+            "id": "3faa4d2c15f02a49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Tutorial) Microsoft Word.md",
+                "file": "90_工具手册/写论文.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(Tutorial) Microsoft Word.md",
+                "file": "90_工具手册/写论文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(Tutorial) Microsoft Word.md",
+                "file": "90_工具手册/写论文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(Tutorial) Microsoft Word.md"
+                "file": "90_工具手册/写论文.md"
               }
             }
           }
@@ -163,13 +163,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bcbe3f07ba4615e3",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "(Tutorial) Microsoft Word.md",
+    "90_工具手册/写论文.md",
     "99_attachment/Pasted image 20230719150631.png",
     "99_attachment/Pasted image 20230719150601.png",
     "99_attachment/Pasted image 20230719150527.png",
     "99_attachment/Pasted image 20230719150505.png",
-    "(Tutorial) Microsoft Word.md",
     "02_已看论文/(2022) DeepSpeed-MoE, Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale.md",
     "99_attachment/DeepSpeed-MoE, Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale.pdf",
     "02_已看论文/(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
@@ -194,7 +195,6 @@
     "99_attachment/Mixture-of-Experts with Expert Choice Routing.pdf",
     "99_attachment/Scaling Vision with Sparse Mixture of Experts.pdf",
     "99_attachment/Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.pdf",
-    "99_attachment/Pasted image 20230712111323.png",
     "99_attachment/Switch Transformers.pdf",
     "02_已看论文/(2022) AudioLM, a Language Modeling Approach to Audio Generation.md",
     "99_attachment/AudioLM, a Language Modeling Approach to Audio Generation.pdf",
