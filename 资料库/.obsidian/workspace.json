@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "bcbe3f07ba4615e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(Tutorial) Microsoft Word.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "(Tutorial) Microsoft Word.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "(Tutorial) Microsoft Word.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "(Tutorial) Microsoft Word.md"
+              }
             }
           }
         ]
@@ -146,8 +163,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "bcbe3f07ba4615e3",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20230719150631.png",
+    "99_attachment/Pasted image 20230719150601.png",
+    "99_attachment/Pasted image 20230719150527.png",
+    "99_attachment/Pasted image 20230719150505.png",
+    "(Tutorial) Microsoft Word.md",
     "02_已看论文/(2022) DeepSpeed-MoE, Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale.md",
     "99_attachment/DeepSpeed-MoE, Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale.pdf",
     "02_已看论文/(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
@@ -174,9 +196,6 @@
     "99_attachment/Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.pdf",
     "99_attachment/Pasted image 20230712111323.png",
     "99_attachment/Switch Transformers.pdf",
-    "99_attachment/Pasted image 20230711181254.png",
-    "99_attachment/Pasted image 20230711181154.png",
-    "99_attachment/Pasted image 20230711180956.png",
     "02_已看论文/(2022) AudioLM, a Language Modeling Approach to Audio Generation.md",
     "99_attachment/AudioLM, a Language Modeling Approach to Audio Generation.pdf",
     "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
@@ -193,7 +212,6 @@
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
     "02_已看论文/(2019) Plug and play language models, A simple approach to controlled text generation.md",
     "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
-    "00_调研整理/001_合成数据技术/调研整理/Trainalbe decoding methods.md",
     "99_attachment/diffusion models beat GANs on Image Synthesis.pdf",
     "99_attachment/improved denoising diffusion probabilistic models.pdf",
     "未命名.canvas"
