@@ -187,8 +187,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "cd11b3088b5997dd",
   "lastOpenFiles": [
+    "99_attachment/2211.12561.pdf",
+    "99_attachment/Pasted image 20230720232309.png",
     "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
     "02_已看论文/(2022) Retrieval-Augmented Multimodal Language Modeling.md",
     "99_attachment/Pasted image 20230720230608.png",
@@ -225,7 +227,6 @@
     "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "疑惑：Score-diffution.md",
     "99_attachment/Pasted image 20230712153518.png",
-    "99_attachment/Pasted image 20230712144711.png",
     "99_attachment/Mixture-of-Experts with Expert Choice Routing.pdf",
     "99_attachment/Scaling Vision with Sparse Mixture of Experts.pdf",
     "99_attachment/Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.pdf",
@@ -237,7 +238,6 @@
     "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
     "90_工具手册/英语易错.md",
-    "02_已看论文/(2019) A Style-Based Generator Architecture for Generative Adversarial Networks.md",
     "未命名.canvas"
   ]
 }

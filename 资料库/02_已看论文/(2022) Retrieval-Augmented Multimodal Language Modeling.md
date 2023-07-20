@@ -5,7 +5,7 @@ Tags: #Tag_多模态
 
 # Mainly Idea
 ---
-
+![[Pasted image 20230720232309.png]]
 
 # Question
 ---
@@ -17,3 +17,4 @@ Tags: #Tag_多模态
 
 # Attachment
 ---
+![[2211.12561.pdf]]
