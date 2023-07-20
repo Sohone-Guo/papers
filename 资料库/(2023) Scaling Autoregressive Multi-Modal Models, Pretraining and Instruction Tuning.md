@@ -20,3 +20,4 @@ Tags: #Tag_多模态 #Tag_计算机视觉
 
 # Attachment
 ---
+![[Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.pdf]]

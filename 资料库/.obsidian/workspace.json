@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2022) CM3, A Causal Masked Multimodal Model of The Internet.md",
+                "file": "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 506.5
+    "width": 310.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2022) CM3, A Causal Masked Multimodal Model of The Internet.md",
+                "file": "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2022) CM3, A Causal Masked Multimodal Model of The Internet.md",
+                "file": "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2022) CM3, A Causal Masked Multimodal Model of The Internet.md"
+                "file": "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md"
               }
             }
           }
@@ -189,9 +189,10 @@
   },
   "active": "cd11b3088b5997dd",
   "lastOpenFiles": [
-    "99_attachment/CM3, A CAUSAL MASKED MULTIMODAL MODEL OF THE INTERNET.pdf",
-    "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+    "99_attachment/Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.pdf",
     "(2022) CM3, A Causal Masked Multimodal Model of The Internet.md",
+    "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+    "99_attachment/CM3, A CAUSAL MASKED MULTIMODAL MODEL OF THE INTERNET.pdf",
     "02_已看论文/(2022) Make-A-Scene, Scene-Based Text-to-Image Generation with Human Priors.md",
     "99_attachment/Scene-Based Text-to-Image Generation with Human Priors.pdf",
     "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
@@ -237,7 +238,6 @@
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
     "90_工具手册/英语易错.md",
     "02_已看论文/(2019) A Style-Based Generator Architecture for Generative Adversarial Networks.md",
-    "99_attachment/1912.02164.pdf",
     "未命名.canvas"
   ]
 }
