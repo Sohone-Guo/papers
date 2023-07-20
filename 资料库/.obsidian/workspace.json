@@ -26,9 +26,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f308a03349eb6c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd11b3088b5997dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2022) CM3, A Causal Masked Multimodal Model of The Internet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -47,7 +71,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -86,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 506.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -102,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+                "file": "(2022) CM3, A Causal Masked Multimodal Model of The Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+                "file": "(2022) CM3, A Causal Masked Multimodal Model of The Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md"
+                "file": "(2022) CM3, A Causal Masked Multimodal Model of The Internet.md"
               }
             }
           }
@@ -163,9 +187,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a56e9d05feffcef8",
+  "active": "cd11b3088b5997dd",
   "lastOpenFiles": [
+    "99_attachment/CM3, A CAUSAL MASKED MULTIMODAL MODEL OF THE INTERNET.pdf",
     "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+    "(2022) CM3, A Causal Masked Multimodal Model of The Internet.md",
+    "02_已看论文/(2022) Make-A-Scene, Scene-Based Text-to-Image Generation with Human Priors.md",
+    "99_attachment/Scene-Based Text-to-Image Generation with Human Priors.pdf",
+    "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
+    "02_已看论文/(2022) AudioLM, a Language Modeling Approach to Audio Generation.md",
+    "02_已看论文/(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
+    "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
     "90_工具手册/写论文.md",
     "99_attachment/acl2023.docx",
     "(Tutorial) Microsoft Word.md",
@@ -175,14 +207,12 @@
     "99_attachment/Pasted image 20230719150505.png",
     "02_已看论文/(2022) DeepSpeed-MoE, Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale.md",
     "99_attachment/DeepSpeed-MoE, Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale.pdf",
-    "02_已看论文/(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
     "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
     "02_已看论文/(2018) ⭐Nerual Discrete Representation Learning.md",
     "02_已看论文/(2018) ⭐Theory and Experiments on Vector Quantized Antoencoders.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "02_已看论文/(Tutorial) The KL Divergence.md",
-    "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
     "02_已看论文/(2022) Mixture-of-Experts with Expert Choice Routing.md",
     "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
     "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
@@ -198,9 +228,7 @@
     "99_attachment/Scaling Vision with Sparse Mixture of Experts.pdf",
     "99_attachment/Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.pdf",
     "99_attachment/Switch Transformers.pdf",
-    "02_已看论文/(2022) AudioLM, a Language Modeling Approach to Audio Generation.md",
     "99_attachment/AudioLM, a Language Modeling Approach to Audio Generation.pdf",
-    "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
     "03_机构名称/Microsoft.md",
     "99_attachment/Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.pdf",
     "02_已看论文/(2023) A Survey of Large Language Model.md",
@@ -209,11 +237,7 @@
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
     "90_工具手册/英语易错.md",
     "02_已看论文/(2019) A Style-Based Generator Architecture for Generative Adversarial Networks.md",
-    "02_已看论文/(2023) Drag Your GAN, Interactive Point-based Manipulation on the Generative Image Manifold.md",
     "99_attachment/1912.02164.pdf",
-    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
-    "02_已看论文/(2019) Plug and play language models, A simple approach to controlled text generation.md",
-    "99_attachment/diffusion models beat GANs on Image Synthesis.pdf",
     "未命名.canvas"
   ]
 }
