@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+                "file": "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+                "file": "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+                "file": "02_已看论文/(2022) Retrieval-Augmented Multimodal Language Modeling.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+                "file": "02_已看论文/(2022) Retrieval-Augmented Multimodal Language Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+                "file": "02_已看论文/(2022) Retrieval-Augmented Multimodal Language Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md"
+                "file": "02_已看论文/(2022) Retrieval-Augmented Multimodal Language Modeling.md"
               }
             }
           }
@@ -187,11 +187,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cd11b3088b5997dd",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+    "02_已看论文/(2022) Retrieval-Augmented Multimodal Language Modeling.md",
+    "99_attachment/Pasted image 20230720230608.png",
+    "99_attachment/Pasted image 20230720230606.png",
+    "99_attachment/Pasted image 20230720230536.png",
+    "99_attachment/Pasted image 20230720225458.png",
     "99_attachment/Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.pdf",
-    "(2022) CM3, A Causal Masked Multimodal Model of The Internet.md",
-    "(2023) Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+    "02_已看论文/(2022) CM3, A Causal Masked Multimodal Model of The Internet.md",
     "99_attachment/CM3, A CAUSAL MASKED MULTIMODAL MODEL OF THE INTERNET.pdf",
     "02_已看论文/(2022) Make-A-Scene, Scene-Based Text-to-Image Generation with Human Priors.md",
     "99_attachment/Scene-Based Text-to-Image Generation with Human Priors.pdf",
@@ -221,17 +226,12 @@
     "疑惑：Score-diffution.md",
     "99_attachment/Pasted image 20230712153518.png",
     "99_attachment/Pasted image 20230712144711.png",
-    "99_attachment/Pasted image 20230712144645.png",
-    "99_attachment/Pasted image 20230712144531.png",
-    "99_attachment/Pasted image 20230712141318.png",
-    "99_attachment/Pasted image 20230712141110.png",
     "99_attachment/Mixture-of-Experts with Expert Choice Routing.pdf",
     "99_attachment/Scaling Vision with Sparse Mixture of Experts.pdf",
     "99_attachment/Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.pdf",
     "99_attachment/Switch Transformers.pdf",
     "99_attachment/AudioLM, a Language Modeling Approach to Audio Generation.pdf",
     "03_机构名称/Microsoft.md",
-    "99_attachment/Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.pdf",
     "02_已看论文/(2023) A Survey of Large Language Model.md",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
