@@ -163,8 +163,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "3faa4d2c15f02a49",
   "lastOpenFiles": [
+    "99_attachment/acl2023.docx",
     "(Tutorial) Microsoft Word.md",
     "90_工具手册/写论文.md",
     "99_attachment/Pasted image 20230719150631.png",
@@ -211,7 +212,6 @@
     "99_attachment/1912.02164.pdf",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.md",
     "02_已看论文/(2019) Plug and play language models, A simple approach to controlled text generation.md",
-    "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
     "99_attachment/diffusion models beat GANs on Image Synthesis.pdf",
     "99_attachment/improved denoising diffusion probabilistic models.pdf",
     "未命名.canvas"
