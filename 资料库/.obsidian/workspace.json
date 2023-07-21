@@ -11,48 +11,15 @@
             "id": "eea32fd35d162f3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a56e9d05feffcef8",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f308a03349eb6c30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd11b3088b5997dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2022) Retrieval-Augmented Multimodal Language Modeling.md",
-                "mode": "source",
+                "file": "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 521.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -126,11 +93,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2022) Retrieval-Augmented Multimodal Language Modeling.md",
+                "file": "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -143,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2022) Retrieval-Augmented Multimodal Language Modeling.md",
+                "file": "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2022) Retrieval-Augmented Multimodal Language Modeling.md"
+                "file": "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md"
               }
             }
           }
@@ -187,12 +154,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cd11b3088b5997dd",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
-    "99_attachment/2211.12561.pdf",
-    "99_attachment/Pasted image 20230720232309.png",
+    "02_已看论文/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
+    "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
+    "02_已看论文/(2022) AudioLM, a Language Modeling Approach to Audio Generation.md",
     "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
     "02_已看论文/(2022) Retrieval-Augmented Multimodal Language Modeling.md",
+    "99_attachment/2211.12561.pdf",
+    "99_attachment/Pasted image 20230720232309.png",
     "99_attachment/Pasted image 20230720230608.png",
     "99_attachment/Pasted image 20230720230606.png",
     "99_attachment/Pasted image 20230720230536.png",
@@ -203,7 +173,6 @@
     "02_已看论文/(2022) Make-A-Scene, Scene-Based Text-to-Image Generation with Human Priors.md",
     "99_attachment/Scene-Based Text-to-Image Generation with Human Priors.pdf",
     "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
-    "02_已看论文/(2022) AudioLM, a Language Modeling Approach to Audio Generation.md",
     "02_已看论文/(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
     "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
     "90_工具手册/写论文.md",
@@ -224,14 +193,12 @@
     "02_已看论文/(2022) Mixture-of-Experts with Expert Choice Routing.md",
     "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
     "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
-    "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "疑惑：Score-diffution.md",
     "99_attachment/Pasted image 20230712153518.png",
     "99_attachment/Mixture-of-Experts with Expert Choice Routing.pdf",
     "99_attachment/Scaling Vision with Sparse Mixture of Experts.pdf",
     "99_attachment/Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.pdf",
     "99_attachment/Switch Transformers.pdf",
-    "99_attachment/AudioLM, a Language Modeling Approach to Audio Generation.pdf",
     "03_机构名称/Microsoft.md",
     "02_已看论文/(2023) A Survey of Large Language Model.md",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
