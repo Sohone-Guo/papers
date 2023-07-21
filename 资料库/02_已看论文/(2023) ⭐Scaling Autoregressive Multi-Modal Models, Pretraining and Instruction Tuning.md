@@ -19,6 +19,7 @@ Tags: #Tag_多模态 #Tag_计算机视觉
 - CML3: [[(2022) CM3, A Causal Masked Multimodal Model of The Internet]]
 - Retrieval: 合成一个句子中，可以提高zero-shot
 	- [[(2022) Retrieval-Augmented Multimodal Language Modeling]]
+- VQ-VAE: [[(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers]]
 
 # Reference
 ---
