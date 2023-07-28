@@ -14,33 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "2461ab28ecb0bc90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2022) Activity Trajectory Generation via Modeling Spatiotemporal Dynamics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95e57791ac854aba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2022) Activity Trajectory Generation via Modeling Spatiotemporal Dynamics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2022) Activity Trajectory Generation via Modeling Spatiotemporal Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2022) Activity Trajectory Generation via Modeling Spatiotemporal Dynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "(2022) Activity Trajectory Generation via Modeling Spatiotemporal Dynamics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -175,11 +146,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "95e57791ac854aba",
+  "active": "f56e6eca682015ea",
   "lastOpenFiles": [
     "(2021) Differences in social activity increase efficiency of contact tracing.md",
-    "99_attachment/s10051-021-00222-8.pdf",
     "(2022) Activity Trajectory Generation via Modeling Spatiotemporal Dynamics.md",
+    "99_attachment/s10051-021-00222-8.pdf",
     "99_attachment/Activity Trajectory Generation via Modeling Spatiotemporal Dynamics.pdf",
     "02_已看论文/(2018) ⭐Nerual Discrete Representation Learning.md",
     "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
