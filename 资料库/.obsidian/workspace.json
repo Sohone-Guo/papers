@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4b8f01c25dfe1715",
+        "id": "f2a2a6bedd82a968",
         "type": "tabs",
         "children": [
           {
-            "id": "5b35c7000a3ae7e0",
+            "id": "d7b96908354b5c97",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5b35c7000a3ae7e0",
+  "active": "d7b96908354b5c97",
   "lastOpenFiles": [
+    "90_工具手册/docker.md",
+    "Transformers样例.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
@@ -179,7 +181,6 @@
     "99_attachment/Pasted image 20230721124628.png",
     "99_attachment/2021,StarGAN-VC+ASR, StarGAN-based Non-Parallel Voice Conversion Regularized by Automatic Speech Recognition_重要.pdf",
     "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
-    "02_已看论文/(2021) W2V-BERT, Combining Contrastrive learning and Masked Language Modeling For Self-Supervised Speech Pre-Training.md",
     "99_attachment/2211.12561.pdf",
     "99_attachment/Pasted image 20230720232309.png",
     "99_attachment/Pasted image 20230720230608.png",
