@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3359eadc515e4cb2",
+        "id": "27908f114a4d69aa",
         "type": "tabs",
         "children": [
           {
-            "id": "a3d7f9b26a243746",
+            "id": "7742729cd75853d5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2018) Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2018) Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_已看论文/(2018) Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,8 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "7742729cd75853d5",
   "lastOpenFiles": [
+    "90_工具手册/pytorch.md",
     "99_attachment/Pasted image 20230803183259.png",
     "99_attachment/Pasted image 20230803183258.png",
     "99_attachment/Unsupervised Anomaly Detection via Variational Auto-Encoder.pdf",
@@ -176,7 +173,6 @@
     "00_调研整理/001_合成数据技术/调研整理/Neural ODE.md",
     "00_调研整理/001_合成数据技术/调研整理/VAEs.md",
     "02_已看论文/(2021) StarGAN-VC+ASR, StarGAN-based Non-Parallel Voice Conversion Regularized by Automatic Speech Recognition.md",
-    "90_工具手册/pytorch.md",
     "(2021) Differences in social activity increase efficiency of contact tracing.md",
     "(2022) Activity Trajectory Generation via Modeling Spatiotemporal Dynamics.md",
     "99_attachment/s10051-021-00222-8.pdf",
@@ -200,7 +196,6 @@
     "99_attachment/CM3, A CAUSAL MASKED MULTIMODAL MODEL OF THE INTERNET.pdf",
     "99_attachment/Scene-Based Text-to-Image Generation with Human Priors.pdf",
     "99_attachment/Pasted image 20230719150631.png",
-    "99_attachment/Pasted image 20230719150601.png",
     "未命名.canvas"
   ]
 }
