@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md",
+                "file": "02_已看论文/(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md",
+                "file": "02_已看论文/(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md",
+                "file": "02_已看论文/(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md"
+                "file": "02_已看论文/(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md"
               }
             }
           }
@@ -163,10 +163,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5a1667f4a66b03d3",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/2306.03341.pdf",
+    "99_attachment/honest_llama-master.zip",
     "Transformers样例.md",
-    "(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md",
+    "02_已看论文/(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md",
     "90_工具手册/pytorch.md",
     "99_attachment/Pasted image 20230803183259.png",
     "99_attachment/Pasted image 20230803183258.png",
@@ -201,7 +203,6 @@
     "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
     "02_已看论文/(2022) Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
     "02_已看论文/(2022) AudioLM, a Language Modeling Approach to Audio Generation.md",
-    "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
     "99_attachment/Pasted image 20230721124628.png",
     "99_attachment/2021,StarGAN-VC+ASR, StarGAN-based Non-Parallel Voice Conversion Regularized by Automatic Speech Recognition_重要.pdf",
     "99_attachment/2211.12561.pdf",
@@ -212,7 +213,6 @@
     "99_attachment/Pasted image 20230720225458.png",
     "99_attachment/Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.pdf",
     "99_attachment/CM3, A CAUSAL MASKED MULTIMODAL MODEL OF THE INTERNET.pdf",
-    "99_attachment/Scene-Based Text-to-Image Generation with Human Priors.pdf",
     "99_attachment/Pasted image 20230719150631.png",
     "未命名.canvas"
   ]
