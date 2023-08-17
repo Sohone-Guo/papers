@@ -4,67 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5795f94722198a74",
+        "id": "d101e25aeb44c791",
         "type": "tabs",
         "children": [
           {
-            "id": "0be5b12725f08936",
+            "id": "5373b7f1c2d758cb",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "8011046fe6a89770",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96f2afe4106b8d4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "957850c0cd3dc0ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "649dfaefe3033955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -199,16 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "649dfaefe3033955",
+  "active": "5373b7f1c2d758cb",
   "lastOpenFiles": [
+    "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
+    "99_attachment/Pasted image 20230817141128.png",
+    "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
     "99_attachment/Pasted image 20230817135030.png",
     "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
     "99_attachment/Pasted image 20230817134943.png",
     "99_attachment/Pasted image 20230817134925.png",
     "99_attachment/MaskFormer 2021.pdf",
-    "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
     "99_attachment/Mask2Former 2022.pdf",
-    "(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
     "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
     "99_attachment/2112.10752.pdf",
     "99_attachment/Pasted image 20230817130153.png",
@@ -233,8 +181,6 @@
     "99_attachment/Pasted image 20230803182441.png",
     "99_attachment/Pasted image 20230721124628.png",
     "99_attachment/Pasted image 20230720232309.png",
-    "99_attachment/Pasted image 20230720230608.png",
-    "99_attachment/Pasted image 20230720230606.png",
     "98_temples/research-temple.md",
     "98_temples/paper-temple.md",
     "90_工具手册/英语易错.md",
