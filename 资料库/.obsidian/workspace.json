@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
+                "file": "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
+                "file": "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
+                "file": "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
+                "file": "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md"
+                "file": "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md"
               }
             }
           }
@@ -201,9 +201,12 @@
   },
   "active": "649dfaefe3033955",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20230817135030.png",
+    "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
+    "99_attachment/Pasted image 20230817134943.png",
+    "99_attachment/Pasted image 20230817134925.png",
     "99_attachment/MaskFormer 2021.pdf",
-    "(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
-    "(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
+    "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
     "99_attachment/Mask2Former 2022.pdf",
     "(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
     "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
@@ -225,7 +228,6 @@
     "99_attachment/synthesizing coherent story with auto-regressive latent diffusion models.pdf",
     "99_attachment/styleGAN2.pdf",
     "99_attachment/styleGAN.pdf",
-    "99_attachment/s10051-021-00222-8.pdf",
     "99_attachment/Pasted image 20230803183259.png",
     "99_attachment/Pasted image 20230803183258.png",
     "99_attachment/Pasted image 20230803182441.png",
@@ -233,8 +235,6 @@
     "99_attachment/Pasted image 20230720232309.png",
     "99_attachment/Pasted image 20230720230608.png",
     "99_attachment/Pasted image 20230720230606.png",
-    "99_attachment/Pasted image 20230720230536.png",
-    "99_attachment/Pasted image 20230720225458.png",
     "98_temples/research-temple.md",
     "98_temples/paper-temple.md",
     "90_工具手册/英语易错.md",
