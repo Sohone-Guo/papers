@@ -38,9 +38,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "957850c0cd3dc0ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "649dfaefe3033955",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
+                "file": "(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
+                "file": "(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md"
+                "file": "(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md"
               }
             }
           }
@@ -175,12 +199,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "96f2afe4106b8d4d",
+  "active": "649dfaefe3033955",
   "lastOpenFiles": [
+    "99_attachment/MaskFormer 2021.pdf",
+    "(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
+    "(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
+    "99_attachment/Mask2Former 2022.pdf",
+    "(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
     "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
     "99_attachment/2112.10752.pdf",
     "99_attachment/Pasted image 20230817130153.png",
-    "(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
     "99_attachment/2308.06160.pdf",
     "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md",
     "10_Tutorial/(Tutorial) Automatic Differentiation.md",
@@ -198,7 +226,6 @@
     "99_attachment/styleGAN2.pdf",
     "99_attachment/styleGAN.pdf",
     "99_attachment/s10051-021-00222-8.pdf",
-    "99_attachment/palm2techreport.pdf",
     "99_attachment/Pasted image 20230803183259.png",
     "99_attachment/Pasted image 20230803183258.png",
     "99_attachment/Pasted image 20230803182441.png",
@@ -220,8 +247,6 @@
     "90_工具手册/GPU.md",
     "90_工具手册/docker.md",
     "03_机构名称/SenseTime.md",
-    "03_机构名称/Openai.md",
-    "03_机构名称/NTT.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",

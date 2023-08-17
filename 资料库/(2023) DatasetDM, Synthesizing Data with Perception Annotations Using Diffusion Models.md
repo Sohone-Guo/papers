@@ -14,7 +14,7 @@ Tags: #Tag_计算机视觉 #Tag_SyntheticData
 
 # Reference
 ---
-
+- [[(2022) Masked-attention Mask Transformer for Universal Image Segmentation]]
 
 # Attachment
 ---
