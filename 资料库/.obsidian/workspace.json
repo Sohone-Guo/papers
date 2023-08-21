@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -154,10 +154,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5373b7f1c2d758cb",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
-    "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
+    "02_已看论文/(2020) ⭐Implicit Neural Representations with Periodic Activation Functions.md",
+    "99_attachment/Pasted image 20230821095600.png",
+    "99_attachment/2006.09661.pdf",
     "(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
+    "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
     "99_attachment/Pasted image 20230817151105.png",
     "99_attachment/2307.12981.pdf",
     "99_attachment/Pasted image 20230817141128.png",
@@ -185,11 +188,9 @@
     "99_attachment/元宇宙时代超高清视音频技术白皮书-1.pdf",
     "99_attachment/the book of why 中文版.pdf",
     "99_attachment/synthesizing coherent story with auto-regressive latent diffusion models.pdf",
-    "99_attachment/styleGAN2.pdf",
     "99_attachment/Pasted image 20230803183259.png",
     "99_attachment/Pasted image 20230803183258.png",
     "99_attachment/Pasted image 20230803182441.png",
-    "99_attachment/Pasted image 20230721124628.png",
     "98_temples/research-temple.md",
     "98_temples/paper-temple.md",
     "90_工具手册/英语易错.md",
@@ -200,7 +201,6 @@
     "90_工具手册/ubuntu.md",
     "90_工具手册/pytorch.md",
     "90_工具手册/GPU.md",
-    "90_工具手册/docker.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",

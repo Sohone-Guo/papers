@@ -15,7 +15,7 @@ Tags: #Tag_多模态
 
 # Reference
 ---
-
+- [[(2020) ⭐Implicit Neural Representations with Periodic Activation Functions]]
 
 # Attachment
 ---
