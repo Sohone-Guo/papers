@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
+                "file": "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 376.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
+                "file": "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
+                "file": "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md"
+                "file": "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md"
               }
             }
           }
@@ -156,9 +156,9 @@
   },
   "active": "5373b7f1c2d758cb",
   "lastOpenFiles": [
+    "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
     "02_已看论文/(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
     "02_已看论文/(2020) ⭐Implicit Neural Representations with Periodic Activation Functions.md",
-    "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
     "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
     "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
     "99_attachment/Pasted image 20230821095600.png",
