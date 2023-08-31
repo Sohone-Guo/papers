@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d101e25aeb44c791",
+        "id": "cb13eb36126f4630",
         "type": "tabs",
         "children": [
           {
-            "id": "5373b7f1c2d758cb",
+            "id": "e0c5748d42597011",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_工具手册/vscode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab1dcda7f47cfcee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "神经辐射场加速技术综述.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神经辐射场加速技术综述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "神经辐射场加速技术综述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "神经辐射场加速技术综述.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,12 +146,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ab1dcda7f47cfcee",
+  "active": "e0c5748d42597011",
   "lastOpenFiles": [
-    "疑惑：Score-diffution.md",
-    "神经辐射场加速技术综述.md",
-    "90_工具手册/可视化工具.md",
     "90_工具手册/vscode.md",
+    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+    "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
+    "00_调研整理/001_合成数据技术/技术整理/性能测评技术.md",
+    "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
+    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
+    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.md",
+    "00_调研整理/001_合成数据技术/技术整理/数据过滤技术.md",
+    "神经辐射场加速技术综述.md",
+    "疑惑：Score-diffution.md",
+    "90_工具手册/可视化工具.md",
     "90_工具手册/自动调参工具.md",
     "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
     "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
@@ -209,14 +195,6 @@
     "99_attachment/Pasted image 20230803183258.png",
     "99_attachment/Pasted image 20230803182441.png",
     "98_temples/research-temple.md",
-    "98_temples/paper-temple.md",
-    "90_工具手册/英语易错.md",
-    "90_工具手册/写论文.md",
-    "90_工具手册/传参数的方法.md",
-    "90_工具手册/ubuntu.md",
-    "90_工具手册/pytorch.md",
-    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
-    "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "未命名.canvas"
   ]
