@@ -11,8 +11,15 @@
             "id": "e0c5748d42597011",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+                "viewState": {
+                  "x": 155.42915655871167,
+                  "y": -261.44281984282736,
+                  "zoom": -1.5028708799021946
+                }
+              }
             }
           }
         ]
@@ -89,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas"
+              }
             }
           }
         ]
@@ -148,6 +159,10 @@
   },
   "active": "e0c5748d42597011",
   "lastOpenFiles": [
+    "00_调研整理/001_合成数据技术/总纲.canvas",
+    "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
+    "02_已看论文/(2020) ⭐Implicit Neural Representations with Periodic Activation Functions.md",
+    "02_已看论文/(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
     "90_工具手册/vscode.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
@@ -161,9 +176,6 @@
     "90_工具手册/可视化工具.md",
     "90_工具手册/自动调参工具.md",
     "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
-    "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
-    "02_已看论文/(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
-    "02_已看论文/(2020) ⭐Implicit Neural Representations with Periodic Activation Functions.md",
     "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
     "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
     "99_attachment/Pasted image 20230821095600.png",
@@ -195,7 +207,6 @@
     "99_attachment/Pasted image 20230803183258.png",
     "99_attachment/Pasted image 20230803182441.png",
     "98_temples/research-temple.md",
-    "00_调研整理/001_合成数据技术/总纲.canvas",
     "未命名.canvas"
   ]
 }
