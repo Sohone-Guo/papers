@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_工具手册/可视化工具.md",
+                "file": "疑惑：Score-diffution.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/可视化工具.md",
+                "file": "疑惑：Score-diffution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_工具手册/可视化工具.md",
+                "file": "疑惑：Score-diffution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_工具手册/可视化工具.md"
+                "file": "疑惑：Score-diffution.md"
               }
             }
           }
@@ -169,8 +169,9 @@
   },
   "active": "ab1dcda7f47cfcee",
   "lastOpenFiles": [
-    "90_工具手册/vscode.md",
+    "神经辐射场加速技术综述.md",
     "90_工具手册/可视化工具.md",
+    "90_工具手册/vscode.md",
     "90_工具手册/自动调参工具.md",
     "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
     "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
@@ -200,7 +201,6 @@
     "10_Tutorial/(Tutorial) Score-Based Generative Modeling.md",
     "10_Tutorial/(Tutorial) The KL Divergence.md",
     "10_Tutorial",
-    "神经辐射场加速技术综述.md",
     "疑惑：Score-diffution.md",
     "99_attachment/元宇宙时代超高清视音频技术白皮书-1.pdf",
     "99_attachment/the book of why 中文版.pdf",
