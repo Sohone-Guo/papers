@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "疑惑：Score-diffution.md",
+                "file": "神经辐射场加速技术综述.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "疑惑：Score-diffution.md",
+                "file": "神经辐射场加速技术综述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "疑惑：Score-diffution.md",
+                "file": "神经辐射场加速技术综述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "疑惑：Score-diffution.md"
+                "file": "神经辐射场加速技术综述.md"
               }
             }
           }
@@ -169,6 +169,7 @@
   },
   "active": "ab1dcda7f47cfcee",
   "lastOpenFiles": [
+    "疑惑：Score-diffution.md",
     "神经辐射场加速技术综述.md",
     "90_工具手册/可视化工具.md",
     "90_工具手册/vscode.md",
@@ -201,7 +202,6 @@
     "10_Tutorial/(Tutorial) Score-Based Generative Modeling.md",
     "10_Tutorial/(Tutorial) The KL Divergence.md",
     "10_Tutorial",
-    "疑惑：Score-diffution.md",
     "99_attachment/元宇宙时代超高清视音频技术白皮书-1.pdf",
     "99_attachment/the book of why 中文版.pdf",
     "99_attachment/synthesizing coherent story with auto-regressive latent diffusion models.pdf",
