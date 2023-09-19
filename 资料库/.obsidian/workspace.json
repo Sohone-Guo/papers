@@ -11,8 +11,12 @@
             "id": "664fa865e3e79cf3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_已看论文/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_已看论文/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_已看论文/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02_已看论文/(2023) LLaMA, Open and Efficient Foundation Language Models.md"
+              }
             }
           },
           {
@@ -158,12 +166,27 @@
   },
   "active": "664fa865e3e79cf3",
   "lastOpenFiles": [
+    "02_已看论文/(2023) Language Models are Realistic tabular Data Generators.md",
+    "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
+    "02_已看论文/(2023) OpenChatKit.md",
+    "02_已看论文/(2023) PaLM2 Technical Report.md",
+    "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
+    "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
+    "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
+    "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
+    "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+    "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
+    "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
+    "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
+    "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
+    "02_已看论文/(2020) ⭐Implicit Neural Representations with Periodic Activation Functions.md",
+    "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
+    "02_已看论文/(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
+    "02_已看论文/(2022) Symbolic Knowledge Distillation, from General Language MOdels to Commonsense Models.md",
+    "90_工具手册/FLOPs.md",
     "90_工具手册/自动调参工具.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
-    "02_已看论文/(2020) ⭐Implicit Neural Representations with Periodic Activation Functions.md",
-    "02_已看论文/(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
-    "02_已看论文/(2022) Symbolic Knowledge Distillation, from General Language MOdels to Commonsense Models.md",
     "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
     "02_已看论文/(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.md",
@@ -172,19 +195,6 @@
     "90_工具手册/写论文.md",
     "90_工具手册/可视化工具.md",
     "90_工具手册/vscode.md",
-    "90_工具手册/GPU.md",
-    "90_工具手册/pytorch.md",
-    "90_工具手册/docker.md",
-    "90_工具手册/ubuntu.md",
-    "90_工具手册/传参数的方法.md",
-    "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
-    "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
-    "00_调研整理/001_合成数据技术/技术整理/性能测评技术.md",
-    "神经辐射场加速技术综述.md",
-    "疑惑：Score-diffution.md",
-    "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
-    "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
-    "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
     "99_attachment/Pasted image 20230821095600.png",
     "99_attachment/2006.09661.pdf",
     "99_attachment/Pasted image 20230817151105.png",
@@ -195,7 +205,6 @@
     "99_attachment/Pasted image 20230817134925.png",
     "99_attachment/MaskFormer 2021.pdf",
     "99_attachment/Mask2Former 2022.pdf",
-    "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
     "99_attachment/2112.10752.pdf",
     "99_attachment/Pasted image 20230817130153.png",
     "99_attachment/2308.06160.pdf",
