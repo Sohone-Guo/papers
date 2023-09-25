@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "bc965101bdda5735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名.md"
+              }
             }
           },
           {
@@ -156,8 +173,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d80c1d2a8b1d4212",
+  "active": "bc965101bdda5735",
   "lastOpenFiles": [
+    "未命名.md",
+    "(2023) Reinforced Self-Training (ReST) for Language Modeling.md",
+    "未命名 1.md",
+    "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
+    "10_Tutorial/(Tutorial) PPO.md",
+    "10_Tutorial/(Tutorial) Score-Based Generative Modeling.md",
+    "10_Tutorial/(Tutorial) MLE vs MAP.md",
+    "02_已看论文/(2022) Instruct GPT.md",
+    "99_attachment/2308.08998.pdf",
     "90_工具手册/docker.md",
     "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
     "02_已看论文/(2022) GPT-NeoX-20B, An Open-Source Autoregressive Language Model.md",
@@ -169,7 +195,6 @@
     "02_已看论文/(2023) OpenChatKit.md",
     "02_已看论文/(2023) PaLM2 Technical Report.md",
     "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
-    "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
     "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
     "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
     "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
@@ -177,15 +202,8 @@
     "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
     "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
     "02_已看论文/(2020) ⭐Implicit Neural Representations with Periodic Activation Functions.md",
-    "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
-    "02_已看论文/(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
-    "02_已看论文/(2022) Symbolic Knowledge Distillation, from General Language MOdels to Commonsense Models.md",
-    "90_工具手册/FLOPs.md",
-    "90_工具手册/自动调参工具.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
-    "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
-    "02_已看论文/(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "99_attachment/Pasted image 20230821095600.png",
     "99_attachment/2006.09661.pdf",
@@ -203,7 +221,6 @@
     "10_Tutorial",
     "99_attachment/元宇宙时代超高清视音频技术白皮书-1.pdf",
     "99_attachment/the book of why 中文版.pdf",
-    "99_attachment/synthesizing coherent story with auto-regressive latent diffusion models.pdf",
     "99_attachment/Pasted image 20230803183259.png",
     "99_attachment/Pasted image 20230803183258.png",
     "99_attachment/Pasted image 20230803182441.png",
