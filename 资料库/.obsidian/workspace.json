@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
+                "file": "90_工具手册/GPU.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
+                "file": "90_工具手册/GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
+                "file": "90_工具手册/GPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md"
+                "file": "90_工具手册/GPU.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "c153457a7d7c3474",
   "lastOpenFiles": [
+    "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
     "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
     "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
     "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
@@ -200,7 +201,6 @@
     "02_已看论文/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
     "02_已看论文/(2023) Language Models are Realistic tabular Data Generators.md",
     "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
-    "02_已看论文/(2023) OpenChatKit.md",
     "99_attachment/Pasted image 20230821095600.png",
     "99_attachment/2006.09661.pdf",
     "99_attachment/Pasted image 20230817151105.png",
