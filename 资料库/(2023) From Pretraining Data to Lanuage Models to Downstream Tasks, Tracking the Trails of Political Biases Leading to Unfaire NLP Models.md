@@ -7,6 +7,7 @@ Tags: #Tag_自然语言处理
 ---
 This paper proproses a new method and it can improve the faireness of the language model. The social bias in a language model can be detected through political learning.
 
+类似于给人设计了一份选线答卷，根据多个回答，获得一个分值，譬如类似性格这种，给模型设计了一些答卷。
 # Question
 ---
 
