@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89b788a7f592fae0",
+        "id": "f30b2c8bd7a50dbd",
         "type": "tabs",
         "children": [
           {
-            "id": "8b1c101fbb7cc517",
+            "id": "c53feccfffe19e03",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,8 +156,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "c53feccfffe19e03",
   "lastOpenFiles": [
+    "APA格式.md",
     "99_attachment/2305.08283.pdf",
     "90_工具手册/docker.md",
     "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md",
@@ -210,7 +207,6 @@
     "99_attachment/2112.10752.pdf",
     "99_attachment/2308.06160.pdf",
     "10_Tutorial",
-    "99_attachment/元宇宙时代超高清视音频技术白皮书-1.pdf",
     "未命名.canvas"
   ]
 }
