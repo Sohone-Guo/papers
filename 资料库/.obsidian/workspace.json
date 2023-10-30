@@ -11,11 +11,26 @@
             "id": "c53feccfffe19e03",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8d2a8b9775d547f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "99_attachment/2112.10752.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "99_attachment/2112.10752.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "99_attachment/2112.10752.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "99_attachment/2112.10752.pdf"
+              }
             }
           },
           {
@@ -156,19 +175,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "a8d2a8b9775d547f",
   "lastOpenFiles": [
-    "90_工具手册/APA格式.md",
-    "99_attachment/2305.08283.pdf",
-    "90_工具手册/docker.md",
-    "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md",
-    "90_工具手册/logging.md",
-    "90_工具手册/GPU.md",
+    "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
+    "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md",
+    "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
+    "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
+    "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
+    "02_已看论文/(2020) ⭐Implicit Neural Representations with Periodic Activation Functions.md",
+    "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
+    "02_已看论文/(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
+    "02_已看论文/(2022) Symbolic Knowledge Distillation, from General Language MOdels to Commonsense Models.md",
+    "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
     "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
     "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
     "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
     "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
     "02_已看论文/(2022) Instruct GPT.md",
+    "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md",
+    "90_工具手册/APA格式.md",
+    "99_attachment/2305.08283.pdf",
+    "90_工具手册/docker.md",
+    "90_工具手册/logging.md",
+    "90_工具手册/GPU.md",
     "00_调研整理/001_合成数据技术/技术整理/性能测评技术.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.md",
     "00_调研整理/001_合成数据技术/技术整理/数据过滤技术.md",
@@ -178,22 +207,12 @@
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/合成数据挑战.md",
     "00_调研整理/001_合成数据技术/总纲.canvas",
-    "90_工具手册/FLOPs.md",
-    "疑惑：Score-diffution.md",
     "99_attachment/Pasted image 20230925111044.png",
     "99_attachment/Pasted image 20230925110826.png",
     "99_attachment/Pasted image 20230925110808.png",
     "99_attachment/Pasted image 20230925110749.png",
     "99_attachment/2308.08998 1.pdf",
-    "测试.md",
-    "未命名 1.md",
-    "10_Tutorial/(Tutorial) PPO.md",
-    "10_Tutorial/(Tutorial) Score-Based Generative Modeling.md",
-    "10_Tutorial/(Tutorial) MLE vs MAP.md",
     "99_attachment/2308.08998.pdf",
-    "02_已看论文/(2022) GPT-NeoX-20B, An Open-Source Autoregressive Language Model.md",
-    "02_已看论文/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
-    "02_已看论文/(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md",
     "99_attachment/Pasted image 20230821095600.png",
     "99_attachment/2006.09661.pdf",
     "99_attachment/Pasted image 20230817151105.png",
