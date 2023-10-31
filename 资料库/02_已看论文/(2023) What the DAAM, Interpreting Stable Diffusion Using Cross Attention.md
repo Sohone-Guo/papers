@@ -17,7 +17,7 @@ Tags: #Tag_多模态
 
 # Reference
 ---
-
+- [[(2023) Dataset Diffusion, Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation]]
 
 # Attachment
 ---
