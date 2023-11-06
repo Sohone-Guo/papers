@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5bb99eefc83ab52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Tutorial/(Tutorial) Neural Architecture Search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+                "file": "10_Tutorial/(Tutorial) Neural Architecture Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+                "file": "10_Tutorial/(Tutorial) Neural Architecture Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md"
+                "file": "10_Tutorial/(Tutorial) Neural Architecture Search.md"
               }
             }
           },
@@ -164,9 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d834d565454e38a0",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/屏幕截图 2023-11-06 141958.png",
     "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+    "10_Tutorial/(Tutorial) Neural Architecture Search.md",
     "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md",
     "02_已看论文/(2023) Dataset Diffusion, Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation.md",
     "99_attachment/2309.14303.pdf",
@@ -198,7 +213,6 @@
     "99_attachment/2305.08283.pdf",
     "90_工具手册/docker.md",
     "90_工具手册/logging.md",
-    "90_工具手册/GPU.md",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
