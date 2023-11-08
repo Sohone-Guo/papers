@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Tutorial/(Tutorial) Neural Architecture Search.md",
+                "file": "90_工具手册/logging.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+                "file": "90_工具手册/logging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+                "file": "90_工具手册/logging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md"
+                "file": "90_工具手册/logging.md"
               }
             }
           },
@@ -177,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "f5bb99eefc83ab52",
   "lastOpenFiles": [
-    "99_attachment/屏幕截图 2023-11-06 141958.png",
     "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+    "99_attachment/屏幕截图 2023-11-06 141958.png",
     "10_Tutorial/(Tutorial) Neural Architecture Search.md",
     "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md",
     "02_已看论文/(2023) Dataset Diffusion, Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation.md",
@@ -227,7 +227,6 @@
     "99_attachment/Pasted image 20230817151105.png",
     "99_attachment/2307.12981.pdf",
     "99_attachment/Pasted image 20230817141128.png",
-    "99_attachment/Pasted image 20230817135030.png",
     "未命名.canvas"
   ]
 }
