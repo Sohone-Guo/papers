@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "58b1da8c43a47910",
+        "id": "67ea6cae83f5c1f0",
         "type": "tabs",
         "children": [
           {
-            "id": "d834d565454e38a0",
+            "id": "84e9d6143a43d97a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5bb99eefc83ab52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_工具手册/GPU.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/GPU.md",
+                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_工具手册/GPU.md",
+                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_工具手册/GPU.md"
+                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md"
               }
             }
           },
@@ -177,8 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5bb99eefc83ab52",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "90_工具手册/GPU.md",
     "90_工具手册/logging.md",
     "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
     "99_attachment/屏幕截图 2023-11-06 141958.png",
