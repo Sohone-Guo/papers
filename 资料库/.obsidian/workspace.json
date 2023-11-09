@@ -11,8 +11,12 @@
             "id": "84e9d6143a43d97a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "90_工具手册/logging.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+                "file": "90_工具手册/logging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+                "file": "90_工具手册/logging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md"
+                "file": "90_工具手册/logging.md"
               }
             }
           },
@@ -160,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "84e9d6143a43d97a",
   "lastOpenFiles": [
     "90_工具手册/GPU.md",
     "90_工具手册/logging.md",
