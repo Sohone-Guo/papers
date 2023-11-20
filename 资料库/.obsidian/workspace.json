@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_工具手册/logging.md",
+                "file": "90_工具手册/GPU.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/logging.md",
+                "file": "90_工具手册/GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_工具手册/logging.md",
+                "file": "90_工具手册/GPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_工具手册/logging.md"
+                "file": "90_工具手册/GPU.md"
               }
             }
           },
@@ -166,8 +166,8 @@
   },
   "active": "84e9d6143a43d97a",
   "lastOpenFiles": [
-    "90_工具手册/GPU.md",
     "90_工具手册/logging.md",
+    "90_工具手册/GPU.md",
     "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
     "99_attachment/屏幕截图 2023-11-06 141958.png",
     "10_Tutorial/(Tutorial) Neural Architecture Search.md",
