@@ -5,7 +5,7 @@ Tags: #Tag_AnomalyDetection
 
 # Mainly Idea
 ---
-
+![[Pasted image 20231127224804.png]]
 
 # Question
 ---
