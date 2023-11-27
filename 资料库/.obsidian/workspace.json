@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d431d809a7bac00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_已看论文/(2017) A Multimodal Anomaly Deterctor for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tag_自然语言处理",
+                "query": "tag:#Tag_计算机视觉",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 200
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
+                "file": "02_已看论文/(2017) A Multimodal Anomaly Deterctor for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
+                "file": "02_已看论文/(2017) A Multimodal Anomaly Deterctor for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md"
+                "file": "02_已看论文/(2017) A Multimodal Anomaly Deterctor for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder.md"
               }
             }
           },
@@ -164,15 +177,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "84e9d6143a43d97a",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/1711.00614.pdf",
+    "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
+    "02_已看论文/(2017) A Multimodal Anomaly Deterctor for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder.md",
     "02_已看论文/(2023) Leveraging ChatGPT for Text Data Augmentation.md",
     "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md",
     "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
     "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
     "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
     "02_已看论文/(2022) Instruct GPT.md",
-    "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
     "02_已看论文/(2023) Dataset Diffusion, Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation.md",
     "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
     "90_工具手册/GPU.md",
@@ -198,9 +213,7 @@
     "02_已看论文/(2022) Symbolic Knowledge Distillation, from General Language MOdels to Commonsense Models.md",
     "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
     "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
-    "90_工具手册/APA格式.md",
     "99_attachment/2305.08283.pdf",
-    "90_工具手册/docker.md",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
