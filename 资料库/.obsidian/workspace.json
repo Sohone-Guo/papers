@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "67ea6cae83f5c1f0",
+        "id": "bb3a36d6ec464237",
         "type": "tabs",
         "children": [
           {
-            "id": "84e9d6143a43d97a",
+            "id": "09db7f8cf6057bba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d431d809a7bac00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2017) A Multimodal Anomaly Deterctor for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
