@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_工具手册/GPU.md",
+                "file": "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/GPU.md",
+                "file": "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_工具手册/GPU.md",
+                "file": "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_工具手册/GPU.md"
+                "file": "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md"
               }
             }
           },
@@ -164,18 +164,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "84e9d6143a43d97a",
   "lastOpenFiles": [
-    "90_工具手册/logging.md",
-    "90_工具手册/GPU.md",
+    "02_已看论文/(2023) Leveraging ChatGPT for Text Data Augmentation.md",
+    "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md",
+    "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
+    "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
+    "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
+    "02_已看论文/(2022) Instruct GPT.md",
+    "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
+    "02_已看论文/(2023) Dataset Diffusion, Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation.md",
     "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+    "90_工具手册/GPU.md",
+    "90_工具手册/logging.md",
     "99_attachment/屏幕截图 2023-11-06 141958.png",
     "10_Tutorial/(Tutorial) Neural Architecture Search.md",
-    "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md",
-    "02_已看论文/(2023) Dataset Diffusion, Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation.md",
     "99_attachment/2309.14303.pdf",
-    "02_已看论文/(2023) Leveraging ChatGPT for Text Data Augmentation.md",
-    "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
     "90_工具手册/vscode.md",
     "99_attachment/2303.14524.pdf",
     "99_attachment/2302.13007.pdf",
@@ -194,10 +198,6 @@
     "02_已看论文/(2022) Symbolic Knowledge Distillation, from General Language MOdels to Commonsense Models.md",
     "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
     "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
-    "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
-    "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
-    "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
-    "02_已看论文/(2022) Instruct GPT.md",
     "90_工具手册/APA格式.md",
     "99_attachment/2305.08283.pdf",
     "90_工具手册/docker.md",
