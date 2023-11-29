@@ -11,8 +11,12 @@
             "id": "ddacd1f628937455",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "90_工具手册/GPU.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "90_工具手册/GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "90_工具手册/GPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "90_工具手册/GPU.md"
+              }
             }
           },
           {
@@ -158,10 +166,10 @@
   },
   "active": "ddacd1f628937455",
   "lastOpenFiles": [
+    "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
     "02_已看论文/(2023) Role Play with Large Language Models.md",
     "99_attachment/Role play with large language models.pdf",
     "02_已看论文/(2023) IMDIFFUSION, Imputed Diffusion Models for Multivariate Time Series Anomaly Detection.md",
-    "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
     "99_attachment/Pasted image 20231127224804.png",
     "99_attachment/Pasted image 20231127224714.png",
     "99_attachment/2307.00754.pdf",
