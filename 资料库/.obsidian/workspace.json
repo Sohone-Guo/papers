@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "633f6378820c76b7",
+        "id": "40e24d0e1c06fc8d",
         "type": "tabs",
         "children": [
           {
-            "id": "ddacd1f628937455",
+            "id": "adc8abf7fa5d0e6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+                "file": "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+                "file": "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+                "file": "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md"
+                "file": "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md"
               }
             }
           },
@@ -164,11 +164,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "adc8abf7fa5d0e6a",
   "lastOpenFiles": [
-    "90_工具手册/GPU.md",
-    "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
     "02_已看论文/(2023) Role Play with Large Language Models.md",
+    "神经辐射场加速技术综述.md",
+    "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
+    "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+    "90_工具手册/GPU.md",
     "99_attachment/Role play with large language models.pdf",
     "02_已看论文/(2023) IMDIFFUSION, Imputed Diffusion Models for Multivariate Time Series Anomaly Detection.md",
     "99_attachment/Pasted image 20231127224804.png",
@@ -185,7 +187,6 @@
     "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
     "02_已看论文/(2022) Instruct GPT.md",
     "02_已看论文/(2023) Dataset Diffusion, Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation.md",
-    "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
     "90_工具手册/logging.md",
     "99_attachment/屏幕截图 2023-11-06 141958.png",
     "10_Tutorial/(Tutorial) Neural Architecture Search.md",
