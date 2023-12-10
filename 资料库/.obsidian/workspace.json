@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_工具手册/docker.md",
+                "file": "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/docker.md",
+                "file": "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_工具手册/docker.md",
+                "file": "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_工具手册/docker.md"
+                "file": "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "adc8abf7fa5d0e6a",
   "lastOpenFiles": [
-    "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
     "02_已看论文/(2023) Role Play with Large Language Models.md",
+    "90_工具手册/docker.md",
+    "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
     "神经辐射场加速技术综述.md",
     "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
     "90_工具手册/GPU.md",
@@ -205,7 +206,6 @@
     "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
     "02_已看论文/(2020) ⭐Implicit Neural Representations with Periodic Activation Functions.md",
     "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
-    "02_已看论文/(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
     "99_attachment/2305.08283.pdf",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
