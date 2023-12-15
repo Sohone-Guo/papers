@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2023) LLMZip, Lossless Text Compression Using Large Language Models.md",
+                "file": "90_工具手册/docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) LLMZip, Lossless Text Compression Using Large Language Models.md",
+                "file": "90_工具手册/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) LLMZip, Lossless Text Compression Using Large Language Models.md",
+                "file": "90_工具手册/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) LLMZip, Lossless Text Compression Using Large Language Models.md"
+                "file": "90_工具手册/docker.md"
               }
             }
           },
@@ -177,11 +177,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "006ff53af39300b4",
   "lastOpenFiles": [
+    "90_工具手册/传参数的方法.md",
+    "90_工具手册/自动调参工具.md",
+    "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
     "99_attachment/Pasted image 20231210145948.png",
     "99_attachment/LLMZip.pdf",
-    "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
     "02_已看论文/(2023) LLMZip, Lossless Text Compression Using Large Language Models.md",
     "02_已看论文/(2023) Role Play with Large Language Models.md",
     "90_工具手册/docker.md",
@@ -219,7 +221,6 @@
     "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md",
     "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
     "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
-    "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
@@ -227,7 +228,6 @@
     "99_attachment/Pasted image 20230925110826.png",
     "99_attachment/Pasted image 20230925110808.png",
     "99_attachment/Pasted image 20230925110749.png",
-    "99_attachment/Pasted image 20230821095600.png",
     "未命名.canvas"
   ]
 }
