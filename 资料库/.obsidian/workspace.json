@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_工具手册/docker.md",
+                "file": "90_工具手册/英语易错.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/docker.md",
+                "file": "90_工具手册/英语易错.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_工具手册/docker.md",
+                "file": "90_工具手册/英语易错.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_工具手册/docker.md"
+                "file": "90_工具手册/英语易错.md"
               }
             }
           },
@@ -179,6 +179,16 @@
   },
   "active": "006ff53af39300b4",
   "lastOpenFiles": [
+    "90_工具手册/GPU.md",
+    "90_工具手册/APA格式.md",
+    "90_工具手册/logging.md",
+    "90_工具手册/docker.md",
+    "90_工具手册/FLOPs.md",
+    "90_工具手册/vscode.md",
+    "90_工具手册/英语易错.md",
+    "90_工具手册/ubuntu.md",
+    "90_工具手册/pytorch.md",
+    "90_工具手册/可视化工具.md",
     "90_工具手册/传参数的方法.md",
     "90_工具手册/自动调参工具.md",
     "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
@@ -186,10 +196,8 @@
     "99_attachment/LLMZip.pdf",
     "02_已看论文/(2023) LLMZip, Lossless Text Compression Using Large Language Models.md",
     "02_已看论文/(2023) Role Play with Large Language Models.md",
-    "90_工具手册/docker.md",
     "神经辐射场加速技术综述.md",
     "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
-    "90_工具手册/GPU.md",
     "99_attachment/Role play with large language models.pdf",
     "02_已看论文/(2023) IMDIFFUSION, Imputed Diffusion Models for Multivariate Time Series Anomaly Detection.md",
     "99_attachment/Pasted image 20231127224804.png",
@@ -205,22 +213,14 @@
     "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
     "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
     "02_已看论文/(2022) Instruct GPT.md",
-    "02_已看论文/(2023) Dataset Diffusion, Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation.md",
-    "90_工具手册/logging.md",
     "99_attachment/屏幕截图 2023-11-06 141958.png",
-    "10_Tutorial/(Tutorial) Neural Architecture Search.md",
     "99_attachment/2309.14303.pdf",
-    "90_工具手册/vscode.md",
     "99_attachment/2303.14524.pdf",
     "99_attachment/2302.13007.pdf",
     "99_attachment/Pasted image 20231030145325.png",
     "99_attachment/Pasted image 20231030145209.png",
     "99_attachment/What the DAAM.pdf",
     "99_attachment/2112.10752.pdf",
-    "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
-    "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md",
-    "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
-    "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
