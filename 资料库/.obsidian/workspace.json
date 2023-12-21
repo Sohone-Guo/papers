@@ -23,11 +23,14 @@
             "id": "006ff53af39300b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "90_工具手册/英语易错.md",
-                "mode": "source",
-                "source": false
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+                "viewState": {
+                  "x": 20,
+                  "y": -400,
+                  "zoom": -0.8552396464360883
+                }
               }
             }
           }
@@ -106,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/英语易错.md",
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_工具手册/英语易错.md",
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_工具手册/英语易错.md"
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas"
               }
             }
           },
@@ -179,13 +182,14 @@
   },
   "active": "006ff53af39300b4",
   "lastOpenFiles": [
+    "00_调研整理/001_合成数据技术/总纲.canvas",
+    "90_工具手册/英语易错.md",
     "90_工具手册/GPU.md",
     "90_工具手册/APA格式.md",
     "90_工具手册/logging.md",
     "90_工具手册/docker.md",
     "90_工具手册/FLOPs.md",
     "90_工具手册/vscode.md",
-    "90_工具手册/英语易错.md",
     "90_工具手册/ubuntu.md",
     "90_工具手册/pytorch.md",
     "90_工具手册/可视化工具.md",
@@ -212,7 +216,6 @@
     "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
     "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
     "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
-    "02_已看论文/(2022) Instruct GPT.md",
     "99_attachment/屏幕截图 2023-11-06 141958.png",
     "99_attachment/2309.14303.pdf",
     "99_attachment/2303.14524.pdf",
@@ -223,7 +226,6 @@
     "99_attachment/2112.10752.pdf",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
-    "00_调研整理/001_合成数据技术/总纲.canvas",
     "99_attachment/Pasted image 20230925111044.png",
     "99_attachment/Pasted image 20230925110826.png",
     "99_attachment/Pasted image 20230925110808.png",
