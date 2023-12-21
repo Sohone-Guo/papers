@@ -4,33 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "40e24d0e1c06fc8d",
+        "id": "01146d8ae81dde0c",
         "type": "tabs",
         "children": [
           {
-            "id": "adc8abf7fa5d0e6a",
+            "id": "85835c3987b1d0fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b512638fb5d57f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
-                "mode": "preview",
+                "file": "(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
+                "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "006ff53af39300b4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
-                "viewState": {
-                  "x": 20,
-                  "y": -400,
-                  "zoom": -0.8552396464360883
-                }
               }
             }
           }
@@ -109,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+                "file": "(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+                "file": "(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas"
+                "file": "(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md"
               }
             }
           },
@@ -180,8 +173,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "006ff53af39300b4",
+  "active": "4b512638fb5d57f0",
   "lastOpenFiles": [
+    "99_attachment/Sequential Modeling Enables Scalable Learning for Large Vision Models.pdf",
+    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+    "(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "90_工具手册/英语易错.md",
     "90_工具手册/GPU.md",
@@ -215,7 +211,6 @@
     "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md",
     "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
     "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
-    "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
     "99_attachment/屏幕截图 2023-11-06 141958.png",
     "99_attachment/2309.14303.pdf",
     "99_attachment/2303.14524.pdf",
@@ -225,7 +220,6 @@
     "99_attachment/What the DAAM.pdf",
     "99_attachment/2112.10752.pdf",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
-    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "99_attachment/Pasted image 20230925111044.png",
     "99_attachment/Pasted image 20230925110826.png",
     "99_attachment/Pasted image 20230925110808.png",
