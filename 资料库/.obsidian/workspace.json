@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
+                "file": "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
+                "file": "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
+                "file": "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md"
+                "file": "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md"
               }
             }
           },
@@ -175,9 +175,12 @@
   },
   "active": "4b512638fb5d57f0",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20231221141309.png",
+    "99_attachment/Pasted image 20231221141256.png",
+    "99_attachment/Pasted image 20231221141250.png",
     "99_attachment/Sequential Modeling Enables Scalable Learning for Large Vision Models.pdf",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
-    "(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
+    "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "90_工具手册/英语易错.md",
     "90_工具手册/GPU.md",
@@ -218,12 +221,9 @@
     "99_attachment/Pasted image 20231030145325.png",
     "99_attachment/Pasted image 20231030145209.png",
     "99_attachment/What the DAAM.pdf",
-    "99_attachment/2112.10752.pdf",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "99_attachment/Pasted image 20230925111044.png",
     "99_attachment/Pasted image 20230925110826.png",
-    "99_attachment/Pasted image 20230925110808.png",
-    "99_attachment/Pasted image 20230925110749.png",
     "未命名.canvas"
   ]
 }
