@@ -21,8 +21,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "9dc9737b7bb1de68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+                "file": "(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+                "file": "(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas"
+                "file": "(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md"
               }
             }
           },
@@ -169,8 +182,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d5836cf2ed8a3c1",
+  "active": "9dc9737b7bb1de68",
   "lastOpenFiles": [
+    "99_attachment/2022_Signal Shaping for Semantic Communication Systems with A Few Message Candidates.pdf",
+    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+    "(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
     "00_调研整理/001_合成数据技术/调研整理/VAEs.md",
     "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
@@ -182,7 +198,6 @@
     "00_调研整理/001_合成数据技术/调研整理/Controllable Common.md",
     "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
     "00_调研整理/001_合成数据技术/调研整理/GANs.md",
-    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "90_工具手册/docker.md",
     "90_工具手册/英语易错.md",
     "90_工具手册/可视化工具.md",
@@ -201,10 +216,8 @@
     "90_工具手册/pytorch.md",
     "90_工具手册/传参数的方法.md",
     "90_工具手册/自动调参工具.md",
-    "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
     "99_attachment/Pasted image 20231210145948.png",
     "99_attachment/LLMZip.pdf",
-    "02_已看论文/(2023) LLMZip, Lossless Text Compression Using Large Language Models.md",
     "99_attachment/Role play with large language models.pdf",
     "99_attachment/Pasted image 20231127224804.png",
     "99_attachment/Pasted image 20231127224714.png",
