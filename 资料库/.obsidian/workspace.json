@@ -4,31 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "01146d8ae81dde0c",
+        "id": "6fd55600becd90d6",
         "type": "tabs",
         "children": [
           {
-            "id": "85835c3987b1d0fb",
+            "id": "6d5836cf2ed8a3c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4b512638fb5d57f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "90_工具手册/docker.md",
-                "mode": "source",
-                "source": false
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+                "viewState": {
+                  "x": 20,
+                  "y": -400,
+                  "zoom": -1.2949507558851128
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tag_计算机视觉",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/docker.md",
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_工具手册/docker.md",
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_工具手册/docker.md"
+                "file": "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas"
               }
             }
           },
@@ -152,7 +146,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -173,8 +169,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4b512638fb5d57f0",
+  "active": "6d5836cf2ed8a3c1",
   "lastOpenFiles": [
+    "00_调研整理/001_合成数据技术/调研整理/VAEs.md",
+    "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
+    "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
+    "00_调研整理/001_合成数据技术/调研整理/Guided decoding methods.md",
+    "00_调研整理/001_合成数据技术/调研整理/Explicit Layers.md",
+    "00_调研整理/001_合成数据技术/调研整理/Diffusion Models.md",
+    "00_调研整理/001_合成数据技术/调研整理/Neural ODE.md",
+    "00_调研整理/001_合成数据技术/调研整理/Implicit Layers.md",
+    "00_调研整理/001_合成数据技术/调研整理/Controllable Common.md",
+    "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
+    "00_调研整理/001_合成数据技术/调研整理/GANs.md",
+    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
+    "90_工具手册/docker.md",
     "90_工具手册/英语易错.md",
     "90_工具手册/可视化工具.md",
     "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
@@ -182,12 +191,10 @@
     "99_attachment/Pasted image 20231221141256.png",
     "99_attachment/Pasted image 20231221141250.png",
     "99_attachment/Sequential Modeling Enables Scalable Learning for Large Vision Models.pdf",
-    "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "90_工具手册/GPU.md",
     "90_工具手册/APA格式.md",
     "90_工具手册/logging.md",
-    "90_工具手册/docker.md",
     "90_工具手册/FLOPs.md",
     "90_工具手册/vscode.md",
     "90_工具手册/ubuntu.md",
@@ -198,22 +205,12 @@
     "99_attachment/Pasted image 20231210145948.png",
     "99_attachment/LLMZip.pdf",
     "02_已看论文/(2023) LLMZip, Lossless Text Compression Using Large Language Models.md",
-    "02_已看论文/(2023) Role Play with Large Language Models.md",
-    "神经辐射场加速技术综述.md",
-    "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
     "99_attachment/Role play with large language models.pdf",
-    "02_已看论文/(2023) IMDIFFUSION, Imputed Diffusion Models for Multivariate Time Series Anomaly Detection.md",
     "99_attachment/Pasted image 20231127224804.png",
     "99_attachment/Pasted image 20231127224714.png",
     "99_attachment/2307.00754.pdf",
     "99_attachment/3580305.3599391.pdf",
     "99_attachment/1711.00614.pdf",
-    "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
-    "02_已看论文/(2017) A Multimodal Anomaly Deterctor for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder.md",
-    "02_已看论文/(2023) Leveraging ChatGPT for Text Data Augmentation.md",
-    "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md",
-    "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
-    "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
     "99_attachment/屏幕截图 2023-11-06 141958.png",
     "99_attachment/2309.14303.pdf",
     "99_attachment/2303.14524.pdf",
