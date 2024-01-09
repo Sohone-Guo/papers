@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
+                "file": "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
+                "file": "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
+                "file": "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md"
+                "file": "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md"
               }
             }
           },
@@ -184,9 +184,9 @@
   },
   "active": "9dc9737b7bb1de68",
   "lastOpenFiles": [
+    "(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
     "99_attachment/2022_Signal Shaping for Semantic Communication Systems with A Few Message Candidates.pdf",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
-    "(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
     "00_调研整理/001_合成数据技术/调研整理/VAEs.md",
     "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
@@ -230,7 +230,6 @@
     "99_attachment/2302.13007.pdf",
     "99_attachment/Pasted image 20231030145325.png",
     "99_attachment/Pasted image 20231030145209.png",
-    "99_attachment/What the DAAM.pdf",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "99_attachment/Pasted image 20230925111044.png",
     "未命名.canvas"
