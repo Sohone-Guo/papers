@@ -11,8 +11,12 @@
             "id": "ed40e2ba6ea03c03",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "(2021) A Lite Distribution Semantic Communication System for Internet of Things.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) 基于CSI反馈的语义图像传输.md",
+                "file": "(2021) A Lite Distribution Semantic Communication System for Internet of Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) 基于CSI反馈的语义图像传输.md",
+                "file": "(2021) A Lite Distribution Semantic Communication System for Internet of Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) 基于CSI反馈的语义图像传输.md"
+                "file": "(2021) A Lite Distribution Semantic Communication System for Internet of Things.md"
               }
             }
           },
@@ -162,8 +166,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "ed40e2ba6ea03c03",
   "lastOpenFiles": [
+    "99_attachment/2020_A_Lite_Distributed_Semantic_Communication_System_for_Internet_of_Things.pdf",
+    "(2021) A Lite Distribution Semantic Communication System for Internet of Things.md",
     "99_attachment/2023_基于CSI反馈的语义图像传输.pdf",
     "02_已看论文/(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
     "02_已看论文/(2023) 基于CSI反馈的语义图像传输.md",
@@ -196,7 +202,6 @@
     "90_工具手册/vscode.md",
     "90_工具手册/ubuntu.md",
     "90_工具手册/pytorch.md",
-    "90_工具手册/传参数的方法.md",
     "99_attachment/Pasted image 20231210145948.png",
     "99_attachment/LLMZip.pdf",
     "99_attachment/Role play with large language models.pdf",
@@ -208,7 +213,6 @@
     "99_attachment/屏幕截图 2023-11-06 141958.png",
     "99_attachment/2309.14303.pdf",
     "99_attachment/2303.14524.pdf",
-    "99_attachment/2302.13007.pdf",
     "99_attachment/Pasted image 20231030145325.png",
     "99_attachment/Pasted image 20231030145209.png",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
