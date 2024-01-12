@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "428b4cf1f5eba0e0",
+        "id": "a3f14a0114bcf3c4",
         "type": "tabs",
         "children": [
           {
-            "id": "ed40e2ba6ea03c03",
+            "id": "82b986a4abc17fc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2021) A Lite Distribution Semantic Communication System for Internet of Things.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8761b0d78d4bd46f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2023) Advances and Challenges in Semantic Communications A Systematic Review.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "non-regression",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2023) Advances and Challenges in Semantic Communications A Systematic Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2023) Advances and Challenges in Semantic Communications A Systematic Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "(2023) Advances and Challenges in Semantic Communications A Systematic Review.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,11 +159,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8761b0d78d4bd46f",
+  "active": "82b986a4abc17fc4",
   "lastOpenFiles": [
-    "99_attachment/语义通信的发展与挑战-系统性综述.pdf",
     "02_已看论文/(2021) A Lite Distribution Semantic Communication System for Internet of Things.md",
+    "02_已看论文/(2018) ⭐Theory and Experiments on Vector Quantized Antoencoders.md",
     "(2023) Advances and Challenges in Semantic Communications A Systematic Review.md",
+    "99_attachment/语义通信的发展与挑战-系统性综述.pdf",
     "99_attachment/2020_A_Lite_Distributed_Semantic_Communication_System_for_Internet_of_Things.pdf",
     "99_attachment/2023_基于CSI反馈的语义图像传输.pdf",
     "02_已看论文/(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
@@ -225,7 +206,6 @@
     "99_attachment/3580305.3599391.pdf",
     "99_attachment/1711.00614.pdf",
     "99_attachment/屏幕截图 2023-11-06 141958.png",
-    "99_attachment/2309.14303.pdf",
     "99_attachment/Pasted image 20231030145325.png",
     "99_attachment/Pasted image 20231030145209.png",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
