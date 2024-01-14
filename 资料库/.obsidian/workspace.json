@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a3f14a0114bcf3c4",
+        "id": "505b973b72addb9a",
         "type": "tabs",
         "children": [
           {
-            "id": "82b986a4abc17fc4",
+            "id": "72725fbc4dc03122",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "non-regression",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md"
+              }
             }
           },
           {
@@ -159,11 +166,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82b986a4abc17fc4",
+  "active": "72725fbc4dc03122",
   "lastOpenFiles": [
+    "99_attachment/Vista-LLAMA.pdf",
+    "(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
+    "02_已看论文/(2023) Advances and Challenges in Semantic Communications A Systematic Review.md",
     "02_已看论文/(2021) A Lite Distribution Semantic Communication System for Internet of Things.md",
     "02_已看论文/(2018) ⭐Theory and Experiments on Vector Quantized Antoencoders.md",
-    "(2023) Advances and Challenges in Semantic Communications A Systematic Review.md",
     "99_attachment/语义通信的发展与挑战-系统性综述.pdf",
     "99_attachment/2020_A_Lite_Distributed_Semantic_Communication_System_for_Internet_of_Things.pdf",
     "99_attachment/2023_基于CSI反馈的语义图像传输.pdf",
@@ -195,8 +204,6 @@
     "90_工具手册/APA格式.md",
     "90_工具手册/logging.md",
     "90_工具手册/FLOPs.md",
-    "90_工具手册/vscode.md",
-    "90_工具手册/ubuntu.md",
     "99_attachment/Pasted image 20231210145948.png",
     "99_attachment/LLMZip.pdf",
     "99_attachment/Role play with large language models.pdf",
