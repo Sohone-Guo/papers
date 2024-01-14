@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
+                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
+                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
+                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md"
+                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "72725fbc4dc03122",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20240114194100.png",
+    "99_attachment/Pasted image 20240114194014.png",
     "99_attachment/Vista-LLAMA.pdf",
-    "(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
+    "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
     "02_已看论文/(2023) Advances and Challenges in Semantic Communications A Systematic Review.md",
     "02_已看论文/(2021) A Lite Distribution Semantic Communication System for Internet of Things.md",
     "02_已看论文/(2018) ⭐Theory and Experiments on Vector Quantized Antoencoders.md",
@@ -211,12 +213,10 @@
     "99_attachment/Pasted image 20231127224714.png",
     "99_attachment/2307.00754.pdf",
     "99_attachment/3580305.3599391.pdf",
-    "99_attachment/1711.00614.pdf",
     "99_attachment/屏幕截图 2023-11-06 141958.png",
     "99_attachment/Pasted image 20231030145325.png",
     "99_attachment/Pasted image 20231030145209.png",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
-    "99_attachment/Pasted image 20230925111044.png",
     "未命名.canvas"
   ]
 }
