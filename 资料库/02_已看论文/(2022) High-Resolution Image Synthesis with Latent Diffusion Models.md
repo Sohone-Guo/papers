@@ -1,7 +1,7 @@
 Tags: #Tag_计算机视觉 #Tag_多模态 
 # Information
 ---
-
+diffusion
 
 # Mainly Idea
 ---

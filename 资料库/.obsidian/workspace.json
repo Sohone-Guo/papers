@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "505b973b72addb9a",
+        "id": "e2b76a26488782e4",
         "type": "tabs",
         "children": [
           {
-            "id": "72725fbc4dc03122",
+            "id": "e77bfba7ddc6ab44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
-                "mode": "source",
+                "file": "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "diffusion",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 551.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
+                "file": "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
+                "file": "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md"
+                "file": "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md"
               }
             }
           },
@@ -166,46 +166,47 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "72725fbc4dc03122",
+  "active": "e77bfba7ddc6ab44",
   "lastOpenFiles": [
+    "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
+    "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
+    "02_已看论文/(2023) Self-consistency improves chain-of-thought reasoning in language models.md",
+    "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
+    "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
+    "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
+    "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
+    "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
+    "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
+    "02_已看论文/(2021) W2V-BERT, COMBINING CONTRASTIVE LEARNING AND MASKED LANGUAGE MODELING FOR SELF-SUPERVISED SPEECH PRE-TRAINING.md",
+    "02_已看论文/(2021) SentenceMIM A Latent Variable Language Model.md",
+    "02_已看论文/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
+    "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
+    "02_已看论文/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
+    "02_已看论文/(2021) NVAE, A Deep Hierarchical Variational Autoencoder.md",
+    "02_已看论文/(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md",
+    "02_已看论文/(2021) Maximum Likelihood Training of Score-Based Diffusion Models.md",
+    "02_已看论文/(2021) Learning Transferable Visual Models From Natural Language Processing.md",
+    "02_已看论文/(2021) Learning Transferable Visual Models From Natural Language Processing 1.md",
+    "02_已看论文/(2021) How to represent part-whole hierarchies in a neural network.md",
+    "02_已看论文/(2021) FastCorrect, Fast Error Correction with Edit Alignment for Automatic Speech Recognition.md",
+    "02_已看论文/(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.md",
+    "02_已看论文/(2020) StartGAN v2.md",
+    "02_已看论文/(2020) Improved Techniques for Training Score-Based Generative Models.md",
+    "02_已看论文/(2020) Fine-Tuning Language Models from Human Preferences.md",
+    "02_已看论文/(2020) Denoising Diffusion Probabilistic Models.md",
     "99_attachment/Pasted image 20240114194100.png",
     "99_attachment/Pasted image 20240114194014.png",
     "99_attachment/Vista-LLAMA.pdf",
-    "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
-    "02_已看论文/(2023) Advances and Challenges in Semantic Communications A Systematic Review.md",
-    "02_已看论文/(2021) A Lite Distribution Semantic Communication System for Internet of Things.md",
-    "02_已看论文/(2018) ⭐Theory and Experiments on Vector Quantized Antoencoders.md",
     "99_attachment/语义通信的发展与挑战-系统性综述.pdf",
     "99_attachment/2020_A_Lite_Distributed_Semantic_Communication_System_for_Internet_of_Things.pdf",
     "99_attachment/2023_基于CSI反馈的语义图像传输.pdf",
-    "02_已看论文/(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
-    "02_已看论文/(2023) 基于CSI反馈的语义图像传输.md",
-    "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
     "99_attachment/2022_Signal Shaping for Semantic Communication Systems with A Few Message Candidates.pdf",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
-    "00_调研整理/001_合成数据技术/调研整理/VAEs.md",
-    "02_已看论文/(2015) NICE, NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION.md",
-    "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
-    "00_调研整理/001_合成数据技术/调研整理/Guided decoding methods.md",
-    "00_调研整理/001_合成数据技术/调研整理/Explicit Layers.md",
-    "00_调研整理/001_合成数据技术/调研整理/Diffusion Models.md",
-    "00_调研整理/001_合成数据技术/调研整理/Neural ODE.md",
-    "00_调研整理/001_合成数据技术/调研整理/Implicit Layers.md",
-    "00_调研整理/001_合成数据技术/调研整理/Controllable Common.md",
-    "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
-    "00_调研整理/001_合成数据技术/调研整理/GANs.md",
-    "90_工具手册/docker.md",
-    "90_工具手册/英语易错.md",
-    "90_工具手册/可视化工具.md",
     "99_attachment/Pasted image 20231221141309.png",
     "99_attachment/Pasted image 20231221141256.png",
     "99_attachment/Pasted image 20231221141250.png",
     "99_attachment/Sequential Modeling Enables Scalable Learning for Large Vision Models.pdf",
     "00_调研整理/001_合成数据技术/总纲.canvas",
-    "90_工具手册/GPU.md",
-    "90_工具手册/APA格式.md",
-    "90_工具手册/logging.md",
-    "90_工具手册/FLOPs.md",
     "99_attachment/Pasted image 20231210145948.png",
     "99_attachment/LLMZip.pdf",
     "99_attachment/Role play with large language models.pdf",
@@ -215,7 +216,6 @@
     "99_attachment/3580305.3599391.pdf",
     "99_attachment/屏幕截图 2023-11-06 141958.png",
     "99_attachment/Pasted image 20231030145325.png",
-    "99_attachment/Pasted image 20231030145209.png",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "未命名.canvas"
   ]
