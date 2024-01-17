@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
+                "file": "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
                 "mode": "preview",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
+                "file": "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
+                "file": "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md"
+                "file": "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md"
               }
             }
           },
@@ -168,19 +169,19 @@
   },
   "active": "e77bfba7ddc6ab44",
   "lastOpenFiles": [
+    "02_已看论文/(2021) SentenceMIM A Latent Variable Language Model.md",
+    "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
+    "02_已看论文/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
+    "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
     "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
     "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
     "02_已看论文/(2023) Self-consistency improves chain-of-thought reasoning in language models.md",
     "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
     "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
     "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
-    "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
     "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
     "02_已看论文/(2021) W2V-BERT, COMBINING CONTRASTIVE LEARNING AND MASKED LANGUAGE MODELING FOR SELF-SUPERVISED SPEECH PRE-TRAINING.md",
-    "02_已看论文/(2021) SentenceMIM A Latent Variable Language Model.md",
-    "02_已看论文/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
-    "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
     "02_已看论文/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
     "02_已看论文/(2021) NVAE, A Deep Hierarchical Variational Autoencoder.md",
     "02_已看论文/(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md",
