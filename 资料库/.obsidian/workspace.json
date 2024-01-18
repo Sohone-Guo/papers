@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c61e5c39e57e03a",
+        "id": "03b88ca9d64a7857",
         "type": "tabs",
         "children": [
           {
-            "id": "78dcde466307c089",
+            "id": "026f329e9819cc3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2022) Efficiently Modeling Long Sequences with Structured State Spaces.md",
+                "file": "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2022) Efficiently Modeling Long Sequences with Structured State Spaces.md",
+                "file": "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2022) Efficiently Modeling Long Sequences with Structured State Spaces.md",
+                "file": "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2022) Efficiently Modeling Long Sequences with Structured State Spaces.md"
+                "file": "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md"
               }
             }
           },
@@ -166,8 +166,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78dcde466307c089",
+  "active": "026f329e9819cc3f",
   "lastOpenFiles": [
+    "02_已看论文/(2022) Efficiently Modeling Long Sequences with Structured State Spaces.md",
+    "99_attachment/gu_dissertation-augmented.pdf",
+    "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
+    "99_attachment/Pasted image 20240118100803.png",
+    "99_attachment/2312.00752.pdf",
     "99_attachment/Pasted image 20240117223619.png",
     "99_attachment/Pasted image 20240117223430.png",
     "99_attachment/Pasted image 20240117222718.png",
@@ -177,10 +182,7 @@
     "99_attachment/Pasted image 20240117222040.png",
     "99_attachment/Pasted image 20240117222038.png",
     "99_attachment/Pasted image 20240117222036.png",
-    "99_attachment/Pasted image 20240117221826.png",
-    "99_attachment/Pasted image 20240117221802.png",
     "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
-    "02_已看论文/(2022) Efficiently Modeling Long Sequences with Structured State Spaces.md",
     "02_已看论文/(2021) SentenceMIM A Latent Variable Language Model.md",
     "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
     "02_已看论文/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
@@ -203,7 +205,6 @@
     "02_已看论文/(2021) How to represent part-whole hierarchies in a neural network.md",
     "02_已看论文/(2021) FastCorrect, Fast Error Correction with Edit Alignment for Automatic Speech Recognition.md",
     "02_已看论文/(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.md",
-    "02_已看论文/(2020) StartGAN v2.md",
     "99_attachment/Vista-LLAMA.pdf",
     "99_attachment/语义通信的发展与挑战-系统性综述.pdf",
     "99_attachment/2020_A_Lite_Distributed_Semantic_Communication_System_for_Internet_of_Things.pdf",
@@ -214,8 +215,6 @@
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "99_attachment/LLMZip.pdf",
     "99_attachment/Role play with large language models.pdf",
-    "99_attachment/2307.00754.pdf",
-    "99_attachment/3580305.3599391.pdf",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "未命名.canvas"
   ]

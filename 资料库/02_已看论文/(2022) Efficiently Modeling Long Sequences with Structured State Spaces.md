@@ -33,3 +33,4 @@ Tags: #Tag_基础理论
 
 # Attachment
 ---
+![[gu_dissertation-augmented.pdf]]
