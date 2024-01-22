@@ -11,8 +11,12 @@
             "id": "44da89be2ef0ed56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md"
+              }
             }
           },
           {
@@ -160,6 +168,8 @@
   },
   "active": "44da89be2ef0ed56",
   "lastOpenFiles": [
+    "99_attachment/Deep_Source-Channel_Coding_for_Sentence_Semantic_Transmission_With_HARQ.pdf",
+    "(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
     "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
     "02_已看论文/(2022) Efficiently Modeling Long Sequences with Structured State Spaces.md",
     "99_attachment/gu_dissertation-augmented.pdf",
@@ -196,7 +206,6 @@
     "02_已看论文/(2021) Learning Transferable Visual Models From Natural Language Processing 1.md",
     "02_已看论文/(2021) How to represent part-whole hierarchies in a neural network.md",
     "02_已看论文/(2021) FastCorrect, Fast Error Correction with Edit Alignment for Automatic Speech Recognition.md",
-    "02_已看论文/(2021) Argmax Flows and Multinomial Diffusion, Learning Categorical Distributions.md",
     "99_attachment/Vista-LLAMA.pdf",
     "99_attachment/语义通信的发展与挑战-系统性综述.pdf",
     "99_attachment/2020_A_Lite_Distributed_Semantic_Communication_System_for_Internet_of_Things.pdf",
