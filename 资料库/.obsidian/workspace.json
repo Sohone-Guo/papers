@@ -168,8 +168,10 @@
   },
   "active": "44da89be2ef0ed56",
   "lastOpenFiles": [
-    "99_attachment/Deep_Source-Channel_Coding_for_Sentence_Semantic_Transmission_With_HARQ.pdf",
+    "02_已看论文/(2018) Power of Deep Learning for Channel Estimation and Signal Detection in OFDM System.md",
     "(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
+    "99_attachment/Power_of_Deep_Learning_for_Channel_Estimation_and_Signal_Detection_in_OFDM_Systems.pdf",
+    "99_attachment/Deep_Source-Channel_Coding_for_Sentence_Semantic_Transmission_With_HARQ.pdf",
     "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
     "02_已看论文/(2022) Efficiently Modeling Long Sequences with Structured State Spaces.md",
     "99_attachment/gu_dissertation-augmented.pdf",
@@ -205,7 +207,6 @@
     "02_已看论文/(2021) Learning Transferable Visual Models From Natural Language Processing.md",
     "02_已看论文/(2021) Learning Transferable Visual Models From Natural Language Processing 1.md",
     "02_已看论文/(2021) How to represent part-whole hierarchies in a neural network.md",
-    "02_已看论文/(2021) FastCorrect, Fast Error Correction with Edit Alignment for Automatic Speech Recognition.md",
     "99_attachment/Vista-LLAMA.pdf",
     "99_attachment/语义通信的发展与挑战-系统性综述.pdf",
     "99_attachment/2020_A_Lite_Distributed_Semantic_Communication_System_for_Internet_of_Things.pdf",
@@ -214,8 +215,6 @@
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "99_attachment/Sequential Modeling Enables Scalable Learning for Large Vision Models.pdf",
     "00_调研整理/001_合成数据技术/总纲.canvas",
-    "99_attachment/LLMZip.pdf",
-    "99_attachment/Role play with large language models.pdf",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "未命名.canvas"
   ]

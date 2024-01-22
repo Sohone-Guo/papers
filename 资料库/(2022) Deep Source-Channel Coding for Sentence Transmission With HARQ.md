@@ -13,7 +13,7 @@ Tags: #Tag_语义通信 #Tag_HARQ
 
 # Reference
 ---
-
+- [[(2018) Power of Deep Learning for Channel Estimation and Signal Detection in OFDM System]]
 
 # Attachment
 ---
