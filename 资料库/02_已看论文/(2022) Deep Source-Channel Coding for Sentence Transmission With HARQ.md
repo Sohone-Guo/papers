@@ -5,8 +5,8 @@ Tags: #Tag_语义通信 #Tag_HARQ
 
 # Mainly Idea
 ---
-
-
+![[Pasted image 20240122215118.png]]
+![[Pasted image 20240122215143.png]]
 # Question
 ---
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
+                "file": "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2020) Deep Learning Enabled Semantic Communication Systems,.md",
+                "file": "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2020) Deep Learning Enabled Semantic Communication Systems,.md",
+                "file": "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2020) Deep Learning Enabled Semantic Communication Systems,.md",
+                "file": "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2020) Deep Learning Enabled Semantic Communication Systems,.md"
+                "file": "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md"
               }
             }
           },
@@ -179,12 +179,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5dd59156fbd4025e",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20240122215143.png",
+    "99_attachment/Pasted image 20240122215118.png",
+    "02_已看论文/(2020) Deep Learning Enabled Semantic Communication Systems,.md",
     "99_attachment/Pasted image 20240122211332.png",
     "99_attachment/2006.10685.pdf",
-    "(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
-    "02_已看论文/(2020) Deep Learning Enabled Semantic Communication Systems,.md",
+    "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
     "99_attachment/variablesc_spawc.pdf",
     "02_已看论文/(2018) Variable Length Joint Source-Channel Coding of Text Using Deep Neural Networks.md",
     "02_已看论文/(2018) Power of Deep Learning for Channel Estimation and Signal Detection in OFDM System.md",
@@ -202,8 +204,6 @@
     "99_attachment/Pasted image 20240117222559.png",
     "99_attachment/Pasted image 20240117222226.png",
     "99_attachment/Pasted image 20240117222040.png",
-    "99_attachment/Pasted image 20240117222038.png",
-    "99_attachment/Pasted image 20240117222036.png",
     "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
     "02_已看论文/(2021) SentenceMIM A Latent Variable Language Model.md",
     "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
