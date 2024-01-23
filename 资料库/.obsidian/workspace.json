@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md",
+                "file": "02_已看论文/(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md",
+                "file": "02_已看论文/(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md",
+                "file": "02_已看论文/(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md"
+                "file": "02_已看论文/(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md"
               }
             }
           },
@@ -168,9 +168,10 @@
   },
   "active": "b77562e70951d901",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20240123165559.png",
     "99_attachment/Adaptive_Bit_Rate_Control_in_Semantic_Communication_With_Incremental_Knowledge-Based_HARQ.pdf",
     "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
-    "(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md",
+    "02_已看论文/(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md",
     "99_attachment/Pasted image 20240122215143.png",
     "99_attachment/Pasted image 20240122215118.png",
     "02_已看论文/(2020) Deep Learning Enabled Semantic Communication Systems,.md",
@@ -213,7 +214,6 @@
     "99_attachment/Vista-LLAMA.pdf",
     "99_attachment/语义通信的发展与挑战-系统性综述.pdf",
     "99_attachment/2020_A_Lite_Distributed_Semantic_Communication_System_for_Internet_of_Things.pdf",
-    "99_attachment/2023_基于CSI反馈的语义图像传输.pdf",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",

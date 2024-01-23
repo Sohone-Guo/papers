@@ -5,11 +5,12 @@ Tags: #Tag_语义通信 #Tag_HARQ
 
 # Mainly Idea
 ---
-
+![[Pasted image 20240123165559.png]]
 
 # Question
 ---
 - Design the encoder with adaptive semantic bit rate control?
+	- 实现给定固定的bit rate的可能性，譬如3个，从3个里面选择一个。
 
 # Reference
 ---
