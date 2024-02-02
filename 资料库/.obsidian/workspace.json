@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Tutorial/(Tutorial) 交织多址(IMDM).md",
-                "mode": "preview",
+                "file": "90_工具手册/vscode.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Tutorial/(Tutorial) 交织多址(IMDM).md",
+                "file": "90_工具手册/vscode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Tutorial/(Tutorial) 交织多址(IMDM).md",
+                "file": "90_工具手册/vscode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Tutorial/(Tutorial) 交织多址(IMDM).md"
+                "file": "90_工具手册/vscode.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "fb8a6292a3cb9c91",
   "lastOpenFiles": [
-    "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
+    "90_工具手册/pytorch.md",
     "10_Tutorial/(Tutorial) 交织多址(IMDM).md",
+    "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
     "99_attachment/LiPing.pdf",
     "99_attachment/A_Study_on_Interleave_Division_Multiple_Access.pdf",
     "99_attachment/Interleave_division_multiple-access.pdf",

@@ -6,4 +6,5 @@
 - Pylance # 帮助其他
 - Tabnine (目前使用CodeGeeX替代)
 - CodeGeeX
+- Fitten Code
 ```
