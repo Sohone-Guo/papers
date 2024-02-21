@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_工具手册/写论文.md",
+                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/写论文.md",
+                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_工具手册/写论文.md",
+                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_工具手册/写论文.md"
+                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md"
               }
             }
           },
@@ -166,8 +166,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ebb0b168c0ebbe45",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "01_待看论文/2401.10225.pdf",
+    "01_待看论文/2309.17453.pdf",
     "90_工具手册/写论文.md",
     "90_工具手册/vscode.md",
     "90_工具手册/pytorch.md",
@@ -192,7 +194,6 @@
     "99_attachment/Power_of_Deep_Learning_for_Channel_Estimation_and_Signal_Detection_in_OFDM_Systems.pdf",
     "99_attachment/Deep_Source-Channel_Coding_for_Sentence_Semantic_Transmission_With_HARQ.pdf",
     "02_已看论文/(2022) Efficiently Modeling Long Sequences with Structured State Spaces.md",
-    "99_attachment/gu_dissertation-augmented.pdf",
     "99_attachment/Pasted image 20240118100803.png",
     "99_attachment/Pasted image 20240117223619.png",
     "99_attachment/Pasted image 20240117223430.png",
@@ -213,7 +214,6 @@
     "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
     "02_已看论文/(2021) W2V-BERT, COMBINING CONTRASTIVE LEARNING AND MASKED LANGUAGE MODELING FOR SELF-SUPERVISED SPEECH PRE-TRAINING.md",
-    "02_已看论文/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
