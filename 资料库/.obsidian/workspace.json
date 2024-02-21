@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f1d7e82a4529dfcf",
+        "id": "a89e809494dc901c",
         "type": "tabs",
         "children": [
           {
-            "id": "ebb0b168c0ebbe45",
+            "id": "74befd872886b0d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
+                "file": "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
+                "file": "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
+                "file": "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md"
+                "file": "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md"
               }
             }
           },
@@ -166,8 +166,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "74befd872886b0d6",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20240221172546.png",
+    "99_attachment/Pasted image 20240221172528.png",
+    "99_attachment/A Space-Time Diffusion Model for Video Generation.pdf",
+    "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
+    "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
     "01_待看论文/2401.10225.pdf",
     "01_待看论文/2309.17453.pdf",
     "90_工具手册/写论文.md",
@@ -191,15 +196,12 @@
     "99_attachment/variablesc_spawc.pdf",
     "02_已看论文/(2018) Variable Length Joint Source-Channel Coding of Text Using Deep Neural Networks.md",
     "02_已看论文/(2018) Power of Deep Learning for Channel Estimation and Signal Detection in OFDM System.md",
-    "99_attachment/Power_of_Deep_Learning_for_Channel_Estimation_and_Signal_Detection_in_OFDM_Systems.pdf",
-    "99_attachment/Deep_Source-Channel_Coding_for_Sentence_Semantic_Transmission_With_HARQ.pdf",
     "02_已看论文/(2022) Efficiently Modeling Long Sequences with Structured State Spaces.md",
     "99_attachment/Pasted image 20240118100803.png",
     "99_attachment/Pasted image 20240117223619.png",
     "99_attachment/Pasted image 20240117223430.png",
     "99_attachment/Pasted image 20240117222718.png",
     "99_attachment/Pasted image 20240117222625.png",
-    "99_attachment/Pasted image 20240117222559.png",
     "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
     "02_已看论文/(2021) SentenceMIM A Latent Variable Language Model.md",
     "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
@@ -212,8 +214,6 @@
     "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
     "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
     "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
-    "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
-    "02_已看论文/(2021) W2V-BERT, COMBINING CONTRASTIVE LEARNING AND MASKED LANGUAGE MODELING FOR SELF-SUPERVISED SPEECH PRE-TRAINING.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
