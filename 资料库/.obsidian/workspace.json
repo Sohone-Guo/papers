@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "20313a19c5062b50",
+        "id": "f1d7e82a4529dfcf",
         "type": "tabs",
         "children": [
           {
-            "id": "fb8a6292a3cb9c91",
+            "id": "ebb0b168c0ebbe45",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_工具手册/vscode.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/vscode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_工具手册/vscode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "90_工具手册/vscode.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +158,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb8a6292a3cb9c91",
+  "active": "ebb0b168c0ebbe45",
   "lastOpenFiles": [
+    "90_工具手册/写论文.md",
+    "90_工具手册/vscode.md",
     "90_工具手册/pytorch.md",
     "10_Tutorial/(Tutorial) 交织多址(IMDM).md",
     "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
@@ -212,8 +206,6 @@
     "02_已看论文/(2021) ⭐Very Deep VAEs Generatlize Autoregressive models and Can outperform them on Image.md",
     "02_已看论文/(2021) W2V-BERT, COMBINING CONTRASTIVE LEARNING AND MASKED LANGUAGE MODELING FOR SELF-SUPERVISED SPEECH PRE-TRAINING.md",
     "02_已看论文/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
-    "02_已看论文/(2021) NVAE, A Deep Hierarchical Variational Autoencoder.md",
-    "02_已看论文/(2021) Medically Aware GPT-3 as a Data Generator for Medical Dialogue Summarization.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
