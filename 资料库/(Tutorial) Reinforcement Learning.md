@@ -5,11 +5,14 @@
 Actor和环境互动，为什么不直接获取全部资料呢？online? offline?
 A: 自己随机采样资料，在一些过程步骤很长的游戏下，我们很难通过随机采样获取，譬如接近成功的数据，只能获取大量前期的数据。而强化学习在搜索到前期步骤后，不同时期可搜索到不同任务。
 
-Example:
+Example1:
 收集2组资料：
 - 数据①：一个机器人按照当前policy玩一个游戏的全部State和Actor，以及最后的得分。
 - 数据②：一个机器人按照当前policy玩一个游戏的另一组全部State和Actor，以及最后的得分。
 得分高的一组，譬如数据①，里面的Actor作为target, 训练Policy，更新模型。
+
+Example2: Cumulated reward, 让模型眼光长远，不要局限
+![[Pasted image 20240223112918.png]]
 # Q2：NLP中的强化学习是什么？
 
 
@@ -28,3 +31,7 @@ GAN虽然是判别器进行监督，但是判别器可以通过梯度获取具�
 
 # Reference
 ---
+- [【機器學習2021】概述增強式學習 (Reinforcement Learning, RL) (一) – 增強式學習跟機器學習一樣都是三個步驟 (youtube.com)](https://www.youtube.com/watch?v=XWukX-ayIrs)
+	- ![[Pasted image 20240223111734.png]]
+	- ![[Pasted image 20240223111757.png]]
+	- ![[Pasted image 20240223112849.png]]
