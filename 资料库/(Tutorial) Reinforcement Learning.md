@@ -41,3 +41,5 @@ GAN虽然是判别器进行监督，但是判别器可以通过梯度获取具�
 - [【機器學習2021】概述增強式學習 (Reinforcement Learning, RL) (二) – Policy Gradient 與修課心情 (youtube.com)](https://www.youtube.com/watch?v=US8DFaAZcp4)
 	- ![[Pasted image 20240223124920.png]]
 - [DRL Lecture 2: Proximal Policy Optimization (PPO) (youtube.com)](https://www.youtube.com/watch?v=OAKAZhFmYoI)
+- [【機器學習2021】概述增強式學習 (Reinforcement Learning, RL) (三) - Actor-Critic (youtube.com)](https://www.youtube.com/watch?v=kk6DqWreLeU)
+	- ![[Pasted image 20240223131051.png]]
