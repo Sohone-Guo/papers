@@ -11,8 +11,10 @@ Example1:
 - 数据②：一个机器人按照当前policy玩一个游戏的另一组全部State和Actor，以及最后的得分。
 得分高的一组，譬如数据①，里面的Actor作为target, 训练Policy，更新模型。
 
-Example2: Cumulated reward, 让模型眼光长远，不要局限
+Example2: Cumulated reward, 让模型眼光长远，不要局限当前r
 ![[Pasted image 20240223112918.png]]
+
+Q: 只有最后一个有R怎么办？
 # Q2：NLP中的强化学习是什么？
 
 
