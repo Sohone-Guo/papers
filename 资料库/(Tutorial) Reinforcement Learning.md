@@ -20,7 +20,7 @@ Q: 只有最后一个有R怎么办？如Example1， 整体学习，或者自定�
 强化学习有两种方法：
 - Actor-critic: 就是步骤不变，但是accumulated Reward, 被神经网络V模拟出来，并且用V($s_{t-1}$) - $V(s_t)$ 作为accumulated Reward，V相当于平均值，收集到的Accumulated Reward可以当成一次收集的结果，这个结果没有平均值好。
 - Q-Learning:
-PPO:
+PPO: ![[Pasted image 20240223143629.png]]
 如何从示范中学习：就是使用Expert的数据用对比学习的方法，训练了一个Reward函数。
 # Q2：NLP中的强化学习是什么？
 如Example1， 整体学习
