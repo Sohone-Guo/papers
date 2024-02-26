@@ -11,8 +11,12 @@
             "id": "0ed3b9a8aeaa9764",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "match",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Tutorial/(Tutorial) Reinforcement Learning.md",
+                "file": "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Tutorial/(Tutorial) Reinforcement Learning.md",
+                "file": "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Tutorial/(Tutorial) Reinforcement Learning.md"
+                "file": "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md"
               }
             }
           },
@@ -162,8 +167,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "0ed3b9a8aeaa9764",
   "lastOpenFiles": [
+    "02_已看论文/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
+    "00_调研整理/001_合成数据技术/调研整理/Implicit Layers.md",
+    "10_Tutorial/(Tutorial) Reinforcement Learning.md",
     "99_attachment/Pasted image 20240223143629.png",
     "99_attachment/Pasted image 20240223135347.png",
     "99_attachment/Pasted image 20240223131051.png",
@@ -174,9 +182,7 @@
     "99_attachment/Pasted image 20240223111757.png",
     "99_attachment/Pasted image 20240223111734.png",
     "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
-    "10_Tutorial/(Tutorial) Reinforcement Learning.md",
     "99_attachment/Pasted image 20240221172546.png",
-    "99_attachment/Pasted image 20240221172528.png",
     "99_attachment/A Space-Time Diffusion Model for Video Generation.pdf",
     "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
     "01_待看论文/2401.10225.pdf",
@@ -209,7 +215,6 @@
     "02_已看论文/(2023) Self-consistency improves chain-of-thought reasoning in language models.md",
     "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
     "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
-    "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
