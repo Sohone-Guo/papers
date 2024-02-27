@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Tutorial/(Tutorial) Reinforcement Learning.md",
+                "file": "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Tutorial/(Tutorial) Reinforcement Learning.md",
+                "file": "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Tutorial/(Tutorial) Reinforcement Learning.md",
+                "file": "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Tutorial/(Tutorial) Reinforcement Learning.md"
+                "file": "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   "active": "b1109eae3bb81c4e",
   "lastOpenFiles": [
     "02_已看论文/(2023) Scalable Diffusion Models with Transformers.md",
+    "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
+    "10_Tutorial/(Tutorial) Reinforcement Learning.md",
     "99_attachment/Pasted image 20240226131639.png",
     "99_attachment/Pasted image 20240226131432.png",
     "99_attachment/Pasted image 20240226131354.png",
@@ -176,7 +178,6 @@
     "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
     "02_已看论文/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
     "00_调研整理/001_合成数据技术/调研整理/Implicit Layers.md",
-    "10_Tutorial/(Tutorial) Reinforcement Learning.md",
     "99_attachment/Pasted image 20240223143629.png",
     "99_attachment/Pasted image 20240223135347.png",
     "99_attachment/Pasted image 20240223131051.png",
@@ -184,7 +185,6 @@
     "99_attachment/Pasted image 20240223112918.png",
     "99_attachment/Pasted image 20240223112849.png",
     "99_attachment/Pasted image 20240223111919.png",
-    "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
     "99_attachment/A Space-Time Diffusion Model for Video Generation.pdf",
     "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
     "01_待看论文/2401.10225.pdf",
