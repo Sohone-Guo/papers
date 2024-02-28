@@ -11,12 +11,8 @@
             "id": "b1109eae3bb81c4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "match",
+                "query": "s",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +159,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b1109eae3bb81c4e",
+  "active": "88e44a922c0882da",
   "lastOpenFiles": [
+    "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
     "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
     "02_已看论文/(2023) Scalable Diffusion Models with Transformers.md",
     "10_Tutorial/(Tutorial) Reinforcement Learning.md",
@@ -200,7 +194,6 @@
     "99_attachment/A_simple_approach_to_near-optimal_multiuser_detection_interleave-division_multiple-access.pdf",
     "02_已看论文/(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md",
     "99_attachment/Adaptive_Bit_Rate_Control_in_Semantic_Communication_With_Incremental_Knowledge-Based_HARQ.pdf",
-    "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
     "02_已看论文/(2020) Deep Learning Enabled Semantic Communication Systems,.md",
     "99_attachment/2006.10685.pdf",
     "02_已看论文/(2018) Variable Length Joint Source-Channel Coding of Text Using Deep Neural Networks.md",
