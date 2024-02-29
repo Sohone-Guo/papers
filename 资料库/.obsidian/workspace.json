@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2abbf53aaa6a6f65",
+        "id": "2c8beab59f8e36d0",
         "type": "tabs",
         "children": [
           {
-            "id": "b1109eae3bb81c4e",
+            "id": "19730f30d8010c7e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_已看论文/(2023) Scalable Diffusion Models with Transformers.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "s",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 628.5
+    "width": 303.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_已看论文/(2023) Scalable Diffusion Models with Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_已看论文/(2023) Scalable Diffusion Models with Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02_已看论文/(2023) Scalable Diffusion Models with Transformers.md"
+              }
             }
           },
           {
@@ -159,11 +166,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88e44a922c0882da",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
-    "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
     "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
+    "02_已看论文/(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md",
+    "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
     "02_已看论文/(2023) Scalable Diffusion Models with Transformers.md",
+    "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
+    "02_已看论文/(2023) Dataset Diffusion, Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation.md",
+    "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+    "02_已看论文/(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
+    "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
+    "02_已看论文/(2022) Efficiently Modeling Long Sequences with Structured State Spaces.md",
     "10_Tutorial/(Tutorial) Reinforcement Learning.md",
     "99_attachment/Pasted image 20240226131639.png",
     "99_attachment/Pasted image 20240226131432.png",
@@ -187,25 +201,19 @@
     "90_工具手册/vscode.md",
     "90_工具手册/pytorch.md",
     "10_Tutorial/(Tutorial) 交织多址(IMDM).md",
-    "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
     "99_attachment/LiPing.pdf",
     "99_attachment/A_Study_on_Interleave_Division_Multiple_Access.pdf",
     "99_attachment/Interleave_division_multiple-access.pdf",
     "99_attachment/A_simple_approach_to_near-optimal_multiuser_detection_interleave-division_multiple-access.pdf",
-    "02_已看论文/(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md",
     "99_attachment/Adaptive_Bit_Rate_Control_in_Semantic_Communication_With_Incremental_Knowledge-Based_HARQ.pdf",
     "02_已看论文/(2020) Deep Learning Enabled Semantic Communication Systems,.md",
     "99_attachment/2006.10685.pdf",
     "02_已看论文/(2018) Variable Length Joint Source-Channel Coding of Text Using Deep Neural Networks.md",
     "02_已看论文/(2018) Power of Deep Learning for Channel Estimation and Signal Detection in OFDM System.md",
-    "02_已看论文/(2022) Efficiently Modeling Long Sequences with Structured State Spaces.md",
     "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
     "02_已看论文/(2021) SentenceMIM A Latent Variable Language Model.md",
     "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
     "02_已看论文/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
-    "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
-    "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
-    "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
