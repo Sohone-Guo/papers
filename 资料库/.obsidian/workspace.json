@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
+                "file": "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
+                "file": "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
+                "file": "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md"
+                "file": "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md"
               }
             }
           },
@@ -166,10 +166,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bd810565dc1a7451",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20240306181511.png",
     "99_attachment/2402.08846.pdf",
-    "(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
+    "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
     "02_已看论文/(2023) Scalable Diffusion Models with Transformers.md",
     "90_工具手册/GIT.md",
     "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
@@ -210,7 +211,6 @@
     "99_attachment/A_simple_approach_to_near-optimal_multiuser_detection_interleave-division_multiple-access.pdf",
     "99_attachment/Adaptive_Bit_Rate_Control_in_Semantic_Communication_With_Incremental_Knowledge-Based_HARQ.pdf",
     "02_已看论文/(2020) Deep Learning Enabled Semantic Communication Systems,.md",
-    "99_attachment/2006.10685.pdf",
     "02_已看论文/(2018) Variable Length Joint Source-Channel Coding of Text Using Deep Neural Networks.md",
     "02_已看论文/(2018) Power of Deep Learning for Channel Estimation and Signal Detection in OFDM System.md",
     "02_已看论文/(2022) High-Resolution Image Synthesis with Latent Diffusion Models.md",
