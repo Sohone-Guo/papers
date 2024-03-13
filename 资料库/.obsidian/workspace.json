@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd810565dc1a7451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9a465f3f3f76bfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d127f66c711696b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "82233bac64e2e1e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2022) One-to-Many Semantic Communication Systems, Design, Implementation, Performance Evaluation.md",
+                "file": "02_已看论文/(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2022) One-to-Many Semantic Communication Systems, Design, Implementation, Performance Evaluation.md",
+                "file": "02_已看论文/(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2022) One-to-Many Semantic Communication Systems, Design, Implementation, Performance Evaluation.md",
+                "file": "02_已看论文/(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2022) One-to-Many Semantic Communication Systems, Design, Implementation, Performance Evaluation.md"
+                "file": "02_已看论文/(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md"
               }
             }
           },
@@ -203,10 +166,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82233bac64e2e1e4",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
-    "(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
-    "(2022) One-to-Many Semantic Communication Systems, Design, Implementation, Performance Evaluation.md",
+    "02_已看论文/(2022) One-to-Many Semantic Communication Systems, Design, Implementation, Performance Evaluation.md",
+    "99_attachment/Pasted image 20240313120859.png",
+    "99_attachment/Pasted image 20240313120856.png",
+    "02_已看论文/(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
     "99_attachment/One-to-Many Semantic Communication Systems.pdf",
     "99_attachment/Fusion-Based_Multi-User_Semantic_Communications_for_Wireless_Image_Transmission_Over_Degraded_Broadcast_Channels.pdf",
     "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
@@ -235,8 +200,6 @@
     "99_attachment/Pasted image 20240223135347.png",
     "99_attachment/Pasted image 20240223131051.png",
     "99_attachment/Pasted image 20240223124920.png",
-    "99_attachment/Pasted image 20240223112918.png",
-    "99_attachment/Pasted image 20240223112849.png",
     "99_attachment/A Space-Time Diffusion Model for Video Generation.pdf",
     "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
     "01_待看论文/2401.10225.pdf",
