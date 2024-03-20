@@ -11,8 +11,12 @@
             "id": "148b61658f14c7a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md"
+              }
             }
           },
           {
@@ -161,49 +168,49 @@
   },
   "active": "148b61658f14c7a5",
   "lastOpenFiles": [
-    "02_已看论文/(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
+    "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
+    "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
+    "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
+    "02_已看论文/(2020) ⭐Implicit Neural Representations with Periodic Activation Functions.md",
+    "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
+    "02_已看论文/(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
+    "02_已看论文/(2022) Symbolic Knowledge Distillation, from General Language MOdels to Commonsense Models.md",
+    "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+    "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
+    "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
+    "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
+    "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
+    "02_已看论文/(2022) Instruct GPT.md",
+    "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md",
+    "02_已看论文/(2023) Leveraging ChatGPT for Text Data Augmentation.md",
+    "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
+    "02_已看论文/(2023) Dataset Diffusion, Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation.md",
+    "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+    "02_已看论文/(2017) A Multimodal Anomaly Deterctor for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder.md",
+    "02_已看论文/(2023) IMDIFFUSION, Imputed Diffusion Models for Multivariate Time Series Anomaly Detection.md",
     "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
-    "10_Tutorial/(Tutorial) Average Precision.md",
-    "10_Tutorial/(Tutorial) Score-Based Generative Modeling.md",
-    "02_已看论文/(2022) One-to-Many Semantic Communication Systems, Design, Implementation, Performance Evaluation.md",
+    "02_已看论文/(2023) Role Play with Large Language Models.md",
+    "02_已看论文/(2023) LLMZip, Lossless Text Compression Using Large Language Models.md",
+    "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
+    "02_已看论文/(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
+    "02_已看论文/(2023) 基于CSI反馈的语义图像传输.md",
     "99_attachment/Pasted image 20240313120859.png",
     "99_attachment/Pasted image 20240313120856.png",
     "99_attachment/One-to-Many Semantic Communication Systems.pdf",
     "99_attachment/Fusion-Based_Multi-User_Semantic_Communications_for_Wireless_Image_Transmission_Over_Degraded_Broadcast_Channels.pdf",
-    "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
     "99_attachment/Pasted image 20240306181511.png",
     "99_attachment/2402.08846.pdf",
-    "02_已看论文/(2023) Scalable Diffusion Models with Transformers.md",
-    "90_工具手册/GIT.md",
-    "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
-    "02_已看论文/(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md",
-    "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
-    "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
-    "02_已看论文/(2023) Dataset Diffusion, Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation.md",
-    "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
-    "02_已看论文/(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
-    "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
-    "02_已看论文/(2022) Efficiently Modeling Long Sequences with Structured State Spaces.md",
-    "10_Tutorial/(Tutorial) Reinforcement Learning.md",
     "99_attachment/Pasted image 20240226131639.png",
     "99_attachment/Pasted image 20240226131432.png",
     "99_attachment/Pasted image 20240226131354.png",
     "99_attachment/Scalable Diffusion Models with Transformers.pdf",
-    "00_调研整理/001_合成数据技术/调研整理/Score-based Generative Models.md",
-    "02_已看论文/(2019) Generative Modeling by Estimating Gradients of the Data Distribution.md",
-    "00_调研整理/001_合成数据技术/调研整理/Implicit Layers.md",
     "99_attachment/Pasted image 20240223143629.png",
     "99_attachment/Pasted image 20240223135347.png",
     "99_attachment/Pasted image 20240223131051.png",
     "99_attachment/Pasted image 20240223124920.png",
     "99_attachment/A Space-Time Diffusion Model for Video Generation.pdf",
-    "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
     "01_待看论文/2401.10225.pdf",
     "01_待看论文/2309.17453.pdf",
-    "90_工具手册/写论文.md",
-    "90_工具手册/vscode.md",
-    "90_工具手册/pytorch.md",
-    "10_Tutorial/(Tutorial) 交织多址(IMDM).md",
     "99_attachment/LiPing.pdf",
     "99_attachment/A_Study_on_Interleave_Division_Multiple_Access.pdf",
     "99_attachment/Interleave_division_multiple-access.pdf",
