@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "148b61658f14c7a5",
+            "id": "3ef9078e955abff7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md",
-                "mode": "preview",
+                "file": "00_调研整理/100_语义通信技术/CSI反馈.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md",
+                "file": "00_调研整理/100_语义通信技术/CSI反馈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md",
+                "file": "00_调研整理/100_语义通信技术/CSI反馈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md"
+                "file": "00_调研整理/100_语义通信技术/CSI反馈.md"
               }
             }
           },
@@ -166,8 +166,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "148b61658f14c7a5",
+  "active": "3ef9078e955abff7",
   "lastOpenFiles": [
+    "02_已看论文/(2023) Wireless Semantic Communications for Video Conferencing.md",
+    "99_attachment/2023.Wireless_Semantic_Communications_for_Video_Conferencing.pdf",
+    "00_调研整理/100_语义通信技术/CSI反馈.md",
+    "02_已看论文/(2022) Eliminating CSI Feedback Overhead via Deep Learning-Based Data Hiding.md",
+    "99_attachment/2022.Eliminating_CSI_Feedback_Overhead_via_Deep_Learning-Based_Data_Hiding.pdf",
+    "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md",
+    "00_调研整理/100_语义通信技术/未命名",
+    "00_调研整理/100_语义通信技术",
     "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
     "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
     "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
@@ -189,11 +197,6 @@
     "02_已看论文/(2017) A Multimodal Anomaly Deterctor for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder.md",
     "02_已看论文/(2023) IMDIFFUSION, Imputed Diffusion Models for Multivariate Time Series Anomaly Detection.md",
     "02_已看论文/(2023) Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models.md",
-    "02_已看论文/(2023) Role Play with Large Language Models.md",
-    "02_已看论文/(2023) LLMZip, Lossless Text Compression Using Large Language Models.md",
-    "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
-    "02_已看论文/(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
-    "02_已看论文/(2023) 基于CSI反馈的语义图像传输.md",
     "99_attachment/Pasted image 20240313120859.png",
     "99_attachment/Pasted image 20240313120856.png",
     "99_attachment/One-to-Many Semantic Communication Systems.pdf",
@@ -210,10 +213,6 @@
     "99_attachment/Pasted image 20240223124920.png",
     "99_attachment/A Space-Time Diffusion Model for Video Generation.pdf",
     "01_待看论文/2401.10225.pdf",
-    "01_待看论文/2309.17453.pdf",
-    "99_attachment/LiPing.pdf",
-    "99_attachment/A_Study_on_Interleave_Division_Multiple_Access.pdf",
-    "99_attachment/Interleave_division_multiple-access.pdf",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
