@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c56eef137388740b",
+        "id": "653a56516ddc6e00",
         "type": "tabs",
         "children": [
           {
-            "id": "88e85c535f049258",
+            "id": "f6e88ad80fba2cc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2022) SpeechNet, Weekly Supervised, End-to-End Speech Recognition at Industrial Scale.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 435.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2022) SpeechNet, Weekly Supervised, End-to-End Speech Recognition at Industrial Scale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2022) SpeechNet, Weekly Supervised, End-to-End Speech Recognition at Industrial Scale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_已看论文/(2022) SpeechNet, Weekly Supervised, End-to-End Speech Recognition at Industrial Scale.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +158,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88e85c535f049258",
+  "active": "f6e88ad80fba2cc7",
   "lastOpenFiles": [
+    "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
+    "02_已看论文/(2022) One-to-Many Semantic Communication Systems, Design, Implementation, Performance Evaluation.md",
+    "02_已看论文/(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
+    "02_已看论文/(2022) SpeechNet, Weekly Supervised, End-to-End Speech Recognition at Industrial Scale.md",
     "02_已看论文/(2022) Training Compute-Optimal Large Language Models.md",
     "02_已看论文/(2022) Unsupervised Dense Information Retrieval with Contrastive Learning.md",
     "02_已看论文/(2022) 待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
@@ -197,10 +193,6 @@
     "02_已看论文/(2022) Symbolic Knowledge Distillation, from General Language MOdels to Commonsense Models.md",
     "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
     "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
-    "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
-    "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
-    "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
-    "02_已看论文/(2022) Instruct GPT.md",
     "99_attachment/Pasted image 20240313120859.png",
     "99_attachment/Pasted image 20240313120856.png",
     "99_attachment/One-to-Many Semantic Communication Systems.pdf",
