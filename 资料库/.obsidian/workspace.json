@@ -11,8 +11,12 @@
             "id": "f6e88ad80fba2cc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md"
+              }
             }
           },
           {
@@ -160,6 +168,8 @@
   },
   "active": "f6e88ad80fba2cc7",
   "lastOpenFiles": [
+    "99_attachment/FrugalGPT,How to Use Large Language Models While Reducing Cost and Improving Performance.pdf",
+    "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md",
     "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
     "02_已看论文/(2022) One-to-Many Semantic Communication Systems, Design, Implementation, Performance Evaluation.md",
     "02_已看论文/(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
@@ -191,8 +201,6 @@
     "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
     "02_已看论文/(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
     "02_已看论文/(2022) Symbolic Knowledge Distillation, from General Language MOdels to Commonsense Models.md",
-    "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
-    "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
     "99_attachment/Pasted image 20240313120859.png",
     "99_attachment/Pasted image 20240313120856.png",
     "99_attachment/One-to-Many Semantic Communication Systems.pdf",
