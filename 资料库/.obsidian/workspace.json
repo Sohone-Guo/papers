@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9d5224c49881f9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_已看论文/(2020) When Do You Need Billions of Words of Pretraining Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md",
+                "file": "02_已看论文/(2020) When Do You Need Billions of Words of Pretraining Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md",
+                "file": "02_已看论文/(2020) When Do You Need Billions of Words of Pretraining Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md"
+                "file": "02_已看论文/(2020) When Do You Need Billions of Words of Pretraining Data.md"
               }
             }
           },
@@ -166,10 +179,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f6e88ad80fba2cc7",
+  "active": "c9d5224c49881f9c",
   "lastOpenFiles": [
-    "99_attachment/FrugalGPT,How to Use Large Language Models While Reducing Cost and Improving Performance.pdf",
+    "99_attachment/Pasted image 20240324201037.png",
+    "99_attachment/Pasted image 20240324200624.png",
+    "99_attachment/2011.04946.pdf",
     "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md",
+    "02_已看论文/(2020) When Do You Need Billions of Words of Pretraining Data.md",
+    "99_attachment/FrugalGPT,How to Use Large Language Models While Reducing Cost and Improving Performance.pdf",
     "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
     "02_已看论文/(2022) One-to-Many Semantic Communication Systems, Design, Implementation, Performance Evaluation.md",
     "02_已看论文/(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
@@ -200,20 +217,16 @@
     "02_已看论文/(2020) ⭐Implicit Neural Representations with Periodic Activation Functions.md",
     "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
     "02_已看论文/(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
-    "02_已看论文/(2022) Symbolic Knowledge Distillation, from General Language MOdels to Commonsense Models.md",
     "99_attachment/Pasted image 20240313120859.png",
     "99_attachment/Pasted image 20240313120856.png",
     "99_attachment/One-to-Many Semantic Communication Systems.pdf",
-    "99_attachment/Fusion-Based_Multi-User_Semantic_Communications_for_Wireless_Image_Transmission_Over_Degraded_Broadcast_Channels.pdf",
     "99_attachment/Pasted image 20240306181511.png",
-    "99_attachment/2402.08846.pdf",
     "99_attachment/Pasted image 20240226131639.png",
     "99_attachment/Pasted image 20240226131432.png",
     "99_attachment/Pasted image 20240226131354.png",
     "99_attachment/Pasted image 20240223143629.png",
     "99_attachment/Pasted image 20240223135347.png",
     "99_attachment/Pasted image 20240223131051.png",
-    "99_attachment/Pasted image 20240223124920.png",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
