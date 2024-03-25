@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72dd1db1ab31ebaa",
+        "id": "bb5b94428b4a47b3",
         "type": "tabs",
         "children": [
           {
-            "id": "3d8acbd658a7a8ef",
+            "id": "45b2263767723c53",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Visual ChatGPT",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 414.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Tutorial/(Tutorial) Reinforcement Learning.md",
+                "file": "02_已看论文/(2022) ⭐Instruct GPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Tutorial/(Tutorial) Reinforcement Learning.md",
+                "file": "02_已看论文/(2022) ⭐Instruct GPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Tutorial/(Tutorial) Reinforcement Learning.md"
+                "file": "02_已看论文/(2022) ⭐Instruct GPT.md"
               }
             }
           },
@@ -164,43 +164,43 @@
   },
   "active": "eab7913bcd019e86",
   "lastOpenFiles": [
-    "10_Tutorial/(Tutorial) PPO.md",
-    "10_Tutorial/(Tutorial) Reinforcement Learning.md",
-    "02_已看论文/(2020) When Do You Need Billions of Words of Pretraining Data.md",
+    "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
+    "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
+    "02_已看论文/(2020) The Pile, An 800GB Dataset of Diverse Text for Language Modeling.md",
+    "02_已看论文/(2022) CLASP, Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing.md",
+    "02_已看论文/(2022) Fine-Grained Controllable Text Generation Using Non-Residual Prompting.md",
+    "02_已看论文/(2022) GPT-NeoX-20B, An Open-Source Autoregressive Language Model.md",
+    "02_已看论文/(2022) Mixture-of-Experts with Expert Choice Routing.md",
+    "02_已看论文/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
+    "02_已看论文/(2023) DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
+    "02_已看论文/(2023) Drag Your GAN, Interactive Point-based Manipulation on the Generative Image Manifold.md",
+    "02_已看论文/(2023) Eearly Exaperiments with GPT4.md",
+    "02_已看论文/(2023) Flow Matching for Generative Modeling.md",
+    "02_已看论文/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
+    "02_已看论文/(2023) Generative Agents Interactive Simulacra of Human Behavior.md",
+    "02_已看论文/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
+    "02_已看论文/(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md",
+    "02_已看论文/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
+    "02_已看论文/(2023) Language Models are Realistic tabular Data Generators.md",
+    "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md",
+    "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
+    "02_已看论文/(2023) OpenChatKit.md",
+    "02_已看论文/(2023) PaLM2 Technical Report.md",
+    "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
+    "02_已看论文/(2023) Self-consistency improves chain-of-thought reasoning in language models.md",
+    "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
+    "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
     "99_attachment/Pasted image 20240324201037.png",
     "99_attachment/Pasted image 20240324200624.png",
     "99_attachment/2011.04946.pdf",
-    "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md",
     "99_attachment/FrugalGPT,How to Use Large Language Models While Reducing Cost and Improving Performance.pdf",
-    "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
-    "02_已看论文/(2022) One-to-Many Semantic Communication Systems, Design, Implementation, Performance Evaluation.md",
-    "02_已看论文/(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
-    "02_已看论文/(2022) SpeechNet, Weekly Supervised, End-to-End Speech Recognition at Industrial Scale.md",
-    "02_已看论文/(2022) Training Compute-Optimal Large Language Models.md",
-    "02_已看论文/(2022) Unsupervised Dense Information Retrieval with Contrastive Learning.md",
-    "02_已看论文/(2022) 待完成-AvatarCLIP, Zero-Shot Text-Driven Generation and Animation of 3D Avatars.md",
-    "02_已看论文/(2023) A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models.md",
-    "02_已看论文/(2023) A Survey of Large Language Model.md",
-    "02_已看论文/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
-    "00_调研整理/100_语义通信技术/CSI反馈.md",
-    "02_已看论文/(2022) Eliminating CSI Feedback Overhead via Deep Learning-Based Data Hiding.md",
-    "02_已看论文/(2020) CNN-BASED ANALOG CSI FEEDBACK IN FDD MIMO-OFDM SYSTEMS.md",
-    "02_已看论文/(2023) Deep Joint Source-Channel Coding for CSI Feedback An End-to-End Approach.md",
-    "02_已看论文/(2023) Adaptive CSI Feedback for Deep Learning-Enabled Image Transmission.md",
     "99_attachment/2023.Adaptive_CSI_Feedback_for_Deep_Learning-Enabled_Image_Transmission.pdf",
     "99_attachment/2020.CNN-Based_Analog_CSI_Feedback_in_FDD_MIMO-OFDM_Systems.pdf",
     "99_attachment/2023.Deep_Joint_Source-Channel_Coding_for_CSI_Feedback_An_End-to-End_Approach.pdf",
-    "02_已看论文/(2023) Wireless Semantic Communications for Video Conferencing.md",
     "99_attachment/2023.Wireless_Semantic_Communications_for_Video_Conferencing.pdf",
     "99_attachment/2022.Eliminating_CSI_Feedback_Overhead_via_Deep_Learning-Based_Data_Hiding.pdf",
-    "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md",
     "00_调研整理/100_语义通信技术/未命名",
     "00_调研整理/100_语义通信技术",
-    "02_已看论文/(2021) Per-Pixel Classification is Not All You Need for Semantic Segmentation.md",
-    "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
-    "02_已看论文/(2023) DatasetDM, Synthesizing Data with Perception Annotations Using Diffusion Models.md",
-    "02_已看论文/(2020) ⭐Implicit Neural Representations with Periodic Activation Functions.md",
-    "02_已看论文/(2021) NeRF, Representing Scenes as Neural Radiance Fields for View Synthesis.md",
     "99_attachment/Pasted image 20240313120859.png",
     "99_attachment/Pasted image 20240313120856.png",
     "99_attachment/One-to-Many Semantic Communication Systems.pdf",

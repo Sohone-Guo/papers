@@ -27,7 +27,7 @@ Step3: Finetune模型
 
 # Reference
 ---
-- [[(2022) Instruct GPT]]
+- [[(2022) ⭐Instruct GPT]]
 
 # Attachment
 ---
