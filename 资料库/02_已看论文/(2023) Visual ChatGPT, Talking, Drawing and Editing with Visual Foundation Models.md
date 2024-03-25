@@ -23,6 +23,7 @@
 	- 直接使用ChatGPT,没有使用Finetune等
 - 如何使用其他VFM的模型？
 	- 预先定义了一个很长的Prefix, 里面包含了工具和工具用法，需要ChatGPT根据输入，结合Prefix进行选择工具的输出
+[Announcing OpenChatKit (together.ai)](https://www.together.ai/blog/openchatkit)
 
 # Attachment
 ---

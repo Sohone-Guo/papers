@@ -11,8 +11,12 @@
             "id": "45b2263767723c53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2022) ⭐Instruct GPT.md",
+                "file": "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2022) ⭐Instruct GPT.md",
+                "file": "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2022) ⭐Instruct GPT.md"
+                "file": "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md"
               }
             }
           },
@@ -162,8 +166,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "45b2263767723c53",
   "lastOpenFiles": [
+    "02_已看论文/(2022) ⭐Instruct GPT.md",
     "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
     "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "02_已看论文/(2020) The Pile, An 800GB Dataset of Diverse Text for Language Modeling.md",
@@ -189,7 +194,6 @@
     "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
     "02_已看论文/(2023) Self-consistency improves chain-of-thought reasoning in language models.md",
     "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
-    "02_已看论文/(2022) Masked-attention Mask Transformer for Universal Image Segmentation.md",
     "99_attachment/Pasted image 20240324201037.png",
     "99_attachment/Pasted image 20240324200624.png",
     "99_attachment/2011.04946.pdf",
