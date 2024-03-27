@@ -11,8 +11,12 @@
             "id": "d3fa63925e1e2ad9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "10_Tutorial/(Tutorial) The KL Divergence.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10_Tutorial/(Tutorial) The KL Divergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10_Tutorial/(Tutorial) The KL Divergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10_Tutorial/(Tutorial) The KL Divergence.md"
+              }
             }
           },
           {
@@ -160,6 +168,8 @@
   },
   "active": "d3fa63925e1e2ad9",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20240327171252.png",
+    "99_attachment/Pasted image 20240327170828.png",
     "神经辐射场加速技术综述.md",
     "疑惑：Score-diffution.md",
     "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
@@ -185,7 +195,6 @@
     "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
     "02_已看论文/(2023) OpenChatKit.md",
     "02_已看论文/(2023) PaLM2 Technical Report.md",
-    "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
     "99_attachment/Pasted image 20240324201037.png",
     "99_attachment/Pasted image 20240324200624.png",
     "99_attachment/2011.04946.pdf",
@@ -205,7 +214,6 @@
     "99_attachment/Pasted image 20240226131432.png",
     "99_attachment/Pasted image 20240226131354.png",
     "99_attachment/Pasted image 20240223143629.png",
-    "99_attachment/Pasted image 20240223135347.png",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
