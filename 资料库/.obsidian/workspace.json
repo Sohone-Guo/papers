@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bb5b94428b4a47b3",
+        "id": "ae956c6dbf02ea29",
         "type": "tabs",
         "children": [
           {
-            "id": "45b2263767723c53",
+            "id": "d3fa63925e1e2ad9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 272.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,11 +158,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45b2263767723c53",
+  "active": "d3fa63925e1e2ad9",
   "lastOpenFiles": [
+    "神经辐射场加速技术综述.md",
+    "疑惑：Score-diffution.md",
+    "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "02_已看论文/(2022) ⭐Instruct GPT.md",
     "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
-    "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "02_已看论文/(2020) The Pile, An 800GB Dataset of Diverse Text for Language Modeling.md",
     "02_已看论文/(2022) CLASP, Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing.md",
     "02_已看论文/(2022) Fine-Grained Controllable Text Generation Using Non-Residual Prompting.md",
@@ -192,8 +186,6 @@
     "02_已看论文/(2023) OpenChatKit.md",
     "02_已看论文/(2023) PaLM2 Technical Report.md",
     "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
-    "02_已看论文/(2023) Self-consistency improves chain-of-thought reasoning in language models.md",
-    "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
     "99_attachment/Pasted image 20240324201037.png",
     "99_attachment/Pasted image 20240324200624.png",
     "99_attachment/2011.04946.pdf",
