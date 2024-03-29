@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Visual ChatGPT",
+                "query": "vae",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,7 +167,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d3fa63925e1e2ad9",
+  "active": "88e44a922c0882da",
   "lastOpenFiles": [
     "99_attachment/Pasted image 20240327171252.png",
     "99_attachment/Pasted image 20240327170828.png",
