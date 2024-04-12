@@ -13,9 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Tutorial/(Tutorial) The KL Divergence.md",
+                "file": "01_待看论文/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "71d7395aa97c8803",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17313a7ed5d10011",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "99_attachment/2302.07727.pdf"
               }
             }
           }
@@ -38,7 +54,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -48,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "V",
+                "query": "tag:#Tag_语义通信  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 406.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Tutorial/(Tutorial) The KL Divergence.md",
+                "file": "01_待看论文/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Tutorial/(Tutorial) The KL Divergence.md",
+                "file": "01_待看论文/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Tutorial/(Tutorial) The KL Divergence.md"
+                "file": "01_待看论文/(2023) Knowledge Enhanced Semantic Communication Receiver.md"
               }
             }
           },
@@ -167,13 +183,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88e44a922c0882da",
+  "active": "d3fa63925e1e2ad9",
   "lastOpenFiles": [
+    "99_attachment/2302.07727.pdf",
+    "01_待看论文/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
+    "02_已看论文/(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
+    "02_已看论文/(2023) Advances and Challenges in Semantic Communications A Systematic Review.md",
+    "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
+    "02_已看论文/(2023) 基于CSI反馈的语义图像传输.md",
+    "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
+    "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
+    "10_Tutorial/(Tutorial) The KL Divergence.md",
     "99_attachment/Pasted image 20240327171252.png",
     "99_attachment/Pasted image 20240327170828.png",
     "神经辐射场加速技术综述.md",
     "疑惑：Score-diffution.md",
-    "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "02_已看论文/(2022) ⭐Instruct GPT.md",
     "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
     "02_已看论文/(2020) The Pile, An 800GB Dataset of Diverse Text for Language Modeling.md",
@@ -189,13 +213,6 @@
     "02_已看论文/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
     "02_已看论文/(2023) Generative Agents Interactive Simulacra of Human Behavior.md",
     "02_已看论文/(2023) Harnessing the Power of LLMs in Practice, A Survey on ChatGPT and Beyond.md",
-    "02_已看论文/(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md",
-    "02_已看论文/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
-    "02_已看论文/(2023) Language Models are Realistic tabular Data Generators.md",
-    "02_已看论文/(2023) 元宇宙时代超高清视音频技术白皮书.md",
-    "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
-    "02_已看论文/(2023) OpenChatKit.md",
-    "02_已看论文/(2023) PaLM2 Technical Report.md",
     "99_attachment/Pasted image 20240324201037.png",
     "99_attachment/Pasted image 20240324200624.png",
     "99_attachment/2011.04946.pdf",
@@ -214,7 +231,6 @@
     "99_attachment/Pasted image 20240226131639.png",
     "99_attachment/Pasted image 20240226131432.png",
     "99_attachment/Pasted image 20240226131354.png",
-    "99_attachment/Pasted image 20240223143629.png",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
