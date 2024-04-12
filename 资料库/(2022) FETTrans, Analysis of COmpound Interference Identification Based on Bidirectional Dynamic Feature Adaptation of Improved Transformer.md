@@ -7,9 +7,13 @@ Tags: #Tag_异常检测
 ---
 
 
+- Feature Extract Module: feature extraction and dimension expansion. Output the Data-Token.
+- FETTrans Network: the Data-Token is the input. 
+
 # Question
 ---
-
+- What is the bidirectional dynamic adaptation process?
+- What is the key-token?
 
 # Reference
 ---

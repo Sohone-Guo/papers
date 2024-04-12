@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 292.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -166,7 +166,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f30db02627633ed",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
     "99_attachment/FETTrans_Analysis_of_Compound_Interference_Identification_Based_on_Bidirectional_Dynamic_Feature_Adaptation_of_Improved_Transformer.pdf",
     "(2022) FETTrans, Analysis of COmpound Interference Identification Based on Bidirectional Dynamic Feature Adaptation of Improved Transformer.md",
