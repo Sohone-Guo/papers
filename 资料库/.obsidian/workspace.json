@@ -11,8 +11,12 @@
             "id": "ad2c51a4f87568b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "90_工具手册/determined ai.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "90_工具手册/determined ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "90_工具手册/determined ai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "90_工具手册/determined ai.md"
+              }
             }
           },
           {
@@ -158,8 +166,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad2c51a4f87568b1",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "90_工具手册/determined ai.md",
     "90_工具手册/vscode.md",
     "02_已看论文/(2022) FETTrans, Analysis of COmpound Interference Identification Based on Bidirectional Dynamic Feature Adaptation of Improved Transformer.md",
     "99_attachment/FETTrans_Analysis_of_Compound_Interference_Identification_Based_on_Bidirectional_Dynamic_Feature_Adaptation_of_Improved_Transformer.pdf",
@@ -189,7 +198,6 @@
     "02_已看论文/(2023) Eearly Exaperiments with GPT4.md",
     "02_已看论文/(2023) Flow Matching for Generative Modeling.md",
     "02_已看论文/(2023) GLIGEN, Open-Set Grounded Text-to-Image Generation.md",
-    "02_已看论文/(2023) Generative Agents Interactive Simulacra of Human Behavior.md",
     "99_attachment/Pasted image 20240324201037.png",
     "99_attachment/Pasted image 20240324200624.png",
     "99_attachment/2011.04946.pdf",
