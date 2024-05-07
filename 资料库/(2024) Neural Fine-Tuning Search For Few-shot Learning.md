@@ -5,7 +5,7 @@ Tags: #Tag_计算机视觉
 
 # Mainly Idea
 ---
-
+Find out: Which layers to keep frozen, and which to fine-tune.
 
 # Question
 ---
