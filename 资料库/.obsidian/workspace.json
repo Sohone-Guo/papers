@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
+                "file": "02_已看论文/(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
+                "file": "02_已看论文/(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
+                "file": "02_已看论文/(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2024) Neural Fine-Tuning Search For Few-shot Learning.md"
+                "file": "02_已看论文/(2024) Neural Fine-Tuning Search For Few-shot Learning.md"
               }
             }
           },
@@ -166,10 +166,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c93e749c905c3987",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20240507163029.png",
     "10_Tutorial/(Tutorial) Neural Architecture Search.md",
-    "(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
+    "02_已看论文/(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
     "99_attachment/2290_neural_fine_tuning_search_for_.pdf",
     "90_工具手册/determined ai.md",
     "90_工具手册/vscode.md",
@@ -198,7 +199,6 @@
     "02_已看论文/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
     "02_已看论文/(2023) DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
     "02_已看论文/(2023) Drag Your GAN, Interactive Point-based Manipulation on the Generative Image Manifold.md",
-    "02_已看论文/(2023) Eearly Exaperiments with GPT4.md",
     "99_attachment/Pasted image 20240324201037.png",
     "99_attachment/Pasted image 20240324200624.png",
     "99_attachment/2011.04946.pdf",
