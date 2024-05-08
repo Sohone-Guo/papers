@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fc8fb59763687dc4",
+        "id": "94c8326679ee1777",
         "type": "tabs",
         "children": [
           {
-            "id": "c93e749c905c3987",
+            "id": "7b6ad9d5cf4ae118",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_已看论文/(2024) Neural Fine-Tuning Search For Few-shot Learning.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,11 +158,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "7b6ad9d5cf4ae118",
   "lastOpenFiles": [
+    "02_已看论文/(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
+    "10_Tutorial/(Tutorial) Kolmogorov-Arnold.md",
+    "99_attachment/Pasted image 20240508193302.png",
+    "99_attachment/Pasted image 20240508193237.png",
+    "99_attachment/Pasted image 20240508193219.png",
     "99_attachment/Pasted image 20240507163029.png",
     "10_Tutorial/(Tutorial) Neural Architecture Search.md",
-    "02_已看论文/(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
     "99_attachment/2290_neural_fine_tuning_search_for_.pdf",
     "90_工具手册/determined ai.md",
     "90_工具手册/vscode.md",
@@ -198,7 +194,6 @@
     "02_已看论文/(2022) Mixture-of-Experts with Expert Choice Routing.md",
     "02_已看论文/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
     "02_已看论文/(2023) DetectGPT, Zero-Shot Machine-Generated Text Detection using Probability Curvature.md",
-    "02_已看论文/(2023) Drag Your GAN, Interactive Point-based Manipulation on the Generative Image Manifold.md",
     "99_attachment/Pasted image 20240324201037.png",
     "99_attachment/Pasted image 20240324200624.png",
     "99_attachment/2011.04946.pdf",
@@ -210,10 +205,6 @@
     "99_attachment/2022.Eliminating_CSI_Feedback_Overhead_via_Deep_Learning-Based_Data_Hiding.pdf",
     "99_attachment/Pasted image 20240313120859.png",
     "99_attachment/Pasted image 20240313120856.png",
-    "99_attachment/Pasted image 20240306181511.png",
-    "99_attachment/Pasted image 20240226131639.png",
-    "99_attachment/Pasted image 20240226131432.png",
-    "99_attachment/Pasted image 20240226131354.png",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
