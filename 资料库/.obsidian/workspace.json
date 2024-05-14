@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6964de0d33612fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
+                "file": "(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
+                "file": "(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md"
+                "file": "(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md"
               }
             }
           },
@@ -166,12 +179,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "629af86fc9e346b0",
+  "active": "6964de0d33612fe2",
   "lastOpenFiles": [
+    "(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
+    "(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md",
     "99_attachment/Pasted image 20240513124540.png",
     "99_attachment/2023.Counterfactual Active Learning for Out-of-Distribution Generalization.pdf",
     "02_已看论文/(2023) Knowledge Unlearning for Mitigating Privacy Risks in Language Models.md",
-    "(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
     "99_attachment/2023.Knowledge Unlearning for Mitigating Privacy Risks in Language Models.pdf",
     "02_已看论文/(2024) KAN, Kolmogorov-Arnold Networks.md",
     "99_attachment/Pasted image 20240508195438.png",
@@ -209,7 +223,6 @@
     "02_已看论文/(2022) Fine-Grained Controllable Text Generation Using Non-Residual Prompting.md",
     "02_已看论文/(2022) GPT-NeoX-20B, An Open-Source Autoregressive Language Model.md",
     "99_attachment/Pasted image 20240324201037.png",
-    "99_attachment/Pasted image 20240324200624.png",
     "99_attachment/2011.04946.pdf",
     "99_attachment/FrugalGPT,How to Use Large Language Models While Reducing Cost and Improving Performance.pdf",
     "99_attachment/2023.Adaptive_CSI_Feedback_for_Deep_Learning-Enabled_Image_Transmission.pdf",
