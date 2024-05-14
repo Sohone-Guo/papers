@@ -9,7 +9,8 @@ Tags: #Tag_自然语言处理
 
 # Question
 ---
-
+- Active learning with counterfactual thinking?
+- CounterAL requires annotators to answer counterfactual questions to construct counterfactual samples for training.
 
 # Reference
 ---
