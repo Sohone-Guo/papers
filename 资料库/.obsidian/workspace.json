@@ -11,8 +11,12 @@
             "id": "249de9e404a49041",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md"
+              }
             }
           },
           {
@@ -160,6 +168,8 @@
   },
   "active": "249de9e404a49041",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20240522130951.png",
+    "99_attachment/2004.09034v1.pdf",
     "(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
     "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
     "(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md",
@@ -200,12 +210,10 @@
     "02_已看论文/(2020) The Pile, An 800GB Dataset of Diverse Text for Language Modeling.md",
     "02_已看论文/(2022) CLASP, Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing.md",
     "02_已看论文/(2022) Fine-Grained Controllable Text Generation Using Non-Residual Prompting.md",
-    "02_已看论文/(2022) GPT-NeoX-20B, An Open-Source Autoregressive Language Model.md",
     "99_attachment/Pasted image 20240324201037.png",
     "99_attachment/2011.04946.pdf",
     "99_attachment/FrugalGPT,How to Use Large Language Models While Reducing Cost and Improving Performance.pdf",
     "99_attachment/2023.Adaptive_CSI_Feedback_for_Deep_Learning-Enabled_Image_Transmission.pdf",
-    "99_attachment/2020.CNN-Based_Analog_CSI_Feedback_in_FDD_MIMO-OFDM_Systems.pdf",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
