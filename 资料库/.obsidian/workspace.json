@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e11caaea05143c75",
+        "id": "480ed3027b9b4dc8",
         "type": "tabs",
         "children": [
           {
-            "id": "69ea890300ac4cfa",
+            "id": "c57bdda04fb8950a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_已看论文/(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,13 +158,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "c57bdda04fb8950a",
   "lastOpenFiles": [
-    "90_工具手册/determined ai.md",
+    "02_已看论文/(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
+    "99_attachment/Pasted image 20240522140302.png",
     "02_已看论文/(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md",
+    "90_工具手册/determined ai.md",
     "99_attachment/Pasted image 20240522130951.png",
     "99_attachment/2004.09034v1.pdf",
-    "(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
     "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
     "99_attachment/Pasted image 20240513124540.png",
     "99_attachment/2023.Counterfactual Active Learning for Out-of-Distribution Generalization.pdf",
@@ -198,7 +195,6 @@
     "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "10_Tutorial/(Tutorial) The KL Divergence.md",
     "99_attachment/Pasted image 20240327171252.png",
-    "99_attachment/Pasted image 20240327170828.png",
     "神经辐射场加速技术综述.md",
     "疑惑：Score-diffution.md",
     "02_已看论文/(2022) ⭐Instruct GPT.md",
