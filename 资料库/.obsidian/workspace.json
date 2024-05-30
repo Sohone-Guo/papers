@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2023) Exploiting Biased Models to De-bias Text, A Gender-Faire Rewriting Model.md",
+                "file": "02_已看论文/(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2023) Exploiting Biased Models to De-bias Text, A Gender-Faire Rewriting Model.md",
+                "file": "02_已看论文/(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2023) Exploiting Biased Models to De-bias Text, A Gender-Faire Rewriting Model.md"
+                "file": "02_已看论文/(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md"
               }
             }
           },
@@ -179,7 +180,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c854ef89e1b5851f",
+  "active": "88e44a922c0882da",
   "lastOpenFiles": [
     "99_attachment/2023.Exploiting Biased Models to De-bias Text A Gender-Fair Rewriting Model.pdf",
     "02_已看论文/(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
