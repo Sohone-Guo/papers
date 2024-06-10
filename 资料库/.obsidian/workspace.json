@@ -11,8 +11,12 @@
             "id": "4beba4dc70cf6e31",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_已看论文/(2022) ⭐Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hiera",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) Exploiting Biased Models to De-bias Text, A Gender-Faire Rewriting Model.md",
+                "file": "02_已看论文/(2022) ⭐Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) Exploiting Biased Models to De-bias Text, A Gender-Faire Rewriting Model.md",
+                "file": "02_已看论文/(2022) ⭐Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) Exploiting Biased Models to De-bias Text, A Gender-Faire Rewriting Model.md"
+                "file": "02_已看论文/(2022) ⭐Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md"
               }
             }
           },
@@ -162,7 +167,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "88e44a922c0882da",
   "lastOpenFiles": [
     "02_已看论文/(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
     "99_attachment/2023.Exploiting Biased Models to De-bias Text A Gender-Fair Rewriting Model.pdf",
