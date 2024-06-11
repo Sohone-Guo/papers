@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b1db31689a825c35",
+        "id": "00235fd0c8e4e8ec",
         "type": "tabs",
         "children": [
           {
-            "id": "0964f4372644d8d8",
+            "id": "30d89454d9d866aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
+                "file": "(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
+                "file": "(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
+                "file": "(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md"
+                "file": "(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md"
               }
             }
           },
@@ -166,11 +166,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "30d89454d9d866aa",
   "lastOpenFiles": [
+    "99_attachment/Tspec_LLM.pdf",
+    "(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
+    "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
     "99_attachment/Pasted image 20240610162724.png",
     "02_已看论文/(2022) ⭐Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
-    "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
     "99_attachment/2304.04487v1.pdf",
     "(Tutorial).md",
     "02_已看论文/(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
@@ -209,10 +211,8 @@
     "02_已看论文/(2023) 基于CSI反馈的语义图像传输.md",
     "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "10_Tutorial/(Tutorial) The KL Divergence.md",
-    "99_attachment/Pasted image 20240327171252.png",
     "神经辐射场加速技术综述.md",
     "疑惑：Score-diffution.md",
-    "02_已看论文/(2022) ⭐Instruct GPT.md",
     "99_attachment/2011.04946.pdf",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
