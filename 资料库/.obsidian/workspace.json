@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
+                "file": "02_已看论文/(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
+                "file": "02_已看论文/(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
+                "file": "02_已看论文/(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md"
+                "file": "02_已看论文/(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md"
               }
             }
           },
@@ -166,10 +166,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30d89454d9d866aa",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
     "99_attachment/Tspec_LLM.pdf",
-    "(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
+    "02_已看论文/(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
     "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
     "99_attachment/Pasted image 20240610162724.png",
     "02_已看论文/(2022) ⭐Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
