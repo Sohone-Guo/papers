@@ -11,14 +11,11 @@
             "id": "30d89454d9d866aa",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/总纲.canvas",
-                "viewState": {
-                  "x": -240,
-                  "y": -330,
-                  "zoom": -0.7376708960824235
-                }
+                "file": "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/总纲.canvas",
+                "file": "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/总纲.canvas",
+                "file": "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/总纲.canvas"
+                "file": "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md"
               }
             }
           },
@@ -171,6 +168,7 @@
   },
   "active": "30d89454d9d866aa",
   "lastOpenFiles": [
+    "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
     "00_调研整理/001_合成数据技术/调研整理/Common decoding methods.md",
     "00_调研整理/001_合成数据技术/调研整理/Trainalbe decoding methods.md",
@@ -216,9 +214,7 @@
     "99_attachment/2302.07727.pdf",
     "01_待看论文/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
     "02_已看论文/(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
-    "02_已看论文/(2023) Advances and Challenges in Semantic Communications A Systematic Review.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
-    "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "未命名.canvas"
   ]
