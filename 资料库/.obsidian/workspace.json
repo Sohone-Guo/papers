@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30d89454d9d866aa",
+            "id": "d0f029f4db3b0aa5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
-                "mode": "preview",
+                "file": "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
+                "file": "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
+                "file": "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md"
+                "file": "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md"
               }
             }
           },
@@ -166,54 +166,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "30d89454d9d866aa",
+  "active": "d0f029f4db3b0aa5",
   "lastOpenFiles": [
-    "00_调研整理/001_合成数据技术/总纲.canvas",
+    "(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
+    "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
+    "02_已看论文/(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
+    "02_已看论文/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
+    "02_已看论文/(2023) A Survey of Large Language Model.md",
+    "99_attachment/Pasted image 20240614102118.png",
+    "02_已看论文/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
+    "99_attachment/2304.04487v1 1.pdf",
+    "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
+    "02_已看论文/(2023) Self-consistency improves chain-of-thought reasoning in language models.md",
+    "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
+    "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
+    "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
+    "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
+    "02_已看论文/(2023) Wireless Semantic Communications for Video Conferencing.md",
+    "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
+    "02_已看论文/(2024) KAN, Kolmogorov-Arnold Networks.md",
+    "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
+    "02_已看论文/(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
+    "02_已看论文/(2015) Variational Autoencoder based Anomaly Detection using Reconstruction Probability.md",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
+    "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/调研整理/Common decoding methods.md",
     "00_调研整理/001_合成数据技术/调研整理/Trainalbe decoding methods.md",
     "00_调研整理/001_合成数据技术/调研整理/VAEs.md",
-    "02_已看论文/(2024) KAN, Kolmogorov-Arnold Networks.md",
-    "02_已看论文/(2015) Variational Autoencoder based Anomaly Detection using Reconstruction Probability.md",
-    "02_已看论文/(2023) A Survey of Large Language Model.md",
-    "02_已看论文/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
     "02_已看论文/(2022) FETTrans, Analysis of COmpound Interference Identification Based on Bidirectional Dynamic Feature Adaptation of Improved Transformer.md",
     "02_已看论文/(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md",
-    "02_已看论文/(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
     "99_attachment/Tspec_LLM.pdf",
-    "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
     "99_attachment/Pasted image 20240610162724.png",
     "02_已看论文/(2022) ⭐Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
     "99_attachment/2304.04487v1.pdf",
-    "(Tutorial).md",
-    "02_已看论文/(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
     "99_attachment/2023.Exploiting Biased Models to De-bias Text A Gender-Fair Rewriting Model.pdf",
-    "02_已看论文/(2023) Exploiting Biased Models to De-bias Text, A Gender-Faire Rewriting Model.md",
     "99_attachment/Pasted image 20240522140302.png",
-    "90_工具手册/determined ai.md",
     "99_attachment/Pasted image 20240522130951.png",
     "99_attachment/2004.09034v1.pdf",
-    "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
     "99_attachment/Pasted image 20240513124540.png",
     "99_attachment/2023.Counterfactual Active Learning for Out-of-Distribution Generalization.pdf",
-    "02_已看论文/(2023) Knowledge Unlearning for Mitigating Privacy Risks in Language Models.md",
     "99_attachment/2023.Knowledge Unlearning for Mitigating Privacy Risks in Language Models.pdf",
     "99_attachment/Pasted image 20240508195438.png",
     "99_attachment/Pasted image 20240508195239.png",
     "99_attachment/2404.19756v1.pdf",
-    "02_已看论文/(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
-    "10_Tutorial/(Tutorial) Kolmogorov-Arnold.md",
     "99_attachment/Pasted image 20240508193302.png",
     "99_attachment/Pasted image 20240508193237.png",
     "99_attachment/Pasted image 20240508193219.png",
-    "99_attachment/Pasted image 20240507163029.png",
-    "10_Tutorial/(Tutorial) Neural Architecture Search.md",
     "99_attachment/2290_neural_fine_tuning_search_for_.pdf",
-    "90_工具手册/vscode.md",
     "99_attachment/FETTrans_Analysis_of_Compound_Interference_Identification_Based_on_Bidirectional_Dynamic_Feature_Adaptation_of_Improved_Transformer.pdf",
-    "99_attachment/2302.07727.pdf",
-    "01_待看论文/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
-    "02_已看论文/(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "未命名.canvas"
