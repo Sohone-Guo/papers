@@ -16,7 +16,7 @@ Reward是事前人工标注训练数据获取的结果。
 
 真实代码：
 ![[Pasted image 20240616223332.png]]
-
+![[Pasted image 20240616224726.png]]
 # Question
 ---
 
