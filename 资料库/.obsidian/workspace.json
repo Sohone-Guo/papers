@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2023) Image Reward, Learning and Evaluating Human Preferences for Text-to-Image Generation.md",
+                "file": "90_工具手册/vscode.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) Image Reward, Learning and Evaluating Human Preferences for Text-to-Image Generation.md",
+                "file": "90_工具手册/vscode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) Image Reward, Learning and Evaluating Human Preferences for Text-to-Image Generation.md",
+                "file": "90_工具手册/vscode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) Image Reward, Learning and Evaluating Human Preferences for Text-to-Image Generation.md"
+                "file": "90_工具手册/vscode.md"
               }
             }
           },
@@ -168,12 +168,12 @@
   },
   "active": "0814f737bb995d64",
   "lastOpenFiles": [
+    "02_已看论文/(2023) Image Reward, Learning and Evaluating Human Preferences for Text-to-Image Generation.md",
     "99_attachment/Pasted image 20240616224726.png",
     "99_attachment/Pasted image 20240616223332.png",
     "99_attachment/Pasted image 20240616223204.png",
     "99_attachment/2304.05977v4.pdf",
     "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
-    "02_已看论文/(2023) Image Reward, Learning and Evaluating Human Preferences for Text-to-Image Generation.md",
     "(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
     "02_已看论文/(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
     "02_已看论文/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
@@ -213,7 +213,6 @@
     "99_attachment/Pasted image 20240508195438.png",
     "99_attachment/Pasted image 20240508195239.png",
     "99_attachment/2404.19756v1.pdf",
-    "99_attachment/Pasted image 20240508193302.png",
     "99_attachment/2290_neural_fine_tuning_search_for_.pdf",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
