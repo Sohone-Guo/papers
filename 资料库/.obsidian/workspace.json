@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae4978e81ea5217f",
+        "id": "50ae0c5973947207",
         "type": "tabs",
         "children": [
           {
-            "id": "e4b701e6e142ee02",
+            "id": "54de8185b545d43a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/vscode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_工具手册/vscode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "90_工具手册/vscode.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,7 +158,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "54de8185b545d43a",
   "lastOpenFiles": [
     "90_工具手册/Docx操作.md",
     "90_工具手册/vscode.md",
