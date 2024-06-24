@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54de8185b545d43a",
+            "id": "757502982c0c46ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_工具手册/Docx操作.md",
-                "mode": "preview",
+                "file": "(2024) A Minimaximalist Approach to Reinforcement Learning from Human Feedback.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/Docx操作.md",
+                "file": "(2024) A Minimaximalist Approach to Reinforcement Learning from Human Feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_工具手册/Docx操作.md",
+                "file": "(2024) A Minimaximalist Approach to Reinforcement Learning from Human Feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_工具手册/Docx操作.md"
+                "file": "(2024) A Minimaximalist Approach to Reinforcement Learning from Human Feedback.md"
               }
             }
           },
@@ -166,9 +166,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54de8185b545d43a",
+  "active": "757502982c0c46ec",
   "lastOpenFiles": [
+    "99_attachment/2401.04056.pdf",
     "90_工具手册/Docx操作.md",
+    "(2024) A Minimaximalist Approach to Reinforcement Learning from Human Feedback.md",
     "90_工具手册/vscode.md",
     "02_已看论文/(2023) Image Reward, Learning and Evaluating Human Preferences for Text-to-Image Generation.md",
     "99_attachment/Pasted image 20240616224726.png",
@@ -199,8 +201,6 @@
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/调研整理/Common decoding methods.md",
     "00_调研整理/001_合成数据技术/调研整理/Trainalbe decoding methods.md",
-    "00_调研整理/001_合成数据技术/调研整理/VAEs.md",
-    "02_已看论文/(2022) FETTrans, Analysis of COmpound Interference Identification Based on Bidirectional Dynamic Feature Adaptation of Improved Transformer.md",
     "99_attachment/Tspec_LLM.pdf",
     "99_attachment/Pasted image 20240610162724.png",
     "99_attachment/2304.04487v1.pdf",
