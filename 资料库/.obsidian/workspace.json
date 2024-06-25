@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e100233878305706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Tutorial/(Tutorial) PPO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,8 +179,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "757502982c0c46ec",
+  "active": "e100233878305706",
   "lastOpenFiles": [
+    "10_Tutorial/(Tutorial) 强化学习+PPO样例.md",
+    "10_Tutorial/(Tutorial) PPO.md",
     "(2024) A Minimaximalist Approach to Reinforcement Learning from Human Feedback.md",
     "99_attachment/2401.04056.pdf",
     "90_工具手册/Docx操作.md",
@@ -200,7 +215,6 @@
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/调研整理/Common decoding methods.md",
-    "00_调研整理/001_合成数据技术/调研整理/Trainalbe decoding methods.md",
     "99_attachment/Tspec_LLM.pdf",
     "99_attachment/Pasted image 20240610162724.png",
     "99_attachment/2304.04487v1.pdf",
