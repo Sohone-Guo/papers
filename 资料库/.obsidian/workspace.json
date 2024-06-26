@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "50ae0c5973947207",
+        "id": "0a0d6ba4f7b42f20",
         "type": "tabs",
         "children": [
           {
-            "id": "757502982c0c46ec",
+            "id": "2d781eb5f7d049c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10_Tutorial/(Tutorial) PPO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e100233878305706",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Tutorial/(Tutorial) PPO.md",
+                "file": "(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10_Tutorial/(Tutorial) PPO.md",
+                "file": "(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10_Tutorial/(Tutorial) PPO.md",
+                "file": "(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10_Tutorial/(Tutorial) PPO.md"
+                "file": "(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md"
               }
             }
           },
@@ -179,10 +166,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e100233878305706",
+  "active": "2d781eb5f7d049c4",
   "lastOpenFiles": [
-    "10_Tutorial/(Tutorial) 强化学习+PPO样例.md",
+    "99_attachment/2308.06250v2.pdf",
+    "(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md",
     "10_Tutorial/(Tutorial) PPO.md",
+    "10_Tutorial/(Tutorial) 强化学习+PPO样例.md",
     "(2024) A Minimaximalist Approach to Reinforcement Learning from Human Feedback.md",
     "99_attachment/2401.04056.pdf",
     "90_工具手册/Docx操作.md",
@@ -212,9 +201,7 @@
     "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
     "02_已看论文/(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
     "02_已看论文/(2015) Variational Autoencoder based Anomaly Detection using Reconstruction Probability.md",
-    "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
     "00_调研整理/001_合成数据技术/总纲.canvas",
-    "00_调研整理/001_合成数据技术/调研整理/Common decoding methods.md",
     "99_attachment/Tspec_LLM.pdf",
     "99_attachment/Pasted image 20240610162724.png",
     "99_attachment/2304.04487v1.pdf",
