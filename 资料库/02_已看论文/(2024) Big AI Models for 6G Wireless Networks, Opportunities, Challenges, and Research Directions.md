@@ -6,10 +6,13 @@ Tags: #Tag_通信相关
 # Mainly Idea
 ---
 Demand
+![[Pasted image 20240627100816.png]]
 
-Design 
+Opportunities 
+![[Pasted image 20240627100828.png]]
 
-Deployment
+Challenges
+![[Pasted image 20240627100847.png]]
 
 # Question
 ---

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0a0d6ba4f7b42f20",
+        "id": "64ea61e2e4908f48",
         "type": "tabs",
         "children": [
           {
-            "id": "2d781eb5f7d049c4",
+            "id": "5a19906724769a12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,13 +158,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d781eb5f7d049c4",
+  "active": "5a19906724769a12",
   "lastOpenFiles": [
+    "02_已看论文/(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md",
+    "(2024) A Minimaximalist Approach to Reinforcement Learning from Human Feedback.md",
+    "99_attachment/Pasted image 20240627100847.png",
+    "99_attachment/Pasted image 20240627100828.png",
+    "99_attachment/Pasted image 20240627100816.png",
     "99_attachment/2308.06250v2.pdf",
-    "(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md",
     "10_Tutorial/(Tutorial) PPO.md",
     "10_Tutorial/(Tutorial) 强化学习+PPO样例.md",
-    "(2024) A Minimaximalist Approach to Reinforcement Learning from Human Feedback.md",
     "99_attachment/2401.04056.pdf",
     "90_工具手册/Docx操作.md",
     "90_工具手册/vscode.md",
@@ -209,12 +204,8 @@
     "99_attachment/Pasted image 20240522140302.png",
     "99_attachment/Pasted image 20240522130951.png",
     "99_attachment/2004.09034v1.pdf",
-    "99_attachment/Pasted image 20240513124540.png",
     "99_attachment/2023.Counterfactual Active Learning for Out-of-Distribution Generalization.pdf",
     "99_attachment/2023.Knowledge Unlearning for Mitigating Privacy Risks in Language Models.pdf",
-    "99_attachment/Pasted image 20240508195438.png",
-    "99_attachment/Pasted image 20240508195239.png",
-    "99_attachment/2404.19756v1.pdf",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "未命名.canvas"
