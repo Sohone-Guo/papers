@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
+                "file": "02_已看论文/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 569.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
+                "file": "02_已看论文/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
+                "file": "02_已看论文/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md"
+                "file": "02_已看论文/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md"
               }
             }
           },
@@ -168,6 +168,10 @@
   },
   "active": "5a19906724769a12",
   "lastOpenFiles": [
+    "02_已看论文/(2023) IMDIFFUSION, Imputed Diffusion Models for Multivariate Time Series Anomaly Detection.md",
+    "02_已看论文/(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md",
+    "02_已看论文/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
+    "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
     "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
     "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
     "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
@@ -200,11 +204,7 @@
     "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
     "(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
     "99_attachment/Pasted image 20240614102118.png",
-    "02_已看论文/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
     "99_attachment/2304.04487v1 1.pdf",
-    "02_已看论文/(2023) Scaling Transformer to 1M tokens and beyond with RMT.md",
-    "02_已看论文/(2023) Self-consistency improves chain-of-thought reasoning in language models.md",
-    "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "99_attachment/Tspec_LLM.pdf",
     "99_attachment/Pasted image 20240610162724.png",
