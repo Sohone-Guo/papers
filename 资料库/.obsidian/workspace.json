@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "448ffef38b54dbd7",
+        "id": "937921d9761de7d2",
         "type": "tabs",
         "children": [
           {
-            "id": "e5e7b6e43db4e298",
+            "id": "17b93d7739c3b0a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2023) Towards Semantic Communication Protocols for 6G From Protocol Learning to Language-Oriented Approaches.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bc8b9e091e1fd92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2021) The emergence of wireless mac protocols with multi-agent reinforcement learning.md",
+                "file": "00_调研整理/200_智检网络/调研整理/CMCC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2021) The emergence of wireless mac protocols with multi-agent reinforcement learning.md",
+                "file": "00_调研整理/200_智检网络/调研整理/CMCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2021) The emergence of wireless mac protocols with multi-agent reinforcement learning.md",
+                "file": "00_调研整理/200_智检网络/调研整理/CMCC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2021) The emergence of wireless mac protocols with multi-agent reinforcement learning.md"
+                "file": "00_调研整理/200_智检网络/调研整理/CMCC.md"
               }
             }
           },
@@ -181,8 +168,12 @@
   },
   "active": "eab7913bcd019e86",
   "lastOpenFiles": [
-    "99_attachment/2021.MADRL.pdf",
     "02_已看论文/(2023) Towards Semantic Communication Protocols for 6G From Protocol Learning to Language-Oriented Approaches.md",
+    "00_调研整理/200_智检网络/调研整理/CMCC.md",
+    "00_调研整理/200_智检网络/调研整理",
+    "00_调研整理/200_智检网络/中国移动",
+    "00_调研整理/200_智检网络",
+    "99_attachment/2021.MADRL.pdf",
     "02_已看论文/(2021) The emergence of wireless mac protocols with multi-agent reinforcement learning.md",
     "99_attachment/2310.09506v1.pdf",
     "02_已看论文/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
@@ -222,12 +213,8 @@
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "99_attachment/Tspec_LLM.pdf",
     "99_attachment/Pasted image 20240610162724.png",
-    "99_attachment/2304.04487v1.pdf",
-    "99_attachment/2023.Exploiting Biased Models to De-bias Text A Gender-Fair Rewriting Model.pdf",
     "99_attachment/Pasted image 20240522140302.png",
     "99_attachment/Pasted image 20240522130951.png",
-    "99_attachment/2004.09034v1.pdf",
-    "99_attachment/2023.Counterfactual Active Learning for Out-of-Distribution Generalization.pdf",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "未命名.canvas"
