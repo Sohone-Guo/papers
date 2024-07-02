@@ -9,7 +9,8 @@ Tags: #Tag_语义通信
 
 # Question
 ---
--  Non-stationary tasks?
+-  Non-stationary tasks? 就是非固定任务
+- data-driven MAC protocols？
 
 # Reference
 ---
