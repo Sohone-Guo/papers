@@ -14,6 +14,7 @@
 - 浅析基站隐性故障检测与处理方法（[浅析基站隐性故障检测与处理方法 (wanfangdata.com.cn)](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2Eg15ZHR4MjAxNDA4MDE5Ggh0NHh3OWt1dA%3D%3D)）
 - 基于划分DBSCAN算法的小区载频配置优化（[基于划分DBSCAN算法的小区载频配置优化 (wanfangdata.com.cn)](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2EhFqc2pnY3l5eTIwMTQwODAxORoIdDR4dzlrdXQ%3D)）
 - 移动伪基站定位和轨迹追踪技术研究（[移动伪基站定位和轨迹追踪技术研究 (wanfangdata.com.cn)](https://d.wanfangdata.com.cn/conference/ChZDb25mZXJlbmNlTmV3UzIwMjQwMTA5Egc5Mjg0MzI2Ggh0NHh3OWt1dA%3D%3D)）
+- TD-LTE系统异运营商交叉时隙干扰自动识别方案（[TD-LTE系统异运营商交叉时隙干扰自动识别方案 - 中国知网 (cnki.net)](https://kns.cnki.net/kcms2/article/abstract?v=XEQRgWHfXDFuP7gia_BHpwGvi8Wwh33UWighHUvFbnSmzBjmq9opORWV_Sy-wuVk8nExTHIboHYY9kWSnc8sOdwRF__Dp6W7HRIdbXVSHLqkWkfvONr9yxCcEYkpedQS8fZYplfnGbStrAN9yZ4yFw==&uniplatform=NZKPT&language=CHS)）
 # 2015
 ---
 
@@ -25,6 +26,8 @@
 - 基于历史与当前短时特征的异常流量检测（[基于历史与当前短时特征的异常流量检测 (wanfangdata.com.cn)](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2Eg5qc2pnYzIwMTcxMjAxNBoIazRzYTQzenY%3D)）
 - 基于MR数据的TD-LTE天馈检测方法研究（[基于MR数据的TD-LTE天馈检测方法研究 (wanfangdata.com.cn)](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2Eg1keGpzMjAxNzAyMDAxGghrNHNhNDN6dg%3D%3D)）
 - 基于ARMA及小波奇异性检测的基站电费预警模型（[基于ARMA及小波奇异性检测的基站电费预警模型 (wanfangdata.com.cn)](https://d.wanfangdata.com.cn/conference/ChZDb25mZXJlbmNlTmV3UzIwMjQwMTA5Egc5OTY5MDEyGghrNHNhNDN6dg%3D%3D)）
+- 关于无线网络智能化的思考（[关于无线网络智能化的思考 - 中国知网 (cnki.net)](https://kns.cnki.net/kcms2/article/abstract?v=XEQRgWHfXDHpvcEU30BgMe7auiSw14XwmMRmzedEZdL2XpooVmwcnEqKecsEmXuz0Q_QDxOzBe4BIiseyqIfLa7OqvH5m76EWMO5Rl105G8Um6IkC1SbzsIhhFnTXxpScKvcKn4G_sCYOsSjy9Q48w==&uniplatform=NZKPT&language=CHS)）
+- 伪基站现状及防控策略（[伪基站现状及防控策略 - 中国知网 (cnki.net)](https://kns.cnki.net/kcms2/article/abstract?v=XEQRgWHfXDF6DUegOk9j4jTLqs08VbVgE75ZpePk98nhCll1Wajucri-0adJBkxrm0yl2p3qPetkqAzmBySB9Y9oNPqhxFP1BV3nxReIJop97P83XeLaB3a2JbyZXe4ICfXPi51m0X9a5JUK2wcRcg==&uniplatform=NZKPT&language=CHS)）
 # 2018
 ---
 - 一种基于4G异常回落的投诉预测方法（[一种基于4G异常回落的投诉预测方法 (wanfangdata.com.cn)](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2Eg96Z3NqdHgyMDE4MTEwMDEaCGs0c2E0M3p2)）
@@ -47,6 +50,8 @@
 - 数据中心服务器技术发展趋势与应用（[数据中心服务器技术发展趋势与应用 (wanfangdata.com.cn)](https://d.wanfangdata.com.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMxMjI2EhB0b25neHNqMjAyMTEwMDI2Ggh4YWMxbWNleA%3D%3D)）
 - 基于时间序列的5G云化网络异常检测（[基于时间序列的5G云化网络异常检测 (wanfangdata.com.cn)](https://d.wanfangdata.com.cn/conference/ChZDb25mZXJlbmNlTmV3UzIwMjQwMTA5EggxMDQyMjQxOBoIeGFjMW1jZXg%3D)）
 - 5G核心网网络日志分析与故障定界研究（[5G核心网网络日志分析与故障定界研究 (wanfangdata.com.cn)](https://d.wanfangdata.com.cn/conference/ChZDb25mZXJlbmNlTmV3UzIwMjQwMTA5EggxMDQyMjQwMxoIeGFjMW1jZXg%3D)）
+- 5G网络干扰小区自动聚类算法研发（[5G网络干扰小区自动聚类算法研发 - 中国知网 (cnki.net)](https://kns.cnki.net/kcms2/article/abstract?v=XEQRgWHfXDH9NKmxfyz4AzYLwYuQg7HINHGYB1SuP0OVtFFnZrKG4YK1iLMfEYtxJXYNKE1ThjKwARY5Kspur1u7-YIY-6gpuNsK_r69u89eXmwgBq4P8O5zIpsNTVU5hZkbztE5E99Q4uwk-DA3hg==&uniplatform=NZKPT&language=CHS)）
+- 面向5G干扰数据的半监督聚类研究（[面向5G干扰数据的半监督聚类研究 - 中国知网 (cnki.net)](https://kns.cnki.net/kcms2/article/abstract?v=XEQRgWHfXDGXPA2wWx2fsKevUqGmpRfRKTf8LG8Y2II5H0Dny210W9ohg5lHhtIIHc3LgKyDy5aMAqoAeU2zPMOQ-Xv8mSS_6r-nCv2dinymi8dKs53Aog1SSXrilEoI1anEWE1H7ZYdY374ekZuug==&uniplatform=NZKPT&language=CHS)）
 -
 # 2022
 ---
