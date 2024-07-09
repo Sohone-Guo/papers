@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_调研整理/200_智慧网络/调研整理/CMCC.md",
+                "file": "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hiera",
+                "query": "MoE",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 718.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_调研整理/200_智慧网络/调研整理/CMCC.md",
+                "file": "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_调研整理/200_智慧网络/调研整理/CMCC.md",
+                "file": "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_调研整理/200_智慧网络/调研整理/CMCC.md"
+                "file": "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md"
               }
             }
           },
@@ -166,10 +167,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "17b93d7739c3b0a8",
   "lastOpenFiles": [
-    "02_已看论文/(2023) Towards Semantic Communication Protocols for 6G From Protocol Learning to Language-Oriented Approaches.md",
+    "02_已看论文/(2022) Mixture-of-Experts with Expert Choice Routing.md",
+    "02_已看论文/(2022) ⭐Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
+    "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
+    "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
     "00_调研整理/200_智慧网络/调研整理/CMCC.md",
+    "02_已看论文/(2023) Towards Semantic Communication Protocols for 6G From Protocol Learning to Language-Oriented Approaches.md",
     "00_调研整理/200_智慧网络/调研整理",
     "00_调研整理/200_智检网络/中国移动",
     "00_调研整理/200_智慧网络",
@@ -195,15 +200,11 @@
     "02_已看论文/(2023) A Survey of Large Language Model.md",
     "02_已看论文/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
     "02_已看论文/(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
-    "(2024) A Minimaximalist Approach to Reinforcement Learning from Human Feedback.md",
     "99_attachment/Pasted image 20240627100847.png",
     "99_attachment/Pasted image 20240627100828.png",
     "99_attachment/Pasted image 20240627100816.png",
     "99_attachment/2308.06250v2.pdf",
-    "10_Tutorial/(Tutorial) PPO.md",
-    "10_Tutorial/(Tutorial) 强化学习+PPO样例.md",
     "99_attachment/2401.04056.pdf",
-    "90_工具手册/Docx操作.md",
     "99_attachment/Pasted image 20240616224726.png",
     "99_attachment/Pasted image 20240616223332.png",
     "99_attachment/Pasted image 20240616223204.png",
