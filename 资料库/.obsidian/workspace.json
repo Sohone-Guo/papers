@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "937921d9761de7d2",
+        "id": "abb53d3e24af104b",
         "type": "tabs",
         "children": [
           {
-            "id": "17b93d7739c3b0a8",
+            "id": "6f727df09397d95d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
-                "mode": "source",
+                "file": "疑惑：Score-diffution.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MoE",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +73,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 339.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
+                "file": "疑惑：Score-diffution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
+                "file": "疑惑：Score-diffution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md"
+                "file": "疑惑：Score-diffution.md"
               }
             }
           },
@@ -167,10 +166,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17b93d7739c3b0a8",
+  "active": "6f727df09397d95d",
   "lastOpenFiles": [
-    "90_工具手册/GPU.md",
+    "State-Space Models.md",
+    "Mixture of A Million Experts.md",
+    "99_attachment/Mixture of A Million Experts.pdf",
+    "99_attachment/2024.eacl-long.69v2.pdf",
+    "疑惑：Score-diffution.md",
+    "神经辐射场加速技术综述.md",
+    "02_已看论文/(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md",
     "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
+    "90_工具手册/GPU.md",
     "02_已看论文/(2022) Mixture-of-Experts with Expert Choice Routing.md",
     "02_已看论文/(2022) ⭐Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
     "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
@@ -194,12 +200,6 @@
     "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
     "02_已看论文/(2023) Wireless Semantic Communications for Video Conferencing.md",
     "02_已看论文/(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
-    "02_已看论文/(2024) Neural Fine-Tuning Search For Few-shot Learning.md",
-    "02_已看论文/(2024) Lumiere, A Space-Time Diffusion Model for Video Generation.md",
-    "02_已看论文/(2024) KAN, Kolmogorov-Arnold Networks.md",
-    "02_已看论文/(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md",
-    "02_已看论文/(2023) A Survey of Large Language Model.md",
-    "02_已看论文/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
     "99_attachment/Pasted image 20240627100847.png",
     "99_attachment/Pasted image 20240627100828.png",
     "99_attachment/Pasted image 20240627100816.png",
@@ -210,9 +210,7 @@
     "99_attachment/Pasted image 20240616223204.png",
     "99_attachment/2304.05977v4.pdf",
     "99_attachment/Pasted image 20240614102118.png",
-    "99_attachment/2304.04487v1 1.pdf",
     "00_调研整理/001_合成数据技术/总纲.canvas",
-    "99_attachment/Tspec_LLM.pdf",
     "99_attachment/Pasted image 20240610162724.png",
     "99_attachment/Pasted image 20240522140302.png",
     "99_attachment/Pasted image 20240522130951.png",
