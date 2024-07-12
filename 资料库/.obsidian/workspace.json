@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_工具手册/GPU.md",
+                "file": "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/GPU.md",
+                "file": "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_工具手册/GPU.md",
+                "file": "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_工具手册/GPU.md"
+                "file": "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md"
               }
             }
           },
@@ -168,6 +169,7 @@
   },
   "active": "17b93d7739c3b0a8",
   "lastOpenFiles": [
+    "90_工具手册/GPU.md",
     "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
     "02_已看论文/(2022) Mixture-of-Experts with Expert Choice Routing.md",
     "02_已看论文/(2022) ⭐Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
@@ -198,7 +200,6 @@
     "02_已看论文/(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md",
     "02_已看论文/(2023) A Survey of Large Language Model.md",
     "02_已看论文/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
-    "02_已看论文/(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
     "99_attachment/Pasted image 20240627100847.png",
     "99_attachment/Pasted image 20240627100828.png",
     "99_attachment/Pasted image 20240627100816.png",
