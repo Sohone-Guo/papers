@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,7 +167,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f727df09397d95d",
+  "active": "88e44a922c0882da",
   "lastOpenFiles": [
     "State-Space Models.md",
     "疑惑：Score-diffution.md",
