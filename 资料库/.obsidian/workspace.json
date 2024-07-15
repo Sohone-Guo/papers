@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a33330da16a4202a",
+        "id": "6c0df8932e238524",
         "type": "tabs",
         "children": [
           {
-            "id": "55ac0422492724a1",
+            "id": "9ecbb1922744ae25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2024)Mixtral of Experts.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "MoE",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2024)Mixtral of Experts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2024)Mixtral of Experts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "(2024)Mixtral of Experts.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,11 +158,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55ac0422492724a1",
+  "active": "9ecbb1922744ae25",
   "lastOpenFiles": [
-    "Mixture of A Million Experts.md",
+    "02_已看论文/(2024) Mixture of A Million Experts.md",
+    "99_attachment/Mixture of A Million Experts 2.pdf",
+    "99_attachment/Pasted image 20240715223940.png",
+    "99_attachment/Pasted image 20240715223938.png",
+    "02_已看论文/(2024)Mixtral of Experts.md",
+    "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
     "02_已看论文/(2021) LoRA, Low-Rank Adaptation of Large Language Models.md",
-    "(2024)Mixtral of Experts.md",
     "99_attachment/lora.pdf",
     "99_attachment/Pasted image 20240715215253.png",
     "99_attachment/2401.04088v1.pdf",
@@ -181,7 +177,6 @@
     "99_attachment/2024.eacl-long.69v2.pdf",
     "神经辐射场加速技术综述.md",
     "02_已看论文/(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md",
-    "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
     "90_工具手册/GPU.md",
     "02_已看论文/(2022) Mixture-of-Experts with Expert Choice Routing.md",
     "02_已看论文/(2022) ⭐Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
@@ -193,7 +188,6 @@
     "00_调研整理/200_智慧网络",
     "99_attachment/2021.MADRL.pdf",
     "02_已看论文/(2021) The emergence of wireless mac protocols with multi-agent reinforcement learning.md",
-    "99_attachment/2310.09506v1.pdf",
     "02_已看论文/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
     "02_已看论文/(2023) IMDIFFUSION, Imputed Diffusion Models for Multivariate Time Series Anomaly Detection.md",
     "02_已看论文/(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md",
@@ -203,7 +197,6 @@
     "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
     "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
     "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
-    "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
     "99_attachment/Pasted image 20240627100847.png",
     "99_attachment/Pasted image 20240627100828.png",
     "99_attachment/Pasted image 20240627100816.png",
@@ -212,8 +205,6 @@
     "99_attachment/Pasted image 20240616223204.png",
     "99_attachment/Pasted image 20240614102118.png",
     "00_调研整理/001_合成数据技术/总纲.canvas",
-    "99_attachment/Pasted image 20240610162724.png",
-    "99_attachment/Pasted image 20240522140302.png",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "未命名.canvas"

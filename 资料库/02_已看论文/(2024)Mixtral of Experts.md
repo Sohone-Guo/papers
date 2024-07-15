@@ -70,6 +70,8 @@ class TransformerBlock(nn.Module):
 # Reference
 ---
 - [[(2021) LoRA, Low-Rank Adaptation of Large Language Models]]
+- [[(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer]]
+	- 更全，譬如如何解决模型塌陷等问题。
 
 # Attachment
 ---
