@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mixture of A Million Experts.md",
+                "file": "(2024)Mixtral of Experts.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ef64ad14726cd5e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2024)Mixtral of Experts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,12 +166,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef64ad14726cd5e5",
+  "active": "55ac0422492724a1",
   "lastOpenFiles": [
+    "Mixture of A Million Experts.md",
+    "02_已看论文/(2021) LoRA, Low-Rank Adaptation of Large Language Models.md",
+    "(2024)Mixtral of Experts.md",
+    "99_attachment/lora.pdf",
+    "99_attachment/Pasted image 20240715215253.png",
     "99_attachment/2401.04088v1.pdf",
     "99_attachment/Mixture of A Million Experts 1.pdf",
-    "Mixture of A Million Experts.md",
-    "(2024)Mixtral of Experts.md",
     "State-Space Models.md",
     "疑惑：Score-diffution.md",
     "99_attachment/Mixture of A Million Experts.pdf",
@@ -214,12 +204,9 @@
     "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
     "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "02_已看论文/(2023) What the DAAM, Interpreting Stable Diffusion Using Cross Attention.md",
-    "02_已看论文/(2023) Wireless Semantic Communications for Video Conferencing.md",
     "99_attachment/Pasted image 20240627100847.png",
     "99_attachment/Pasted image 20240627100828.png",
     "99_attachment/Pasted image 20240627100816.png",
-    "99_attachment/2308.06250v2.pdf",
-    "99_attachment/2401.04056.pdf",
     "99_attachment/Pasted image 20240616224726.png",
     "99_attachment/Pasted image 20240616223332.png",
     "99_attachment/Pasted image 20240616223204.png",
@@ -227,7 +214,6 @@
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "99_attachment/Pasted image 20240610162724.png",
     "99_attachment/Pasted image 20240522140302.png",
-    "99_attachment/Pasted image 20240522130951.png",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "未命名.canvas"

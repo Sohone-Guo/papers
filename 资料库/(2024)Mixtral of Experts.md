@@ -69,7 +69,7 @@ class TransformerBlock(nn.Module):
 
 # Reference
 ---
-
+- [[(2021) LoRA, Low-Rank Adaptation of Large Language Models]]
 
 # Attachment
 ---
