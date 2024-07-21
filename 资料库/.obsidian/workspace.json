@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b77380754af053d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_已看论文/(2024) Scalable MatMul-free Language Modeling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神经辐射场加速技术综述.md",
+                "file": "02_已看论文/(2024) Scalable MatMul-free Language Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "神经辐射场加速技术综述.md",
+                "file": "02_已看论文/(2024) Scalable MatMul-free Language Modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "神经辐射场加速技术综述.md"
+                "file": "02_已看论文/(2024) Scalable MatMul-free Language Modeling.md"
               }
             }
           },
@@ -166,8 +179,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9ecbb1922744ae25",
+  "active": "6b77380754af053d",
   "lastOpenFiles": [
+    "99_attachment/Scalable MatMul-free Language Modeling.pdf",
+    "神经辐射场加速技术综述.md",
+    "02_已看论文/(2024) Scalable MatMul-free Language Modeling.md",
     "疑惑：Score-diffution.md",
     "State-Space Models.md",
     "02_已看论文/(2024) Mixture of A Million Experts.md",
@@ -183,7 +199,6 @@
     "99_attachment/Mixture of A Million Experts 1.pdf",
     "99_attachment/Mixture of A Million Experts.pdf",
     "99_attachment/2024.eacl-long.69v2.pdf",
-    "神经辐射场加速技术综述.md",
     "02_已看论文/(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md",
     "90_工具手册/GPU.md",
     "02_已看论文/(2022) Mixture-of-Experts with Expert Choice Routing.md",
