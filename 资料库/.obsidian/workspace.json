@@ -11,8 +11,12 @@
             "id": "9ecbb1922744ae25",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "神经辐射场加速技术综述.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "神经辐射场加速技术综述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "神经辐射场加速技术综述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "神经辐射场加速技术综述.md"
+              }
             }
           },
           {
@@ -160,6 +168,8 @@
   },
   "active": "9ecbb1922744ae25",
   "lastOpenFiles": [
+    "疑惑：Score-diffution.md",
+    "State-Space Models.md",
     "02_已看论文/(2024) Mixture of A Million Experts.md",
     "99_attachment/Mixture of A Million Experts 2.pdf",
     "99_attachment/Pasted image 20240715223940.png",
@@ -171,8 +181,6 @@
     "99_attachment/Pasted image 20240715215253.png",
     "99_attachment/2401.04088v1.pdf",
     "99_attachment/Mixture of A Million Experts 1.pdf",
-    "State-Space Models.md",
-    "疑惑：Score-diffution.md",
     "99_attachment/Mixture of A Million Experts.pdf",
     "99_attachment/2024.eacl-long.69v2.pdf",
     "神经辐射场加速技术综述.md",
