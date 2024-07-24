@@ -4,57 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6c0df8932e238524",
+        "id": "d5267c38ee335480",
         "type": "tabs",
         "children": [
           {
-            "id": "9ecbb1922744ae25",
+            "id": "66e3c62c4a62696e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "神经辐射场加速技术综述.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b77380754af053d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2024) Scalable MatMul-free Language Modeling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be73c8af7b315450",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "b981e541bbc38636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2022) A new paradigm of semantic communication network, Semantic Base.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2022) A new paradigm of semantic communication network, Semantic Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2022) A new paradigm of semantic communication network, Semantic Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "(2022) A new paradigm of semantic communication network, Semantic Base.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,11 +158,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b981e541bbc38636",
+  "active": "66e3c62c4a62696e",
   "lastOpenFiles": [
+    "02_已看论文/(2023) Semantic Communications with Explicit Semantic Base for Image Transmission.md",
+    "02_已看论文/(2022) A new paradigm of semantic communication network, Semantic Base.md",
+    "99_attachment/Pasted image 20240724165657.png",
+    "99_attachment/Seb.pdf",
     "99_attachment/Pasted image 20240724145921.png",
     "99_attachment/A new paradigm of semantic communication network.pdf",
-    "(2022) A new paradigm of semantic communication network, Semantic Base.md",
     "99_attachment/Scalable MatMul-free Language Modeling.pdf",
     "神经辐射场加速技术综述.md",
     "02_已看论文/(2024) Scalable MatMul-free Language Modeling.md",
@@ -232,7 +192,6 @@
     "00_调研整理/200_智慧网络/调研整理/CMCC.md",
     "02_已看论文/(2023) Towards Semantic Communication Protocols for 6G From Protocol Learning to Language-Oriented Approaches.md",
     "00_调研整理/200_智慧网络/调研整理",
-    "00_调研整理/200_智检网络/中国移动",
     "02_已看论文/(2021) The emergence of wireless mac protocols with multi-agent reinforcement learning.md",
     "02_已看论文/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
     "02_已看论文/(2023) IMDIFFUSION, Imputed Diffusion Models for Multivariate Time Series Anomaly Detection.md",
@@ -241,14 +200,11 @@
     "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
     "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
     "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
-    "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
     "99_attachment/Pasted image 20240627100847.png",
     "99_attachment/Pasted image 20240627100828.png",
     "99_attachment/Pasted image 20240627100816.png",
     "99_attachment/Pasted image 20240616224726.png",
     "99_attachment/Pasted image 20240616223332.png",
-    "99_attachment/Pasted image 20240616223204.png",
-    "99_attachment/Pasted image 20240614102118.png",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
