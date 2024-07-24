@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a97a4d151096d239",
+        "id": "38a54eb6008467eb",
         "type": "tabs",
         "children": [
           {
-            "id": "7da69d6deb52ac76",
+            "id": "81c08a716784aa42",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "语义基",
+                "query": "#Tag_语义",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) Semantic Communications with Explicit Semantic Base for Image Transmission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) Semantic Communications with Explicit Semantic Base for Image Transmission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_已看论文/(2023) Semantic Communications with Explicit Semantic Base for Image Transmission.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +160,21 @@
   },
   "active": "eab7913bcd019e86",
   "lastOpenFiles": [
-    "02_已看论文/(2022) A new paradigm of semantic communication network, Semantic Base.md",
+    "02_已看论文/(2023) ⭐Advances and Challenges in Semantic Communications A Systematic Review.md",
+    "02_已看论文/(2023) Deep Joint Source-Channel Coding for CSI Feedback An End-to-End Approach.md",
+    "02_已看论文/(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
+    "01_待看论文/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
     "02_已看论文/(2023) Semantic Communications with Explicit Semantic Base for Image Transmission.md",
+    "02_已看论文/(2023) Towards Semantic Communication Protocols for 6G From Protocol Learning to Language-Oriented Approaches.md",
+    "02_已看论文/(2023) Wireless Semantic Communications for Video Conferencing.md",
+    "02_已看论文/(2023) ⭐Wireless Semantic Transmission via Revising Modules in Conventional Communications.md",
+    "99_attachment/Wireless_Semantic_Transmission_via_Revising_Modules_in_Conventional_Communications.pdf",
+    "02_已看论文/(2022) A new paradigm of semantic communication network, Semantic Base.md",
+    "02_已看论文/(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md",
+    "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
+    "01_待看论文/(2022) Less Data, More Knowledge, Building Next Generation Semantic Communication Networks.md",
+    "02_已看论文/(2022) Signal Shaping for Semantic Communication Systems with A Few Message Candidates.md",
+    "02_已看论文/(2023) Adaptive CSI Feedback for Deep Learning-Enabled Image Transmission.md",
     "99_attachment/Pasted image 20240724165657.png",
     "99_attachment/Seb.pdf",
     "99_attachment/Pasted image 20240724145921.png",
@@ -191,19 +200,6 @@
     "02_已看论文/(2024) Big AI Models for 6G Wireless Networks, Opportunities, Challenges, and Research Directions.md",
     "90_工具手册/GPU.md",
     "02_已看论文/(2022) Mixture-of-Experts with Expert Choice Routing.md",
-    "02_已看论文/(2022) ⭐Switch Transformers, Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.md",
-    "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
-    "00_调研整理/200_智慧网络/调研整理/CMCC.md",
-    "02_已看论文/(2023) Towards Semantic Communication Protocols for 6G From Protocol Learning to Language-Oriented Approaches.md",
-    "00_调研整理/200_智慧网络/调研整理",
-    "02_已看论文/(2021) The emergence of wireless mac protocols with multi-agent reinforcement learning.md",
-    "02_已看论文/(2023) Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (2023).pdf.md",
-    "02_已看论文/(2023) IMDIFFUSION, Imputed Diffusion Models for Multivariate Time Series Anomaly Detection.md",
-    "02_已看论文/(2023) Inference-Time Intervention, Eliciting Truthful Answers from a Language Model.md",
-    "02_已看论文/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
-    "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
-    "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
-    "02_已看论文/(2023) Towards Interactive and Explainable LLMs-Augmented Recommender System.md",
     "99_attachment/Pasted image 20240627100847.png",
     "99_attachment/Pasted image 20240627100828.png",
     "99_attachment/Pasted image 20240627100816.png",
