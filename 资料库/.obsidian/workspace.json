@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2023) ⭐Advances and Challenges in Semantic Communications A Systematic Review.md",
+                "file": "02_已看论文/(2024) Mixtral of Experts.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) ⭐Advances and Challenges in Semantic Communications A Systematic Review.md",
+                "file": "02_已看论文/(2024) Mixtral of Experts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2023) ⭐Advances and Challenges in Semantic Communications A Systematic Review.md",
+                "file": "02_已看论文/(2024) Mixtral of Experts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2023) ⭐Advances and Challenges in Semantic Communications A Systematic Review.md"
+                "file": "02_已看论文/(2024) Mixtral of Experts.md"
               }
             }
           },
@@ -166,11 +166,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c64e4ef173729260",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "02_已看论文/(2023) ⭐Advances and Challenges in Semantic Communications A Systematic Review.md",
     "02_已看论文/(2023) ⭐Wireless Semantic Transmission via Revising Modules in Conventional Communications.md",
     "99_attachment/Wireless_Semantic_Transmission_via_Revising_Modules_in_Conventional_Communications.pdf",
-    "02_已看论文/(2023) ⭐Advances and Challenges in Semantic Communications A Systematic Review.md",
     "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
     "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
     "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
@@ -200,7 +200,7 @@
     "99_attachment/Mixture of A Million Experts 2.pdf",
     "99_attachment/Pasted image 20240715223940.png",
     "99_attachment/Pasted image 20240715223938.png",
-    "02_已看论文/(2024)Mixtral of Experts.md",
+    "02_已看论文/(2024) Mixtral of Experts.md",
     "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
     "99_attachment/lora.pdf",
     "99_attachment/Pasted image 20240715215253.png",

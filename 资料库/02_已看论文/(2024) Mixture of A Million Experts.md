@@ -16,7 +16,7 @@ Aggregate expert outputs
 
 # Reference
 ---
-[[(2024)Mixtral of Experts]]
+[[(2024) Mixtral of Experts]]
 
 # Attachment
 ---
