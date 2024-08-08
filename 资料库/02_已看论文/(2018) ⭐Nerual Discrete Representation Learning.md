@@ -33,4 +33,5 @@
 	- 因为初始状态encoder和codebook的空间一致
 # Attachment
 ---
+![[vq-vae.ipynb]]
 ![[1711.00937v2.pdf]]
