@@ -28,6 +28,7 @@
 	- A set of ${z_{i,1}, z_{i,2}, z_{i,n_i}}$ be outputs from the encoder that are closest to dictionary item $e_i$.
 		- $n_i$ 是与$e_i$ 相似的个数
 	- ![[Pasted image 20230419164243.png]]
+	- 注意：$n_i$ 是所有与$e_i$相似的特征
 - 为什么codebook不会塌陷成一个vector?
 	- 因为初始状态encoder和codebook的空间一致
 # Attachment
