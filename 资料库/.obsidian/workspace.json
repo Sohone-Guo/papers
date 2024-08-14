@@ -11,8 +11,12 @@
             "id": "d80f7b4f7ec5a8e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "90_工具手册/determined ai.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2024) Beyond A Better Planning with Transformers via Search Dynamics Bootstrapping.md",
+                "file": "90_工具手册/determined ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2024) Beyond A Better Planning with Transformers via Search Dynamics Bootstrapping.md",
+                "file": "90_工具手册/determined ai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2024) Beyond A Better Planning with Transformers via Search Dynamics Bootstrapping.md"
+                "file": "90_工具手册/determined ai.md"
               }
             }
           },
@@ -162,7 +166,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "d80f7b4f7ec5a8e1",
   "lastOpenFiles": [
     "99_attachment/Beyond A Better Planning with Transformers via Search Dynamics Bootstrapping.pdf",
     "02_已看论文/(2018) ⭐Nerual Discrete Representation Learning.md",
