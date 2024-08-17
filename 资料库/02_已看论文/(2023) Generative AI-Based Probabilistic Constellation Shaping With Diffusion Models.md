@@ -7,6 +7,20 @@ Tags: #Tag_物理层
 ---
 It designs the probability of occurrence of constellation symbols within the correspoinding geometry.
 
+只有训练了一个DDPM，即做Probabilistic shaping又做Symbol reconstruction。
+训练方式：
+- 获取$x_0$ (randomly probabilistic shaping), 可以随机多次采样，选择不同symbols
+- $x_0$ 添加不同时间长度的noise, 模拟不同SNR效果。
+- 训练模型。
+使用方式①：Probabilistic shaping
+- 平均才1000个symbols点，计算SNR对应的噪音进行加噪。
+- Diffusion模型去噪获得结果，
+- 计算结果的概率（通过个数）
+使用方式②：接收端去噪。
+- 接收到的symbols
+- 通过diffusion去噪
+
+
 DDPM is learning the diffusion process for generating constellation symbos.
 ![[Pasted image 20240817140343.png]]
 ==bits to symbols会改变，由SNR决定。==
