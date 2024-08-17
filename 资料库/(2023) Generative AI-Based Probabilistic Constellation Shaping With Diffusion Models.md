@@ -12,7 +12,10 @@ DDPM is learning the diffusion process for generating constellation symbos.
 ==bits to symbols会改变，由SNR决定。==
 
 (#) $x$和$s$是一一对应的，可以直接将x理解成s也可以（原文公式15下面所提）
+![[Pasted image 20240817151205.png]]
+训练的时候如上。
 
+测试的时候，将SNR计算的Noise加入到symbol中，通过diffusion获得概率图进行操作。并且还能去噪。
 # Question
 ---
 **Probabilistic Constellation Shaping 的基本概念如下：**
