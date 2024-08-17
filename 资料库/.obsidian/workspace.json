@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c23a6c3814b54321",
+        "id": "862d94b4b26a930a",
         "type": "tabs",
         "children": [
           {
-            "id": "d80f7b4f7ec5a8e1",
+            "id": "2e1f1cc9930d21c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_工具手册/determined ai.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
