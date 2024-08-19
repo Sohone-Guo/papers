@@ -26,3 +26,31 @@ def set_font(doc):
 
 set_font(target_doc)
 ```
+
+```python
+import docx
+
+def translate_docx(file_path, output_path):
+    doc = docx.Document(file_path)
+
+    for para in doc.paragraphs:
+        # print(para._element.xml)
+        # for node in para._element.iter():
+        #     if node.text and "PUSCH" in node.text:
+        #         node.text = node.text.replace("PUSCH", "aaa")
+        #         print(node.text)
+        #         print("--------------")
+        for run in para.runs:
+            # 检查run是否仅包含文本
+            if "<m:oMath" not in run._element.xml and "<w:drawing" not in run._element.xml:  # OMML标记不在这个run中
+                # if "PUSCH" in run.text:
+                run.text = " aaa "#run.text.replace("PUSCH", "aaa")
+        # para.text = para.text
+        # if '<m:oMath' in para._element.xml:
+        #     print(para._element.xml)
+
+    doc.save(output_path)
+
+# 使用示例
+translate_docx('38213-gh0.docx', 'output_translated.docx')
+```
