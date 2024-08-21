@@ -8,6 +8,13 @@ Tags: #Tag_语义通信
 注意：$-logP(k)$ 
 - $P(k)$代表的是k出现的频率
 - $-logP(k)$将概率转成最佳bits的长度，看霍夫曼编码（Huffman Coding）的计算过程。
+NTC的公式：![[Pasted image 20240821160208.png]]
+其中：
+- $g_a(x)$: analysis transform
+- $g_s(y)$: synthesis transform
+- ![[Pasted image 20240821160506.png]]
+
+
 
 # Question
 ---
