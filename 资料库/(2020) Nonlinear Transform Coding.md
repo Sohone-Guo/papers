@@ -5,7 +5,9 @@ Tags: #Tag_语义通信
 
 # Mainly Idea
 ---
-
+注意：$-logP(k)$ 
+- $P(k)$代表的是k出现的频率
+- $-logP(k)$将概率转成最佳bits的长度，看霍夫曼编码（Huffman Coding）的计算过程。
 
 # Question
 ---
@@ -22,6 +24,9 @@ Tags: #Tag_语义通信
 	- **Rate-Distortion (R-D)** 是图像压缩和信号处理中的一个重要概念，用于描述压缩效率和质量之间的权衡。具体来说，它涉及在特定的数据传输率下，图像或信号的失真程度。
 - Stochastic Rate-Distortion Optimization?
 	- **Stochastic Rate-Distortion Optimization (SRDO)** 是一种优化技术，用于在压缩或编码系统中平衡数据压缩的比特率（Rate）和重建误差（Distortion）之间的关系。这个技术广泛应用于信息理论、数据压缩、信号处理和机器学习领域，尤其是在图像、视频压缩以及深度学习的表示学习中。
+	- ![[Pasted image 20240821152226.png]]
+	- ![[Pasted image 20240821152321.png]]
+	- ![[Pasted image 20240821152744.png]]
 
 # Reference
 ---
