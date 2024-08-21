@@ -23,7 +23,7 @@ Tags: #Tag_语义通信
 
 # Reference
 ---
-
+- [[(1990) Entropy-constrained vector quantization]]
 
 # Attachment
 ---
