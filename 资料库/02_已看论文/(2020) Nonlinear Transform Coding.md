@@ -14,7 +14,73 @@ NTC的公式：![[Pasted image 20240821160208.png]]
 - $g_s(y)$: synthesis transform
 - ![[Pasted image 20240821160506.png]]
 
+```python
+class NTC_Hyperprior(nn.Module):
+    def __init__(self, config):
+        super().__init__()
+        self.ga = AnalysisTransform(**config.ga_kwargs)
+        self.gs = SynthesisTransform(**config.gs_kwargs)
+        self.ha = nn.Sequential(
+            nn.Conv2d(256, 192, 3, stride=1, padding=1),
+            nn.LeakyReLU(inplace=True),
+            nn.Conv2d(192, 192, 5, stride=2, padding=2),
+            nn.LeakyReLU(inplace=True),
+            nn.Conv2d(192, 192, 5, stride=2, padding=2),
+        )
 
+        self.hs = nn.Sequential(
+            nn.ConvTranspose2d(192, 256, 5,
+                               stride=2, padding=2, output_padding=1),
+            nn.ReLU(inplace=True),
+            nn.ConvTranspose2d(256, 384, 5,
+                               stride=2, padding=2, output_padding=1),
+            nn.ReLU(inplace=True),
+            nn.ConvTranspose2d(384, 512, 3, stride=1, padding=1)
+        )
+        self.entropy_bottleneck = EntropyBottleneck(192)
+        self.gaussian_conditional = GaussianConditional(None)
+        self.distortion = Distortion(config)
+        self.H = self.W = 0
+
+    def update_resolution(self, H, W):
+        if H != self.H or W != self.W:
+            self.ga.update_resolution(H, W)
+            self.gs.update_resolution(H // 16, W // 16)
+            self.H = H
+            self.W = W
+
+    def forward(self, input_image, require_probs=False):
+        B, C, H, W = input_image.shape
+        self.update_resolution(H, W)
+        y = self.ga(input_image)
+        z = self.ha(y)
+        _, z_likelihoods = self.entropy_bottleneck(z)
+        z_offset = self.entropy_bottleneck._get_medians()
+        z_tmp = z - z_offset
+        z_hat = ste_round(z_tmp) + z_offset
+
+        gaussian_params = self.hs(z_hat)
+        scales_hat, means_hat = gaussian_params.chunk(2, 1)
+        _, y_likelihoods = self.gaussian_conditional(y, scales_hat, means=means_hat)
+        y_hat = ste_round(y - means_hat) + means_hat
+        x_hat = self.gs(y_hat)
+        mse_loss = self.distortion(input_image, x_hat)
+        bpp_y = torch.log(y_likelihoods).sum() / (-math.log(2) * H * W) / B
+        bpp_z = torch.log(z_likelihoods).sum() / (-math.log(2) * H * W) / B
+        if require_probs:
+            return mse_loss, bpp_y, bpp_z, x_hat, y, y_likelihoods, scales_hat, means_hat
+        else:
+            return mse_loss, bpp_y, bpp_z, x_hat
+
+    def aux_loss(self):
+        """Return the aggregated loss over the auxiliary entropy bottleneck
+        module(s).
+        """
+        aux_loss = sum(
+            m.loss() for m in self.modules() if isinstance(m, EntropyBottleneck)
+        )
+        return aux_loss
+```
 
 # Question
 ---
@@ -41,4 +107,5 @@ NTC的公式：![[Pasted image 20240821160208.png]]
 
 # Attachment
 ---
+![[NTSCC_JSAC22-master.zip]]
 ![[2007.03034v2.pdf]]
