@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7af1d431114ab31a",
+        "id": "4d2fe2cd863be850",
         "type": "tabs",
         "children": [
           {
-            "id": "ac10f38c79843240",
+            "id": "d52b02a5e2d1008c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2024) Transfusion, Predict the Next Token and Diffuse Images with One Multi-Modal Model.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2024) Transfusion, Predict the Next Token and Diffuse Images with One Multi-Modal Model.md",
+                "file": "02_已看论文/(2024) Transfusion, Predict the Next Token and Diffuse Images with One Multi-Modal Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(2024) Transfusion, Predict the Next Token and Diffuse Images with One Multi-Modal Model.md",
+                "file": "02_已看论文/(2024) Transfusion, Predict the Next Token and Diffuse Images with One Multi-Modal Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(2024) Transfusion, Predict the Next Token and Diffuse Images with One Multi-Modal Model.md"
+                "file": "02_已看论文/(2024) Transfusion, Predict the Next Token and Diffuse Images with One Multi-Modal Model.md"
               }
             }
           },
@@ -166,10 +162,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac10f38c79843240",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20240828115739.png",
     "99_attachment/Transfusion Predict the Next Token and Diffuse Images with One Multi-Modal Model.pdf",
-    "(2024) Transfusion, Predict the Next Token and Diffuse Images with One Multi-Modal Model.md",
+    "02_已看论文/(2024) Transfusion, Predict the Next Token and Diffuse Images with One Multi-Modal Model.md",
     "99_attachment/2023.Knowledge Unlearning for Mitigating Privacy Risks in Language Models.pdf",
     "02_已看论文/(2023) Knowledge Unlearning for Mitigating Privacy Risks in Language Models.md",
     "02_已看论文/(2020) Nonlinear Transform Coding.md",
@@ -198,7 +195,6 @@
     "99_attachment/Beyond A Better Planning with Transformers via Search Dynamics Bootstrapping.pdf",
     "02_已看论文/(2018) ⭐Nerual Discrete Representation Learning.md",
     "02_已看论文/(2024) Beyond A Better Planning with Transformers via Search Dynamics Bootstrapping.md",
-    "99_attachment/vq-vae.ipynb",
     "02_已看论文/(2024) Mixtral of Experts.md",
     "02_已看论文/(2023) ⭐Advances and Challenges in Semantic Communications A Systematic Review.md",
     "02_已看论文/(2023) ⭐Wireless Semantic Transmission via Revising Modules in Conventional Communications.md",
