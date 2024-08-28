@@ -11,8 +11,12 @@
             "id": "d52b02a5e2d1008c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_已看论文/(2024) Mixtral of Experts.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2024) Transfusion, Predict the Next Token and Diffuse Images with One Multi-Modal Model.md",
+                "file": "02_已看论文/(2024) Mixtral of Experts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2024) Transfusion, Predict the Next Token and Diffuse Images with One Multi-Modal Model.md",
+                "file": "02_已看论文/(2024) Mixtral of Experts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2024) Transfusion, Predict the Next Token and Diffuse Images with One Multi-Modal Model.md"
+                "file": "02_已看论文/(2024) Mixtral of Experts.md"
               }
             }
           },
@@ -162,11 +166,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "d52b02a5e2d1008c",
   "lastOpenFiles": [
+    "02_已看论文/(2024) Scalable MatMul-free Language Modeling.md",
+    "02_已看论文/(2023) Semantic Communications with Explicit Semantic Base for Image Transmission.md",
+    "02_已看论文/(2022) A new paradigm of semantic communication network, Semantic Base.md",
+    "02_已看论文/(2023) ⭐Wireless Semantic Transmission via Revising Modules in Conventional Communications.md",
+    "02_已看论文/(2024) Mixture of A Million Experts.md",
+    "02_已看论文/(2018) ⭐Nerual Discrete Representation Learning.md",
+    "02_已看论文/(2024) Beyond A Better Planning with Transformers via Search Dynamics Bootstrapping.md",
+    "02_已看论文/(2022) Nonlinear Transform Source-Channel Coding for Semantic Communications.md",
+    "02_已看论文/(2023) Generative AI-Based Probabilistic Constellation Shaping With Diffusion Models.md",
+    "90_工具手册/determined ai.md",
+    "02_已看论文/(2024) Transfusion, Predict the Next Token and Diffuse Images with One Multi-Modal Model.md",
     "99_attachment/Pasted image 20240828115739.png",
     "99_attachment/Transfusion Predict the Next Token and Diffuse Images with One Multi-Modal Model.pdf",
-    "02_已看论文/(2024) Transfusion, Predict the Next Token and Diffuse Images with One Multi-Modal Model.md",
     "99_attachment/2023.Knowledge Unlearning for Mitigating Privacy Risks in Language Models.pdf",
     "02_已看论文/(2023) Knowledge Unlearning for Mitigating Privacy Risks in Language Models.md",
     "02_已看论文/(2020) Nonlinear Transform Coding.md",
@@ -183,21 +197,14 @@
     "99_attachment/Entropy-constrained_vector_quantization.pdf",
     "99_attachment/Pasted image 20240821141130.png",
     "99_attachment/2007.03034v2.pdf",
-    "02_已看论文/(2023) Generative AI-Based Probabilistic Constellation Shaping With Diffusion Models.md",
     "90_工具手册/Docx操作.md",
-    "99_attachment/Pasted image 20240817151205.png",
     "99_attachment/2023.Generative AI-Based Probabilistic Constellation Shaping With Diffusion Models.pdf",
-    "02_已看论文/(2022) Nonlinear Transform Source-Channel Coding for Semantic Communications.md",
     "99_attachment/16.IMT-2030-Semantic_2024048 基于非线性变换编码的深度语音语义传输方法提案  北邮.pdf",
     "99_attachment/7.IMT-2030-Semantic_2024022 面向图像信源传输的非线性变换信源信道编码（NTSCC） 北邮.pdf",
     "99_attachment/2022.Nonlinear Transform Source-Channel Coding for Semantic Communications.pdf",
-    "90_工具手册/determined ai.md",
     "99_attachment/Beyond A Better Planning with Transformers via Search Dynamics Bootstrapping.pdf",
-    "02_已看论文/(2018) ⭐Nerual Discrete Representation Learning.md",
-    "02_已看论文/(2024) Beyond A Better Planning with Transformers via Search Dynamics Bootstrapping.md",
     "02_已看论文/(2024) Mixtral of Experts.md",
     "02_已看论文/(2023) ⭐Advances and Challenges in Semantic Communications A Systematic Review.md",
-    "02_已看论文/(2023) ⭐Wireless Semantic Transmission via Revising Modules in Conventional Communications.md",
     "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
     "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
     "02_已看论文/(2023) ⭐Reinforced Self-Training (ReST) for Language Modeling.md",
@@ -205,11 +212,8 @@
     "02_已看论文/(2023) Deep Joint Source-Channel Coding for CSI Feedback An End-to-End Approach.md",
     "02_已看论文/(2023) Fusion-Based Multi-User Semantic Communications for Wireless Image Transmission over Degraded Broadcast Channels.md",
     "01_待看论文/(2023) Knowledge Enhanced Semantic Communication Receiver.md",
-    "02_已看论文/(2023) Semantic Communications with Explicit Semantic Base for Image Transmission.md",
     "02_已看论文/(2023) Towards Semantic Communication Protocols for 6G From Protocol Learning to Language-Oriented Approaches.md",
     "02_已看论文/(2023) Wireless Semantic Communications for Video Conferencing.md",
-    "02_已看论文/(2022) A new paradigm of semantic communication network, Semantic Base.md",
-    "02_已看论文/(2022) Adaptive Bit Rate Control in Semantic Communication with Incremental Knowledge-Based HARQ.md",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
