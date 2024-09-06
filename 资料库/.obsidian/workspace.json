@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c8efcb638739b59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90_工具手册/determined ai.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2021) LoRA, Low-Rank Adaptation of Large Language Models.md",
+                "file": "90_工具手册/determined ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2021) LoRA, Low-Rank Adaptation of Large Language Models.md",
+                "file": "90_工具手册/determined ai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_已看论文/(2021) LoRA, Low-Rank Adaptation of Large Language Models.md"
+                "file": "90_工具手册/determined ai.md"
               }
             }
           },
@@ -166,8 +179,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d52b02a5e2d1008c",
+  "active": "1c8efcb638739b59",
   "lastOpenFiles": [
+    "90_工具手册/Sionna.md",
+    "90_工具手册/Docx操作.md",
+    "90_工具手册/determined ai.md",
+    "02_已看论文/(2021) LoRA, Low-Rank Adaptation of Large Language Models.md",
     "02_已看论文/(2022) Mixture-of-Experts with Expert Choice Routing.md",
     "02_已看论文/(2017) ⭐Outrageously Large Neural Networks, The Sparsely-Gated Mixture-of-Experts Layer.md",
     "02_已看论文/(2021) The emergence of wireless mac protocols with multi-agent reinforcement learning.md",
@@ -190,10 +207,6 @@
     "02_已看论文/(2022) Deep Source-Channel Coding for Sentence Transmission With HARQ.md",
     "02_已看论文/(2020) Deep Learning Enabled Semantic Communication Systems,.md",
     "02_已看论文/(2018) Variable Length Joint Source-Channel Coding of Text Using Deep Neural Networks.md",
-    "02_已看论文/(2018) Power of Deep Learning for Channel Estimation and Signal Detection in OFDM System.md",
-    "02_已看论文/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
-    "02_已看论文/(2021) Scaling Vision with Sparse Mixture of Experts.md",
-    "02_已看论文/(2021) Normalizing Flows for Probabilistic Modeling and Inference.md",
     "99_attachment/Pasted image 20240828115739.png",
     "99_attachment/Transfusion Predict the Next Token and Diffuse Images with One Multi-Modal Model.pdf",
     "99_attachment/2023.Knowledge Unlearning for Mitigating Privacy Risks in Language Models.pdf",
