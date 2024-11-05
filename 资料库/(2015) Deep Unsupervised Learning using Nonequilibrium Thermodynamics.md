@@ -10,6 +10,7 @@ Tags: #Tag_计算机视觉
 # Question
 ---
 - Nonequilibrium Thermodynamics?
+	- ![[Pasted image 20241105110944.png]]
 
 # Reference
 ---

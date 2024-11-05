@@ -11,6 +11,7 @@ Tags: #Tag_计算机视觉
 ---
 - Diffusion Probabilistic Models?
 - nonequilibrium thermodynamics?
+	- ![[Pasted image 20241105110949.png]]
 - denoising score matching?
 - Langevin Dynamics?
 - Energy-based?
