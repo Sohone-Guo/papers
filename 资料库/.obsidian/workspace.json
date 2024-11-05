@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7143d376321ce0c0",
+        "id": "49ec3319873e64ff",
         "type": "tabs",
         "children": [
           {
-            "id": "b0d2e0838eb87d41",
+            "id": "5236966a52f903cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_待看论文/State-Space Models.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "State-Space Models"
+              "title": "新标签页"
             }
           }
         ]
@@ -40,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -103,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_待看论文/State-Space Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "State-Space Models 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -183,13 +178,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "5236966a52f903cf",
   "lastOpenFiles": [
-    "疑惑：Score-diffution.md",
+    "01_待看论文/State-Space Models.md",
     "02_已看论文/(2020) Denoising Diffusion Probabilistic Models 1.md",
-    "02_已看论文/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
-    "02_已看论文/(2022) DENOISING DIFFUSION IMPLICIT MODELS.md",
+    "(2024) A Survey on Generative Diffusion Models.md",
+    "99_attachment/2024.A Survey on Generative Diffusion Models.pdf",
     "02_已看论文/(2015) Deep Unsupervised Learning using Nonequilibrium Thermodynamics.md",
+    "02_已看论文/(2022) DENOISING DIFFUSION IMPLICIT MODELS.md",
+    "疑惑：Score-diffution.md",
+    "02_已看论文/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
     "99_attachment/2022.DENOISING DIFFUSION IMPLICIT MODELS.pdf",
     "99_attachment/Pasted image 20241105110949.png",
     "99_attachment/Pasted image 20241105110944.png",
@@ -221,12 +219,9 @@
     "02_已看论文/(2023) PaLM2 Technical Report.md",
     "02_已看论文/(2023) OpenChatKit.md",
     "02_已看论文/(2023) Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.md",
-    "02_已看论文/(2022) ⭐Instruct GPT.md",
-    "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "99_attachment/Pasted image 20240828115739.png",
     "99_attachment/Transfusion Predict the Next Token and Diffuse Images with One Multi-Modal Model.pdf",
     "99_attachment/2023.Knowledge Unlearning for Mitigating Privacy Risks in Language Models.pdf",
-    "99_attachment/NTSCC_JSAC22-master.zip",
     "99_attachment/Pasted image 20240821160506.png",
     "99_attachment/Pasted image 20240821160400.png",
     "99_attachment/Pasted image 20240821160208.png",

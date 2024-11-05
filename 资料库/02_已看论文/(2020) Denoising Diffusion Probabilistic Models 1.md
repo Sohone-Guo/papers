@@ -25,6 +25,7 @@ Tags: #Tag_计算机视觉
 ---
 [[(2015) Deep Unsupervised Learning using Nonequilibrium Thermodynamics]]
 [[(2021) SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS]]
+[[(2024) A Survey on Generative Diffusion Models]]
 
 # Attachment
 ---
