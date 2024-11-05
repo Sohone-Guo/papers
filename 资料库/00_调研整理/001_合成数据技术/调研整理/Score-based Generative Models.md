@@ -20,7 +20,7 @@
 # 2020
 ---
 - [[(2020) Improved Techniques for Training Score-Based Generative Models]]
-- [[(2020) Denoising Diffusion Probabilistic Models]]
+- [[02_已看论文/(2020) Denoising Diffusion Probabilistic Models]]
 
 # 2021
 ---
