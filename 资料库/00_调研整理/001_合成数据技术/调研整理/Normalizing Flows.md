@@ -126,7 +126,7 @@
 - 
 # 2023
 ---
-- [[(2023) Flow Matching for Generative Modeling]]
+- [[02_已看论文/(2023) Flow Matching for Generative Modeling]]
 	- Continuous Normalizing Flow, for Defusion model training too slow.
 - [[(2023) Normalizing Flow-based Neural Process for Few-Shot Knowledge Graph Completion]]
 
