@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e3737efc36a4d2aa",
+        "id": "a5eb1d4fd9927a62",
         "type": "tabs",
         "children": [
           {
-            "id": "993fd929d5c28689",
+            "id": "955591239e3d7b31",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -34,8 +36,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
-              }
+                "sortOrder": "alphabeticalReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -44,13 +48,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Masked Autoencoders Are Scalable Vision Learners",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -58,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -66,7 +74,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -89,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2022) STaR, Self-Taought Reasoner Bootstrapping Reasoning With Reasoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +106,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
             }
           },
           {
@@ -106,10 +117,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_已看论文/(2022) STaR, Self-Taought Reasoner Bootstrapping Reasoning With Reasoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           },
           {
@@ -120,7 +132,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -128,9 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_已看论文/(2022) STaR, Self-Taought Reasoner Bootstrapping Reasoning With Reasoning.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           },
           {
@@ -142,7 +156,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ]
@@ -164,10 +180,17 @@
   },
   "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "01_待看论文/2210.02186.pdf",
+    "01_待看论文/2022.STaR.pdf",
+    "02_已看论文/(2023) ⭐Wireless Semantic Transmission via Revising Modules in Conventional Communications.md",
+    "02_已看论文/(2024) MMSearch, Benchmarking The Potential of Large Models as Multi-modal Search Engines.md",
+    "02_已看论文/(2024) Transfusion, Predict the Next Token and Diffuse Images with One Multi-Modal Model.md",
+    "02_已看论文/(2024) Beyond A Better Planning with Transformers via Search Dynamics Bootstrapping.md",
+    "02_已看论文/(2022) Nonlinear Transform Source-Channel Coding for Semantic Communications.md",
+    "02_已看论文/(2023) Generative AI-Based Probabilistic Constellation Shaping With Diffusion Models.md",
     "99_attachment/Pasted image 20240927141940.png",
     "99_attachment/2022.STaR.pdf",
     "02_已看论文/(2022) STaR, Self-Taought Reasoner Bootstrapping Reasoning With Reasoning.md",
-    "02_已看论文/(2024) MMSearch, Benchmarking The Potential of Large Models as Multi-modal Search Engines.md",
     "99_attachment/Pasted image 20240927134420.png",
     "99_attachment/2024.MMSEARCH.pdf",
     "02_已看论文/(2023) Adaptive CSI Feedback for Deep Learning-Enabled Image Transmission.md",
@@ -188,11 +211,6 @@
     "02_已看论文/(2024) KAN, Kolmogorov-Arnold Networks.md",
     "02_已看论文/(2023) Knowledge Unlearning for Mitigating Privacy Risks in Language Models.md",
     "02_已看论文/(2020) Learning What Makes a Difference from Counterfactual Examples and Gradient Supervision.md",
-    "02_已看论文/(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
-    "02_已看论文/(2023) Exploiting Biased Models to De-bias Text, A Gender-Faire Rewriting Model.md",
-    "02_已看论文/(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
-    "02_已看论文/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
-    "02_已看论文/(2023) A Survey of Large Language Model.md",
     "99_attachment/Pasted image 20240828115739.png",
     "99_attachment/Transfusion Predict the Next Token and Diffuse Images with One Multi-Modal Model.pdf",
     "99_attachment/2023.Knowledge Unlearning for Mitigating Privacy Risks in Language Models.pdf",
@@ -204,12 +222,10 @@
     "99_attachment/Pasted image 20240821152744.png",
     "99_attachment/Pasted image 20240821152321.png",
     "99_attachment/Pasted image 20240821152226.png",
-    "99_attachment/Pasted image 20240821145204.png",
     "99_attachment/Entropy-constrained_vector_quantization.pdf",
     "99_attachment/2007.03034v2.pdf",
     "99_attachment/2023.Generative AI-Based Probabilistic Constellation Shaping With Diffusion Models.pdf",
     "99_attachment/16.IMT-2030-Semantic_2024048 基于非线性变换编码的深度语音语义传输方法提案  北邮.pdf",
-    "99_attachment/7.IMT-2030-Semantic_2024022 面向图像信源传输的非线性变换信源信道编码（NTSCC） 北邮.pdf",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
