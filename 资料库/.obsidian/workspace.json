@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "021e28b35d912abd",
+        "id": "a1641a9ddaeeaae4",
         "type": "tabs",
         "children": [
           {
-            "id": "d8653dc0da222260",
+            "id": "9afc02ba32f9098d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2024) Promptus, Can Prompts Streaming Replace Video Streaming with Stable Diffusion.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(2024) Promptus, Can Prompts Streaming Replace Video Streaming with Stable Diffusion"
+              "title": "新标签页"
             }
           }
         ]
@@ -103,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2024) Promptus, Can Prompts Streaming Replace Video Streaming with Stable Diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "(2024) Promptus, Can Prompts Streaming Replace Video Streaming with Stable Diffusion 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -183,12 +178,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8653dc0da222260",
+  "active": "9afc02ba32f9098d",
   "lastOpenFiles": [
+    "02_已看论文/(2024) Promptus, Can Prompts Streaming Replace Video Streaming with Stable Diffusion.md",
     "99_attachment/Pasted image 20241107123008.png",
     "99_attachment/Pasted image 20241107121818.png",
     "99_attachment/2024.Promptus Can Prompts Streaming Replace Video Streaming with Stable Diffusion.pdf",
-    "02_已看论文/(2024) Promptus, Can Prompts Streaming Replace Video Streaming with Stable Diffusion.md",
     "99_attachment/FLOW MATCHING FOR GENERATIVE MODELING 1.pdf",
     "02_已看论文/(2023) FLOW MATCHING FOR GENERATIVE MODELING 1.md",
     "01_待看论文/State-Space Models.md",
@@ -230,7 +225,6 @@
     "99_attachment/Pasted image 20240828115739.png",
     "99_attachment/Pasted image 20240821160506.png",
     "99_attachment/Pasted image 20240821160400.png",
-    "99_attachment/Pasted image 20240821160208.png",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
