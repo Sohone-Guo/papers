@@ -13,7 +13,9 @@ Tags: #Tag_语义通信
 ---
 - A gradient decent-based prompt fitting framework?
 - A low-rank decomposition-based bitrate control algorithm?
+	- Prompt是Embedding, 不是Text, 所以Embedding需要被压缩，而压缩比例和带宽相关。
 - A temporal smoothing-based prompt interpolation algorithm?
+	- 每一帧的Embedding是独立的，如何将独立的Embedding变成连续（有关系），猜测有点像插值的方式
 
 # Reference
 ---
