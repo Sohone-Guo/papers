@@ -10,6 +10,7 @@ Tags: #Tag_语义通信
 •问题：视频生成Prompt可以理解，但是Prompt如何保证输出的视频是一致的？
 - 回答：Stable diffusion网络不变，生成的结果和真实结果进行对比，微调prompt的embedding。获得完全匹配的embedding。
 ![[Pasted image 20241107121818.png]]
+![[Pasted image 20241107123008.png]]
 # Question
 ---
 - A gradient decent-based prompt fitting framework?
