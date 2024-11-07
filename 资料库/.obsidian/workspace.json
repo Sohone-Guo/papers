@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "49ec3319873e64ff",
+        "id": "021e28b35d912abd",
         "type": "tabs",
         "children": [
           {
-            "id": "5236966a52f903cf",
+            "id": "d8653dc0da222260",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2023) FLOW MATCHING FOR GENERATIVE MODELING 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(2023) FLOW MATCHING FOR GENERATIVE MODELING 1"
+              "title": "新标签页"
             }
           }
         ]
