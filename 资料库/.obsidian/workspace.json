@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2024) Promptus, Can Prompts Streaming Replace Video Streaming with Stable Diffusion.md",
+                "file": "02_已看论文/(2024) Promptus, Can Prompts Streaming Replace Video Streaming with Stable Diffusion.md",
                 "mode": "source",
                 "source": false
               },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2024) Promptus, Can Prompts Streaming Replace Video Streaming with Stable Diffusion.md",
+                "file": "02_已看论文/(2024) Promptus, Can Prompts Streaming Replace Video Streaming with Stable Diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +185,9 @@
   },
   "active": "d8653dc0da222260",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20241107121818.png",
     "99_attachment/2024.Promptus Can Prompts Streaming Replace Video Streaming with Stable Diffusion.pdf",
-    "(2024) Promptus, Can Prompts Streaming Replace Video Streaming with Stable Diffusion.md",
+    "02_已看论文/(2024) Promptus, Can Prompts Streaming Replace Video Streaming with Stable Diffusion.md",
     "99_attachment/FLOW MATCHING FOR GENERATIVE MODELING 1.pdf",
     "02_已看论文/(2023) FLOW MATCHING FOR GENERATIVE MODELING 1.md",
     "01_待看论文/State-Space Models.md",
@@ -226,7 +227,6 @@
     "02_已看论文/(2023) Self-consistency improves chain-of-thought reasoning in language models.md",
     "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
     "99_attachment/Pasted image 20240828115739.png",
-    "99_attachment/Transfusion Predict the Next Token and Diffuse Images with One Multi-Modal Model.pdf",
     "99_attachment/Pasted image 20240821160506.png",
     "99_attachment/Pasted image 20240821160400.png",
     "99_attachment/Pasted image 20240821160208.png",
