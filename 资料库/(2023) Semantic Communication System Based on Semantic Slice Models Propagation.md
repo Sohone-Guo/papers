@@ -10,6 +10,7 @@ Tags: #Tag_语义通信
 # Question
 ---
 - Semantic Slice Models Propagation?
+- model resembling?
 
 # Reference
 ---
