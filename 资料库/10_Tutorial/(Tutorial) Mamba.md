@@ -8,3 +8,9 @@ Linear RNNs: 不使用relu等函数，使用CNN或者Associative Scan(S5)可以�
 实现了RNN的并行训练。
 
 但是Linear RNNs 性能太差了。如何提升性能？（SSM）
+
+多点网络层和d_model个数
+
+
+# 参考
+![[mamba-tiny-master.zip]]
