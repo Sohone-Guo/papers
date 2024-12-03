@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8ac5b4e235f71513",
+        "id": "877939c7574b015f",
         "type": "tabs",
         "children": [
           {
-            "id": "11d6ecd88a8ec6a1",
+            "id": "549bf1151cd53736",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport"
+              "title": "新标签页"
             }
           }
         ]
@@ -103,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -183,13 +178,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "11d6ecd88a8ec6a1",
+  "active": "549bf1151cd53736",
   "lastOpenFiles": [
+    "02_已看论文/(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport.md",
+    "99_attachment/Pasted image 20241203172043.png",
     "99_attachment/Pasted image 20241203170223.png",
     "99_attachment/Pasted image 20241203165724.png",
     "99_attachment/3821_Scaling_In_the_Wild_Train.pdf",
     "90_工具手册/docker环境.md",
-    "(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport.md",
     "10_Tutorial/(Tutorial) Mamba.md",
     "99_attachment/mamba-tiny-master.zip",
     "99_attachment/Pasted image 20241114124612.png",
@@ -227,10 +223,8 @@
     "02_已看论文/(2024) Beyond A Better Planning with Transformers via Search Dynamics Bootstrapping.md",
     "02_已看论文/(2022) Nonlinear Transform Source-Channel Coding for Semantic Communications.md",
     "99_attachment/Pasted image 20240927141940.png",
-    "99_attachment/Pasted image 20240927134420.png",
     "02_已看论文/(2023) Adaptive CSI Feedback for Deep Learning-Enabled Image Transmission.md",
     "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md",
-    "99_attachment/Pasted image 20240828115739.png",
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",

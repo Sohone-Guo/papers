@@ -10,6 +10,9 @@ environment map: 使用现有的方法获取
 degradation image: 复杂规则的方式
 ![[Pasted image 20241203170223.png]]
 需要准备很多数据，参考上面的图片。
+
+添加一个约束：
+![[Pasted image 20241203172043.png]]
 # Question
 ---
 - illumination(光照) harmonization and editing?
