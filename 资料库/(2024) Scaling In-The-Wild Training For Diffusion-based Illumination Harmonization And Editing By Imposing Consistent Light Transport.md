@@ -10,6 +10,9 @@ Tags: #Tag_计算机视觉
 # Question
 ---
 - illumination(光照) harmonization and editing?
+- 为什么文本指导这么有用？
+- 如何保证本质信息不变？
+- 如何应用于泛用性？
 
 
 # Reference
