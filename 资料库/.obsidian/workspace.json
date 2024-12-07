@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "877939c7574b015f",
+        "id": "dc04208575d43f3a",
         "type": "tabs",
         "children": [
           {
-            "id": "549bf1151cd53736",
+            "id": "03671be71a730bba",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "score-based generative modeling ",
+                "query": "flow match",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 310.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -178,8 +178,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "549bf1151cd53736",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "02_已看论文/(2023) FLOW MATCHING FOR GENERATIVE MODELING 1.md",
+    "00_调研整理/100_语义通信技术/CSI反馈.md",
+    "00_调研整理/001_合成数据技术/总纲.canvas",
+    "02_已看论文/(2023) Scalable Diffusion Models with Transformers.md",
+    "10_Tutorial/(Tutorial) Score-Based Generative Modeling.md",
+    "10_Tutorial/(Tutorial) The KL Divergence.md",
+    "02_已看论文/(2024) Scalable MatMul-free Language Modeling.md",
     "02_已看论文/(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport.md",
     "99_attachment/Pasted image 20241203172043.png",
     "99_attachment/Pasted image 20241203170223.png",
@@ -196,7 +203,6 @@
     "02_已看论文/(2020) Denoising Diffusion Probabilistic Models 1.md",
     "02_已看论文/(2023) Generative AI-Based Probabilistic Constellation Shaping With Diffusion Models.md",
     "02_已看论文/(2022) DENOISING DIFFUSION IMPLICIT MODELS.md",
-    "02_已看论文/(2023) FLOW MATCHING FOR GENERATIVE MODELING 1.md",
     "02_已看论文/(2024) A Survey on Generative Diffusion Models.md",
     "02_已看论文/(2020) Nonlinear Transform Coding.md",
     "02_已看论文/(2022) STaR, Self-Taought Reasoner Bootstrapping Reasoning With Reasoning.md",
@@ -220,12 +226,7 @@
     "02_已看论文/(2021) Improved denoising diffusion probabilistic models.md",
     "01_待看论文/2210.02186.pdf",
     "02_已看论文/(2023) ⭐Wireless Semantic Transmission via Revising Modules in Conventional Communications.md",
-    "02_已看论文/(2024) Beyond A Better Planning with Transformers via Search Dynamics Bootstrapping.md",
-    "02_已看论文/(2022) Nonlinear Transform Source-Channel Coding for Semantic Communications.md",
     "99_attachment/Pasted image 20240927141940.png",
-    "02_已看论文/(2023) Adaptive CSI Feedback for Deep Learning-Enabled Image Transmission.md",
-    "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md",
-    "00_调研整理/001_合成数据技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "未命名.canvas"
