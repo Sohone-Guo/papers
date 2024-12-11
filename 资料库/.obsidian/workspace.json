@@ -11,12 +11,14 @@
             "id": "87a207e86fffcf41",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "99_attachment/A Tutorial on Energy-Based Learning.pdf"
+                "file": "02_已看论文/(2024) Navigation World Models.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "A Tutorial on Energy-Based Learning"
+              "icon": "lucide-file",
+              "title": "(2024) Navigation World Models"
             }
           }
         ]
@@ -50,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "energy",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,12 +83,11 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 253.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99_attachment/A Tutorial on Energy-Based Learning.pdf",
+                "file": "02_已看论文/(2024) Navigation World Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "A Tutorial on Energy-Based Learning 的反向链接列表"
+              "title": "(2024) Navigation World Models 的反向链接列表"
             }
           },
           {
@@ -182,11 +183,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87a207e86fffcf41",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/A Tutorial on Energy-Based Learning.pdf",
     "10_Tutorial/(Tutorial) Concept Learning with Energy-Based Models (Paper Explained).md",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
-    "(2024) Navigation World Models.md",
+    "02_已看论文/(2024) Navigation World Models.md",
     "99_attachment/Pasted image 20241210154438.png",
     "90_工具手册/docker环境.md",
     "90_工具手册/Docx操作.md",
@@ -219,7 +221,6 @@
     "99_attachment/2022.Semantic_Communication_System_Based_on_Semantic_Slice_Models_Propagation.pdf",
     "02_已看论文/(2023) Semantic Communication System Based on Semantic Slice Models Propagation.md",
     "02_已看论文/(2021) Score-Based Generative Modeling through Stochastic Differential Equations.md",
-    "02_已看论文/(2020) Denoising Diffusion Probabilistic Models 1.md",
     "99_attachment/Pasted image 20241107123008.png",
     "99_attachment/Pasted image 20241107121818.png",
     "99_attachment/2024.Promptus Can Prompts Streaming Replace Video Streaming with Stable Diffusion.pdf",
