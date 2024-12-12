@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2024) Reasoning with REinforced Fine-Tuning.md",
+                "file": "90_工具手册/docker环境.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(2024) Reasoning with REinforced Fine-Tuning"
+              "title": "docker环境"
             }
           }
         ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2024) Reasoning with REinforced Fine-Tuning.md",
+                "file": "90_工具手册/docker环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "(2024) Reasoning with REinforced Fine-Tuning 的反向链接列表"
+              "title": "docker环境 的反向链接列表"
             }
           },
           {
@@ -200,11 +200,11 @@
   },
   "active": "57f50d877b4869fa",
   "lastOpenFiles": [
+    "02_已看论文/(2024) Reasoning with REinforced Fine-Tuning.md",
     "99_attachment/Pasted image 20241211111754.png",
     "99_attachment/{256180CF-A93B-421A-9E82-68B0EDE06593}.png",
     "99_attachment/2024.Reasoning with REinforced Fine-Tuning.pdf",
     "02_已看论文/(2024) Navigation World Models.md",
-    "02_已看论文/(2024) Reasoning with REinforced Fine-Tuning.md",
     "99_attachment/A Tutorial on Energy-Based Learning.pdf",
     "10_Tutorial/(Tutorial) Concept Learning with Energy-Based Models (Paper Explained).md",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
@@ -246,7 +246,6 @@
     "99_attachment/2024.A Survey on Generative Diffusion Models.pdf",
     "99_attachment/2022.DENOISING DIFFUSION IMPLICIT MODELS.pdf",
     "99_attachment/Pasted image 20241105110949.png",
-    "99_attachment/Pasted image 20241105110944.png",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas",
     "未命名.canvas"
