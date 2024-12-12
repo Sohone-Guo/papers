@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_工具手册/docker环境.md",
+                "file": "02_已看论文/(2024) Navigation World Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker环境"
+              "title": "(2024) Navigation World Models"
             }
           }
         ],
@@ -55,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 481.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/docker环境.md",
+                "file": "02_已看论文/(2024) Navigation World Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "docker环境 的反向链接列表"
+              "title": "(2024) Navigation World Models 的反向链接列表"
             }
           },
           {
@@ -201,6 +201,8 @@
   "active": "57f50d877b4869fa",
   "lastOpenFiles": [
     "02_已看论文/(2024) Reasoning with REinforced Fine-Tuning.md",
+    "02_已看论文/(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
+    "90_工具手册/docker环境.md",
     "99_attachment/Pasted image 20241211111754.png",
     "99_attachment/{256180CF-A93B-421A-9E82-68B0EDE06593}.png",
     "99_attachment/2024.Reasoning with REinforced Fine-Tuning.pdf",
@@ -209,7 +211,6 @@
     "10_Tutorial/(Tutorial) Concept Learning with Energy-Based Models (Paper Explained).md",
     "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
     "99_attachment/Pasted image 20241210154438.png",
-    "90_工具手册/docker环境.md",
     "90_工具手册/Docx操作.md",
     "90_工具手册/FLOPs.md",
     "90_工具手册/GIT.md",
