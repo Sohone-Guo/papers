@@ -11,17 +11,14 @@
             "id": "432f4a02c86aad4d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "00_调研整理/100_语义通信技术/总纲.canvas",
-                "viewState": {
-                  "x": 64.67017275756791,
-                  "y": 284.9376662773812,
-                  "zoom": -1.3876089905026594
-                }
+                "file": "02_已看论文/(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "总纲"
+              "icon": "lucide-file",
+              "title": "(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport"
             }
           }
         ]
@@ -106,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_调研整理/100_语义通信技术/总纲.canvas",
+                "file": "02_已看论文/(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "总纲 的反向链接列表"
+              "title": "(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport 的反向链接列表"
             }
           },
           {
@@ -188,11 +185,11 @@
   },
   "active": "432f4a02c86aad4d",
   "lastOpenFiles": [
+    "00_调研整理/100_语义通信技术/总纲.canvas",
     "10_Tutorial/(Tutorial) Concept Learning with Energy-Based Models (Paper Explained).md",
     "10_Tutorial/(Tutorial) Score-Based Generative Modeling.md",
     "02_已看论文/(2024) Navigation World Models.md",
     "02_已看论文/(2024) Reasoning with REinforced Fine-Tuning.md",
-    "00_调研整理/100_语义通信技术/总纲.canvas",
     "00_调研整理/100_语义通信技术/技术整理/文本数据.md",
     "00_调研整理/100_语义通信技术/技术整理",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
