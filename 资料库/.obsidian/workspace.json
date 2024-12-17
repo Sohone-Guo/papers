@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "432f4a02c86aad4d",
+            "id": "38e57cbacda4ccac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport.md",
-                "mode": "preview",
+                "file": "(2024) MOC-RVQ, Multilevel COdebook-Assisted Digital Generative Semantic Communication.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport"
+              "title": "(2024) MOC-RVQ, Multilevel COdebook-Assisted Digital Generative Semantic Communication"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport.md",
+                "file": "(2024) MOC-RVQ, Multilevel COdebook-Assisted Digital Generative Semantic Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport 的反向链接列表"
+              "title": "(2024) MOC-RVQ, Multilevel COdebook-Assisted Digital Generative Semantic Communication 的反向链接列表"
             }
           },
           {
@@ -183,8 +183,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "432f4a02c86aad4d",
+  "active": "38e57cbacda4ccac",
   "lastOpenFiles": [
+    "99_attachment/2401.01272v2.pdf",
+    "02_已看论文/(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport.md",
+    "(2024) MOC-RVQ, Multilevel COdebook-Assisted Digital Generative Semantic Communication.md",
     "00_调研整理/100_语义通信技术/总纲.canvas",
     "10_Tutorial/(Tutorial) Concept Learning with Energy-Based Models (Paper Explained).md",
     "10_Tutorial/(Tutorial) Score-Based Generative Modeling.md",
@@ -218,8 +221,6 @@
     "02_已看论文/(2023) FLOW MATCHING FOR GENERATIVE MODELING 1.md",
     "02_已看论文/(2023) Scalable Diffusion Models with Transformers.md",
     "10_Tutorial/(Tutorial) The KL Divergence.md",
-    "02_已看论文/(2024) Scalable MatMul-free Language Modeling.md",
-    "02_已看论文/(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport.md",
     "99_attachment/Pasted image 20241203172043.png",
     "99_attachment/Pasted image 20241203170223.png",
     "99_attachment/Pasted image 20241203165724.png",
