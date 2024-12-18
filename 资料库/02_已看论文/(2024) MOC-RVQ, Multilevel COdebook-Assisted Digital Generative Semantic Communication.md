@@ -11,7 +11,7 @@ Tags: #Tag_语义通信
 论文提出一个技术，
 1、让码本更范围和星座图更匹配的方式。
 2、也考虑量化后的特征与量化前的特征的残差信息进行传递。
-
+![[Pasted image 20241218135930.png]]
 # Question
 ---
 - Multilevel codebook

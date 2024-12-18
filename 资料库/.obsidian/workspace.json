@@ -183,8 +183,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "38e57cbacda4ccac",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20241218135930.png",
     "99_attachment/2401.01272v2.pdf",
     "02_已看论文/(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport.md",
     "02_已看论文/(2024) MOC-RVQ, Multilevel COdebook-Assisted Digital Generative Semantic Communication.md",
@@ -232,7 +233,6 @@
     "99_attachment/Pasted image 20241107121818.png",
     "99_attachment/2024.Promptus Can Prompts Streaming Replace Video Streaming with Stable Diffusion.pdf",
     "99_attachment/FLOW MATCHING FOR GENERATIVE MODELING 1.pdf",
-    "99_attachment/2024.A Survey on Generative Diffusion Models.pdf",
     "99_attachment/Pasted image 20241105110949.png",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas"
   ]
