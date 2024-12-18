@@ -12,7 +12,7 @@ Tags: #Tag_语义通信
 
 # Question
 ---
-
+- Multilevel codebook
 
 # Reference
 ---
