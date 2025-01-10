@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5555854313216f26",
+        "id": "54493ee22bace86d",
         "type": "tabs",
         "children": [
           {
-            "id": "38e57cbacda4ccac",
+            "id": "bc4d624d6bf39ed4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2024) MOC-RVQ, Multilevel COdebook-Assisted Digital Generative Semantic Communication.md",
-                "mode": "source",
+                "file": "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(2024) MOC-RVQ, Multilevel COdebook-Assisted Digital Generative Semantic Communication"
-            }
-          },
-          {
-            "id": "cf7543cf93dd65e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(2023) 3D-LLM, Injecting the 3D World into Large Language Models"
+              "title": "(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
+                "file": "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "(2023) 3D-LLM, Injecting the 3D World into Large Language Models 的反向链接列表"
+              "title": "(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning 的反向链接列表"
             }
           },
           {
@@ -198,46 +183,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf7543cf93dd65e8",
+  "active": "bc4d624d6bf39ed4",
   "lastOpenFiles": [
+    "02_已看论文/(2022) Symbolic Knowledge Distillation, from General Language MOdels to Commonsense Models.md",
+    "02_已看论文/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
     "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
+    "02_已看论文/(2023) ⭐Advances and Challenges in Semantic Communications A Systematic Review.md",
+    "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
+    "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
+    "02_已看论文/(2023) Scalable Diffusion Models with Transformers.md",
+    "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
+    "02_已看论文/(2023) Wireless Semantic Communications for Video Conferencing.md",
+    "02_已看论文/(2023) Deep Joint Source-Channel Coding for CSI Feedback An End-to-End Approach.md",
+    "02_已看论文/(2020) CNN-BASED ANALOG CSI FEEDBACK IN FDD MIMO-OFDM SYSTEMS.md",
+    "02_已看论文/(2024) MOC-RVQ, Multilevel COdebook-Assisted Digital Generative Semantic Communication.md",
+    "02_已看论文/(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
     "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
     "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
     "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md",
     "02_已看论文/(2023) LLMZip, Lossless Text Compression Using Large Language Models.md",
     "02_已看论文/(2023) Role Play with Large Language Models.md",
     "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
-    "02_已看论文/(2023) Deep Joint Source-Channel Coding for CSI Feedback An End-to-End Approach.md",
     "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md",
     "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
     "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
     "02_已看论文/(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
     "02_已看论文/(2024) Promptus, Can Prompts Streaming Replace Video Streaming with Stable Diffusion.md",
     "02_已看论文/(2024) Scaling In-The-Wild Training For Diffusion-based Illumination Harmonization And Editing By Imposing Consistent Light Transport.md",
-    "02_已看论文/(2024) MOC-RVQ, Multilevel COdebook-Assisted Digital Generative Semantic Communication.md",
     "(2024) Codebook-enabled Generative End-to-end Semantic Communication Powered by Transformer.md",
-    "未命名.md",
     "未命名.canvas",
     "99_attachment/02_2024.Codebook-enabled Generative End-to-end Semantic Communication Powered by Transformer.pdf",
     "99_attachment/Pasted image 20241218135930.png",
     "99_attachment/2401.01272v2.pdf",
     "00_调研整理/100_语义通信技术/总纲.canvas",
-    "10_Tutorial/(Tutorial) Concept Learning with Energy-Based Models (Paper Explained).md",
-    "10_Tutorial/(Tutorial) Score-Based Generative Modeling.md",
-    "02_已看论文/(2024) Navigation World Models.md",
-    "02_已看论文/(2024) Reasoning with REinforced Fine-Tuning.md",
-    "00_调研整理/100_语义通信技术/技术整理/文本数据.md",
     "00_调研整理/100_语义通信技术/技术整理",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
-    "00_调研整理/100_语义通信技术/CSI反馈.md",
-    "02_已看论文/(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
-    "90_工具手册/docker环境.md",
     "99_attachment/Pasted image 20241211111754.png",
     "99_attachment/{256180CF-A93B-421A-9E82-68B0EDE06593}.png",
     "99_attachment/2024.Reasoning with REinforced Fine-Tuning.pdf",
     "99_attachment/A Tutorial on Energy-Based Learning.pdf",
-    "00_调研整理/001_合成数据技术/调研整理/Normalizing Flows.md",
     "99_attachment/Pasted image 20241210154438.png",
     "99_attachment/2024.Navigation World Models.pdf",
     "99_attachment/Pasted image 20241203172043.png",
