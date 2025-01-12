@@ -39,6 +39,12 @@ Tags: #Tag_CPS平台
 [[(2021) Cellular Network Radio Propagation Modeling with Deep Convolutional Neural Networks]]
 - 机构：华为
 - 数据：用了很多特征，Clutter, Terrain, Building, Azimuth, Antenna height等
+[[(2021) FadeNet, Deep learning-based mm-wave largescale channel fading prediction and its applications ]]
+- 机构：三星
+- 数据：用了很多特征，
+- 数据增广：通过射频模拟以及图片级别的旋转等做数据增广。
+[[(2021) Transformer based Radio Map Prediction Model for Dense Urban Environments]]
+- 模型：引入Transformer
 # Question
 ---
 
