@@ -25,8 +25,14 @@ Tags: #Tag_CPS平台
 	- 泛用性差
 	- 性能较差
 [[(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks]]
+- 数据量（发射器位置和建筑物轮廓可以用黑白图像作为输入特征进行描述。）
+	- 56,000 个模拟无线电图，涉及不同的城市位置和不同的发射器位置。
+	- 1400 个高精度模拟数据集。
 - 输入：
-	- 
+	- 城市地图(即城市环境的几何结构)
+	- 发射器位置
+- 问题：
+	- 解决泛用性问题
 
 # Question
 ---

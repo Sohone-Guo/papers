@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks.md",
+                "file": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks"
+              "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge"
             }
           }
         ],
@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 324.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks.md",
+                "file": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks 的反向链接列表"
+              "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge 的反向链接列表"
             }
           },
           {
@@ -200,9 +200,9 @@
   },
   "active": "1364cba07efb244e",
   "lastOpenFiles": [
+    "02_已看论文/(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks.md",
     "99_attachment/2021_RadioUNet_Fast_Radio_Map_Estimation_With_Convolutional_Neural_Networks.pdf",
     "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
-    "(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks.md",
     "02_已看论文/(2019) Two-step path loss prediction by artificial neural network for wireless service area planning.md",
     "99_attachment/2019_Two-step path loss prediction by artificial neural network for wireless service area planning.pdf",
     "02_已看论文/(2019) Radio propagation prediction model using convolutional neural networks by deep learning.md",
@@ -243,7 +243,6 @@
     "99_attachment/2024.Reasoning with REinforced Fine-Tuning.pdf",
     "99_attachment/A Tutorial on Energy-Based Learning.pdf",
     "99_attachment/Pasted image 20241210154438.png",
-    "99_attachment/2024.Navigation World Models.pdf",
     "99_attachment/Pasted image 20241203172043.png",
     "99_attachment/Pasted image 20241203170223.png",
     "99_attachment/Pasted image 20241203165724.png",
