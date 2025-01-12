@@ -31,9 +31,14 @@ Tags: #Tag_CPS平台
 - 输入：
 	- 城市地图(即城市环境的几何结构)
 	- 发射器位置
+- 模型：（两套CNN模型）
+	- 第一套学习56,000 个模拟无线电图
+	- 第二套学习1400 个高精度模拟数据集（基于第一套学习的预测结果）
 - 问题：
 	- 解决泛用性问题
-
+[[(2021) Cellular Network Radio Propagation Modeling with Deep Convolutional Neural Networks]]
+- 机构：华为
+- 数据：用了很多特征，Clutter, Terrain, Building, Azimuth, Antenna height等
 # Question
 ---
 

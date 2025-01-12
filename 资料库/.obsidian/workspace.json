@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge"
             }
+          },
+          {
+            "id": "0d782133df19ed38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,11 +212,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1364cba07efb244e",
+  "active": "0d782133df19ed38",
   "lastOpenFiles": [
+    "02_已看论文/(2021) Cellular Network Radio Propagation Modeling with Deep Convolutional Neural Networks.md",
+    "99_attachment/2020_Cellular network radio propagation modeling with deep convolutional neural networks.pdf",
+    "99_attachment/Pasted image 20250112180020.png",
+    "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
     "02_已看论文/(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks.md",
     "99_attachment/2021_RadioUNet_Fast_Radio_Map_Estimation_With_Convolutional_Neural_Networks.pdf",
-    "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
     "02_已看论文/(2019) Two-step path loss prediction by artificial neural network for wireless service area planning.md",
     "99_attachment/2019_Two-step path loss prediction by artificial neural network for wireless service area planning.pdf",
     "02_已看论文/(2019) Radio propagation prediction model using convolutional neural networks by deep learning.md",
@@ -229,7 +246,6 @@
     "02_已看论文/(2023) Role Play with Large Language Models.md",
     "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
     "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md",
-    "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
     "未命名.canvas",
     "99_attachment/02_2024.Codebook-enabled Generative End-to-end Semantic Communication Powered by Transformer.pdf",
     "99_attachment/Pasted image 20241218135930.png",
@@ -241,14 +257,12 @@
     "99_attachment/Pasted image 20241211111754.png",
     "99_attachment/{256180CF-A93B-421A-9E82-68B0EDE06593}.png",
     "99_attachment/2024.Reasoning with REinforced Fine-Tuning.pdf",
-    "99_attachment/A Tutorial on Energy-Based Learning.pdf",
     "99_attachment/Pasted image 20241210154438.png",
     "99_attachment/Pasted image 20241203172043.png",
     "99_attachment/Pasted image 20241203170223.png",
     "99_attachment/Pasted image 20241203165724.png",
     "99_attachment/Pasted image 20241114124612.png",
     "99_attachment/Pasted image 20241107123008.png",
-    "99_attachment/Pasted image 20241107121818.png",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas"
   ]
 }
