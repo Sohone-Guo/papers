@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
+                "file": "(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge"
+              "title": "(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks"
             }
           }
         ],
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
+                "file": "(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge 的反向链接列表"
+              "title": "(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks 的反向链接列表"
             }
           },
           {
@@ -200,10 +200,14 @@
   },
   "active": "1364cba07efb244e",
   "lastOpenFiles": [
+    "99_attachment/2021_RadioUNet_Fast_Radio_Map_Estimation_With_Convolutional_Neural_Networks.pdf",
+    "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
+    "(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks.md",
+    "02_已看论文/(2019) Two-step path loss prediction by artificial neural network for wireless service area planning.md",
+    "99_attachment/2019_Two-step path loss prediction by artificial neural network for wireless service area planning.pdf",
     "02_已看论文/(2019) Radio propagation prediction model using convolutional neural networks by deep learning.md",
     "99_attachment/2019_NTTDOCOMO_Radio_Propagation_Prediction_Model_Using_Convolutional_Neural_Networks_by_Deep_Learning.pdf",
     "99_attachment/AP2018-89(CNNを用いた深層学習による電波伝搬推定の一検討).pdf",
-    "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
     "99_attachment/19_重要_Overview_of_the_First_Pathloss_Radio_Map_Prediction_Challenge.pdf",
     "02_已看论文/(2023) ⭐Scaling Autoregressive Multi-Modal Models, Pretraining and Instruction Tuning.md",
     "02_已看论文/(2022) Symbolic Knowledge Distillation, from General Language MOdels to Commonsense Models.md",
@@ -226,8 +230,6 @@
     "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
     "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md",
     "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
-    "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
-    "02_已看论文/(2023) Counterfactual Active Learning for Out-of-Distribution Generalization.md",
     "未命名.canvas",
     "99_attachment/02_2024.Codebook-enabled Generative End-to-end Semantic Communication Powered by Transformer.pdf",
     "99_attachment/Pasted image 20241218135930.png",
@@ -245,7 +247,6 @@
     "99_attachment/Pasted image 20241203172043.png",
     "99_attachment/Pasted image 20241203170223.png",
     "99_attachment/Pasted image 20241203165724.png",
-    "99_attachment/3821_Scaling_In_the_Wild_Train.pdf",
     "99_attachment/Pasted image 20241114124612.png",
     "99_attachment/Pasted image 20241107123008.png",
     "99_attachment/Pasted image 20241107121818.png",
