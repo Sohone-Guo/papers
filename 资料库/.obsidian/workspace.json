@@ -4,81 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "54493ee22bace86d",
+        "id": "a157243593352dab",
         "type": "tabs",
         "children": [
           {
-            "id": "59980ced41a98e24",
+            "id": "6c5dd3b542e5b4fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge"
-            }
-          },
-          {
-            "id": "1364cba07efb244e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge"
-            }
-          },
-          {
-            "id": "0d782133df19ed38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge"
-            }
-          },
-          {
-            "id": "ec706f616b1843cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge"
-            }
-          },
-          {
-            "id": "6956c3f32a98610d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -240,21 +178,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "6c5dd3b542e5b4fa",
   "lastOpenFiles": [
+    "02_已看论文/(2019) Radio propagation prediction model using convolutional neural networks by deep learning.md",
+    "02_已看论文/(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks.md",
     "02_已看论文/(2021) Transformer based Radio Map Prediction Model for Dense Urban Environments.md",
-    "99_attachment/2021_Transformer_based_Radio_Map_Prediction_Model_for_Dense_Urban_Environments.pdf",
     "02_已看论文/(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
     "02_已看论文/(2021) FadeNet, Deep learning-based mm-wave largescale channel fading prediction and its applications.md",
-    "99_attachment/2020_FadeNet_Deep_Learning-Based_mm-Wave_Large-Scale_Channel_Fading_Prediction_and_its_Applications.pdf",
     "02_已看论文/(2021) Cellular Network Radio Propagation Modeling with Deep Convolutional Neural Networks.md",
+    "99_attachment/2021_Transformer_based_Radio_Map_Prediction_Model_for_Dense_Urban_Environments.pdf",
+    "99_attachment/2020_FadeNet_Deep_Learning-Based_mm-Wave_Large-Scale_Channel_Fading_Prediction_and_its_Applications.pdf",
     "99_attachment/2020_Cellular network radio propagation modeling with deep convolutional neural networks.pdf",
     "99_attachment/Pasted image 20250112180020.png",
-    "02_已看论文/(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks.md",
     "99_attachment/2021_RadioUNet_Fast_Radio_Map_Estimation_With_Convolutional_Neural_Networks.pdf",
     "02_已看论文/(2019) Two-step path loss prediction by artificial neural network for wireless service area planning.md",
     "99_attachment/2019_Two-step path loss prediction by artificial neural network for wireless service area planning.pdf",
-    "02_已看论文/(2019) Radio propagation prediction model using convolutional neural networks by deep learning.md",
     "99_attachment/2019_NTTDOCOMO_Radio_Propagation_Prediction_Model_Using_Convolutional_Neural_Networks_by_Deep_Learning.pdf",
     "99_attachment/AP2018-89(CNNを用いた深層学習による電波伝搬推定の一検討).pdf",
     "99_attachment/19_重要_Overview_of_the_First_Pathloss_Radio_Map_Prediction_Challenge.pdf",
