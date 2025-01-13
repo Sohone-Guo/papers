@@ -11,10 +11,14 @@
             "id": "6c5dd3b542e5b4fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_已看论文/(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge"
             }
           }
         ]
@@ -99,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_已看论文/(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge 的反向链接列表"
             }
           },
           {
@@ -180,12 +185,13 @@
   },
   "active": "6c5dd3b542e5b4fa",
   "lastOpenFiles": [
+    "02_已看论文/(2021) Cellular Network Radio Propagation Modeling with Deep Convolutional Neural Networks.md",
+    "02_已看论文/(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
+    "02_已看论文/(2021) FadeNet, Deep learning-based mm-wave largescale channel fading prediction and its applications.md",
+    "(2024) Codebook-enabled Generative End-to-end Semantic Communication Powered by Transformer.md",
     "02_已看论文/(2019) Radio propagation prediction model using convolutional neural networks by deep learning.md",
     "02_已看论文/(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks.md",
     "02_已看论文/(2021) Transformer based Radio Map Prediction Model for Dense Urban Environments.md",
-    "02_已看论文/(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
-    "02_已看论文/(2021) FadeNet, Deep learning-based mm-wave largescale channel fading prediction and its applications.md",
-    "02_已看论文/(2021) Cellular Network Radio Propagation Modeling with Deep Convolutional Neural Networks.md",
     "99_attachment/2021_Transformer_based_Radio_Map_Prediction_Model_for_Dense_Urban_Environments.pdf",
     "99_attachment/2020_FadeNet_Deep_Learning-Based_mm-Wave_Large-Scale_Channel_Fading_Prediction_and_its_Applications.pdf",
     "99_attachment/2020_Cellular network radio propagation modeling with deep convolutional neural networks.pdf",
