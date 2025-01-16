@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
+                "file": "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge"
+              "title": "(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models"
             }
           }
         ]
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 457.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
+                "file": "02_已看论文/(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge 的反向链接列表"
+              "title": "(2023) Sequential Modeling Enables Scalable Learning for Large Vision Models 的反向链接列表"
             }
           },
           {
@@ -185,8 +185,21 @@
   },
   "active": "6c5dd3b542e5b4fa",
   "lastOpenFiles": [
-    "02_已看论文/(2021) Cellular Network Radio Propagation Modeling with Deep Convolutional Neural Networks.md",
+    "02_已看论文/(2023) Scalable Diffusion Models with Transformers.md",
+    "02_已看论文/(2023) FrugalGPT, How to Use Large Language Models While Reducing Cost and Improving Performance.md",
+    "02_已看论文/(2023) UL2, Unifying Language Learning Paradigms.md",
+    "02_已看论文/(2023) SODA, Million-scale Dialogue Distillation with Social Commonsense Contextualization.md",
+    "02_已看论文/(2023) Visual ChatGPT, Talking, Drawing and Editing with Visual Foundation Models.md",
+    "02_已看论文/(2024) TSpec-LLM An Open-source Dataset for LLM Understanding of 3GPP Specifications.md",
+    "02_已看论文/(2023) API-Bank, A Benchmark for Tool-Augmented LLMs.md",
+    "02_已看论文/(2023) A Survey of Large Language Model.md",
+    "02_已看论文/(2023) Inference with Reference Lossless Acceleration of Large Language Models.md",
+    "02_已看论文/(2023) ⭐Wireless Semantic Transmission via Revising Modules in Conventional Communications.md",
+    "02_已看论文/(2024) Beyond A Better Planning with Transformers via Search Dynamics Bootstrapping.md",
+    "02_已看论文/(2022) STaR, Self-Taought Reasoner Bootstrapping Reasoning With Reasoning.md",
+    "02_已看论文/(2023) Semantic Communication System Based on Semantic Slice Models Propagation.md",
     "02_已看论文/(2024) ⭐Overview of the First Pathloss Radio Map Prediction Challenge.md",
+    "02_已看论文/(2021) Cellular Network Radio Propagation Modeling with Deep Convolutional Neural Networks.md",
     "02_已看论文/(2021) FadeNet, Deep learning-based mm-wave largescale channel fading prediction and its applications.md",
     "(2024) Codebook-enabled Generative End-to-end Semantic Communication Powered by Transformer.md",
     "02_已看论文/(2019) Radio propagation prediction model using convolutional neural networks by deep learning.md",
@@ -207,19 +220,6 @@
     "02_已看论文/(2023) LLaMA, Open and Efficient Foundation Language Models.md",
     "02_已看论文/(2023) ⭐Advances and Challenges in Semantic Communications A Systematic Review.md",
     "02_已看论文/(2023) Reliable Video Narrator via Equal Distance to Visual Tokens.md",
-    "02_已看论文/(2023) Mamba, Linear-Time Sequence Modeling with Selective State Spaces.md",
-    "02_已看论文/(2023) Scalable Diffusion Models with Transformers.md",
-    "02_已看论文/(2024) An Embarrassingly Simple Approach for LLM with Strong ASR Capacity.md",
-    "02_已看论文/(2023) Wireless Semantic Communications for Video Conferencing.md",
-    "02_已看论文/(2023) Deep Joint Source-Channel Coding for CSI Feedback An End-to-End Approach.md",
-    "02_已看论文/(2020) CNN-BASED ANALOG CSI FEEDBACK IN FDD MIMO-OFDM SYSTEMS.md",
-    "02_已看论文/(2024) MOC-RVQ, Multilevel COdebook-Assisted Digital Generative Semantic Communication.md",
-    "02_已看论文/(2023) 3D-LLM, Injecting the 3D World into Large Language Models.md",
-    "02_已看论文/(2023) ⭐LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY.md",
-    "02_已看论文/(2023) ⭐Are Emergent Abilities of Large Language Models a Mirage.md",
-    "02_已看论文/(2023) From Pretraining Data to Lanuage Models to Downstream Tasks, Tracking the Trails of Political Biases Leading to Unfaire NLP Models.md",
-    "02_已看论文/(2023) LLMZip, Lossless Text Compression Using Large Language Models.md",
-    "02_已看论文/(2023) Role Play with Large Language Models.md",
     "未命名.canvas",
     "99_attachment/02_2024.Codebook-enabled Generative End-to-end Semantic Communication Powered by Transformer.pdf",
     "99_attachment/Pasted image 20241218135930.png",
