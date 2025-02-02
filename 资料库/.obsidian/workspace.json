@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "887e53dae73f8a4a",
+        "id": "ce0859bffa3b12da",
         "type": "tabs",
         "children": [
           {
-            "id": "587a5b6736c3db09",
+            "id": "b18a321153f2ca9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2024) DeepSeekMath, Pushing the Limits of Mathematical Reasoning in Open Language Models.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(2024) DeepSeekMath, Pushing the Limits of Mathematical Reasoning in Open Language Models"
+              "title": "新标签页"
             }
           }
         ]
@@ -103,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2024) DeepSeekMath, Pushing the Limits of Mathematical Reasoning in Open Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "(2024) DeepSeekMath, Pushing the Limits of Mathematical Reasoning in Open Language Models 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -183,11 +178,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "587a5b6736c3db09",
+  "active": "b18a321153f2ca9e",
   "lastOpenFiles": [
-    "99_attachment/02_DeepSeekMath.pdf",
-    "(2024) DeepSeek LLM Scaling Open-Source Language Models with Longtermism.md",
     "(2024) DeepSeekMath, Pushing the Limits of Mathematical Reasoning in Open Language Models.md",
+    "(2024) DeepSeek LLM Scaling Open-Source Language Models with Longtermism.md",
+    "99_attachment/02_DeepSeekMath.pdf",
     "99_attachment/Pasted image 20250202201618.png",
     "99_attachment/01_DeepSeek_LLM.pdf",
     "02_已看论文/(2024) Codebook-enabled Generative End-to-end Semantic Communication Powered by Transformer.md",
@@ -223,7 +218,6 @@
     "99_attachment/AP2018-89(CNNを用いた深層学習による電波伝搬推定の一検討).pdf",
     "99_attachment/19_重要_Overview_of_the_First_Pathloss_Radio_Map_Prediction_Challenge.pdf",
     "未命名.canvas",
-    "99_attachment/02_2024.Codebook-enabled Generative End-to-end Semantic Communication Powered by Transformer.pdf",
     "99_attachment/Pasted image 20241218135930.png",
     "00_调研整理/100_语义通信技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",

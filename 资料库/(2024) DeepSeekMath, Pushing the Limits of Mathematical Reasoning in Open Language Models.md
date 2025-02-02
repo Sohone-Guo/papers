@@ -5,8 +5,8 @@ Tags: #Tag_基础理论
 
 # Mainly Idea
 ---
-
-
+1、PPO to GRPO
+2、数据集
 # Question
 ---
 
