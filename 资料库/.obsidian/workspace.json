@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "83eb746c4c1b729d",
+        "id": "81ffc33fe85c9dec",
         "type": "tabs",
         "children": [
           {
-            "id": "c4e030e3fe1431ab",
+            "id": "eb6bbc87218b2dcf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2025) DeepSeek-R1, Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(2025) DeepSeek-R1, Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+              "title": "新标签页"
             }
           }
         ]
@@ -104,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2025) DeepSeek-R1, Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.md",
+                "file": "02_已看论文/(2025) DeepSeek-R1, Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,13 +180,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c4e030e3fe1431ab",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20250203121025.png",
     "99_attachment/07_DeepSeek-R1（重点看）.pdf",
-    "(2025) DeepSeek-R1, Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.md",
-    "(2024) DeepSeek-VL, Towards Real-World Vision-Language Understanding.md",
-    "(2024) DeepSeekMath, Pushing the Limits of Mathematical Reasoning in Open Language Models.md",
-    "(2024) DeepSeek LLM Scaling Open-Source Language Models with Longtermism.md",
+    "02_已看论文/(2025) DeepSeek-R1, Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.md",
+    "02_已看论文/(2024) DeepSeek-VL, Towards Real-World Vision-Language Understanding.md",
+    "02_已看论文/(2024) DeepSeekMath, Pushing the Limits of Mathematical Reasoning in Open Language Models.md",
+    "02_已看论文/(2024) DeepSeek LLM Scaling Open-Source Language Models with Longtermism.md",
     "99_attachment/Pasted image 20250202232204.png",
     "99_attachment/03_DeepSeek-VL.pdf",
     "99_attachment/02_DeepSeekMath.pdf",
@@ -224,7 +221,6 @@
     "99_attachment/2021_RadioUNet_Fast_Radio_Map_Estimation_With_Convolutional_Neural_Networks.pdf",
     "99_attachment/2019_Two-step path loss prediction by artificial neural network for wireless service area planning.pdf",
     "99_attachment/2019_NTTDOCOMO_Radio_Propagation_Prediction_Model_Using_Convolutional_Neural_Networks_by_Deep_Learning.pdf",
-    "99_attachment/AP2018-89(CNNを用いた深層学習による電波伝搬推定の一検討).pdf",
     "未命名.canvas",
     "99_attachment/Pasted image 20241218135930.png",
     "00_调研整理/100_语义通信技术/总纲.canvas",
