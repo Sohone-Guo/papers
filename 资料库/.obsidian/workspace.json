@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_工具手册/docker环境.md",
+                "file": "90_工具手册/docker.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker环境"
+              "title": "docker"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/docker环境.md",
+                "file": "90_工具手册/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "docker环境 的反向链接列表"
+              "title": "docker 的反向链接列表"
             }
           },
           {
@@ -184,23 +184,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "48fcd09a7721125b",
   "lastOpenFiles": [
+    "90_工具手册/logging.md",
+    "90_工具手册/APA格式.md",
+    "90_工具手册/GPU.md",
+    "90_工具手册/传参数的方法.md",
     "90_工具手册/pytorch.md",
-    "未命名.md",
+    "90_工具手册/ubuntu.md",
+    "90_工具手册/英语易错.md",
+    "90_工具手册/写论文.md",
+    "90_工具手册/GIT.md",
+    "90_工具手册/vscode.md",
+    "90_工具手册/determined ai.md",
+    "90_工具手册/Docx操作.md",
+    "90_工具手册/SSH.md",
     "90_工具手册/Sionna.md",
     "90_工具手册/docker环境.md",
-    "90_工具手册/SSH.md",
+    "未命名.md",
     "02_已看论文/(2024) Mixture of A Million Experts.md",
     "02_已看论文/(2024) Mixtral of Experts.md",
-    "90_工具手册/Docx操作.md",
-    "90_工具手册/determined ai.md",
-    "90_工具手册/vscode.md",
-    "90_工具手册/GIT.md",
-    "90_工具手册/写论文.md",
-    "90_工具手册/英语易错.md",
-    "90_工具手册/传参数的方法.md",
-    "90_工具手册/APA格式.md",
     "99_attachment/Pasted image 20250203121025.png",
     "99_attachment/07_DeepSeek-R1（重点看）.pdf",
     "02_已看论文/(2025) DeepSeek-R1, Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.md",
@@ -216,9 +219,6 @@
     "02_已看论文/(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks.md",
     "02_已看论文/(2019) Two-step path loss prediction by artificial neural network for wireless service area planning.md",
     "02_已看论文/(2019) Radio propagation prediction model using convolutional neural networks by deep learning.md",
-    "02_已看论文/(2024) MOC-RVQ, Multilevel COdebook-Assisted Digital Generative Semantic Communication.md",
-    "02_已看论文/(2024) Reasoning with REinforced Fine-Tuning.md",
-    "02_已看论文/(2024) Navigation World Models.md",
     "99_attachment/2021_Transformer_based_Radio_Map_Prediction_Model_for_Dense_Urban_Environments.pdf",
     "99_attachment/2020_FadeNet_Deep_Learning-Based_mm-Wave_Large-Scale_Channel_Fading_Prediction_and_its_Applications.pdf",
     "99_attachment/2020_Cellular network radio propagation modeling with deep convolutional neural networks.pdf",
