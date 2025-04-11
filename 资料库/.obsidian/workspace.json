@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "10_Tutorial/(Tutorial) Mamba.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -186,6 +186,8 @@
   },
   "active": "48fcd09a7721125b",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20250411161817.png",
+    "99_attachment/mamba (v9).pptx.pdf",
     "90_工具手册/docker.md",
     "90_工具手册/logging.md",
     "90_工具手册/APA格式.md",
@@ -218,14 +220,12 @@
     "99_attachment/01_DeepSeek_LLM.pdf",
     "02_已看论文/(2024) Codebook-enabled Generative End-to-end Semantic Communication Powered by Transformer.md",
     "02_已看论文/(2021) RadioUNet, Fast Radio Map Estimation With Convolutional Neural Networks.md",
-    "02_已看论文/(2019) Two-step path loss prediction by artificial neural network for wireless service area planning.md",
     "99_attachment/2021_Transformer_based_Radio_Map_Prediction_Model_for_Dense_Urban_Environments.pdf",
     "99_attachment/2020_FadeNet_Deep_Learning-Based_mm-Wave_Large-Scale_Channel_Fading_Prediction_and_its_Applications.pdf",
     "99_attachment/2020_Cellular network radio propagation modeling with deep convolutional neural networks.pdf",
     "99_attachment/Pasted image 20250112180020.png",
     "99_attachment/2021_RadioUNet_Fast_Radio_Map_Estimation_With_Convolutional_Neural_Networks.pdf",
     "99_attachment/2019_Two-step path loss prediction by artificial neural network for wireless service area planning.pdf",
-    "99_attachment/2019_NTTDOCOMO_Radio_Propagation_Prediction_Model_Using_Convolutional_Neural_Networks_by_Deep_Learning.pdf",
     "未命名.canvas",
     "99_attachment/Pasted image 20241218135930.png",
     "00_调研整理/100_语义通信技术/总纲.canvas",
