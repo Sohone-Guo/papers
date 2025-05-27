@@ -5,7 +5,9 @@ Tags: #Tag_计算机视觉
 
 # Mainly Idea
 ---
-
+- Bitwise visual tokenizer
+- Bitwise infinite-vocabulary classifier
+- Bitwise self-correction
 
 # Question
 ---
