@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f63fc3540f47934",
+        "id": "af27e8c4b504b4d7",
         "type": "tabs",
         "children": [
           {
-            "id": "bfbe2b45b6c8bc79",
+            "id": "8fea5d76cad5c923",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_工具手册/determined ai.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "determined ai"
+              "title": "新标签页"
             }
           }
         ]
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/determined ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "determined ai 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -184,8 +179,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bfbe2b45b6c8bc79",
+  "active": "8fea5d76cad5c923",
   "lastOpenFiles": [
+    "90_工具手册/determined ai.md",
     "90_工具手册/docker环境.md",
     "90_工具手册/pickle格式.md",
     "10_Tutorial/(Tutorial) Mamba.md",
@@ -202,7 +198,6 @@
     "90_工具手册/写论文.md",
     "90_工具手册/GIT.md",
     "90_工具手册/vscode.md",
-    "90_工具手册/determined ai.md",
     "90_工具手册/Docx操作.md",
     "90_工具手册/SSH.md",
     "90_工具手册/Sionna.md",
