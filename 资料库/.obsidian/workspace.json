@@ -186,10 +186,11 @@
   },
   "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "未命名.md",
+    "02_已看论文/(2024) Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis.md",
     "99_attachment/Pasted image 20250527155609.png",
     "99_attachment/Pasted image 20250527155555.png",
     "99_attachment/2024_infinity.pdf",
-    "02_已看论文/(2024) Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis.md",
     "90_工具手册/determined ai.md",
     "90_工具手册/docker环境.md",
     "90_工具手册/pickle格式.md",
@@ -235,7 +236,6 @@
     "00_调研整理/001_合成数据技术/总纲.canvas",
     "99_attachment/Pasted image 20241211111754.png",
     "99_attachment/{256180CF-A93B-421A-9E82-68B0EDE06593}.png",
-    "99_attachment/Pasted image 20241210154438.png",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas"
   ]
 }
