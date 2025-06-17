@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2025) VGGT Visual Geometry Grounded Transformer.md",
+                "file": "02_已看论文/(2025) VGGT Visual Geometry Grounded Transformer.md",
                 "mode": "source",
                 "source": false
               },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2025) VGGT Visual Geometry Grounded Transformer.md",
+                "file": "02_已看论文/(2025) VGGT Visual Geometry Grounded Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,10 +184,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68f8e625106d0e7f",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
     "99_attachment/2503.11651v1.pdf",
-    "(2025) VGGT Visual Geometry Grounded Transformer.md",
+    "02_已看论文/(2025) VGGT Visual Geometry Grounded Transformer.md",
     "02_已看论文/(2025) DeepSeek-R1, Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.md",
     "02_已看论文/(2025) Cracking Factual Knowledge A Comprehensive Analysis of Degenerate Knowledge Neurons in Large Language Models.md",
     "99_attachment/2402.13731v2.pdf",
