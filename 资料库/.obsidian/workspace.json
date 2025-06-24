@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2f68614db09e8758",
+        "id": "8b9894d88335ba7a",
         "type": "tabs",
         "children": [
           {
-            "id": "e1e22a9f0d88f5d7",
+            "id": "611740d7b5a838ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_已看论文/(2025) Future of Work with AI Agents.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "(2025) Future of Work with AI Agents"
+              "title": "新标签页"
             }
           }
         ]
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2025) Future of Work with AI Agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "(2025) Future of Work with AI Agents 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -184,12 +179,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "611740d7b5a838ea",
   "lastOpenFiles": [
+    "02_已看论文/(2025) Future of Work with AI Agents.md",
     "99_attachment/Pasted image 20250624135336.png",
     "99_attachment/2506.06576v2.pdf",
     "02_已看论文/(2025) Native Sparse Attention Hardware-Aligned and Natively Trainable Sparse Attention.md",
-    "02_已看论文/(2025) Future of Work with AI Agents.md",
     "99_attachment/Pasted image 20250623182746.png",
     "99_attachment/Hardware-Aligned and Natively Trainable Sparse Attention.pdf",
     "90_工具手册/determined ai.md",
@@ -235,7 +230,6 @@
     "00_调研整理/100_语义通信技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
-    "99_attachment/Pasted image 20241211111754.png",
     "00_调研整理/001_合成数据技术/技术整理/可控生成技术.canvas"
   ]
 }
