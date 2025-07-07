@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8b9894d88335ba7a",
+        "id": "cad0a9715d770821",
         "type": "tabs",
         "children": [
           {
-            "id": "72b05db50f2ceb23",
+            "id": "38f009f3828036a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_已看论文/(2025) Semantic-aided Parallel Image Transmission Compatible with Practical System.md",
+                "file": "(2025) Rate Splitting Multiple Access-Enabled Adaptive Panoramic Video Semantic Transmission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(2025) Semantic-aided Parallel Image Transmission Compatible with Practical System"
+              "title": "(2025) Rate Splitting Multiple Access-Enabled Adaptive Panoramic Video Semantic Transmission"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2025) Semantic-aided Parallel Image Transmission Compatible with Practical System.md",
+                "file": "(2025) Rate Splitting Multiple Access-Enabled Adaptive Panoramic Video Semantic Transmission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "(2025) Semantic-aided Parallel Image Transmission Compatible with Practical System 的反向链接列表"
+              "title": "(2025) Rate Splitting Multiple Access-Enabled Adaptive Panoramic Video Semantic Transmission 的反向链接列表"
             }
           },
           {
@@ -184,12 +184,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "38f009f3828036a2",
   "lastOpenFiles": [
+    "99_attachment/Rate_Splitting_Multiple_Access-Enabled_Adaptive_Panoramic_Video_Semantic_Transmission.pdf",
+    "(2025) Rate Splitting Multiple Access-Enabled Adaptive Panoramic Video Semantic Transmission.md",
+    "02_已看论文/(2025) Semantic-aided Parallel Image Transmission Compatible with Practical System.md",
     "99_attachment/Pasted image 20250707105915.png",
     "99_attachment/Semantic-aided_Parallel_Image_Transmission_Compatible_with_Practical_System.pdf",
     "10_Tutorial/(Tutorial) Mamba.md",
-    "02_已看论文/(2025) Semantic-aided Parallel Image Transmission Compatible with Practical System.md",
     "02_已看论文/(2025) Future of Work with AI Agents.md",
     "99_attachment/Pasted image 20250624135336.png",
     "99_attachment/2506.06576v2.pdf",
@@ -223,7 +225,6 @@
     "90_工具手册/vscode.md",
     "90_工具手册/Docx操作.md",
     "90_工具手册/SSH.md",
-    "90_工具手册/Sionna.md",
     "99_attachment/Pasted image 20250203121025.png",
     "99_attachment/07_DeepSeek-R1（重点看）.pdf",
     "99_attachment/Pasted image 20250202232204.png",
@@ -232,7 +233,6 @@
     "99_attachment/Pasted image 20250202201618.png",
     "99_attachment/Pasted image 20250112180020.png",
     "未命名.canvas",
-    "99_attachment/Pasted image 20241218135930.png",
     "00_调研整理/100_语义通信技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
