@@ -5,7 +5,7 @@ Tags: #Tag_语义通信
 
 # Mainly Idea
 ---
-
+![[Pasted image 20250707105915.png]]
 
 # Question
 ---
