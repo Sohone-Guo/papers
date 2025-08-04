@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "beaf26cfd29fcf17",
+        "id": "ae9162df7b181c3a",
         "type": "tabs",
         "children": [
           {
-            "id": "baa7aa807bf3ea4d",
+            "id": "a8b7ed3a81827439",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "神经辐射场加速技术综述.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "神经辐射场加速技术综述"
-            }
-          },
-          {
-            "id": "64ab6ef721243111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +109,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -199,11 +179,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64ab6ef721243111",
+  "active": "a8b7ed3a81827439",
   "lastOpenFiles": [
-    "99_attachment/Generative_AI_Meets_Wireless_Networking_An_Interactive_Paradigm_for_Intent-Driven_Communications.pdf",
     "神经辐射场加速技术综述.md",
     "(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications.md",
+    "99_attachment/Generative_AI_Meets_Wireless_Networking_An_Interactive_Paradigm_for_Intent-Driven_Communications.pdf",
     "02_已看论文/(2025) Rate Splitting Multiple Access-Enabled Adaptive Panoramic Video Semantic Transmission.md",
     "02_已看论文/(2022) Rate-Splitting Multiple Access Fundamentals Survey and Future Research Trends.md",
     "99_attachment/Pasted image 20250707152117.png",
@@ -234,7 +214,6 @@
     "90_工具手册/docker环境.md",
     "90_工具手册/pickle格式.md",
     "99_attachment/Pasted image 20250411161817.png",
-    "99_attachment/mamba (v9).pptx.pdf",
     "90_工具手册/docker.md",
     "90_工具手册/logging.md",
     "90_工具手册/APA格式.md",
