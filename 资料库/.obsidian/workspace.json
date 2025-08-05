@@ -4,20 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "ae9162df7b181c3a",
+        "id": "3f462bbcf3b70831",
         "type": "tabs",
         "children": [
           {
-            "id": "a8b7ed3a81827439",
+            "id": "c82c60a14b696401",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "神经辐射场加速技术综述.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "神经辐射场加速技术综述"
+            }
+          },
+          {
+            "id": "e5d8aac9a61faa93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "神经辐射场加速技术综述.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "神经辐射场加速技术综述"
+            }
+          },
+          {
+            "id": "12a58cc24a620621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "神经辐射场加速技术综述.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "神经辐射场加速技术综述"
+            }
+          },
+          {
+            "id": "9441c28f9fdbb9da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "神经辐射场加速技术综述.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "神经辐射场加速技术综述"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 312.5
   },
   "right": {
     "id": "2d96c24d50c19245",
@@ -100,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "神经辐射场加速技术综述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +157,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "神经辐射场加速技术综述 的反向链接列表"
             }
           },
           {
@@ -179,19 +227,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8b7ed3a81827439",
+  "active": "9441c28f9fdbb9da",
   "lastOpenFiles": [
     "神经辐射场加速技术综述.md",
+    "未命名.canvas",
     "(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications.md",
-    "99_attachment/Generative_AI_Meets_Wireless_Networking_An_Interactive_Paradigm_for_Intent-Driven_Communications.pdf",
+    "02_已看论文/(2021) Transformer based Radio Map Prediction Model for Dense Urban Environments.md",
     "02_已看论文/(2025) Rate Splitting Multiple Access-Enabled Adaptive Panoramic Video Semantic Transmission.md",
+    "02_已看论文/(2018) ⭐Nerual Discrete Representation Learning.md",
+    "02_已看论文/(2017) A Multimodal Anomaly Deterctor for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder.md",
+    "02_已看论文/(2025) VGGT Visual Geometry Grounded Transformer.md",
+    "02_已看论文/(2025) Semantic-aided Parallel Image Transmission Compatible with Practical System.md",
     "02_已看论文/(2022) Rate-Splitting Multiple Access Fundamentals Survey and Future Research Trends.md",
+    "99_attachment/Generative_AI_Meets_Wireless_Networking_An_Interactive_Paradigm_for_Intent-Driven_Communications.pdf",
     "99_attachment/Pasted image 20250707152117.png",
     "02_已看论文/(2023) Model division multiple access for semantic communications.md",
     "99_attachment/(202306) Model division multiple access for semantic communications （MDMA）.pdf",
     "99_attachment/Rate-Splitting_Multiple_Access_Fundamentals_Survey_and_Future_Research_Trends.pdf",
     "99_attachment/Rate_Splitting_Multiple_Access-Enabled_Adaptive_Panoramic_Video_Semantic_Transmission.pdf",
-    "02_已看论文/(2025) Semantic-aided Parallel Image Transmission Compatible with Practical System.md",
     "99_attachment/Pasted image 20250707105915.png",
     "99_attachment/Semantic-aided_Parallel_Image_Transmission_Compatible_with_Practical_System.pdf",
     "10_Tutorial/(Tutorial) Mamba.md",
@@ -203,7 +256,6 @@
     "99_attachment/Hardware-Aligned and Natively Trainable Sparse Attention.pdf",
     "90_工具手册/determined ai.md",
     "99_attachment/2503.11651v1.pdf",
-    "02_已看论文/(2025) VGGT Visual Geometry Grounded Transformer.md",
     "02_已看论文/(2025) DeepSeek-R1, Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.md",
     "02_已看论文/(2025) Cracking Factual Knowledge A Comprehensive Analysis of Degenerate Knowledge Neurons in Large Language Models.md",
     "99_attachment/2402.13731v2.pdf",
@@ -220,13 +272,9 @@
     "90_工具手册/GPU.md",
     "90_工具手册/传参数的方法.md",
     "90_工具手册/pytorch.md",
-    "90_工具手册/ubuntu.md",
-    "90_工具手册/英语易错.md",
-    "90_工具手册/写论文.md",
     "99_attachment/Pasted image 20250203121025.png",
     "99_attachment/Pasted image 20250202232204.png",
     "99_attachment/Pasted image 20250202201618.png",
-    "未命名.canvas",
     "00_调研整理/100_语义通信技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
