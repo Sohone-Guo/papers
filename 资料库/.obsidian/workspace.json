@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "time first",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,7 +228,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9441c28f9fdbb9da",
+  "active": "88e44a922c0882da",
   "lastOpenFiles": [
     "神经辐射场加速技术综述.md",
     "未命名.canvas",
