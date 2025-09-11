@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神经辐射场加速技术综述.md",
+                "file": "90_工具手册/vscode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "神经辐射场加速技术综述"
+              "title": "vscode"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time first",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,8 +127,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神经辐射场加速技术综述.md",
+                "file": "90_工具手册/vscode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "神经辐射场加速技术综述 的反向链接列表"
+              "title": "vscode 的反向链接列表"
             }
           },
           {
@@ -228,7 +227,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88e44a922c0882da",
+  "active": "9441c28f9fdbb9da",
   "lastOpenFiles": [
     "神经辐射场加速技术综述.md",
     "未命名.canvas",
