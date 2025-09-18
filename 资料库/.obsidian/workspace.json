@@ -55,16 +55,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_工具手册/vscode.md",
+                "file": "02_已看论文/(2025) VGGT Visual Geometry Grounded Transformer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vscode"
+              "title": "(2025) VGGT Visual Geometry Grounded Transformer"
+            }
+          },
+          {
+            "id": "1b7be1b3acd5128b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.12"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,8 +125,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -147,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/vscode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +168,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "vscode 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -218,6 +229,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -227,13 +239,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9441c28f9fdbb9da",
+  "active": "1b7be1b3acd5128b",
   "lastOpenFiles": [
+    "02_已看论文/(2025) Rate Splitting Multiple Access-Enabled Adaptive Panoramic Video Semantic Transmission.md",
+    "90_工具手册/vscode.md",
     "神经辐射场加速技术综述.md",
     "未命名.canvas",
     "(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications.md",
     "02_已看论文/(2021) Transformer based Radio Map Prediction Model for Dense Urban Environments.md",
-    "02_已看论文/(2025) Rate Splitting Multiple Access-Enabled Adaptive Panoramic Video Semantic Transmission.md",
     "02_已看论文/(2018) ⭐Nerual Discrete Representation Learning.md",
     "02_已看论文/(2017) A Multimodal Anomaly Deterctor for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder.md",
     "02_已看论文/(2025) VGGT Visual Geometry Grounded Transformer.md",
