@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2025) AI Flow, Perspectives Scenarios and Approaches.md",
+                "file": "02_已看论文/(2025) AI Flow, Perspectives Scenarios and Approaches.md",
                 "mode": "source",
                 "source": false
               },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2025) AI Flow, Perspectives Scenarios and Approaches.md",
+                "file": "02_已看论文/(2025) AI Flow, Perspectives Scenarios and Approaches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,11 +256,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2365d2d3af501d46",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20250926173312.png",
+    "99_attachment/Pasted image 20250926173238.png",
     "99_attachment/AI Flow-中国电信.pdf",
     "(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications.md",
-    "(2025) AI Flow, Perspectives Scenarios and Approaches.md",
+    "02_已看论文/(2025) AI Flow, Perspectives Scenarios and Approaches.md",
     "02_已看论文/(2025) Rate Splitting Multiple Access-Enabled Adaptive Panoramic Video Semantic Transmission.md",
     "90_工具手册/vscode.md",
     "神经辐射场加速技术综述.md",
@@ -294,7 +296,6 @@
     "02_已看论文/(2024) Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis.md",
     "99_attachment/Pasted image 20250527155609.png",
     "99_attachment/Pasted image 20250527155555.png",
-    "99_attachment/2024_infinity.pdf",
     "90_工具手册/docker环境.md",
     "90_工具手册/pickle格式.md",
     "99_attachment/Pasted image 20250411161817.png",
@@ -304,7 +305,6 @@
     "90_工具手册/GPU.md",
     "99_attachment/Pasted image 20250203121025.png",
     "99_attachment/Pasted image 20250202232204.png",
-    "99_attachment/Pasted image 20250202201618.png",
     "00_调研整理/100_语义通信技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
