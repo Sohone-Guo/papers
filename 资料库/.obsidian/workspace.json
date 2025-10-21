@@ -11,10 +11,14 @@
             "id": "8c010cbaaa6519a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "(2025) DeepSeek OCR, Contexts Optical Compression.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "(2025) DeepSeek OCR, Contexts Optical Compression"
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "(2025) DeepSeek OCR, Contexts Optical Compression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "(2025) DeepSeek OCR, Contexts Optical Compression 的反向链接列表"
             }
           },
           {
@@ -180,8 +185,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "8c010cbaaa6519a7",
   "lastOpenFiles": [
+    "99_attachment/DeepSeek_OCR_paper.pdf",
+    "(2025) DeepSeek OCR, Contexts Optical Compression.md",
     "99_attachment/A Survey on Vision Language action models for embedoied ai 2025.pdf",
     "(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications.md",
     "02_已看论文/(2025) A Survey on Vision Language action models for embedoied ai 2025.md",
@@ -218,7 +225,6 @@
     "99_attachment/2503.11651v1.pdf",
     "02_已看论文/(2025) DeepSeek-R1, Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.md",
     "02_已看论文/(2025) Cracking Factual Knowledge A Comprehensive Analysis of Degenerate Knowledge Neurons in Large Language Models.md",
-    "99_attachment/2402.13731v2.pdf",
     "02_已看论文/(2024) Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis.md",
     "99_attachment/Pasted image 20250527155609.png",
     "99_attachment/Pasted image 20250527155555.png",
@@ -227,7 +233,6 @@
     "99_attachment/Pasted image 20250411161817.png",
     "90_工具手册/docker.md",
     "90_工具手册/logging.md",
-    "90_工具手册/APA格式.md",
     "99_attachment/Pasted image 20250203121025.png",
     "00_调研整理/100_语义通信技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
