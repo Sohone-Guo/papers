@@ -11,8 +11,8 @@ Tags: #Tag_计算机视觉
 ---
 - 输入和输出是？
 	- 输入：图片
-	- 输出：文本？
-- Low Activation at High resolutions
+	- 输出：文本
+
 
 # Reference
 ---
