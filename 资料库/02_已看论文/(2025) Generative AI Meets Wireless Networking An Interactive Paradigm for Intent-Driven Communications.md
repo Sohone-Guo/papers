@@ -5,7 +5,8 @@ Tags: #Tag_语义通信
 
 # Mainly Idea
 ---
-
+![[Pasted image 20260105150415.png]]
+就是意图识别用户任务，生成网络配置参数
 
 # Question
 ---

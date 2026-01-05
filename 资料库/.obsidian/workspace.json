@@ -11,12 +11,14 @@
             "id": "b127cb3ea880b479",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "02_已看论文/(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.3"
+              "icon": "lucide-file",
+              "title": "(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications"
             }
           }
         ]
@@ -102,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_已看论文/(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications 的反向链接列表"
             }
           },
           {
@@ -182,9 +185,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b127cb3ea880b479",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
-    "(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications.md",
+    "99_attachment/Pasted image 20260105150415.png",
+    "02_已看论文/(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications.md",
     "(2025) Nested Learning.md",
     "99_attachment/NL.pdf",
     "02_已看论文/(2025) Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving.md",
