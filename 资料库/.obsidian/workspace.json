@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "20c11fdbf7729941",
+        "id": "70b4aa92a870193c",
         "type": "tabs",
         "children": [
           {
-            "id": "75e56daef15fe5e3",
+            "id": "a1edd3f0682ba19d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -100,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2025) Titans, Learning to Memorize at Test Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "(2025) Titans, Learning to Memorize at Test Time 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -181,10 +180,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "a1edd3f0682ba19d",
   "lastOpenFiles": [
-    "99_attachment/2501.00663v1.pdf",
     "02_已看论文/(2025) Titans, Learning to Memorize at Test Time.md",
+    "99_attachment/2501.00663v1.pdf",
     "99_attachment/Pasted image 20260105150415.png",
     "02_已看论文/(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications.md",
     "(2025) Nested Learning.md",
@@ -216,7 +215,6 @@
     "02_已看论文/(2023) Model division multiple access for semantic communications.md",
     "99_attachment/(202306) Model division multiple access for semantic communications （MDMA）.pdf",
     "99_attachment/Rate-Splitting_Multiple_Access_Fundamentals_Survey_and_Future_Research_Trends.pdf",
-    "99_attachment/Rate_Splitting_Multiple_Access-Enabled_Adaptive_Panoramic_Video_Semantic_Transmission.pdf",
     "99_attachment/Pasted image 20250707105915.png",
     "10_Tutorial/(Tutorial) Mamba.md",
     "02_已看论文/(2025) Future of Work with AI Agents.md",
