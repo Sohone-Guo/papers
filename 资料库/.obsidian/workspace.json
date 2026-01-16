@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "70b4aa92a870193c",
+        "id": "9dae79327b30361b",
         "type": "tabs",
         "children": [
           {
-            "id": "a1edd3f0682ba19d",
+            "id": "f5b942b9430f134a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "02_已看论文/(2026) Conditional Memory via Scalable Lookup, A New Axis of Sparsity for Large Language Models.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.11.4"
               },
-              "icon": "lucide-file",
-              "title": "(2026) Conditional Memory via Scalable Lookup, A New Axis of Sparsity for Large Language Models"
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.4"
             }
           }
         ]
@@ -104,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2026) Conditional Memory via Scalable Lookup, A New Axis of Sparsity for Large Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "(2026) Conditional Memory via Scalable Lookup, A New Axis of Sparsity for Large Language Models 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -175,7 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -185,7 +182,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "f5b942b9430f134a",
   "lastOpenFiles": [
     "99_attachment/Engram_paper.pdf",
     "02_已看论文/(2026) Conditional Memory via Scalable Lookup, A New Axis of Sparsity for Large Language Models.md",
