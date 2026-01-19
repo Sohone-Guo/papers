@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(2023) REACT Synerging Reasoning and Acting in Language Models.md",
+                "file": "02_已看论文/(2023) REACT Synerging Reasoning and Acting in Language Models.md",
                 "mode": "source",
                 "source": false
               },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2023) REACT Synerging Reasoning and Acting in Language Models.md",
+                "file": "02_已看论文/(2023) REACT Synerging Reasoning and Acting in Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,11 +212,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f1ce73f98ca1c6f7",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20260119111233.png",
     "99_attachment/REACT.pdf",
     "AI Agent.md",
-    "(2023) REACT Synerging Reasoning and Acting in Language Models.md",
+    "02_已看论文/(2023) REACT Synerging Reasoning and Acting in Language Models.md",
     "99_attachment/Engram_paper.pdf",
     "02_已看论文/(2026) Conditional Memory via Scalable Lookup, A New Axis of Sparsity for Large Language Models.md",
     "02_已看论文/(2025) Titans, Learning to Memorize at Test Time.md",
@@ -250,7 +251,6 @@
     "99_attachment/Generative_AI_Meets_Wireless_Networking_An_Interactive_Paradigm_for_Intent-Driven_Communications.pdf",
     "99_attachment/Pasted image 20250707152117.png",
     "02_已看论文/(2023) Model division multiple access for semantic communications.md",
-    "99_attachment/(202306) Model division multiple access for semantic communications （MDMA）.pdf",
     "99_attachment/Pasted image 20250707105915.png",
     "10_Tutorial/(Tutorial) Mamba.md",
     "02_已看论文/(2025) Future of Work with AI Agents.md",
