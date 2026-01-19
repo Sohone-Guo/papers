@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f933db31e3632d23",
+        "id": "55aab2840caf38d1",
         "type": "tabs",
         "children": [
           {
-            "id": "6a916f87d563f7a3",
+            "id": "b5b116d062162c10",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -100,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_已看论文/(2023) REACT Synerging Reasoning and Acting in Language Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "(2023) REACT Synerging Reasoning and Acting in Language Models 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -181,12 +180,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eab7913bcd019e86",
+  "active": "b5b116d062162c10",
   "lastOpenFiles": [
+    "02_已看论文/(2022) WebGPT.md",
+    "99_attachment/Pasted image 20260119125551.png",
+    "99_attachment/02_2022_WebGPT.pdf",
+    "02_已看论文/(2023) REACT Synerging Reasoning and Acting in Language Models.md",
     "99_attachment/Pasted image 20260119111233.png",
     "99_attachment/REACT.pdf",
     "AI Agent.md",
-    "02_已看论文/(2023) REACT Synerging Reasoning and Acting in Language Models.md",
     "99_attachment/Engram_paper.pdf",
     "02_已看论文/(2026) Conditional Memory via Scalable Lookup, A New Axis of Sparsity for Large Language Models.md",
     "02_已看论文/(2025) Titans, Learning to Memorize at Test Time.md",
@@ -217,7 +219,6 @@
     "02_已看论文/(2025) VGGT Visual Geometry Grounded Transformer.md",
     "02_已看论文/(2025) Semantic-aided Parallel Image Transmission Compatible with Practical System.md",
     "02_已看论文/(2022) Rate-Splitting Multiple Access Fundamentals Survey and Future Research Trends.md",
-    "99_attachment/Generative_AI_Meets_Wireless_Networking_An_Interactive_Paradigm_for_Intent-Driven_Communications.pdf",
     "99_attachment/Pasted image 20250707152117.png",
     "02_已看论文/(2023) Model division multiple access for semantic communications.md",
     "99_attachment/Pasted image 20250707105915.png",
@@ -227,9 +228,6 @@
     "02_已看论文/(2025) Native Sparse Attention Hardware-Aligned and Natively Trainable Sparse Attention.md",
     "99_attachment/Pasted image 20250623182746.png",
     "90_工具手册/determined ai.md",
-    "02_已看论文/(2025) DeepSeek-R1, Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.md",
-    "99_attachment/Pasted image 20250527155609.png",
-    "99_attachment/Pasted image 20250527155555.png",
     "00_调研整理/100_语义通信技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",
