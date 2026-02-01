@@ -44,3 +44,4 @@ docker run -d \
 ### 安装飞书节点
 [n8n-nodes-feishu-lite - npm](https://www.npmjs.com/package/n8n-nodes-feishu-lite)
 
+[API 调试台 - 飞书开放平台](https://open.feishu.cn/api-explorer/cli_a9f47733a8b85bca?apiName=create&from=op_doc&project=im&resource=message&version=v1)
