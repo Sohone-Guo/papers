@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d9dc66b0a69ac1bd",
+        "id": "b046ed192eb80e65",
         "type": "tabs",
         "children": [
           {
-            "id": "cafa1b697cf3fcd7",
+            "id": "c76b809391cb364d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_工具手册/国内镜像.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "国内镜像"
-            }
-          },
-          {
-            "id": "4e9dfb5e04b09eec",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.7"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,8 +180,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e9dfb5e04b09eec",
+  "active": "c76b809391cb364d",
   "lastOpenFiles": [
+    "claude.md",
     "90_工具手册/国内镜像.md",
     "90_工具手册/n8n+飞书.md",
     "90_工具手册/文件夹变动飞书提醒.md",
