@@ -32,37 +32,9 @@
               "icon": "lucide-book-up",
               "title": "版本说明 1.12.4"
             }
-          },
-          {
-            "id": "1908c4d151ab3e6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_工具手册/国内镜像.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "国内镜像"
-            }
-          },
-          {
-            "id": "038ce5b14f49fb31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "(2026) Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Netowrks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(2026) Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Netowrks"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(2026) Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Netowrks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +126,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "(2026) Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Netowrks 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -226,11 +197,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "038ce5b14f49fb31",
+  "active": "8d4f09190feeb4e3",
   "lastOpenFiles": [
-    "99_attachment/2026 Semantic Forwarding and Code-Enhanced Model Division Multiple Access for Satellite-Terrestrial Networks.pdf",
     "90_工具手册/国内镜像.md",
     "(2026) Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Netowrks.md",
+    "99_attachment/Pasted image 20260309232731.png",
+    "99_attachment/2026 Semantic Forwarding and Code-Enhanced Model Division Multiple Access for Satellite-Terrestrial Networks.pdf",
     "90_工具手册/飞书.md",
     "90_工具手册/文件夹变动飞书提醒.md",
     "90_工具手册/claude code.md",
@@ -258,7 +230,6 @@
     "未命名.base",
     "99_attachment/DeepSeek_OCR_paper.pdf",
     "02_已看论文/(2025) DeepSeek OCR, Contexts Optical Compression.md",
-    "99_attachment/A Survey on Vision Language action models for embedoied ai 2025.pdf",
     "02_已看论文/(2025) A Survey on Vision Language action models for embedoied ai 2025.md",
     "02_已看论文/(2025) AI Flow, Perspectives Scenarios and Approaches.md",
     "99_attachment/Pasted image 20250926173312.png",
@@ -274,7 +245,6 @@
     "99_attachment/Pasted image 20250707152117.png",
     "99_attachment/Pasted image 20250707105915.png",
     "99_attachment/Pasted image 20250624135336.png",
-    "99_attachment/Pasted image 20250623182746.png",
     "00_调研整理/100_语义通信技术/总纲.canvas",
     "00_调研整理/001_合成数据技术/技术整理/数据生成技术.canvas",
     "00_调研整理/001_合成数据技术/总纲.canvas",

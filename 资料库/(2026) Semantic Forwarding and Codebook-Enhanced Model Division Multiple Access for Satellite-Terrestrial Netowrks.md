@@ -5,7 +5,7 @@ Tags: #Tag_基础理论
 
 # Mainly Idea
 ---
-
+![[Pasted image 20260309232731.png]]
 
 # Question
 ---
