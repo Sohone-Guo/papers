@@ -46,9 +46,23 @@
               "icon": "lucide-file",
               "title": "国内镜像"
             }
+          },
+          {
+            "id": "038ce5b14f49fb31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(2026) Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Netowrks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(2026) Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Netowrks"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/国内镜像.md",
+                "file": "(2026) Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Netowrks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +155,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "国内镜像 的反向链接列表"
+              "title": "(2026) Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Netowrks 的反向链接列表"
             }
           },
           {
@@ -212,13 +226,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1908c4d151ab3e6a",
+  "active": "038ce5b14f49fb31",
   "lastOpenFiles": [
+    "99_attachment/2026 Semantic Forwarding and Code-Enhanced Model Division Multiple Access for Satellite-Terrestrial Networks.pdf",
+    "90_工具手册/国内镜像.md",
+    "(2026) Semantic Forwarding and Codebook-Enhanced Model Division Multiple Access for Satellite-Terrestrial Netowrks.md",
     "90_工具手册/飞书.md",
     "90_工具手册/文件夹变动飞书提醒.md",
     "90_工具手册/claude code.md",
     "claude.md",
-    "90_工具手册/国内镜像.md",
     "90_工具手册/n8n+飞书.md",
     "99_attachment/folder_monitor.py",
     "AI Agent.md",
@@ -255,8 +271,6 @@
     "02_已看论文/(2018) ⭐Nerual Discrete Representation Learning.md",
     "02_已看论文/(2017) A Multimodal Anomaly Deterctor for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder.md",
     "02_已看论文/(2025) VGGT Visual Geometry Grounded Transformer.md",
-    "02_已看论文/(2025) Semantic-aided Parallel Image Transmission Compatible with Practical System.md",
-    "02_已看论文/(2022) Rate-Splitting Multiple Access Fundamentals Survey and Future Research Trends.md",
     "99_attachment/Pasted image 20250707152117.png",
     "99_attachment/Pasted image 20250707105915.png",
     "99_attachment/Pasted image 20250624135336.png",
