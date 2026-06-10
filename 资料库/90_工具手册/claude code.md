@@ -34,3 +34,7 @@ claude update
 
 ##### Windows 系统
 配置文件基于CC Switch
+
+```bash
+npm install -g @anthropic-ai/claude-code
+```
