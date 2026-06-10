@@ -38,3 +38,40 @@ claude update
 ```bash
 npm install -g @anthropic-ai/claude-code
 ```
+
+
+#### CC Switch API易剩余金额获取
+```json
+({
+  request: {
+    url: "https://api.apiyi.com/api/token/?p=0&pageSize=100",
+    method: "GET",
+    headers: {
+      "Accept": "application/json",
+      "Authorization": "...",
+      "Content-Type": "application/json"
+    }
+  },
+  extractor: function(response) {
+    let remaining = 0;
+    for (let i = 0; i < response.data.length; i++) {
+      if (response.data[i].name === "...") {
+        remaining = response.data[i].remain_quota / 500000;
+        break;
+      }
+    }
+    return {
+      remaining: remaining,
+      unit: "USD"
+    };
+  }
+})
+```
+
+bash
+```bash
+curl --compressed -s 'https://api.apiyi.com/api/token/?p=0&pageSize=100' \
+  -H 'Accept: application/json' \
+  -H 'Authorization: ...' \
+  -H 'Content-Type: application/json' | jq '.data[] | select(.name=="...") | .remain_quota / 500000'
+```
