@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "国内镜像"
             }
+          },
+          {
+            "id": "b9caf373dee48d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Tutorial/可以加速所有語言模型生成速度的神奇外掛 — Speculative Decoding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "可以加速所有語言模型生成速度的神奇外掛 — Speculative Decoding"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_工具手册/国内镜像.md",
+                "file": "10_Tutorial/可以加速所有語言模型生成速度的神奇外掛 — Speculative Decoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "国内镜像 的反向链接列表"
+              "title": "可以加速所有語言模型生成速度的神奇外掛 — Speculative Decoding 的反向链接列表"
             }
           },
           {
@@ -185,12 +200,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fd15c656efe47e3f",
+  "active": "eab7913bcd019e86",
   "lastOpenFiles": [
+    "99_attachment/Pasted image 20260715143315.png",
+    "90_工具手册/国内镜像.md",
+    "10_Tutorial/可以加速所有語言模型生成速度的神奇外掛 — Speculative Decoding.md",
     "90_工具手册/claude code.md",
     "90_工具手册/飞书.md",
     "90_工具手册/n8n+飞书.md",
-    "90_工具手册/国内镜像.md",
     "90_工具手册/docker环境.md",
     "90_工具手册/文件夹变动飞书提醒.md",
     "claude.md",
@@ -224,11 +241,9 @@
     "99_attachment/2501.00663v1.pdf",
     "99_attachment/Pasted image 20260105150415.png",
     "02_已看论文/(2025) Generative AI Meets Wireless Networking An Interactive Paradigm for Intent-Driven Communications.md",
-    "(2025) Nested Learning.md",
     "99_attachment/NL.pdf",
     "99_attachment/Pasted image 20251122181920.png",
     "99_attachment/Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving.pdf",
-    "02_已看论文/(2025) DeepSeek OCR, Contexts Optical Compression.md",
     "99_attachment/Pasted image 20250926173312.png",
     "99_attachment/Pasted image 20250926173238.png",
     "99_attachment/Pasted image 20250707152117.png",
