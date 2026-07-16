@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "df00f60dbfac1f96",
+        "id": "2fab166979f9dd84",
         "type": "tabs",
         "children": [
           {
-            "id": "fd15c656efe47e3f",
+            "id": "9a8443d837e8fc05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_工具手册/国内镜像.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "国内镜像"
-            }
-          },
-          {
-            "id": "b9caf373dee48d1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10_Tutorial/可以加速所有語言模型生成速度的神奇外掛 — Speculative Decoding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "可以加速所有語言模型生成速度的神奇外掛 — Speculative Decoding"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
